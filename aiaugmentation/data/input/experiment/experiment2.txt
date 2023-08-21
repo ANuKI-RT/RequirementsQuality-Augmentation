@@ -1,0 +1,101 @@
+
+While the execution environment is below environments, while the semaphore is a priority inheritance mutex, while the measurement sample is the runtime of exactly one unsatisfied call to rtems_semaphore_obtain which immediately returns, when exactly 100 samples are collected,the below limit kinds shall be below limit conditions.
+The asin and asinf procedures shall return the value of the argument if the argument is ±0.
+The Software Development Environment shall provide a simple means to call the ISO checksum tool in order to produce the .bin  file for a given .mpy file.
+When the rtems_interrupt_entry_initialize directive is called, the handler member of the object referenced by the entry parameter shall be set to the value of the routine.
+The software product shall take the errata 16 (Technical Note on GR712RC Incorrect Annulation of Floating-point Operation on) into account.
+The timecounter component shall implement a directive to install a timecounter.
+When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_ZERO_LENGTH_ARRAY macro is used as element count of an array declaration, and that array declaration is the last member of a struct that is otherwise non-empty ,and that structure is never used as member of another structure or array, the macro shall cause the compiler to layout the structure as if the array had an element count of one but to reduce the total size of the structure by the size of that one array element.
+Basic mathematical Library Test Suite shall allow the user to select one of the configured targets before a test run.
+The log10 and log10f procedures shall return +Inf, if the argument x is +Inf.
+The application configuration option shall define the task stack size for an IDLE task.
+The atan2 and atan2f procedures shall return ±π, if the argument y is ±0 and the argument x is -0.
+The rtems_configuration_get_stack_allocator_avoids_work_space directive shall return the option value configured by CONFIG-URE_TASK_STACK_ALLOCATOR_AVOIDS_WORK_SPACE.
+Test Suite Executable executable size shall not exceed 1024 kB.
+The Application Programming Interface shall contain the application configuration interface.
+The system shall provide a benchmark program to show the static memory usage of a basic application configuration with a call to rtems_task_delete.
+The signbit procedure shall return a non-zero value if and only if the argument x is negative.
+The fabs and fabsf procedures shall return +Inf, if the argument x is ±Inf.
+The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). 
+The application configuration option shall define the stack allocator allocate handler for an IDLE task.
+While the execution environment is below environments, while the measurement sample is the runtime of exactly one successful call to rtems_task_set_scheduler which does not change the scheduler or priority , when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.
+Let T be the seconds value of the CLOCK_REALTIME time point of the timehand which is currently updated, let S be the seconds value of the CLOCK_REALTIME time point of the previous timehand, let D be T minus S, while the NTP handler is not NULL, while D is greater than 200, while the timehand is updated, the NTP handler shall be called exactly two times.
+The system shall have a procedure to terminate the system.
+The ceil and ceilf procedures shall return Not a Number, if the argument x is Not a Number.
+The Basic Library shall not provide error handling with the errnoglobal variable.
+The Basic mathematical Library shall provide float (32 bit floating-point) and double (64 bitfloating-point) versions of the procedures.
+When the code is compiled with the GNU C compiler, the Real-Time Executive for Multiprocessor Systems_RETURN_ADDRESS macro shall evaluate to the code __builtin_return_address( 0 ) .
+The bitwise and of a task mode mask constant and Real-Time Executive for Multiprocessor Systems_ALL_MODE_MASKS shall be equal to the task mode mask constant.
+The bsp_idle_thread() function shall perform an endless loop which sets the processor in to the power-down mode using a write to %asr19 in each iteration.
+The runtime of @ref Real-Time Executive for Multiprocessor SystemsApplication Programming InterfaceClassicEvent directives shall be measured.
+The rtems_configuration_get_stack_allocate_for_idle_hook directive shall return the stack allocator allocate handler used to allocate the task stack of each IDLE task.
+The rtems_configuration_get_maximum_partitions directive shall return the maximum number of objects managed by the @ref Real-Time Executive for Multiprocessor SystemsApplication Programming InterfaceClassicPart that can be concurrently active.
+Let U and V be two tasks with the same home scheduler. Let B be a time point measured by U right before a call to rtems_semaphore_obtain which blocks on the mutex with no timeout. Let E be a time point measured by V right after the first context switch after B. While the execution environment is below environments, while the semaphore is a priority inheritance mutex, while the measurement sample is E−B, when exactly 100 samples arecollected, the below limit kinds shall be below limit conditions.
+The application configuration option shall define the entry point of the Classic Application Programming Interface initialization task.
+The Basic mathematical Library Test Suite shall perform memory usage tests, analyzing the memoryusage of the Basic mathematical Library procedures.
+The Basic mathematical Library Test Suite shall provide loop and Multiple Condition Decision Coverage coverage data obtained while developing the test suite.
+While the BSP_poll_char pointer references a function, while the kernel character input device used by the function has a character enqueued, the function shall dequeue the least recently enqueued character and return it as an unsigned character value.
+The Basic Library shall provide best practices within the Software User Manual to produce Ada wrappers to enable the use of the library from Ada83 and Ada95. 
+The Basic Library shall be compileable with GNU C Compiler version 4.2.1 with Binutils version 2.18. 
+Basic mathematical Library Test Suite shall be expandable, allowing the integration of new mathematical functions by configuration means and dedicated code source files.
+The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.
+If the installation of the clock interrupt entry fails, then the system shall terminate with the Real-Time Executive for Multiprocessor Systems_FATAL_SOURCE_BSP fatal source and the LEON3_FATAL_CLOCK_INITIALIZATION fatal code.
+Basic mathematical Library Test Suite shall allow user to select one or more functions for running a test.
+The rtems_configuration_get_maximum_timers directive shall return the maximum number of objects managed by the @ref Real-Time Executive for Multiprocessor SystemsApplication Programming InterfaceClassicTimer that can be concurrently active.
+Let U and V be two tasks with the same home scheduler. Let B be a time point measured by U right before a call to rtems_message_queue_receive which blocks on the message queue with no timeout. Let E be a time point measured by V right after the first context switch after B. While the execution environment is below environments, while a message queue is empty , while the measurement sample is E−B, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.
+The grlib_load_8 directive shall load an unsigned 8-bit value from the address specified by address and return it.
+The Basic mathematical Library procedures shall behave as defined by the POIX standard for special cases i.e. regarding arguments and outputs involving Not a Number, infinities, and ±0.
+The interfaces used or provided by the system shall be a contained in interface domains.
+Basic mathematical Library Test Suite shall allow comparison of tests to help assessing numerical reproducibility of the results produced by the mathematical library, from one run to the next, either on the same or different machines for the same input data set.
+Where the target has an instruction cache, where the instruction cache can be frozen, when the rtems_cache_freeze_instruction directive is called, the instruction cache shall be frozen.
+The software product shall use the define SPARC_LEON3FT_B2BST_NOP in assembler language source code to insert no p instructions required by the errata workaround.
+The trunc and truncf procedures shall return the argument, if the argument x is ±0 or ±Inf.
+While the extracted thread is in the blocked wait state, the thread queue ﬂush operation shall remove the thread timer.
+The super core shall have a component containing the thread implementation.
+The BSP shall define BSP_IDLE_TASK_BODY to bsp_idle_thread().
+The MicroPython language shall support object-orientation, as defined in Python 3.4
+Basic mathematical Library Test Suite shall be implemented in ISO C99 / C++11.
+The atan and atanf procedures shall return Not a Number if the argument is Not a Number.
+The rtems_rate_monotonic_ident directive shall identify an Classic Application Programming Interface rate monotonic classobject by its name as specified by /rtems/req/ident-local.
+The system shall provide a benchmark program to show the static memory usage of a basic application configuration with calls to rtems_timer_create and rtems_timer_delete.
+The thread create user extensions shall be invoked in extension forward order.
+The atan2 and atan2f procedures shall return -π2, if the argument y is <0 and the argument x is ±0.
+The sin and sinf procedures shall return the value of the argument if the argument is ±0.
+The super core shall have a component containing the Symmetric Multiprocessing-specific implementation.
+While the execution environment is below environments, while a message queue is empty , while exactly one task waits on the message queue, while the measurement sample is the runtime of exactly one successful call to rtems_message_queue_send which does not preempt the caller,when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.
+The runtime of @ref Real-Time Executive for Multiprocessor SystemsApplication Programming InterfaceClassicMessage directives shall be measured.
+The software product shall provide an Application Programming Interface.
+When the argument _index evaluates to an value o f a C one-dimensional array type, and the evaluation of that argument has no side effects, the macro Real-Time Executive for Multiprocessor Systems_ARRAY_SIZE shall result in the number of elements with which that array has been defined.
+The rtems_event_send directive shall send events to the application event set of a task asspecified by /rtems/event/req/send-receive.
+When a task is created, the home scheduler of the created task shall be set to the homescheduler of the task calling the rtems_task_create directive at some time point during the directive call.
+Basic mathematical Library Test Suite shall allow tests that check mathematical properties of tested functions.
+The pow and powf procedures shall return +0, if the argument x is -Inf and the argument y is <0 and not an odd integer. 
+The Basic mathematical Library shall provide a procedure to convert an angle to an equivalentone in the range [0,2π].
+When the code is compiled with a C compiler and the __STDC_VERSION__ symbol is defined with version 201112L or higher or the code is compiled with a C++ compiler and the __cplusplus symbol is defined with version 201103L or higher, the macro Real-Time Executive for Multiprocessor Systems_ALIGNOF shall not evaluate its argument _type_name .
+The Basic Library shall contribute less than 100kB to the size of the final On-Board Software executable. 
+The Basic Library shall provide a justification for not respected required rules in MISRA C:2012[RD06]. 
+Basic mathematical Library Test Suite shall allow the execution of functional unit tests. Remark:  Unit tests are written in order to verify tested function requirements, domain limits, corner cases, etc.
+If a thread body function returned and the thread exitted extension invocation for the thread returned, then the system shall terminate with the INTERNAL_ERROR_CORE fatal sourceand the INTERNAL_ERROR_THREAD_EXITTED fatal code.
+When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_PACKED macro is used as last part of a structure member declaration, and the aligned attribute or Real-Time Executive for Multiprocessor Systems_ALIGNED macro is not used on this structure member, the Real-Time Executive for Multiprocessor Systems_PACKED macro shall cause the structure member to be aligned at one bit for a bit-field member and one byte otherwise.
+While the system is initialized, if the data cache snooping is disabled on the boot processor, then the system shall terminate with the Real-Time Executive for Multiprocessor Systems_FATAL_SOURCE_BSP fatal source and the LEON3_FATAL_INVALID_CACHE_CONFIG_BOOT_PROCESSOR fatal code. 
+The initial value of the CLOCK_REALTIME shall be 1988-01-01T00:00:00.000000000.
+The Basic mathematical Library shall have a configurable modus to flush denormal computation results to zero.
+While the timecounter to install has a quality level greater than the quality level of the currently installed timecounter, the timecounter to install shall be installed.
+The Basic mathematical Library Test Suite shall perform execution time tests, analyzing the minimum, maximum, average, and median execution timesof the procedures.
+Test Suite Executable shall be portable on different platforms, at least between Intel, AMD, Sparc V8 based processors.
+The rtems_event_system_receive directive shall receive events from the system event set of a task as specified by /rtems/event/req/send-receive.
+In the C source code of MicroPython cross-compiler and Virtual Machine, any language feature out of scope of the requirements defined in the present document shall be disabled by C preprocessor directives.
+When the macro Real-Time Executive for Multiprocessor Systems_DEFINE_GLOBAL_SYMBOL appears at file scope, and argument_name after undergoing C pre-processor substitutions results in a valid C identifier name, and this identifier name is not yet defined at file scope, and argument _value after undergoing C pre-processor substitutions results in a valid assembler integer value, the macro Real-Time Executive for Multiprocessor Systems_DEFINE_GLOBAL_SYMBOL shall apply all possible C pre-processor substitutions to its argument values before it results in assembler code which defines a global symbol with the respective name and value.
+The system shall provide a benchmark program to show the static memory usage of a basic application configuration with CONFIGURE_MAXIMUM_PROCESSORS defined to two using the global Symmetric Multiprocessing Earliest Deadline First scheduler (CONFIGURE_SCHEDULER_Earliest Deadline First_Symmetric Multiprocessing).
+The super core shall have a component containing the Symmetric Multiprocessing /glossary/scheduler implementations.
+The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall result in only those characters which also appear in its argument values after applying all possible C pre-processor substitutions to them.
+The isnan procedure shall return a non-zero value if and only if the argument x is Not a Number.
+The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normal numbers.
+While the BSP_poll_char pointer references a function, while the kernel character input device used by the function has no character enqueued, the function shall return minus one.
+If the Software Development Environment is configured to do so, the Import Expander shall be called automatically before calling the cross-compiler (preprocessing of source code). The messages output by the Import Expander shall be visible in the Software Development Environment.
+While the execution environment is below environments, while a task waits for events, while the measurement sample is the runtime of exactly one successful call to rtems_event_send which does satisfy the event condition of the waiting task which does not preempt the caller, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.
+The system shall provide a benchmark program to show the static memory usage of a basicapplication configuration with calls to rtems_event_send and rtems_event_receive.
+The application configuration option shall define the stack allocator deallocate handler.
+The application configuration option shall indicate that the task stack allocator does not use the Real-Time Executive for Multiprocessor Systems Workspace.
+The system shall provide a benchmark program to show the static memory usage of a basicapplication configuration with a call to rtems_fatal.
+The grlib_load_64 directive shall load an unsigned 64-bit value from the address specified by address and return it.

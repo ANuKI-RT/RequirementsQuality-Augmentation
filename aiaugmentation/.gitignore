@@ -1,0 +1,24 @@
+# Ignore imported models
+/spaceroberta_altered
+
+# ignore specific data
+# /data/results/*
+# /data/trainingdata/* 
+# commented out for now, as this is not public yet
+
+# fairseq and GPT model is to large to push, therefore ignored
+
+/rtt/fairseq
+/rtt/wmt19.en-ru.ensemble
+/rtt/wmt19.ru-en.ensemble
+
+/gptV1/model_save
+
+#ignore __pycache__
+
+eda/__pycache__
+data/__pycache__
+rtt/__pycache__
+gptV1/__pycache__
+paraphrase/__pycache__
+/__pycache__

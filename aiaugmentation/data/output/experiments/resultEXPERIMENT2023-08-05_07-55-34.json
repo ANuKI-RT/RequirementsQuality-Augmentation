@@ -1,0 +1,252 @@
+[
+    [
+        "RTT",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. \n",
+        "The library should not use the built-in Floating Point Unit functions to evaluate mathematical functions."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall provide a justification for not respected required rules in MISRA C:2012[RD06]. \n",
+        "The library should provide a justification for non-compliance in MISRA C: 2012 [RD06]."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation for algorithm optimization. \n",
+        "The library should not rely on the Fused Multiply-Add operation for alpha synthesis."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall comply to required metric ‘User documentation completeness’ proposedby European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. \n",
+        "The library should comply with the required metric documentation proposed by the European Cooperation for Space Standardization-HB-Q-80 [RD05], with the proposed objectives."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normal numbers.\n",
+        "The library should be able to convert to a mode that mirrors Floating Point Unit behavior with respect to abnormal numbers if Floating Point Unit does not process abnormal numbers in the same way as normal numbers."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall comply to required metric ‘User documentation completeness’ proposedby European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. \n",
+        "The library should comply with the required metric documentation proposed by the European Cooperation for Space Standardization-HB-Q-80 [RD05], with the proposed objectives."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall provide a justification for not respected required rules in MISRA C:2012[RD06]. \n",
+        "The library should provide a justification for non-compliance in MISRA C: 2012 [RD06]."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation for algorithm optimization. \n",
+        "The library should not rely on the Fused Multiply-Add operation for the algorithm."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop. \n",
+        "The library will never stop the processor or Unit."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). \n",
+        "The library should return exactly the same value whenever the procedure is called several times with the same argument (s)."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. \n",
+        "The library will not use the built-in Floating Point Unit functions to evaluate mathematical functions."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall comply to the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. \n",
+        "The library should meet the requirements of the European Space Standardization Cooperation Program-HB-Q-80 [RD05] with the proposed objectives."
+    ],
+    [
+        "RTT",
+        "The Basic Library source shall be delivered as a collection of C source files.",
+        "The Library's source code comes in the form of a collection of C source files."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). \n",
+        "The library must return the same value every time the procedure is called several times with the same argument (s)"
+    ],
+    [
+        "RTT",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). \n",
+        "The library returns the same value whenever the procedure is called several times with the same argument (s)."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normal numbers.\n",
+        "The library should be able to convert to a mode that reflects the behavior of the Floating Point Unit with respect to abnormal numbers if the Floating Point Unit does not process abnormal numbers in the same way as normal numbers."
+    ],
+    [
+        "RTT",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. \n",
+        "The source code of the library must comply with the requirements and rules set out in MISRA C: 2012 [RD06]"
+    ],
+    [
+        "RTT",
+        "The Basic Library source shall be delivered as a collection of C source files.",
+        "The Library source code comes in the form of a set of C source files."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall comply to the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. \n",
+        "The library should meet the requirements of the European Space Standardization Cooperation Program-HB-Q-80 [RD05] with their intended objectives."
+    ],
+    [
+        "RTT",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. \n",
+        "The source code of the library must comply with the rules described in MISRA C: 2012 [RD06]."
+    ],
+    [
+        "RTT",
+        "The Basic Library source shall be delivered as a collection of C source files.",
+        "The Library source code will be delivered as a set of C source files."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall comply to the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. \n",
+        "The library should meet the requirements of the European Space Standardization Cooperation Program-HB-Q-80 [RD05] with the proposed objectives."
+    ],
+    [
+        "RTT",
+        "The Basic Library source shall be delivered as a collection of C source files.",
+        "The Library source code comes as a set of C-language source files."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop. \n",
+        "The library will never stop either the processor or the Unit floating point."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop. \n",
+        "The library will never stop either the processor or the Floating Point Unit."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normal numbers.\n",
+        "The library should be able to convert to a mode that mirrors the behavior of the Floating Point Unit with respect to abnormal numbers if the Floating Point Unit does not process abnormal numbers in the same way as normal numbers."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation for algorithm optimization. \n",
+        "The library should not rely on the presence of the Fused Multiply-Add operation for alpha-ization."
+    ],
+    [
+        "RTT",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. \n",
+        "The source code of the library must comply with the rules set out in MISRA C: 2012 [RD06]."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. \n",
+        "The library will not use the built-in Floating Point Unit functions to evaluate the mathematical function."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normal numbers.\n",
+        "The library should be able to convert to a mode that reflects the behavior of the Floating Point Unit with respect to abnormal numbers if the Floating Point Unit does not treat abnormal numbers in the same way as normal numbers."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation for algorithm optimization. \n",
+        "The library should not rely on the Fused Multiply-Add operation for alpha-ionization."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. \n",
+        "The library should not use the built-in Floating Point Unit functions to evaluate a mathematical function."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). \n",
+        "The library must return the same value every time the procedure is invoked several times with the same arguments."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall comply to required metric ‘User documentation completeness’ proposedby European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. \n",
+        "The library should conform to the required metric documentation proposed by the European Cooperation for Space Standardization-HB-Q-80 [RD05], with their intended purposes."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop. \n",
+        "The library will never stop either the processor or the floating point."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). \n",
+        "The library should return the same value when the procedure is called several times with the same argument (s)."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation for algorithm optimization. \n",
+        "The library should not rely on the Fused Multiply-Add operation for algorithmization."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall comply to the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. \n",
+        "The library must comply with the requirements of the European Space Standardization Cooperation Program-HB-Q-80 [RD05]."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall comply to the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. \n",
+        "The library should meet the requirements of the European Space Standardization Cooperation Programme HB-Q-80 [RD05] with the proposed objectives."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normal numbers.\n",
+        "The library should be able to convert to a mode that reflects the behavior of the Floating Point Unit with respect to abnormal numbers, unless the Floating Point Unit treats abnormal numbers in the same way as normal numbers."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall provide a justification for not respected required rules in MISRA C:2012[RD06]. \n",
+        "The library should provide a justification for non-compliance with mandatory rules in MISRA C: 2012 [RD06]."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall comply to required metric ‘User documentation completeness’ proposedby European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. \n",
+        "The library should conform to the required metric documentation proposed by the European Cooperation for Space Standardization-HB-Q-80 [RD05], with their proposed objectives."
+    ],
+    [
+        "RTT",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. \n",
+        "The source code must conform to the rules described in MISRA C: 2012 [RD06]."
+    ],
+    [
+        "RTT",
+        "The Basic Library source shall be delivered as a collection of C source files.",
+        "The Library source code comes as a set of C-language source files."
+    ],
+    [
+        "RTT",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. \n",
+        "The source code shall conform to the rules set out in MISRA C: 2012 [RD06]."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall provide a justification for not respected required rules in MISRA C:2012[RD06]. \n",
+        "The library must provide a justification for non-compliance in MISRA C: 2012 [RD06]."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall provide a justification for not respected required rules in MISRA C:2012[RD06]. \n",
+        "The library must justify non-compliance with the required rules in MISRA C: 2012 [RD06]."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop. \n",
+        "The library should never stop either the processor or the Unit floating point."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall comply to required metric ‘User documentation completeness’ proposedby European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. \n",
+        "The library should comply with the required metric documentation proposed by the European Cooperation for Space Standardization-HB-Q-80 [RD05], with the proposed objectives."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. \n",
+        "The library should not use the built-in Floating Point Unit functions to calculate mathematical functions."
+    ]
+]

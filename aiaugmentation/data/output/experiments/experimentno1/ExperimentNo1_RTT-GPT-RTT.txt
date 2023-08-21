@@ -1,0 +1,8 @@
+
+results for duplicate removal for method: RTT in experiment no. 1
+|I| Total data: 70
+|I| Total final data: 70
+|I| Total removed duplicates: 0
+----------------------------------------------------------------------------------------------------
+List of duplicates: 
+[]

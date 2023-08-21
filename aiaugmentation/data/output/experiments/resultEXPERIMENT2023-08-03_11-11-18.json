@@ -1,0 +1,507 @@
+[
+    [
+        "RTT",
+        "The hypot and hypotf procedures shall return Not a Number, if one of the arguments x or y is Not a Number and the other is not ±Inf.",
+        "Hypot and hypotf return Not a Number if one of the x or y arguments is Not a Number, and the other is ± Inf."
+    ],
+    [
+        "PARA",
+        "The rtems_conﬁguration_get_microseconds_per_tick directive shall return the clock tick interval in microseconds.",
+        "The rtems_conﬁguration_get_microseconds_per_tick directive shall return the clock tick interval in microseconds."
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library Test Suite shall evaluate the accuracy of the tested library against a bit accurate reference library.",
+        "The test library should evaluate the accuracy of the test library against a more accurate reference library."
+    ],
+    [
+        "EDA",
+        "The atan and atanf procedures shall return the argument if the argument is ±0.",
+        "the atan and atanf procedures shall return the argument if the argument is "
+    ],
+    [
+        "RTT",
+        "The tan and tanf procedures shall return Not a Number if the argument is Not a Number.",
+        "Tanning and tanning procedures return Not a Number if the argument is Not a Number."
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library procedure results shall differ from theoretical results by less than 0.5 Units in the Last Place.",
+        "The results of the procedure should differ by less than 0.5 units from theoretical results."
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library procedures shall behave as defined by the POIX standard for special cases i.e. regarding arguments and outputs involving Not a Number, infinities, and ±0.",
+        "Libraries are governed by the POIX standard for special cases i. for arguments and results that include no number, no infinity, and ± 0."
+    ],
+    [
+        "RTT",
+        "The application conﬁguration option shall disable the system initialization of ﬁlesystems.",
+        "The application configuration option must disable system initialization."
+    ],
+    [
+        "EDA",
+        "MicroPython shall support the following built-in types, as defined in Python 3.4: bytearray bytes tuple dict list",
+        "micropython shall support the following built in types as defined in python bytearray bytes tuple list"
+    ],
+    [
+        "RTT",
+        "The shared BSP support shall be a component containing functions used by multiple targets.",
+        "General BB support should be a component containing functions used by multiple targets."
+    ],
+    [
+        "EDA",
+        "While the timecounter to install has a quality level greater than the quality level of the currently installed timecounter, the timecounter to install shall be installed.",
+        "while the timecounter to install has a quality level greater than the constitute quality level caliber of the currently installed timecounter the timecounter to install shall be installed"
+    ],
+    [
+        "EDA",
+        "The application conﬁguration option shall deﬁne the entry point of the Classic Application Programming Interface initialization task.",
+        "the application con guration option shall de ne the entry point of the classic application programming user interface initialization task"
+    ],
+    [
+        "RTT",
+        "The tan and tanf procedures shall return Not a Number if the argument is Not a Number.",
+        "Sunbathing and tanning treatments return Not a Number if the argument is Not a Number."
+    ],
+    [
+        "RTT",
+        "The log10 and log10f procedures shall return +0, if the argument x is 1.",
+        "The log10 and log10f procedures return + 0 if x is 1."
+    ],
+    [
+        "RTT",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application conﬁguration with a call to rtems_task_mode.",
+        "The system provides a program that shows the use of the static memory of the basic configuration of the application with the ritems _ task _ mode."
+    ],
+    [
+        "RTT",
+        "When the argument _alignment is a positive power of two integer, and argument _value isa positive or 0 integer, the macro Real-Time Executive for Multiprocessor Systems_ALIGN_UP shall result in a side-effect free formula calculating an integer which is the smallest whole-number multiple of_alignment which is greater or equal _value.",
+        "When argument _ alignment is a positive force of two integers and argument _ value is a positive or 0 integer, the Real-Time Executive for Multiprocessor Systems _ ALIGN _ UP macro should result in a side-effect-free formula for calculating an integer that is the smallest integer multiple of _ alignment that is greater than or equal to _ value."
+    ],
+    [
+        "EDA",
+        "While no timecounter is installed, the CLOCK_REALTIME shall remain at the initial value.",
+        "initial no timecounter is installed the clock realtime shall remain at the while value"
+    ],
+    [
+        "RTT",
+        "The application conﬁguration option shall disable the system initialization of ﬁlesystems.",
+        "The application configuration option should disable initialization of the system."
+    ],
+    [
+        "RTT",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application conﬁguration with a call to rtems_task_mode.",
+        "The system provides a program that shows the use of the static memory of the base application by calling the rtems _ task _ mode."
+    ],
+    [
+        "RTT",
+        "The TN0018_WAIT_IFLUSH macro shall ﬂush the instruction cache.",
+        "The TN0018 _ WAIT _ IUSH macro should fill in the command cache."
+    ],
+    [
+        "RTT",
+        "Where CONFIGURE_DISABLE_BSP_SETTINGS is not deﬁned by the application, where BSP_INITIAL_EXTENSION is deﬁned by the BSP, when the application conﬁguration is initialized, the extension set deﬁned by BSP_INITIAL_EXTENSION shall be registered in the initialextension sets.",
+        "If CONFIGURE _ DISABLE _ BISABLE _ SEXTENSION is not defined by the application, if BISABLE _ INITIAL _ EXTENSION is not defined by BISABLE _ SEXTENSION, then when the application is initialized, the set of extensions defined by BISABLE _ INITIAL _ EXTENSION is registered in the extension sets."
+    ],
+    [
+        "RTT",
+        "When the Real-Time Executive for Multiprocessor Systems_INTERRUPT_ENTRY_INITIALIZER is used to statically initialize an object of type rtems_interrupt_entry, the next member of the object shall be initialized to a value equal to NULL.",
+        "When Real-Time Executive for Multiprocessor Systems _ INTERRUPT _ ENTRY _ INITIALIZER is used to stat an object of the rtems _ interrupt _ entry type, the next object member must be initialized to a value equal to NULL."
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library Test Suite shall evaluate the accuracy of the tested library against a bit accurate reference library.",
+        "The test library should evaluate the accuracy of the tested library against a more accurate reference library."
+    ],
+    [
+        "PARA",
+        "The timecounter component shall provide the CLOCK_MONOTONIC.",
+        "the time counter component shall provide the clockmonotonic"
+    ],
+    [
+        "RTT",
+        "When the Real-Time Executive for Multiprocessor Systems_INTERRUPT_ENTRY_INITIALIZER is used to statically initialize an object of type rtems_interrupt_entry, the next member of the object shall be initialized to a value equal to NULL.",
+        "When the Real-Time Executive for Multiprocessor Systems _ INTERRUPT _ ENTRY _ INITIALIZER is used to initialize an object of the type rems _ interrupt _ entry, the next object element is initialized to a value equal to NULL."
+    ],
+    [
+        "RTT",
+        "While no deadlock was detected in a sticky thread queue enqueue, while the thread dispatch disable level is not equal to one, if the sticky thread queue enqueue is performed, then the system shall terminate with the INTERNAL_ERROR_CORE fatal source and the INTER-NAL_ERROR_THREAD_QUEUE_ENQUEUE_STICKY_FROM_BAD_STATE fatal code.",
+        "While there was no deadlock in the frozen three, and the shutdown level of the three is not equal to one, if the frozen three is executed, the system ends with the fatal code INTER-NAL _ ERROR _ THREAD _ QUE _ STICKY _ FROM _ BAD _ STATE."
+    ],
+    [
+        "RTT",
+        "When a task is constructed, the home scheduler of the constructed task shall be set to the home scheduler of the task calling the rtems_task_construct directive at some time pointduring the directive call.",
+        "When a task is completed, the home task planner must be installed by the home task planner calling the rtems _ task _ directive."
+    ],
+    [
+        "PARA",
+        "While the execution environment is below environments, while the semaphore is a priority inheritance mutex, while the measurement sample is the runtime of exactly one successful call to rtems_semaphore_release which does not unblock a waiting task, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.",
+        "While the execution environment is below environments, while the semaphore is a priority inheritance mutex, while the measurement sample is the runtime of exactly one successful call to rtems_semaphore_release which does not unblock a waiting task, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions."
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine and compile chain shall allow building MicroPython Virtual Machine without support of memtime  and rtems  modules\/submodules",
+        "MicroPython Virtual Machine and Compilation Chain allow you to build a MicroPython Virtual Machine without support for memtime and ritems modules \/ sub-modules"
+    ],
+    [
+        "RTT",
+        "The system shall provide a benchmark program to show the static memory usage of a basicapplication conﬁguration with a call to rtems_fatal.",
+        "The system must provide a program that shows the use of the application's static memory with a call to rems _ fatal."
+    ],
+    [
+        "RTT",
+        "The tan and tanf procedures shall return Not a Number if the argument is Not a Number.",
+        "Sunbathing and tanning treatments return Not a Number if the argument is Not a Number."
+    ],
+    [
+        "RTT",
+        "The rtems_conﬁguration_get_maximum_semaphores directive shall return the maximumnumber of objects managed by the @ref Real-Time Executive for Multiprocessor SystemsApplication Programming InterfaceClassicSem that can be concurrently active.",
+        "The rtems _ configuration _ get _ maximum _ semaphores directive returns the maximum number of objects managed by @ ref Real-Time Executive for Multiprocessor Programming InterfacesicSem that can be simultaneously active."
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine and compile chain shall allow building MicroPython Virtual Machine without support of memtime  and rtems  modules\/submodules",
+        "The MicroPython virtual machine and the compilation chain will allow you to build a MicroPython virtual machine without the support of memtime and ritems modules \/ sub-modules"
+    ],
+    [
+        "RTT",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application conﬁguration with a call to rtems_task_mode.",
+        "The system must provide a program that shows the use of the static memory of the base application with the rtems _ task _ mode call."
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine and compile chain shall allow building MicroPython Virtual Machine without support of memtime  and rtems  modules\/submodules",
+        "The MicroPython Virtual Machine and the compilation chain will allow you to create a MicroPython Virtual Machine without support for memtime and ritems modules \/ submodules"
+    ],
+    [
+        "RTT",
+        "When the Real-Time Executive for Multiprocessor Systems_INTERRUPT_ENTRY_INITIALIZER is used to statically initialize an object of type rtems_interrupt_entry, the next member of the object shall be initialized to a value equal to NULL.",
+        "When Real-Time Executive for Multiprocessor Systems _ INTERRUPT _ ENTRY _ INITIALIZER is used to initialize an object of the type rtems _ interrupt _ entry, the next object member is initialized to a value equal to NULL."
+    ],
+    [
+        "PARA",
+        "The cos and cosf procedures shall use a minimax polynomial for the calculation.",
+        "the cos and cosf procedures shall use a minimax polynomial for calculation"
+    ],
+    [
+        "RTT",
+        "The rtems_conﬁguration_get_stack_allocate_for_idle_hook directive shall return the stack allocator allocate handler used to allocate the task stack of each IDLE task.",
+        "The rms _ configuration _ get _ stack _ for _ idle _ hook directive returns the stack, cator, and handler used for each IDLE task."
+    ],
+    [
+        "RTT",
+        "When_type is a non-volatile pointer type, and _var is a pointer to a value of volatile type, and the types of _type and_var are compatible in the sense of C, the macro Real-Time Executive for Multiprocessor Systems_DEVOLATILE shall result in an expression which returns a pointer of type _type pointing to the sameaddress as _var.",
+        "When _ type is a non-volatile type of pointer and _ var is a volatile type of pointer, and the _ type and _ var types are comparable in the sense of C, the Real-Time Executive for Multiprocessor Systems _ DEVOLATILE macro results in an expression that returns a type _ type pointer pointing to sameaaddress as _ var."
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library procedure results shall differ from theoretical results by less than 0.5 Units in the Last Place.",
+        "The results of the procedure should differ from theoretical results by less than 0.5 units."
+    ],
+    [
+        "EDA",
+        "The isinf procedure shall return a non-zero value if and only if the argument x is ±Inf.",
+        "the isinf procedure solely shall return a non zero value if and only if the argument x is inf"
+    ],
+    [
+        "RTT",
+        "The system shall provide a benchmark program to show the static memory usage of a basicapplication conﬁguration with calls to rtems_event_send and rtems_event_receive.",
+        "The system provides a program that shows the use of the application's static memory with calls to ritems _ event _ send and ritems _ event _ receive."
+    ],
+    [
+        "RTT",
+        "The Real-Time Executive for Multiprocessor Systems_STRING macro shall result in a string formed by the C pre-processor #operator placed before the formal parameter.",
+        "The Real-Time Executive for Multiprocessor Systems _ STRING macro should lead to a string generated by the C pre-processor # statement placed before the formal parameter."
+    ],
+    [
+        "RTT",
+        "The fmod and fmodf procedures shall return Not a Number, if the argument x is ±Inf.",
+        "The fmod and fmodf procedures must return Not a Number if the argument x ± Inf."
+    ],
+    [
+        "RTT",
+        "The log10 and log10f procedures shall return Not a Number if the argument x is finite and less than 0 or x is -Inf.",
+        "Log10 and log10f return Not a Number if x is finite and less than 0 or x is -Inf."
+    ],
+    [
+        "RTT",
+        "The Real-Time Executive for Multiprocessor Systems_STRING macro shall result in a string formed by the C pre-processor #operator placed before the formal parameter.",
+        "Macron's Real-Time Executive for Multiprocessor Systems _ STRING results in a string generated by the C pre-processor # operator placed before a formal parameter."
+    ],
+    [
+        "RTT",
+        "The trunc and truncf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The trunc and truncf procedures do not return a number, if the argument x is not number."
+    ],
+    [
+        "RTT",
+        "The software architecture shall have a component containing the Classic Application Programming Interface implementation.",
+        "The software architecture must have a component containing the implementation of the Classic Application Programming Interface."
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library shall be written in ISO\/IEC 9899.",
+        "Literature should be written in accordance with ISO \/ C-99"
+    ],
+    [
+        "RTT",
+        "The bsp_idle_thread() function shall be implemented according to Workaround 2 of {errata-gr712rc-08}.",
+        "The function p _ idle _ thread () is implemented according to Workaround 2 of {errata-gr712rc-08}."
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library procedures shall behave as defined by the POIX standard for special cases i.e. regarding arguments and outputs involving Not a Number, infinities, and ±0.",
+        "Library business is governed by the POIX standard for special cases i. for arguments and results that include no number, no infinity and ± 0."
+    ],
+    [
+        "RTT",
+        "The MicroPython Software Development Environment, including the Import Expander, shall run on a Unix system compatible with Python 3.4",
+        "MicroPython's development environment, including Import Expander, will run on a Unix system compatible with Python 3.4."
+    ],
+    [
+        "RTT",
+        "The atan2 and atan2f procedures shall return -π2, if the argument y is <0 and the argument x is ±0.",
+        "The atan2 and atan2f procedures return -π2 if the argument y equals OB; 0 and the argument x is ± 0."
+    ],
+    [
+        "RTT",
+        "When a task is constructed, the home scheduler of the constructed task shall be set to the home scheduler of the task calling the rtems_task_construct directive at some time pointduring the directive call.",
+        "When a task is completed, the home task planner must be installed by the home task planner calling the ritems _ task _ directive."
+    ],
+    [
+        "EDA",
+        "Where the target has a data cache, where the data cache can be frozen, when the rtems_cache_unfreeze_data directive is called, the data cache shall be not frozen.",
+        "where squirrel away the target has a data cache where the data cache can deliver be frozen when freeze down the rtems cache unfreeze data directive is called the data cache shall be not frozen"
+    ],
+    [
+        "EDA",
+        "While the timecounter to install has a quality level greater than the quality level of the currently installed timecounter, the timecounter to install shall be installed.",
+        "while the timecounter to install a quality level greater than the quality of the currently installed timecounter the timecounter to install shall be installed"
+    ],
+    [
+        "RTT",
+        "The TN0018_WAIT_IFLUSH macro shall ﬂush the instruction cache.",
+        "The TN0018 _ WAIT _ IUSH macro should fill the command cache."
+    ],
+    [
+        "RTT",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application conﬁguration with calls to rtems_signal_catch and rtems_signal_send.",
+        "The system provides a program that shows the use of the static memory of the base application with calls rtems _ signal _ catch and rtems _ signal _ send."
+    ],
+    [
+        "RTT",
+        "While no deadlock was detected in a sticky thread queue enqueue, while the thread dispatch disable level is not equal to one, if the sticky thread queue enqueue is performed, then the system shall terminate with the INTERNAL_ERROR_CORE fatal source and the INTER-NAL_ERROR_THREAD_QUEUE_ENQUEUE_STICKY_FROM_BAD_STATE fatal code.",
+        "Whereas there was no deadlock in the frozen three, and the shutdown level of the three is not one, if the frozen three is executed, the system ends up with the fatal source INTER-NAL _ ERROR _ THREAD _ QUE _ ENQUE _ STICKY _ FROM _ BAD _ STATE."
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library shall be written in ISO\/IEC 9899.",
+        "Literature must be written in the language ISO \/ C-99"
+    ],
+    [
+        "GPT",
+        "<|startoftext|>",
+        "When the rtems_interrupt_is_pending() (  ) directive iscalled.\n"
+    ],
+    [
+        "RTT",
+        "The hypot and hypotf procedures shall return Not a Number, if one of the arguments x or y is Not a Number and the other is not ±Inf.",
+        "Hypot and hypotf return Not a Number if one of the x or y arguments is not Not a Number and the other is not ± Inf."
+    ],
+    [
+        "RTT",
+        "The log10 and log10f procedures shall return Not a Number if the argument x is finite and less than 0 or x is -Inf.",
+        "Log10 and log10f return Not a Number if the argument x is finite and less than 0 or x - Inf."
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library procedures shall behave as defined by the POIX standard for special cases i.e. regarding arguments and outputs involving Not a Number, infinities, and ±0.",
+        "Libraries are governed by the POIX standard for special cases i. for arguments and results that include neither numbers nor infinity nor ± 0."
+    ],
+    [
+        "RTT",
+        "When the Real-Time Executive for Multiprocessor Systems_INTERRUPT_ENTRY_INITIALIZER is used to statically initialize an object of type rtems_interrupt_entry, the next member of the object shall be initialized to a value equal to NULL.",
+        "When Real-Time Executive for Multiprocessor Systems _ INTERRUPT _ ENTRY _ INITIALIZER is used to initialize an object of the type rtems _ interrupt _ entry, the next object element is initialized to a value equal to NULL."
+    ],
+    [
+        "RTT",
+        "The pow and powf procedures shall return ±Inf respectively if y is an odd integer, or +Inf if y is not an odd integer if the argument y is < 0 and x is ±0.",
+        "The pow and powf procedures return ± Inf, respectively, if y is an odd integer, or + Inf, if y is not an odd integer, if y is ±; 0 and x is ± 0."
+    ],
+    [
+        "RTT",
+        "The log10 and log10f procedures shall return +0, if the argument x is 1.",
+        "The log10 and log10f procedures will return + 0 if the argument x is 1."
+    ],
+    [
+        "RTT",
+        "When_type is a non-volatile pointer type, and _var is a pointer to a value of volatile type, and the types of _type and_var are compatible in the sense of C, the macro Real-Time Executive for Multiprocessor Systems_DEVOLATILE shall result in an expression which returns a pointer of type _type pointing to the sameaddress as _var.",
+        "When _ type is a non-volatile type of pointer and _ var is a volatile type of pointer, and _ type and _ var are comparable in the sense of C, the Real-Time Executive for Multiprocessor Systems _ DEVOLATILE macro produces an expression that returns a _ type pointer pointing to sameaaddress as _ var."
+    ],
+    [
+        "RTT",
+        "The system shall provide a benchmark program to show the static memory usage of a basicapplication conﬁguration with a call to rtems_fatal.",
+        "The system must provide a program showing the use of the application's static memory with a call to rems _ fatal."
+    ],
+    [
+        "RTT",
+        "The thread terminate user extensions shall be invoked in extension reverse order.",
+        "The user's three-dimensional extension must be called in reverse order."
+    ],
+    [
+        "RTT",
+        "The software architecture shall have a component containing the Classic Application Programming Interface implementation.",
+        "The software architecture must have a component that contains the implementation of the Classic Application Program Interface."
+    ],
+    [
+        "EDA",
+        "The software product shall take the errata 10 (MIL-STD-1553B core duplicate interrupt assertion) into account.",
+        "the software ware shall take the errata mil std b core duplicate interrupt assertion into account"
+    ],
+    [
+        "EDA",
+        "While the timecounter to install has a quality level greater than the quality level of the currently installed timecounter, the timecounter to install shall be installed.",
+        "while the timecounter to install has a quality level greater than the quality level of the currently installed timecounter the timecounter to install shall be installed"
+    ],
+    [
+        "RTT",
+        "The log10 and log10f procedures shall return +0, if the argument x is 1.",
+        "Log10 and log10f return + 0 if x is 1."
+    ],
+    [
+        "RTT",
+        "While no deadlock was detected in a sticky thread queue enqueue, while the thread dispatch disable level is not equal to one, if the sticky thread queue enqueue is performed, then the system shall terminate with the INTERNAL_ERROR_CORE fatal source and the INTER-NAL_ERROR_THREAD_QUEUE_ENQUEUE_STICKY_FROM_BAD_STATE fatal code.",
+        "While there was no deadlock in the frozen three, and the shutdown level of the three is not one, if the frozen three is executed, the system ends up with a fatal source INTER-NAL _ ERROR _ THREAD _ QUE _ ENQUE _ STICKY _ FROM _ BAD _ STATE."
+    ],
+    [
+        "RTT",
+        "While a thread is scheduled by the home scheduler, while an idle thread executes on behalf of the thread in the home scheduler, when the thread is blocked, the idle thread executing on behalf of the thread shall continue to execute on behalf of the thread.",
+        "While a threesome is scheduled by a home planner, while a threesome performs on behalf of a threesome in a home planner when a threesome is blocked, a threesome continues to perform on behalf of a threesome."
+    ],
+    [
+        "RTT",
+        "The rtems_conﬁguration_get_maximum_semaphores directive shall return the maximumnumber of objects managed by the @ref Real-Time Executive for Multiprocessor SystemsApplication Programming InterfaceClassicSem that can be concurrently active.",
+        "The rtems _ configuration _ get _ maximum _ semaphores directive returns the maximum number of objects managed by the @ ref Real-Time Executive for Multiprocessor Programming InterfaceSem that can be simultaneously active."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop.",
+        "in the basic library no cpu or floating point unit shall stop"
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library shall be written in ISO\/IEC 9899.",
+        "The library should be written in English."
+    ],
+    [
+        "RTT",
+        "The system shall provide a benchmark program to show the static memory usage of a basicapplication conﬁguration with calls to rtems_event_send and rtems_event_receive.",
+        "The system provides a program that shows the use of the static memory of the application with calls to ritems _ event _ send and ritems _ event _ receive."
+    ],
+    [
+        "RTT",
+        "The round and roundf procedures shall return the argument, if the argument x is ±0 or ±Inf.",
+        "The round and roundf procedures should return the argument if x is ± 0 or ± Inf."
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library procedure results shall differ from theoretical results by less than 0.5 Units in the Last Place.",
+        "The results of the procedure should differ from the theoretical results by less than 0.5 units at the last place."
+    ],
+    [
+        "RTT",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application conﬁguration with a call to rtems_task_mode.",
+        "The system provides a program that shows the use of the static memory of the basic configuration of the application, calling the rtems _ task _ mode."
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library procedures shall behave as defined by the POIX standard for special cases i.e. regarding arguments and outputs involving Not a Number, infinities, and ±0.",
+        "Libraries are governed by the POIX standard for special cases i. for arguments and results that include no number, no infinity and ± 0."
+    ],
+    [
+        "RTT",
+        "The MicroPython Software Development Environment, including the Import Expander, shall run on a Unix system compatible with Python 3.4",
+        "The MicroPython development environment, including the Import Expander, will run on a Unix system compatible with Python 3.4"
+    ],
+    [
+        "RTT",
+        "The fmod and fmodf procedures shall return Not a Number, if the argument x is ±Inf.",
+        "The fmod and fmodf procedures return Not a Number if the parameter x is ± InF."
+    ],
+    [
+        "RTT",
+        "While a thread is scheduled by the home scheduler, while an idle thread executes on behalf of the thread in the home scheduler, when the thread is blocked, the idle thread executing on behalf of the thread shall continue to execute on behalf of the thread.",
+        "While the threesome is scheduled by the home planner, while the threesome performs on behalf of the threesome in the home planner when the threesome is blocked, the threesome continues to perform on behalf of the threesome."
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library procedure results shall differ from theoretical results by less than 0.5 Units in the Last Place.",
+        "The results of the procedure must differ from the theoretical results by less than 0.5 units."
+    ],
+    [
+        "RTT",
+        "The system shall provide a benchmark program to show the static memory usage of a basicapplication conﬁguration with calls to rtems_event_send and rtems_event_receive.",
+        "The system should provide a program that shows the use of the static memory of the application with calls to rtems _ event _ send and rtems _ event _ receive."
+    ],
+    [
+        "RTT",
+        "The atan2 and atan2f procedures shall return -π2, if the argument y is <0 and the argument x is ±0.",
+        "The atan2 and atan2f procedures return -π2 if the argument y is equal to OB; 0 and the argument x is equal to ± 0."
+    ],
+    [
+        "RTT",
+        "The software architecture shall have a component containing the Classic Application Programming Interface implementation.",
+        "The software architecture must have a component containing the implementation of the Classical Application programming interface."
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library shall be IEEE 754-2008 compliant.",
+        "The library must comply with the requirements of EE 754-2008."
+    ],
+    [
+        "RTT",
+        "The trunc and truncf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The trunc and truncf procedures return Not a Number if the argument x is not number."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop.",
+        "the basic library shall never cause a cpu or floating point unit to stop working"
+    ],
+    [
+        "RTT",
+        "When_type is a non-volatile pointer type, and _var is a pointer to a value of volatile type, and the types of _type and_var are compatible in the sense of C, the macro Real-Time Executive for Multiprocessor Systems_DEVOLATILE shall result in an expression which returns a pointer of type _type pointing to the sameaddress as _var.",
+        "When _ type is a non-volatile type of pointer, and _ var is a volatile type of pointer, and _ type and _ var are comparable in the sense of C, the Real-Time Executive for Multiprocessor Systems _ DEVOLATILE macro produces an expression that returns a _ type pointer pointing to sameaaddress as _ var."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall be compliant to the math.h definitions as per ISO C99 standard [RD03].",
+        "The library must meet the ISO C99 [RD03] definitions of math.h."
+    ],
+    [
+        "GPT",
+        "<|startoftext|>",
+        "When the rtems_interrupt_get_stack_allocate_hook directive iscalled, the status of maskable inter-rupts before maskable interruptsare disabled by the directive shall be assigned to the variablespeciﬁed by the _isr_task_ IDLE_RESULT.\n"
+    ],
+    [
+        "RTT",
+        "The tan and tanf procedures shall return Not a Number if the argument is Not a Number.",
+        "Sunbathing and tanning procedures return Not a Number if the argument is Not a Number."
+    ],
+    [
+        "RTT",
+        "When_type is a non-volatile pointer type, and _var is a pointer to a value of volatile type, and the types of _type and_var are compatible in the sense of C, the macro Real-Time Executive for Multiprocessor Systems_DEVOLATILE shall result in an expression which returns a pointer of type _type pointing to the sameaddress as _var.",
+        "When _ type is a non-volatile type of pointer and _ var is a volatile type of pointer, and the _ type and _ var types are comparable in the sense of C, the Real-Time Executive for Multiprocessor Systems _ DEVOLATILE macro results in an expression that returns a _ type pointer pointing to the sameaaddress as _ var."
+    ],
+    [
+        "EDA",
+        "The software product shall take the errata 17 (Technical Note on GRFPU Floating-point controller: Missing FDIV\/FSQRT Result) into account.",
+        "the software product shall pick out the errata technical note on grfpu floating point restrainer missing fdiv fsqrt result into account"
+    ],
+    [
+        "PARA",
+        "The _Mutex_Release() directive shall surrender the mutex as speciﬁed by\/score\/mtx\/req\/surrender.",
+        "the mutexrelease directive shall release the mutex as specified byscoremtxreqsurrender"
+    ]
+]

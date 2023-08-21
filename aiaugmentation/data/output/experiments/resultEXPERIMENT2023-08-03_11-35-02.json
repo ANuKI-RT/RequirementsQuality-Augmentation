@@ -1,0 +1,507 @@
+[
+    [
+        "RTT",
+        "Let U and V be two tasks with distinct home schedulers. Let B be a time point measured by U right before a call to rtems_barrier_wait which automatically releases the barrier. Let E be a time point measured by V right after a call to rtems_barrier_wait returns successfully due to the rtems_barrier_wait call associated with B. While the execution environment is below environments, while the barrier is an automatic release barrier, while the measurement sample is E−B, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.",
+        "Let U and V be two tasks with distinct home planners. Let B be a time point measured by U just before the rems _ barrier _ wait call, which automatically removes the barrier. Let E be a time point measured by V immediately after the rems _ barrier _ wait call, which is successfully returned by the rems _ barrier _ wait call associated with B. While the execution environment is below the medium, while the barrier is an automatic release barrier, the E-B measurement sample, when exactly 100 samples are collected, is below the limit conditions."
+    ],
+    [
+        "RTT",
+        "The non-default directive option constants shall have unique values.",
+        "Option constants of a non-default directive should have unique values."
+    ],
+    [
+        "RTT",
+        "The pow and powf procedures shall return +Inf, if the argument x is+ Inf and the argument y>0.",
+        "The pow and pof procedures return + Inf if the argument x + Inf and the argument y > 0."
+    ],
+    [
+        "RTT",
+        "While the BSP_poll_char pointer references a function, while the kernel character input device used by the function has a character enqueued, the function shall dequeue the least recently enqueued character and return it as an unsigned character value.",
+        "While the BB _ poll _ char pointer refers to a function, while the kernel character input device used by the function has the enched symbol, the function decodes the least recently enched symbol and returns it as an unsigned character."
+    ],
+    [
+        "RTT",
+        "Let U and V be two tasks with distinct home schedulers. Let B be a time point measured by U right before a call to rtems_barrier_wait which automatically releases the barrier. Let E be a time point measured by V right after a call to rtems_barrier_wait returns successfully due to the rtems_barrier_wait call associated with B. While the execution environment is below environments, while the barrier is an automatic release barrier, while the measurement sample is E−B, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.",
+        "Let U and V be two tasks with distinct home planners. Let B be a time point measured by U just before the rems _ barrier _ wait call, which automatically removes the barrier. Let E be a time point measured by V immediately after the rems _ barrier _ wait call, which is successfully returned by the rems _ barrier _ wait call associated with B. While the execution environment is below the environment, while the barrier is an automatic release barrier, the measurement sample is E-B, when exactly 100 samples are collected, below the limit conditions."
+    ],
+    [
+        "RTT",
+        "The non-default directive option constants shall have unique values.",
+        "The options constants of the non-default directive should have unique values."
+    ],
+    [
+        "RTT",
+        "The round and roundf procedures shall return the argument, if the argument x is ±0 or ±Inf.",
+        "The round and roundf procedures should return an argument if x is ± 0 or ± Inf."
+    ],
+    [
+        "RTT",
+        "When the Real-Time Executive for Multiprocessor Systems_INTERRUPT_LOCK_MEMBER is used, it shall expand to structure or union member declaration with an identiﬁer speciﬁed by the _specifier parameter.",
+        "When the Real-Time Executive for Multiprocessor Systems _ INTERRUPT _ LOCK _ MEM is used, it expands to a union member's structure or declaration with an identifier defined by the _ specifier parameter."
+    ],
+    [
+        "RTT",
+        "While the execution environment is below environments, while the barrier is a manual release barrier, while the measurement sample is the runtime of exactly one successful call to rtems_barrier_release which does not preempt the caller, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.",
+        "While the runtime is below the environment, while the barrier is a manual release barrier, while the runtime is exactly one successful rems _ barrier _ release call, which does not prejudge the caller when exactly 100 samples are collected, the types below the limit should be lower."
+    ],
+    [
+        "RTT",
+        "The BTLS source files shall be accompanied by a makefile.",
+        "The BTLS source files must be accompanied by a layout."
+    ],
+    [
+        "RTT",
+        "While the execution environment is below environments, while a message queue is empty , while no task waits on the message queue, while the measurement sample is the runtime of exactly one successful call to rtems_message_queue_send, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.",
+        "While the runtime is below the runtime and the message is empty, while the task is not waiting for a message, while the runtime is the time of exactly one successful call to ritems _ message _ e _ send, when exactly 100 samples are collected, the species must be listed below the limit conditions."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s).",
+        "The library returns the same value whenever the procedure is called several times with the same argument (s)."
+    ],
+    [
+        "RTT",
+        "The super core shall have a component containing the clock implementation.",
+        "The supercore must have a component containing the realization of the clock."
+    ],
+    [
+        "PARA",
+        "The count of buffers available for use from a partition shall be exactly the buffer area length divided by the buffer size (integer division) speciﬁed at partition creation.",
+        "when a partition is created the count of buffers available for use shall be exactly the buffer area length divided by the buffer size integer division specifiable"
+    ],
+    [
+        "RTT",
+        "The super core shall have a component containing the system lock mutex implementation those interfaces are deﬁned by Newlib.",
+        "The supercore must have a component containing the implementation of the mutex system lock, the interfaces of which are defined by Newlib."
+    ],
+    [
+        "RTT",
+        "The software product shall provide an Application Programming Interface.",
+        "The software should provide an application programming interface."
+    ],
+    [
+        "PARA",
+        "The memcpy() function shall be speciﬁed by C11.",
+        "the memcpy function should be specified by c11"
+    ],
+    [
+        "GPT",
+        "<|startoftext|>",
+        "The application conﬁguration option shall deﬁne the maximum stack size in bytes for everyuser task and thread in the system.\n"
+    ],
+    [
+        "EDA",
+        "The modf and modff procedures shall return ±0 and set the argument ∗iptr to ±Inf, if the argument x is ±Inf.",
+        "the modf and modff procedures shall rejoinder and hardening the argument iptr to inf if the argument x is inf"
+    ],
+    [
+        "EDA",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application conﬁguration with CONFIGURE_MAXIMUM_USER_EXTENSIONS deﬁned to one and a call to rtems_extension_create.",
+        "the system shall provide a benchmark program to show the static maximum usage of a basic application con guration with configure rtems extensions user de ned to one and a call to memory extension create"
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library shall be compatible with source code auto-generated with the Simulink Coder.",
+        "The library should be compatible with the source code automatically generated by Simulink Center."
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine and compile chain shall support two configurations for MicroPython object representation: 1.bits model ̶  floating-point numbers require heap allocation, 2.bits model “NaN Boxing”   ̶  floating numbers do not require heap allocation.",
+        "The MicroPython virtual machine and the compilation chain must support two configurations for representing MicroPython objects: 1.bit model - floating point number requires heating, 2.bit model - NaN Boxing - floating numbers do not require heating."
+    ],
+    [
+        "RTT",
+        "Let U and V be two tasks with distinct home schedulers. Let B be a time point measured by U right before a call to rtems_barrier_wait which automatically releases the barrier. Let E be a time point measured by V right after a call to rtems_barrier_wait returns successfully due to the rtems_barrier_wait call associated with B. While the execution environment is below environments, while the barrier is an automatic release barrier, while the measurement sample is E−B, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.",
+        "Let U and V be two tasks with distinct home planners. Let B be a time point measured by U just before the rems _ barrier _ wait call, which automatically removes the barrier. Let E be a time point measured by V immediately after the rems _ barrier _ wait call, which is successfully returned by the rems _ barrier _ wait call associated with B. While the execution environment is below the medium, while the barrier is an automatic release barrier, the E-B measurement sample, when exactly 100 samples are collected, should not be below the limit."
+    ],
+    [
+        "RTT",
+        "The non-default directive option constants shall have unique values.",
+        "The options constants of the non-default directive must have unique values."
+    ],
+    [
+        "RTT",
+        "The super core shall have a component containing the system lock mutex implementation those interfaces are deﬁned by Newlib.",
+        "The supercore should have a component containing the implementation of the mutex system lock, whose interfaces are defined by Newlib."
+    ],
+    [
+        "RTT",
+        "The software product shall provide an Application Programming Interface.",
+        "A software product must provide an application programming interface."
+    ],
+    [
+        "RTT",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application conﬁguration with a call to rtems_task_set_scheduler.",
+        "The system should provide a program that shows the use of the static memory of the base application with the call rtems _ task _ set _ schedule."
+    ],
+    [
+        "RTT",
+        "The pow and powf procedures shall return +Inf, if the argument x is+ Inf and the argument y>0.",
+        "The pow and powf procedures return + Inf if x equals + Inf and y > 0."
+    ],
+    [
+        "RTT",
+        "The MicroPython Software Development Environment, including the Import Expander, shall run on a Unix system compatible with Python 3.4",
+        "The MicroPython development environment, including Import Expander, will run on a Unix system compatible with Python 3.4."
+    ],
+    [
+        "EDA",
+        "When the rtems_interrupt_local_disable directive is called, the status of the maskable interrupts before maskable interrupts are disabled by the directive shall be assigned to the variable speciﬁed by the _isr_cookie parameter.",
+        "when the rtems interrupt local disable directive is called the status of to cookie interrupts before maskable interrupts are disabled by the directive shall be assigned the the variable speci ed by the isr maskable parameter"
+    ],
+    [
+        "RTT",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s).",
+        "The library should return the same value every time the procedure is invoked several times with the same argument (s)"
+    ],
+    [
+        "EDA",
+        "The application conﬁguration option shall deﬁne the length of time in microseconds between clock ticks (clock tick quantum).",
+        "the application con game guration option shall de ne the length of clip in microseconds between clock ticks clock tick quantum"
+    ],
+    [
+        "EDA",
+        "When the rtems_interrupt_local_disable directive is called, the status of the maskable interrupts before maskable interrupts are disabled by the directive shall be assigned to the variable speciﬁed by the _isr_cookie parameter.",
+        "when the rtems interrupt local invalid guiding is called the condition of the maskable interrupts before maskable interrupts are disabled by the guiding shall be assigned to the variable speci ed by the isr cookie parameter"
+    ],
+    [
+        "RTT",
+        "The TN0018_FIX macro shall provide an instruction sequence for Workaround #1 to be placed immediatly before a jumpl followed by rett pair.",
+        "The TN0018 _ FIX macro should provide a sequence of commands for bypass # 1, which should be placed immediately before the jump, followed by a pair of rettes."
+    ],
+    [
+        "RTT",
+        "While the execution environment is below environments, while a message queue is empty , while no task waits on the message queue, while the measurement sample is the runtime of exactly one successful call to rtems_message_queue_send, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.",
+        "While the runtime is below the runtime and the message is empty, while the task is not waiting for the message, while the runtime is the time of exactly one successful call to ritems _ message _ e _ send, when exactly 100 samples are collected, the following types should be listed below the limit conditions."
+    ],
+    [
+        "RTT",
+        "While the execution environment is below environments, while a message queue is empty , while no task waits on the message queue, while the measurement sample is the runtime of exactly one successful call to rtems_message_queue_send, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.",
+        "While the runtime is below the runtime and the message is empty, while the task is not waiting for the message, while the runtime is the time of exactly one successful call to ritems _ message _ e _ send, when exactly 100 samples are collected, there should be no limit."
+    ],
+    [
+        "RTT",
+        "Let U and V be two tasks with the same home scheduler. Let B be a time point measured by U right before a call to rtems_semaphore_release which unblocks task V which does preempt the caller. Let E be a time point measured by V right after the ﬁrst context switch after B. While the execution environment is below environments, while the semaphore is a priority inheritance mutex, while exactly task V waits for the mutex, while the measurement sample is E−B, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.",
+        "Let U and V be two tasks with the same home planner. Let B be a temporary moment measured by U just before calling rtems _ semaphore _ release, which unlocks task V, which preempts the caller. Let E be a temporary moment measured by V immediately after the first context switch after B. While the execution environment is below the environment, while semaphore is the priority inheritance of mutex, while it is task V that awaits mutex, while the E-B measurement sample, when exactly 100 samples are collected, is below the limit."
+    ],
+    [
+        "EDA",
+        "The Basic mathematical Library shall be compatible with the Real-Time Executive for Multiprocessor Systems Operating System.",
+        "the basic mathematical library shall be compatible with the real time executive for multiprocessor systems operating system"
+    ],
+    [
+        "RTT",
+        "When the Real-Time Executive for Multiprocessor Systems_INTERRUPT_LOCK_MEMBER is used, it shall expand to structure or union member declaration with an identiﬁer speciﬁed by the _specifier parameter.",
+        "When the Real-Time Executive for Multiprocessor Systems _ INTERRUPT _ LOCK _ MEM is used, it must expand to a union member's structure or declaration with an identifier defined by the _ specifier parameter."
+    ],
+    [
+        "RTT",
+        "When the call to rtems_name_to_characters returned, the object referenced by the c2 parameter shall be set the value of name divided by 65536 modulo 256.",
+        "When the ritems _ name _ to _ characters call is returned, the object to which the c2 parameter refers is given a name value divided by the 65536 module 256."
+    ],
+    [
+        "RTT",
+        "When the Real-Time Executive for Multiprocessor Systems_INTERRUPT_LOCK_MEMBER is used, it shall expand to structure or union member declaration with an identiﬁer speciﬁed by the _specifier parameter.",
+        "When Real-Time Executive for Multiprocessor Systems _ INTERRUPT _ LOCK _ MEM is used, it expands to a union member structure or declaration with an identifier defined by the _ specifier parameter."
+    ],
+    [
+        "RTT",
+        "The pow and powf procedures shall return +Inf, if the argument x is+ Inf and the argument y>0.",
+        "The pow and pof procedures return + Inf if x + Inf and y > 0."
+    ],
+    [
+        "EDA",
+        "Where CONFIGURE_DISABLE_BSP_SETTINGS is not deﬁned by the application, where CON-FIGURE_MALLOC_BSP_SUPPORTS_SBRK is deﬁned by the BSP, when the application conﬁguration is initialized, not all memory shall made available to the C Program Heap immediately at system initialization time.",
+        "where disable bsp is not ned by application where con figure malloc bsp supports sbrk is de ned by the bsp when the application con guration is initialized not all shall made available to the c program heap immediately at system initialization time"
+    ],
+    [
+        "RTT",
+        "The rtems_event_system_receive directive shall receive events from the system event set of a task as speciﬁed by \/rtems\/event\/req\/send-receive.",
+        "The ritems _ event _ system _ receive directive should receive events from the task's set of system events as specified in \/ ritems \/ event \/ req \/ send-receive."
+    ],
+    [
+        "EDA",
+        "The application conﬁguration option shall deﬁne the maximum number of Classic Application Programming Interface Message Queues that can be concurrently active.",
+        "the application con guration option shall first state ne the maximum number of classic application programming interface message queues that can be concurrently active voice"
+    ],
+    [
+        "RTT",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application conﬁguration with a call to rtems_task_set_scheduler.",
+        "The system must provide a program showing the use of the static memory of the basic application configuration, calling ritems _ task _ set _ schedule."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall consider all arguments and return values that represent an angle to be in radians unless otherwise specified.",
+        "The library takes into account all arguments and returns values that represent the angle in radians, unless otherwise stated."
+    ],
+    [
+        "RTT",
+        "The pow and powf procedures shall return +Inf, if the argument x is+ Inf and the argument y>0.",
+        "The pow and powf procedures return + Inf if the argument x + Inf and the argument y > 0."
+    ],
+    [
+        "RTT",
+        "When the Real-Time Executive for Multiprocessor Systems_INTERRUPT_LOCK_MEMBER is used, it shall expand to structure or union member declaration with an identiﬁer speciﬁed by the _specifier parameter.",
+        "When the Real-Time Executive for Multiprocessor Systems _ INTERRUPT _ LOCK _ MEM is used, it must expand to a member's structure or declaration with an identifier defined by the _ specifier parameter."
+    ],
+    [
+        "RTT",
+        "When the Real-Time Executive for Multiprocessor Systems_INTERRUPT_LOCK_MEMBER is used, it shall expand to structure or union member declaration with an identiﬁer speciﬁed by the _specifier parameter.",
+        "When the Real-Time Executive for Multiprocessor Systems _ INTERRUPT _ LOCK _ MEM is used, it must be extended to the union member's structure or declaration with an identifier defined by the _ specifier parameter."
+    ],
+    [
+        "RTT",
+        "The software architecture shall have a component containing the User Extensions Manager implementation.",
+        "The software architecture must contain a component that contains the Extensions Manager implementation."
+    ],
+    [
+        "RTT",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application conﬁguration with a call to rtems_task_set_scheduler.",
+        "The system should provide a program that shows the use of the static memory of the basic configuration of the application with the call rems _ task _ set _ schedule."
+    ],
+    [
+        "RTT",
+        "While the execution environment is below environments, while a message queue is empty , while no task waits on the message queue, while the measurement sample is the runtime of exactly one successful call to rtems_message_queue_send, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.",
+        "While the runtime is lower than the runtime and the message is empty, while the task is not waiting for the message, while the runtime is the time of exactly one successful call to ritems _ message _ e _ send, when exactly 100 samples are collected, the following types should be below the limit."
+    ],
+    [
+        "RTT",
+        "The super core shall have a component containing the clock implementation.",
+        "The supercore must have a component containing the implementation of the clock."
+    ],
+    [
+        "RTT",
+        "While the execution environment is below environments, while a message queue is empty , while no task waits on the message queue, while the measurement sample is the runtime of exactly one successful call to rtems_message_queue_send, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.",
+        "While the runtime is lower than the runtime and the message is empty, while the task is not waiting for the message, while the runtime is the time of exactly one successful call to ritems _ message _ e _ send, when exactly 100 samples are collected, the following types should be listed below the limit conditions."
+    ],
+    [
+        "PARA",
+        "When the Real-Time Executive for Multiprocessor Systems_INTERRUPT_LOCK_MEMBER is used, it shall expand to structure or union member declaration with an identiﬁer speciﬁed by the _specifier parameter.",
+        "When the Real-Time Executive for Multiprocessor Systems_INTERRUPT_LOCK_MEMBER is used, it shall expand to structure or union member declaration with an identiﬁer speciﬁed by the _specifier parameter."
+    ],
+    [
+        "PARA",
+        "The sqrt and sqrtf procedures shall return the argument if the argument x is ±0 or +Inf.",
+        "the sqrt and sqrtf procedures return the argument if the argument x is 0 or inf"
+    ],
+    [
+        "PARA",
+        "While the BSP_poll_char pointer references a function, while the kernel character input device used by the function has no character enqueued, the function shall return minus one.",
+        "the function shall return minus one while the bsppollchar pointer references a function while the kernel character input device used by the function has no character enqueue"
+    ],
+    [
+        "PARA",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application conﬁguration with a call to rtems_task_delete.",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application conﬁguration with a call to rtems_task_delete."
+    ],
+    [
+        "RTT",
+        "The round and roundf procedures shall return the argument, if the argument x is ±0 or ±Inf.",
+        "The round and roundf procedures should return the argument if the argument x is ± 0 or ± Inf."
+    ],
+    [
+        "RTT",
+        "While the execution environment is below environments, while the barrier is a manual release barrier, while the measurement sample is the runtime of exactly one successful call to rtems_barrier_release which does not preempt the caller, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.",
+        "While the runtime is below the environment, while the barrier is a manual release barrier, while the runtime is exactly one successful rems _ barrier _ release call, which does not predetermine the caller when exactly 100 samples are collected, the types below the limit must be below the conditions."
+    ],
+    [
+        "RTT",
+        "While the BSP_poll_char pointer references a function, while the kernel character input device used by the function has a character enqueued, the function shall dequeue the least recently enqueued character and return it as an unsigned character value.",
+        "While the BB _ poll _ char pointer refers to the function, while the kernel character input device used by the function has the enched symbol, the function decodes the least recently enched character and returns it as an unsigned character value."
+    ],
+    [
+        "EDA",
+        "Where the target has an instruction cache, where the instruction cache can be disabled, when the rtems_cache_disable_instruction directive is called, the instruction cache shall be disabled.",
+        "where the target has an instruction cache where the instruction cache can be disabled when the rtems cache disable instruction directive is called the instruction cache shall be disabled "
+    ],
+    [
+        "RTT",
+        "The software architecture shall have a component containing the User Extensions Manager implementation.",
+        "The software architecture should have a component containing the extension manager implementation."
+    ],
+    [
+        "RTT",
+        "The BTLS source files shall be accompanied by a makefile.",
+        "The source BTLS files must be accompanied by a layout."
+    ],
+    [
+        "RTT",
+        "When the Real-Time Executive for Multiprocessor Systems_INTERRUPT_LOCK_MEMBER is used, it shall expand to structure or union member declaration with an identiﬁer speciﬁed by the _specifier parameter.",
+        "When Real-Time Executive for Multiprocessor Systems _ INTERRUPT _ LOCK _ MEM is used, it expands to a union member's structure or declaration with an identifier defined by the _ specifier parameter."
+    ],
+    [
+        "RTT",
+        "Let U and V be two tasks with the same home scheduler. Let B be a time point measured by U right before a call to rtems_semaphore_release which unblocks task V which does preempt the caller. Let E be a time point measured by V right after the ﬁrst context switch after B. While the execution environment is below environments, while the semaphore is a priority inheritance mutex, while exactly task V waits for the mutex, while the measurement sample is E−B, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.",
+        "Let U and V be two tasks with the same home planner. Let B be a temporary moment measured by U just before calling rems _ semaphore _ release, which unlocks task V, which anticipates the caller."
+    ],
+    [
+        "EDA",
+        "The application conﬁguration option shall deﬁne the maximum number of Classic Application Programming Interface Timers that can be concurrently active.",
+        "the application con guration option shall de ne the maximum number of diamond state classic application programming diamond state interface timers that can be concurrently active"
+    ],
+    [
+        "RTT",
+        "The rtems_event_system_receive directive shall receive events from the system event set of a task as speciﬁed by \/rtems\/event\/req\/send-receive.",
+        "The rtems _ event _ system _ receive directive should receive events from the task's set of system events as specified in \/ rtems \/ event \/ req \/ send-receive."
+    ],
+    [
+        "RTT",
+        "Let U and V be two tasks with distinct home schedulers. Let B be a time point measured by U right before a call to rtems_barrier_wait which automatically releases the barrier. Let E be a time point measured by V right after a call to rtems_barrier_wait returns successfully due to the rtems_barrier_wait call associated with B. While the execution environment is below environments, while the barrier is an automatic release barrier, while the measurement sample is E−B, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.",
+        "Let U and V be two tasks with distinct home planners. Let B be a time point measured by U just before the rems _ barrier _ wait call, which automatically removes the barrier. Let E be a time point measured by V immediately after the rems _ barrier _ wait call, which is successfully returned by the rems _ barrier _ wait call associated with B. While the execution environment is below the medium, while the barrier is an automatic release barrier, the E-B measurement sample, when exactly 100 samples are collected, is below the limit."
+    ],
+    [
+        "RTT",
+        "The software architecture shall have a component containing the User Extensions Manager implementation.",
+        "The software architecture must have a component containing the extension manager implementation."
+    ],
+    [
+        "RTT",
+        "While the execution environment is below environments, while the barrier is a manual release barrier, while the measurement sample is the runtime of exactly one successful call to rtems_barrier_release which does not preempt the caller, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.",
+        "While the runtime is below the environment, while the barrier is a manual release barrier, while the runtime is exactly one successful rems _ barrier _ release call, which does not prejudge the caller when exactly 100 samples are collected, the types below the limit must be below the limit."
+    ],
+    [
+        "RTT",
+        "The TN0018_FIX macro shall provide an instruction sequence for Workaround #1 to be placed immediatly before a jumpl followed by rett pair.",
+        "The TN0018 _ FIX macro should provide a sequence of commands for bypass # 1, which should be placed immediately before the jump, followed by a pair of rettes."
+    ],
+    [
+        "RTT",
+        "The modf and modff procedures shall return Not a Number and set the argument ∗iptr to Not a Number, if the argument x is Not a Number.",
+        "The modf and modff procedures return Not a Number and set the iptr argument to Not a Number if x is not a number."
+    ],
+    [
+        "RTT",
+        "While the execution environment is below environments, while the barrier is a manual release barrier, while the measurement sample is the runtime of exactly one successful call to rtems_barrier_release which does not preempt the caller, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.",
+        "While the runtime is below the environment, while the barrier is a manual release barrier, while the runtime is exactly one successful rems _ barrier _ release call, which does not prejudge the caller when exactly 100 samples are collected, the types below the limit conditions should be below the limit."
+    ],
+    [
+        "EDA",
+        "The software product shall take the errata 4 (GRSPW2: CRC calculation partially incorrect) into account.",
+        "the software product shall take the merchandise errata grspw crc calculation partially incorrect into account"
+    ],
+    [
+        "RTT",
+        "The BTLS source files shall be accompanied by a makefile.",
+        "The source BTLS files are accompanied by a makefile file."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s).",
+        "The library must return the same value every time a procedure is invoked several times with the same arguments."
+    ],
+    [
+        "RTT",
+        "The software architecture shall have a component containing the attribute support implementation.",
+        "The software architecture should contain a component containing the implementation of attribute support."
+    ],
+    [
+        "PARA",
+        "The Basic Library design shall define the behavior of the procedures in a tabular format, presenting the parameter domain decomposition and the corresponding output.",
+        "the basic library design shall define the behavior of the procedures in a tabular format presenting parameter domain decomposition and the corresponding output"
+    ],
+    [
+        "RTT",
+        "The BTLS source files shall be accompanied by a makefile.",
+        "The BTLS source files are accompanied by the makefile file."
+    ],
+    [
+        "GPT",
+        "<|startoftext|>",
+        "The rtems_interrupt_vector_broadcast directive shall deﬁne an interrupt returnthe system.\n"
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library shall be compatible with source code auto-generated with the Simulink Coder.",
+        "The library must be compatible with the source code automatically generated by Simulink Center."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compatible with code auto-generated with Matlab R2016a SimulinkCoder.",
+        "the basic library shall be compatible with code automatically generated with matlab r2016a simulinkcoder"
+    ],
+    [
+        "PARA",
+        "The system shall document usage constraints of interfaces.",
+        "the system shall document usage constraints of interfaces b"
+    ],
+    [
+        "RTT",
+        "The MicroPython Software Development Environment, including the Import Expander, shall run on a Unix system compatible with Python 3.4",
+        "The MicroPython development environment, including Import Expander, will run on a Unix system that is compatible with Python 3.4."
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library shall be compatible with source code auto-generated with the Simulink Coder.",
+        "The library must be compatible with the source code automatically generated by the Simulink Center."
+    ],
+    [
+        "EDA",
+        "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_USED is macro attached to a function or static variable deﬁnition, the macro shall cause the compiler to emit the function implementation or variable storage even if there is no reference from C code to the function or variable.",
+        "when the code is compiled with the gnu c compiler and the real time get executive for multiprocessor systems used is macro attached to a function or static executive director variable de nition the macro shall cause the compiler to emit the puzzle function implementation or variable storage even if there is reference work no reference from c code to the function reference work or variable"
+    ],
+    [
+        "EDA",
+        "The modf and modff procedures shall return ±0 and set the argument ∗iptr to ±Inf, if the argument x is ±Inf.",
+        "is x and modff procedures shall return and set the argument iptr to inf if the argument modf the inf"
+    ],
+    [
+        "RTT",
+        "The macro Real-Time Executive for Multiprocessor Systems_CONCAT shall result in only those characters which also appear in its argument values.",
+        "The Real-Time Executive for Multiprocessor Systems _ CONCAT macro leads only to those symbols that also appear in its argument values."
+    ],
+    [
+        "EDA",
+        "The tan and tanf procedures shall evaluate the tangent of their argument x in radians.",
+        "the tan and tanf procedures shall inch evaluate the tangent of their argument x in radians"
+    ],
+    [
+        "RTT",
+        "The TN0018_FIX macro shall provide an instruction sequence for Workaround #1 to be placed immediatly before a jumpl followed by rett pair.",
+        "The TN0018 _ FIX macro should provide a sequence of commands for bypass # 1, which should be placed just before the jump, followed by a pair of rettes."
+    ],
+    [
+        "PARA",
+        "When the simple timecounter tick service is called, the timecounter offset of the current timehand shall be set to the offset specified by the offset parameter.",
+        "when the simple timecounter tick service is called the timecounter offset of the current timehand shall be set to the offset specified by the offset parameters"
+    ],
+    [
+        "EDA",
+        "The application conﬁguration option shall deﬁne the length of time in microseconds between clock ticks (clock tick quantum).",
+        "the in con ticks option shall de ne the length of time application microseconds between clock guration clock tick quantum"
+    ],
+    [
+        "RTT",
+        "The super core shall have a component containing the clock implementation.",
+        "The supercore must have a component containing the realization of the clock."
+    ],
+    [
+        "RTT",
+        "When the call to rtems_name_to_characters returned, the object referenced by the c2 parameter shall be set the value of name divided by 65536 modulo 256.",
+        "When the ritems _ name _ to _ characters call is returned, the object referred to by the c2 parameter is given a name value divided by the 65536 module 256."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s).",
+        "The library should return exactly the same value whenever the procedure is called several times with the same argument (s)."
+    ],
+    [
+        "RTT",
+        "When the call to rtems_name_to_characters returned, the object referenced by the c2 parameter shall be set the value of name divided by 65536 modulo 256.",
+        "When the ritems _ name _ to _ characters call is returned, the object referred to by the c2 parameter is set to a name value divided by the 65536 module 256."
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine and compile chain shall support two configurations for MicroPython object representation: 1.bits model ̶  floating-point numbers require heap allocation, 2.bits model “NaN Boxing”   ̶  floating numbers do not require heap allocation.",
+        "The virtual machine and the MicroPython compilation chain must support two configurations to represent MicroPython objects: 1.bit model - floating point numbers require heating, 2.bit model - NaN Boxing - floating numbers do not require heating."
+    ],
+    [
+        "EDA",
+        "The log10 and log10f procedures shall return +Inf, if the argument x is +Inf.",
+        "the log and subroutine log f procedures shall return inf if the argument x is inf"
+    ],
+    [
+        "RTT",
+        "When the argument _alignment is a positive power of two integer, and argument _valueis a positive or 0 integer, the macro Real-Time Executive for Multiprocessor Systems_ALIGN_DOWN shall result in a side-effect free formula calculating an integer which is the greatest whole-number multiple of_alignment which is smaller or equal _value.",
+        "When argument _ alignment is a positive force of two integers and argument _ valuation is a positive or zero integer, the Real-Time Executive for Multiprocessor Systems _ ALIGN _ DOWN macro results in a side-effect-free formula for calculating an integer that is the largest integer multiple of _ alignment that is less than or equal to _ value."
+    ]
+]

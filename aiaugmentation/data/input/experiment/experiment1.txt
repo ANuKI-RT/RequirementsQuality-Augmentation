@@ -1,0 +1,101 @@
+
+The tan and tanf procedures shall use a minimax polynomial for the calculation. 
+Test Suite Executable executable size shall not exceed 1024 kB.
+The log and logf procedures shall return +0, if the argument x is 1.
+The trunc and truncf procedures shall return Not a Number, if the argument x is Not a Number.
+The BSPs shall be a software architecture component containing the implementation specificto targets and devices.
+Each function provided by the rtems module and its sub-modules (see above) shall check the returned status code of the underlying RTEM S C functions. If this return code is not Real-Time Executive for Multiprocessor Systems_SUCCESSFUL then the function shall raise a Python OSError exception with a single argument, which is the string corresponding to the rtems_status_code.
+The application configuration option shall define the maximum number of Classic Application Programming Interface Tasks that can be concurrently active.
+The MicroPython Virtual Machine source code and/or compile chain shall contain configuration parameters to account for constraints of specific hardware target (e.g. ROM / RAM size) or for selecting a specific trade-off for a given target.
+While the mutex is not available, while the timeout parameter does not specify a valid absolute CLOCK_REALTIME time point, if an attempt to acquire the mutex is made, then the directive shall immediately return with a status code of EINVAL.
+The timecounter component shall provide the CLOCK_MONOTONIC.
+The system shall provide a benchmark program to show the static memory usage of a basic application configuration.
+The _Mutex_Acquire() directive shall seize the mutex as specified by /score/mtx/req/seize-wait.
+While the system is initialized, if the data cache snooping is disabled on the boot processor, then the system shall terminate with the Real-Time Executive for Multiprocessor Systems_FATAL_SOURCE_BSP fatal source and the LEON3_FATAL_INVALID_CACHE_CONFIG_BOOT_PROCESSOR fatal code. 
+Where the system needs interprocessor interrupts, if a thread dispatch is done with maskable interrupts disabled, then the system shall terminate with the INTERNAL_ERROR_CORE fatal source and the INTERNAL_ERROR_BAD_THREAD_DISPATCH_ENVIRONMENT fatal code.
+The log and logf procedures shall return Not a Number, if the argument x is Not a Number.
+The result of rtems_object_get_local_node shall be equal to the local node number.
+The archived results shall also contain configuration information previously set by the user in order to permit the reproducibility of the test. Remark: Will be archived, at least: test input files, produced and used binaries, intermediary and log files, result documents.
+The directives to get time values in a coarse resolution shall not use the currently installed timecounter.
+The asin and asinf procedures shall return Not a Numbe rif the argument is not in the range [-1, 1]. 
+When the rtems_scheduler_get_processor directive is called, the directive shall return the return value of a call to rtems_scheduler_get_processor.
+When the code is compiled with the GNU C compiler, and the produced target file format is ELF or a.out, and the Real-Time Executive for Multiprocessor Systems_WEAK macro is part of a function definition at global scope or variable definition at global scope, and there is another symbol at global scope with the same name as the above mentioned function or variable, and this other symbol is not defined with the Real-Time Executive for Multiprocessor Systems_WEAK macro or otherwise defined or declared weak, and both functions or variables have the same type, and in case of variables both variables have the same alignment and storage size, the macro shall cause the code to behave as if the function or variable defined with the Real-Time Executive for Multiprocessor Systems_WEAK macro does not exist.  
+The tan and tanf procedures shall return the value of the argument if the argument is ±0.
+For each test execution, the Basic mathematical Library TS shall use as input a test configuration file which contains at least this information: - Name of the function(s) to be tested - Type of the test  - Tested values and expected values for single value tests - Range of parameter values for the tests that need sweeping the function parameter values  - Any other configuration parameter needed to run the tests.
+Basic mathematical Library Test Suite shall be implemented in ISO C99 / C++11.
+The Basic mathematical Library Test Suite shall run in batch and manual modus.
+While the execution environment is below environments, while the measurement sample is the runtime of exactly one successful call to rtems_task_set_scheduler which moves the task to the home scheduler of the caller which does not preempt the caller, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.
+The rtems_event_system_receive directive shall receive events from the system event set of a task as specified by /rtems/event/req/send-receive.
+After being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.
+The non-default directive option constants shall have unique values.
+When the argument value of _level consists of a sequence of i* and the type of the other argument has i or less than i nested pointers (for example * for a pointer to int, ** for apointer to a pointer of int, *** for a pointer to a pointer to a pointer to int), and_target is either a pointer type (possibly with qualifiers) or an expression of such a pointer type, the macro Real-Time Executive for Multiprocessor Systems_TYPEOF_REFX shall result in a type expression which is the type of argument_target with the given number of pointers removed.
+The Basic mathematical Library shall have a configurable modus to handle denormal arguments as zero.
+The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.
+While the Real-Time Executive for Multiprocessor Systems_SCHEDULER_ASSIGN_PROCESSOR_OPTIONAL define is used as the second parameter in the Real-Time Executive for Multiprocessor Systems_SCHEDULER_ASSIGN() macro in an entry of a CONFIG-URE_SCHEDULER_ASSIGNMENTS application configuration option value, the presence of the processor associated with the entry in the target shall be optional.
+The system shall provide a benchmark program to show the static memory usage of a basic application configuration with a call to rtems_scheduler_add_processor.
+MicroPython shall support the following built-in types, as defined in Python 3.4: bool int float str object super type
+The MicroPython Software Development Environment shall provide a preprocessing tool called "Import Expander". The Import Expander shall take a given Micr oPython script in input and it shall generate a semantically equivalent MicroPython script by replacing import statements by the content of the corresponding MicroPython source files, provided  that these modules are not C extensions. This process shall be recursive, in case the imported  modules themselves contain import statements.
+The MicroPython Virtual Machine and compile chain shall allow building MicroPython Virtual Machine without support of memtime  and rtems  modules/submodules
+The Basic mathematical Library shall not rely on the presence of the Fused Multiply-Addoperation for algorithm optimization.
+The value of macro Real-Time Executive for Multiprocessor Systems_DEFAULT_OPTIONS shall be equal to the value of expression Real-Time Executive for Multiprocessor Systems_WAIT .
+When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_PREDICT_FALSE macro is used as a conditional in if-expressions and loop expressions, and _exp after undergoing all possible C pre-processor substitutions is an integral expression, the macro shall cause the compiler to assume that by the percentage of cases defined by builtin-expect-probability the expression evaluates to 0.
+Where the target has an instruction cache, where the instruction cache can be enabled, when the rtems_cache_enable_instruction directive is called, the instruction cache shall be enabled.
+The copysign and copysignf procedures shall compute a new number with the magnitude of the argument x and the the sign of y.
+The tan and tanf procedures shall return Not a Number, if the argument is ±Inf.
+While the execution environment is below environments, while the measurement sample is the runtime of exactly one successful call to rtems_task_set_scheduler which changes the scheduler of the caller, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.
+MicroPython shall allow for using custom modules developed in C.
+The software product shall take the errata 8 (LEON3FT Cache Controller: Incorrect Bus Access After Power-Down) into account.
+The macro Real-Time Executive for Multiprocessor Systems_CONCAT shall result in only those characters which also appear in its argument values.
+When the code is compiled with a C compiler and the __STDC_VERSION__ symbol is defined with version 201112L or higher or the code is compiled with a C++ compiler and the __cplusplus symbol is defined with version 201103L or higher, when the argument_type_name is an array type with none constant size expression, the macro Real-Time Executive for Multiprocessor Systems_ALIGNOF shall not evaluate the size expression.
+The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].
+The atan2 and atan2f procedures shall return ±0, if the argument y is ±0 and the argument x is +0.
+When the code is compiled with the GNU C compiler, and the produced target file format is ELF or a.out, and argument _target is a name of a function, and the macro Real-Time Executive for Multiprocessor Systems_WEAK_ALIAS call is in the same compilation unit as the function, and the macro is not used in block scope, and the macro is used in this form: <return-type>newname([argument-type-list]) Real-Time Executive for Multiprocessor Systems_WEAK_ALIAS(oldname);, and the <return-type> and argument-type-list match the signature of the function oldname , and there is no other function symbol at global scope with the same name as newname , the Real-Time Executive for Multiprocessor Systems_WEAK_ALIAS macroshall cause the compiler to create an additional name ( newname in the syntax) for the function given as argument _target .
+The thread begin user extensions shall be invoked in extension forward order.
+While the execution environment is below environments, while the semaphore is a priority inheritance mutex, while the measurement sample is the runtime of exactly one successful call to rtems_semaphore_release which does unblock exactly one waiting task which does not preempt the caller, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.
+The pow and powf procedures shall return Not a Number if the argument x is < 0 and finite, and the argument y is a finite, non-integer value. 
+The fmod and fmodf procedures shall return the argument x, if the argument x is not ± Inf and the argument y is ±Inf.
+When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_USED is macro attached to a function or static variable definition, the macro shall cause the compiler to emit the function implementation or variable storage even if there is no reference from C code to the function or variable.
+The rtems_configuration_get_stack_allocate_hook directive shall return the address of the task stack allocator which is used to allocate the stack for a task which is not an IDLE task.
+When an attempt to recursively acquire the mutex is made, the directive shall immediately return with a status code of EBUSY.
+The application configuration option shall define the maximum number of Classic Application Programming Interface Message Queues that can be concurrently active.
+The exp and expf procedures shall return 1 if the argument x is ±0.
+The software architecture shall have a component containing the Signal Manager implementation.
+The application configuration option shall define the name of the Classic Application Programming Interface initialization task.
+While the timehand is updated, when the NTP handler is called, the value returned by the new sec parameter shall define the seconds value of the CLOCK_REALTIME time point of the timehand.
+The Basic mathematical Library shall provide best practices to develop S-function wrappers for all its procedures.
+The acos and acosf procedures shall return Not a Number, if the argument x is not in the range [-1,1]. 
+While an iteration over all tasks was started by calling rtems_task_iterate, while no task exists which was not visited, the iteration shall stop and then the object allocator lock shall be released.
+Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.
+The rtems_configuration_get_ticks_per_timeslice directive shall return the number of clockticks per timeslice.
+While the system is initialized, if the start of an optional processor defined by the application configuration fails, then the system initialization shall continue.
+When the Real-Time Executive for Multiprocessor Systems_INTERRUPT_ENTRY_INITIALIZER is used to statically initialize an object of type rtems_interrupt_entry, the next member of the object shall be initialized to a value equal to NULL.
+Let T be the seconds value of the CLOCK_REALTIME time point of the timehand which is currently updated, let S be the seconds value of the CLOCK_REALTIME time point of the previous timehand, let D be T minus S, while the NTP handler is not NULL, while D is greater than 200, while the timehand is updated, the NTP handler shall be called exactly two times.
+While the fatal source is not Real-Time Executive for Multiprocessor Systems_FATAL_SOURCE_Symmetric Multiprocessing or the fatal code is not Symmetric Multiprocessing_SHUTDOWN_RESPONSE, while all shutdown requests were issued, the bsp_fatal_extension() directive shall wait for at most approximately one millisecond for the power down response of all other configured and present processors.
+The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. 
+The pow and powf procedures shall return +0, if the argument x is -Inf and the argument y is <0 and not an odd integer. 
+The shared BSP support shall be a component containing functions used by multiple targets.
+The Basic Library shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating-point datums.
+The fatal user extensions shall be invoked in extension forward order.
+Basic mathematical Library Test Suite shall allow tests that adjust the value of the functions parameters by sweeping the parameter values through a user defined range.
+The _Mutex_Release() directive shall surrender the mutex as specified by/score/mtx/req/surrender.
+The macro TRUE shall result in the text 1.
+While the timeout parameter specifies a valid absolute CLOCK_REALTIME time point, while the mutex is not avaiable at the specified time point, the directive shall return with a statuscode of ETIMEDOUT.
+The /rtems/task/if/no-priority constant shall expand to a constant expression which evaluates to the value of Real-Time Executive for Multiprocessor Systems_CURRENT_PRIORITY.
+The Real-Time Executive for Multiprocessor Systems_PARTITION_ALIGNMENT constant shall expand to a constant expression which evaluates to the value of CPU_SIZEOF_POINTER.
+The sin and sinf procedures shall return Not a Number if x is ±Inf.
+The trunc and truncf procedures shall return the argument, if the argument x is ±0 or ±Inf.
+The system shall provide a benchmark program to show the static memory usage of a basic application configuration with calls to rtems_timer_create and rtems_timer_fire_when.
+While no timecounter is installed, the CLOCK_MONOTONIC shall remain at the initial value.
+High level test report documents in html/xml format contains:  - Target information - Basic mathematical Library information - Basic mathematical Library Test Suite and toolchain information - Name of the function tested - Description of the test type selected - Summarisation section containing information interpreting the results of the suite of tests. - Depending of type of the test, for each function may be provided several types of graphs, e.g. ULP, absolute and relative error vs argument value.
+The Basic mathematical Library shall be tested on a LEON2, a LEON4, and a x86-64 platformfor its reproducibility.
+The log10 and log10f procedures shall return -Inf if the argument x is ±0.
+The value of macro Real-Time Executive for Multiprocessor Systems_DEFAULT_ATTRIBUTES shall be equal to the value of expression Real-Time Executive for Multiprocessor Systems_FIFO | Real-Time Executive for Multiprocessor Systems_LOCAL.
+Basic mathematical Library Test Suite shall be reusable and shall not make use of commercial third party software.
+The mutex may be acquired recursively.
+Where the target has a data cache, where the data cache can be ﬂushed and invalidated, when the rtems_cache_invalidate_entire_data directive is called, the data cache shall be ﬂushed and invalidated.
+The pow and powf procedures shall return +Inf, if |x|>1 and the argument y is +Inf.
+The rtems_configuration_get_maximum_message_queues directive shall return the maximum number of objects managed by the @ref Real-Time Executive for Multiprocessor SystemsApplication Programming InterfaceClassicMessage that can be concurrently active.
+Basic mathematical Library Test Suite shall support the automatically build of the target-native binaries on the host machine for the functions selected for test, based on a user adapted build script for specific target.
+The Virtual Machine test suite shall be automated.
+While the thread dispatch disable level is not equal to one, if a direct thread dispatch is done, then the system shall terminate with the INTERNAL_ERROR_CORE fatal source and the INTERNAL_ERROR_BAD_THREAD_DISPATCH_DISABLE_LEVEL fatal code.
+The Real-Time Executive for Multiprocessor Systems_ID_NONE constant shall be a constant expression which evaluates to an invalid object identifier.

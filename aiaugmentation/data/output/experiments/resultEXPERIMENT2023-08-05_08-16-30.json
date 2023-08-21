@@ -1,0 +1,47 @@
+[
+    [
+        "RTT",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. \n",
+        "The library should not use the built-in Floating Point Unit functions to evaluate a mathematical function."
+    ],
+    [
+        "EDA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). ",
+        "the basic library shall call up return the exact same value whenever a procedure is called arguing multiple times with the same argument s"
+    ],
+    [
+        "EDA",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop. ",
+        "the point library shall never cause either cpu or floating basic unit to stop"
+    ],
+    [
+        "RTT",
+        "The Basic Library shall provide a justification for not respected required rules in MISRA C:2012[RD06]. \n",
+        "The library should provide a justification for non-compliance in MISRA C: 2012 [RD06]."
+    ],
+    [
+        "RTT",
+        "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation for algorithm optimization. \n",
+        "The library should not rely on the Fused Multiply-Add operation for algorithmization."
+    ],
+    [
+        "EDA",
+        "The Basic Library shall comply to required metric ‘User documentation completeness’ proposedby European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. ",
+        "the basic user shall comply library required metric to documentation completeness proposedby european cooperation for space standardization hb q rd with their proposed targets"
+    ],
+    [
+        "RTT",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normal numbers.\n",
+        "The library should be able to convert to a mode that reflects the behavior of the Floating Point Unit with respect to abnormal numbers if the Floating Point Unit does not treat abnormal numbers in the same way as normal numbers."
+    ],
+    [
+        "EDA",
+        "The Basic Library shall comply to the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. ",
+        "the basic library shall follow to the mandatory metrics supply by european cooperation for space standardization hb q rd with their proposed targets"
+    ],
+    [
+        "RTT",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. \n",
+        "The source code of the library must comply with the rules described in MISRA C: 2012 [RD06]."
+    ]
+]

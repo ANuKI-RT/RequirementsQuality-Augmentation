@@ -1,0 +1,272 @@
+[
+    [
+        "PARA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). ",
+        "the basic library shall return the exact same value whenever a procedure is called multiple times with the same arguments "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). ",
+        "the basic library shall return the exact same value every time a procedure is called multiple times with the same arguments"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall comply to the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. ",
+        "The Basic Library shall comply to the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. "
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. ",
+        "it shall comply with the mandatory and required rules depicted in misra c2012 rd06"
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be delivered as a collection of C source files.",
+        "the source of the basic library shall be delivered as a collection of c source files "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. ",
+        "it shall not use built-in floating point unit functions for elementary mathematics function evaluation"
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be delivered as a collection of C source files.",
+        "the basic library source shall be delivered as a collection of c source files"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). ",
+        "when a procedure is called multiple times with the same arguments the basic library shall return the same value "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normal numbers.",
+        "if the floating point unit does not handle subnormal numbers the same as normal numbers the basic library shall be able to convert to a modus that mirrors the behaviour of the floating point units"
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be delivered as a collection of C source files.",
+        "the source of the basic library shall be delivered as a collection of c source files"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). ",
+        "it shall return the exact same value whenever a procedure is called with the same arguments multiple times -"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop. ",
+        "the basic library shall never cause a cpu or floating point unit to stop"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. ",
+        "the basic library shall not use built-in floating point unit functions for elementary math function evaluation"
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. ",
+        "the basic library source shall be compliant with the mandatory and required rules depicted in misra c2012 rd06"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop. ",
+        "in the basic library no cpu or floating point unit shall stop"
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. ",
+        "the basic library source shall comply with the mandatory and required rules depicted in misra c2012 rd06"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normal numbers.",
+        "the basic library shall be able to convert to a modus that mirrors the behavior of floating point units regarding subnormal numbers in case the floating point unit does not handle subnormal numbers the same as normal numbers"
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be delivered as a collection of C source files.",
+        "the basic library source shall be delivered as a collection of source files in c"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). ",
+        "when a procedure is called multiple times with the same arguments the basic library shall return the same value"
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be delivered as a collection of C source files.",
+        "the main source of the basic library shall be delivered as a collection of c source files"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop. ",
+        "the basic library shall never cause the cpu or floating point unit to stop"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normal numbers.",
+        "if the floating point unit does not handle subnormal numbers the same as normal numbers the basic library shall be able to convert to a modus that mirrors the floating point unit's behaviour"
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. ",
+        "the basic library source shall be compliant with the mandatory and required rules depicted in misra c 2012 rd06"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation for algorithm optimization. ",
+        "the basic library shall not rely on the presence of fused multiply-add fused multiply-add operation for algorithm optimization"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop. ",
+        "in the basic library the cpu or floating point unit shall not stop"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). ",
+        "it shall return the exact same value whenever a procedure is called with the same arguments multiple times"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). ",
+        "the basic library shall return the exact same value whenever a procedure is called with the same arguments multiple times"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normal numbers.",
+        "if the floating point unit does not handle subnormal numbers the same as normal numbers the basic library shall be able to convert to a modus that mirrors the behaviour of floating point units"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation for algorithm optimization. ",
+        "it shall not rely on the presence of the fused multiply add fused multiply add operation for algorithm optimization"
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. ",
+        "it shall be compliant with the mandatory and required rules depicted in misra c2012 rd06"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normal numbers.",
+        "the basic library shall be able to convert to a modus that mirrors the behaviour of floating point units regarding subnormal numbers in case the floating point unit does not handle subnormal numbers the same as normal numbers"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall comply to required metric ‘User documentation completeness’ proposedby European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. ",
+        "The Basic Library shall comply to required metric ‘User documentation completeness’ proposedby European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. "
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. ",
+        "the basic library source shall be compliant with the mandatory and required rules depicted in misra c2012 rd06 "
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be delivered as a collection of C source files.",
+        "the basic library source shall be provided as a collection of c source files"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation for algorithm optimization. ",
+        "the basic library shall not rely on the presence of the fused multiply add fused multiply add operation for algorithm optimization"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). ",
+        "the basic library shall return the exact same value when a procedure is called multiple times with the same arguments"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. ",
+        "it shall not use built-in floating point unit functions for elementary math function evaluation -"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation for algorithm optimization. ",
+        "it shall not rely on the presence of the fused multiply add fused multiply add operation for algorithm optimization "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normal numbers.",
+        "if the floating point unit does not handle subnormal numbers the same as normal numbers the basic library shall be able to convert to a modus that mirrors the floating point units behaviour"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation for algorithm optimization. ",
+        "it shall not rely on the presence of fused multiply-add fused multiply-add operation for algorithm optimization "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). ",
+        "the basic library shall return the exact same value whenever a procedure is called multiple times with the same arguments"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. ",
+        "the basic library shall not use floating point unit builtin functions for elementary math function evaluation"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation for algorithm optimization. ",
+        "it shall not rely on the presence of fused multiply-add fused multiply-add operation for algorithm optimization"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. ",
+        "it shall not use built-in floating point unit functions for elementary math function evaluation ''"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. ",
+        "it shall not use built-in floating point unit functions for elementary math function evaluation "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide a justification for not respected required rules in MISRA C:2012[RD06]. ",
+        "The Basic Library shall provide a justification for not respected required rules in MISRA C:2012[RD06]. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop. ",
+        "in the basic library no cpu or floating point unit shall be stopped"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). ",
+        "it shall return the exact same value whenever a procedure is called with the same arguments multiple times "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normal numbers.",
+        "the basic library shall be able to convert to a modus that mirrors the floating point units behaviour regarding subnormal numbers in case the floating point unit does not handle subnormal numbers the same as normal"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. ",
+        "the basic library shall not use floating point unit built-in functions for elementary math function evaluation"
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. ",
+        "the basic library source shall comply with the mandatory and required rules depicted in misra c2012 rd06 "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop. ",
+        "the basic library shall never cause any cpu or floating point unit to stop"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation for algorithm optimization. ",
+        "the basic library shall not depend on the presence of the fused multiply-add fused multiply-add operation for algorithm optimization"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. ",
+        "it shall not use built-in floating point unit functions for elementary math function evaluation"
+    ]
+]

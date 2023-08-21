@@ -1,0 +1,52 @@
+[
+    [
+        "GPT",
+        "the basic library shall not use point unit builtin functions for elementary math function evaluation",
+        "the basic library shall not use point of static analysis tool.\n"
+    ],
+    [
+        "RTT",
+        "the basic library source shall comply with the mandatory and required rules depicted in misra c2012 rd06 ",
+        "the basic library source must comply with the mandatory rules set out in misra c2012 rd06"
+    ],
+    [
+        "GPT",
+        "the introductory library shall be able to convert to a modus that mirror the floating point unit of measurement behaviour regarding subnormal numbers in case the floating point unit does not handle subnormal numbers the same as normal numbers",
+        "the introductory library shall be able to convert to a modus that mirror the floating point unit of measurement.\n"
+    ],
+    [
+        "RTT",
+        "the basic library shall not use floating point unit builtin functions for elementary math function evaluation",
+        "the base library should not use built-in floating-point functions to evaluate a mathematical function;"
+    ],
+    [
+        "GPT",
+        "the basic library source shall be compliant to the mandatory and compulsory rules depicted in misra c rd",
+        "the basic library source shall be compliant to the IEEE 754-2008 [RD01] 2.18 [RD01] 2.18 [RD03] criticality category D and the following rules defined in MISRA C: 1.deg2rad Procedure returning the natural logarithmlog10 Procedure returning the absolute value of the floating-point numbers. 2.18 [RD03] “NaN Boxing” Number, excepting the missing values  or    \n"
+    ],
+    [
+        "GPT",
+        "the basic library shall not rely on the presence of the fused multiply operation algorithm multiply add add for fused optimization",
+        "the basic library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation foralgorithm optimization.\n"
+    ],
+    [
+        "GPT",
+        "the basic library shall provide a justification for c respected required rules in misra not rd",
+        "the basic library shall provide a justification for not respected required rules in MISRA C:2012[RD06]. \n"
+    ],
+    [
+        "RTT",
+        "the basic library shall not rely on the presence of the fused multiply add fused multiply add operation for algorithm optimization",
+        "The basic library should not rely on the presence of a fused multiplier to add a fused multiplier to add an operation for algorithmization."
+    ],
+    [
+        "RTT",
+        "the basic library shall be able to convert to a modus that mirrors the floating point units behaviour regarding subnormal numbers in case the floating point unit does not handle subnormal numbers the same as normal",
+        "the base library should be able to convert to a mode that mirrors the behavior of floating-point units relative to abnormal numbers, if the floating-point unit does not process abnormal numbers in the same way as normal numbers"
+    ],
+    [
+        "RTT",
+        "The Basic Library shall provide a justification for not respected required rules in MISRA C:2012[RD06]. \n",
+        "The library should provide a justification for non-compliance in MISRA C: 2012 [RD06]."
+    ]
+]

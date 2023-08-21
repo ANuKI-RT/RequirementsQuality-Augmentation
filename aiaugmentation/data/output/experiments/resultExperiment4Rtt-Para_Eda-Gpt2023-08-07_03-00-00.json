@@ -1,0 +1,487 @@
+[
+    [
+        "EDA",
+        "Basic mathematical Library Test Suite shall not make use or depend on commercial third party software. If necessary, free and open source tools may be used integrated in the testing framework.",
+        "mathematical library test suite shall make use or depend on commercial third party software"
+    ],
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall provide structural coverage information for execution of the unit tests .  special coverage report will be generated containing at minimum:  - code coverage % per test - code coverage % global per function - coverage summary\n",
+        "A special coverage report will be generated, containing at least: - code coverage% per test - code coverage% global per function - coverage sum"
+    ],
+    [
+        "EDA",
+        "The coding rules used for C development in Basic mathematical Library Test Suite shall follow the “The Power of Ten - Rules for Developing Safety Critical Cod ” defined at: http:\/\/spinroot.com\/gerard\/pdf\/P10.pdf    ",
+        "the coding rules used for c development in basic mathematical library test suite https follow the google c style guide defined at google shall github io styleguide cppguide html"
+    ],
+    [
+        "EDA",
+        "The exp and expf procedures shall return the argument if the argument x is +Inf.",
+        "the exp and expf procedures shall return the argument if the argument x take is"
+    ],
+    [
+        "RTT",
+        "The application configuration option shall define the name of the default scheduler.\n",
+        "the application conversion option specifies the name of the default planning system"
+    ],
+    [
+        "RTT",
+        "The result of rtems_object_get_local_node shall be equal to the local node number.\n",
+        "the rtemsoobjectlocalnode return value is equal to the number of local nodes"
+    ],
+    [
+        "RTT",
+        "The acos and acosf procedures shall return Not a Number if the argument x is ±Inf.\n",
+        "The acos and acosf procedures return Not a Number if the argument x is ± Inf."
+    ],
+    [
+        "RTT",
+        "The test cases of the Basic mathematical Library Test Suite shall have reference output values that have been produced with an arbitrary precision mathematical software set to a higher precision than 64 bits.\n",
+        "test cases of the library's core set of tests must have initial output values that have been obtained with software with greater accuracy than 64"
+    ],
+    [
+        "EDA",
+        "The super core shall have a component containing the implementation specific to the target architecture and target.",
+        "the super core shall have a component containing the thread queue"
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library shall provide best practices to develop an interface to access allits functionality from Ada.\n",
+        "The core library should provide best practices in developing an interface for accessing functionality from the Internet;"
+    ],
+    [
+        "RTT",
+        "When the caller provided filter handler returns a value equal to NULL, the thread queue ﬂushoperation shall stop extracting threads from the thread queue.\n",
+        "When the filter handler returns a value equal to NULL, the troika operation stops extrapolating flows from the troika."
+    ],
+    [
+        "RTT",
+        "While the user extensions are iterated to invoke the thread terminate extensions, when an extension set is removed, the removed extension set shall not be a next extension set for any iteration in progress after the removal.\n",
+        "While custom extensions are designed to trigger three terminate extensions when a set of extensions is removed, a remote set of extensions should not be the next set of extensions for any extension implemented after removal."
+    ],
+    [
+        "RTT",
+        "The system shall have a procedure to terminate the system.\n",
+        "the system must have a procedure to shut down the system if necessary"
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library shall provide float (32 bit floating-point) and double (64 bitfloating-point) versions of the procedures.\n",
+        "the base library should provide 32-bit versions of floating-point procedures and dual 64-bit versions of floating-point procedures"
+    ],
+    [
+        "RTT",
+        "While CONFIGURE_INIT is defined, while rtems\/confdefs.h is included in a translation unit after the definition of CONFIGURE_INIT, when the translation unit is preprocessed and compiled, the system settings defined by present application configuration options shall be statically allocated and initialized.\n",
+        "after configureinit is defined in the pre-processing and compilation of the transactional unit, the system settings defined by these application configuration parameters are statistically and initialized, and rtemsconfdefsh is included in the"
+    ],
+    [
+        "RTT",
+        "The acos and acosf procedures shall use a rational approximation for the calculation. \n",
+        "acos and acosf procedures use rational approximation for calculation."
+    ],
+    [
+        "EDA",
+        "When the code is compiled with the GNU C compiler, and argument _var is an automatic variable or function argument, and the value of that variable or function argument is of a type which fits into a register, the Real-Time Executive for Multiprocessor Systems_OBFUSCATE_VARIABLE macro shall prevent the compiler from performing optimizations based on the variable value.",
+        "when the code is compiled with the gnu c compiler and argument var is an automatic variable or function argument and variable quantity the value of that variable or function argument is notaffected by atomic number changes to the observable state of the program the macro prize real time executive for multiprocessor systems alignof shall not make map a wildebeest formalizer in the code"
+    ],
+    [
+        "RTT",
+        "When_type is a non-volatile pointer type, and _var is a pointer to a value of volatile type, and the types of _type and_var are compatible in the sense of C, the macro Real-Time Executive for Multiprocessor Systems_DEVOLATILE shall result in an expression which returns a pointer of type _type pointing to the sameaddress as _var.\n",
+        "When _ type is a non-volatile type of pointer and _ var is a volatile type of pointer, and the _ type and _ var types are comparable in the sense of C, the Real-Time Executive for Multiprocessor Systems _ DEVOLATILE macro results in an expression that returns a type _ type pointer pointing to the sameaaddress as _ var."
+    ],
+    [
+        "RTT",
+        "The grlib_store_16 directive shall store the unsigned 16-bit value specified by value to the address specified by address.\n",
+        "The grlib _ store _ 16 directive stores the unsigned 16-bit value specified by the value at the address specified by the address."
+    ],
+    [
+        "RTT",
+        "The _name parameter value shall be expanded by the C preprocessor.\n",
+        "the value of the name parameter will be extended by the c preprocessor"
+    ],
+    [
+        "RTT",
+        "The Application Programming Interface shall contain the application configuration interface.\n",
+        "the application programming interface must include an application management interface;"
+    ],
+    [
+        "RTT",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application configuration with CONFIGURE_MAXIMUM_SEMAPHORES defined to one and calls to rtems_semaphore_create, rtems_semaphore_obtain, rtems_semaphore_release, andrtems_semaphore_delete.\n",
+        "The system should provide a program showing the use of the static memory of the base application with CONFIGURE _ XIMUM _ SEMAPHORES defined as a unit and the calls rtems _ semaphore _ create, rtems _ semaphore _ get, rtems _ semaphore _ release, andrtems _ semaphore _ delete."
+    ],
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall be reusable and shall not make use of commercial third party software.\n",
+        "The library's core set of tests should be reusable and should not use commercial third-party software;"
+    ],
+    [
+        "RTT",
+        "The _Mutex_recursive_Acquire_timed() directive shall seize the mutex as specified by\/score\/mtx\/req\/seize-wait.\n",
+        "The _ Mutex _ recursive _ Acquire _ timed () directive shall seize the mutex as specified by \/ score \/ mtx \/ req \/ seize-wait."
+    ],
+    [
+        "EDA",
+        "The sqrt and sqrtf procedures shall return the argument if the argument x is ±0 or +Inf.",
+        "the sqrt and sqrtf procedures shall return the argument if the x is"
+    ],
+    [
+        "RTT",
+        "The BSP shall define BSP_IDLE_TASK_BODY to bsp_idle_thread().\n",
+        "bspidletaskbody is defined as bspidletthread"
+    ],
+    [
+        "RTT",
+        "Where the target has an instruction cache, where instruction cache lines can be invalidated, where the instruction cache is not coherent with all bus masters, when the rtems_cache_invalidate_multiple_instruction_lines directive is called, the instruction cache lines covering the memory area specified by begin and size shall be invalidated.\n",
+        "If the target has an instruction cache, where the instruction cache strings can be invalidated, where the instruction cache does not match all the bus wizards, when the rtems _ cache _ invalidate _ multiple _ instruction _ lines directive is called, the instruction cache strings covering the memory area specified by begin and size must be invalidated."
+    ],
+    [
+        "RTT",
+        "The application configuration option shall define the maximum number of Classic Application Programming Interface Timers that can be concurrently active.\n",
+        "the application conversion option specifies the maximum number of classic application programming interface timers that can be imitated."
+    ],
+    [
+        "RTT",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.\n",
+        "exp and expf procedures calculate the basic eexponential value of their argument x"
+    ],
+    [
+        "RTT",
+        "The Real-Time Executive for Multiprocessor Systems_INLINE_ROUTINE macro shall evaluate to the keywords static inline or static __inline__ which ever variant is available to the used compiler.\n",
+        "The Real-Time Executive for Multiprocessor Systems _ IND _ ROUTINE macro assesses by the keywords static inline or static _ inline _ _ which option is available to the compiler in use."
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine and compile chain shall allow building MicroPython Virtual Machine without support of memtime  and rtems  modules\/submodules\n",
+        "it will be possible to build a virtual machine without support for memtime and rtems"
+    ],
+    [
+        "RTT",
+        "The trunc and truncf procedures shall return the argument, if the argument x is ±0 or ±Inf.\n",
+        "trunc and truncf return an argument if x equals 0 or inf"
+    ],
+    [
+        "RTT",
+        "While the system is initialized, if multitasking is started on a processor those index is greater than or equal to the processor maximum defined by the application configuration, then the system shall terminate with the Real-Time Executive for Multiprocessor Systems_FATAL_SOURCE_Symmetric Multiprocessing fatal source and the Symmetric Multiprocessing_FATAL_MULTITASKING_START_ON_INVALID_PROCESSOR fatal code.\n",
+        "During system initialization, if multitasking is started on a processor whose index is greater than or equal to the maximum CPU value specified by the application, the system ends with the fatal code Real-Time Executive for Multiprocessor Systems _ FATAL _ Source _ Syrian Multiprocessing and the fatal code Syrian Multiprocessing _ FATAL _ MULTITASKING _ START _ ON _ INVALID _ PROCESSOR."
+    ],
+    [
+        "RTT",
+        "The apbuart_outbyte_polled directive shall wait until the transmitter FIFO is empty and then write the characters specified by ch as an unsigned 8-bit value to the data register of the register block specified by regs.\n",
+        "the apbuartoutbytepolled directive should wait until the transmitter is empty and then write the characters specified ch as an unsigned 8-bit value to the register of the register block specified by regs"
+    ],
+    [
+        "RTT",
+        "The Basic Library shall implement the following additional procedures:deg2rad Procedure returning the radians value of a provided degree valuerem2pi Procedure returning the provided value reduced to the range [+0,2π]\n",
+        "The library implements the following additional procedures: deg2rad Proceeding returns the radian value of the given value valuerem2pi Proceeding returns the given value reduced to the range [+ 2π]"
+    ],
+    [
+        "RTT",
+        "The application configuration option shall define the stack allocator allocate handler.\n",
+        "the application conversion option is defined by the stack handler."
+    ],
+    [
+        "EDA",
+        "While the timehand used to get the time was not updated for one second or more, while the timecounter of the timehand did not overﬂow, the directives to get time values in the highest resolution shall return the correct time.",
+        "while the timehand expend to get the time was not updated for one second or more while the timecounter of the timehand did not over ow the directive shall bring back a note value equal to zero"
+    ],
+    [
+        "EDA",
+        "The output of Basic mathematical Library Test Suite shall be:  - Details result files (ASConfiguration ItemI \/ csv format) describing inputs, outputs, expected values, etc - High level report documents (HTML, XML format) describing global information. Detail test report files in csv format contains: - Input values - Expected values - Obtained values - Errors (ULP, absolute, relative) - Execution time",
+        "the output of basic mathematical library test suite shall be details result files asconfiguration xml csv format describing inputs outputs expected values etc high level report documents html xml used describing global information memory usage html xml format describing functions format to type the test high level report documents time at html input values high documents format execution html xml format information global describing output values high level report documents html itemi report describing global information level contains minimum xml format"
+    ],
+    [
+        "RTT",
+        "The application configuration option shall enable the initialization of the Clock Driver during system initialization.\n",
+        "the application conversion option must include initialization of the clock driver during system initialization"
+    ],
+    [
+        "RTT",
+        "When the Real-Time Executive for Multiprocessor Systems_INTERRUPT_ENTRY_INITIALIZER is used to statically initialize an object of type rtems_interrupt_entry, the next member of the object shall be initialized to a value equal to NULL.\n",
+        "when a real-time manager for multi-processor systems is used to initialize a rtemsinruptentryinitializer object, the following object member is initialized to a value equal to:"
+    ],
+    [
+        "EDA",
+        "The Basic Library shall provide a justification for not respected required rules in MISRA C:2012[RD06]. ",
+        "the basic library shall provide a justification for not respected required in misra c rd"
+    ],
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall use the following type of input files:  - configuration files in XML format  - test cases written in in XML format.\n",
+        "the basic set of tests for libraries should use the following types of input files - confusion files in xml format - test cases written in xml format"
+    ],
+    [
+        "RTT",
+        "While the system is initialized, if the data cache snooping is disabled on a secondary processor, then the system shall terminate with the Real-Time Executive for Multiprocessor Systems_FATAL_SOURCE_BSP fatal source and the LEON3_FATAL_INVALID_CACHE_CONFIG_SECONDARY_PROCESSOR fatal code.\n",
+        "While the system is initialized, if the data cache is disabled on the secondary processor, the system ends with the fatal code LEON3 _ FATAL _ INVALID _ CACHE _ CONFIG _ SECONDARY _ PROCESSOR."
+    ],
+    [
+        "RTT",
+        "The sqrt and sqrtf procedures shall return Not a Number, if the argument x < -0.\n",
+        "The sql and sqf procedures return Not a Number if the argument x; -0."
+    ],
+    [
+        "EDA",
+        "The BSPs shall be a software architecture component containing the implementation specificto targets and devices.",
+        "the bsps shall be a software architecture component containing functions used to target speci c fatal errors"
+    ],
+    [
+        "RTT",
+        "The application configuration option shall define the maximum thread-local storage size in bytes.\n",
+        "this option specifies the maximum three-seat memory size in bytes"
+    ],
+    [
+        "RTT",
+        "Let U and V be two tasks with distinct home schedulers. Let B be a time point measured by U right before a call to rtems_event_send which does satisfy the event condition of the waiting task V which is scheduled on another processor. Let E be a time point measured by V right afterthe first context switch after B. While the execution environment is below environments, while the task V waits for events, while the measurement sample is E−B, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.\n",
+        "Let u and v be two tasks with separate home planners, let b be the time point measured by u just before the rtemseventsend call that satisfies the event condition of the waiting task v that is scheduled on another processor, let e be the time point"
+    ],
+    [
+        "RTT",
+        "gdb shall be the software interface between Basic mathematical Library Test Suite and the target platforms. It will be used to execute the Test Suite Executable on the target.\n",
+        "it will be a programmatic interface between the library's core test set and the target platforms and will be used to perform the test set on the target platform."
+    ],
+    [
+        "RTT",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application configuration with a call to rtems_task_wake_after.\n",
+        "the system must provide a program showing the use of the static memory of the base application with the rtemstaskwake call after"
+    ],
+    [
+        "RTT",
+        "MicroPython shall support the following function from the module array as defined in Python 3.4: array.array(typecode[, initialiser])\n",
+        "it should support the following function from the array of modules defined in the python 34 arrayarrayeco initializer."
+    ],
+    [
+        "EDA",
+        "The application configuration option shall define the initial priority of the Classic Application Programming Interface initialization task.",
+        "the application configuration option shall define the initial the of priority clock driver"
+    ],
+    [
+        "RTT",
+        "The fabs and fabsf procedures shall return +0, if the argument x is ±0.\n",
+        "fabs and fabsf return 0 if x equals 0"
+    ],
+    [
+        "RTT",
+        "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall result in the substituted argument values textually concatenated in the order _xleft and_yright.\n",
+        "The Real-Time Executive for Multiprocessor Systems _ XCONCAT macro results in substituted argument values, textually grouped in the order of _ xleft and _ quot."
+    ],
+    [
+        "RTT",
+        "The software product shall have software architecture components containing the device drivers.\n",
+        "the software product must have software architecture components containing device drivers;"
+    ],
+    [
+        "RTT",
+        "The application configuration option shall define the maximum number of file like objects that can be concurrently open.\n",
+        "the application's confession option specifies the maximum number of file-like objects that can be opened simultaneously"
+    ],
+    [
+        "EDA",
+        "The Software Development Environment shall provide a simple means to load and execute a given bytecode file on a given LEON2 target.",
+        "bit software development environment shall provide a simple from to load an unsigned the value means the software development environment and return it"
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library Test Suite shall provide loop and Multiple Condition Decision Coverage coverage data obtained while developing the test suite.\n",
+        "The basic set of tests for the library should provide data from the process of developing the set of tests and information about the many conditions in which they are accepted."
+    ],
+    [
+        "RTT",
+        "The application configuration option shall define the maximum number of Classic Application Programming InterfaceSemaphore that can be concurrently active.\n",
+        "the application conversion option specifies the maximum number of classic application programming interfaces that can be imitated."
+    ],
+    [
+        "EDA",
+        "When the code is compiled with a C compiler and the __STDC_VERSION__ symbol is defined with version 201112L or higher or the code is compiled with a C++ compiler and the __cplusplus symbol is defined with version 201103L or higher, when the argument_type_name is an array type with none constant size expression, the macro Real-Time Executive for Multiprocessor Systems_ALIGNOF shall not evaluate the size expression.",
+        "when the code is compiled with a c array and the stdc version name is defined with version which is higher and the code cplusplus compiled with a c compiler shall the is symbol the de ned with version l or higher and is argument type nameis an compiler type real var constant size expression or the argument type symbol or a type with none constant size expression and the types of the other arguments both have unique values the macro with time executive for multiprocessor systems alignof and result in an expression l returns a pointer of type type pointing to the same address as none"
+    ],
+    [
+        "RTT",
+        "The system shall provide a benchmark program to show the static memory usage of a basicapplication configuration with calls to rtems_clock_set and rtems_clock_get_tod.\n",
+        "the system must provide a program showing the use of the static memory of the base application with calls to rtemsclockset and rtemsclocktod"
+    ],
+    [
+        "RTT",
+        "MicroPython shall support the following functions from the module gc, as defined in Python 3.4: gc.collect()  gc.disable()  gc.enable()  gc.isenabled()  gc.mem_free()  gc.mem_alloc()\n",
+        "MicroPython should support the following functions of the gc module defined in Python 3.4: gc.collect () gc.disable () gc.enable () gc.isenabled () gc.mem _ free () gc.mem _ free ()"
+    ],
+    [
+        "RTT",
+        "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall apply all possible C pre-processor substitutions to its argument values before it concatenates the resulting values.\n",
+        "the real-time macro executor for xconcat multi-processor systems must apply to its argument values all possible substitutes for the c preprocessor before it accepts the resulting values"
+    ],
+    [
+        "EDA",
+        "The log10 and log10f procedures shall return Not a Number if the argument x is finite and less than 0 or x is -Inf.",
+        "the log and log f routine shall return not a number if the argument x is not a number"
+    ],
+    [
+        "EDA",
+        "The fmod and fmodf procedures shall return Not a Number, if any argument is Not a Number.",
+        "the fmod and fmodf procedures shall return not a number if the argument x or inf"
+    ],
+    [
+        "EDA",
+        "The rtems_configuration_get_maximum_barriers directive shall return the maximum number of objects managed by the @ref Real-Time Executive for Multiprocessor SystemsApplication Programming InterfaceClassicBarrier that can be concurrently active.",
+        "the rtems form get maximal barriers directive shall return the maximal number of objects managed by the referee real time executive for multiprocessor systemsapplication programming interfaceclassicbarrier that can be concurrently active"
+    ],
+    [
+        "RTT",
+        "The super core shall have a component containing the object services implementation.\n",
+        "the supercore must have a component containing the implementation of object services"
+    ],
+    [
+        "EDA",
+        "The super core shall have a component containing the Earliest Deadline First Symmetric Multiprocessing \/glossary\/scheduler implementation.",
+        "the super core shall first rate have a component containing the clock implementation"
+    ],
+    [
+        "RTT",
+        "Processors which failed to start shall not be marked as online.\n",
+        "those processors that are not running will not be marked as online"
+    ],
+    [
+        "EDA",
+        "The atan2 and atan2f procedures shall return ±0, if the argument y is ±0 and the argument x > 0.",
+        "the take atan and atan f procedures shall return if the argument y is and the argument x is"
+    ],
+    [
+        "EDA",
+        "The pow and powf procedures shall return -0, if the argument x is -Inf and the argument y is an odd integer < 0. ",
+        "the pow and powf procedures shall return if the the x is inf and argument argument y is"
+    ],
+    [
+        "EDA",
+        "be raised and the C function starting the Virtual Machine execution shall return the given code-value bitwise ORed with 128.",
+        "be raised and the function starting the virtual machine shall start execution of its procedures"
+    ],
+    [
+        "RTT",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.\n",
+        "the ceil and cef procedures must calculate the smallest integer value of at least the argument x"
+    ],
+    [
+        "RTT",
+        "The Basic Library shall contribute less than 100kB to the size of the final On-Board Software executable. \n",
+        "The basic library must contribute less than 100 kb to the size of the final on-board software."
+    ],
+    [
+        "EDA",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "be micropython virtual machine shall the qualified with requirements of ecss cat b as defined in ad and ad"
+    ],
+    [
+        "EDA",
+        "When the directive is called, maskable interrupts shall be disabled on a processor which executed at least one instruction of the directive.",
+        "when the directing is called maskable break up shall be disabled on a processor whichexecuted at least one instruction of the directing"
+    ],
+    [
+        "EDA",
+        "The timecounter component shall provide the CLOCK_REALTIME.",
+        "time the timecounter component shall provide the clock monotonic"
+    ],
+    [
+        "RTT",
+        "The round and roundf procedures shall return Not a Number, if the argument x is Not a Number.\n",
+        "The round and roundf procedures return Not a Number if the argument x is not Not a Number."
+    ],
+    [
+        "RTT",
+        "The Real-Time Executive for Multiprocessor Systems_SYMBOL_NAME macro shall expand to the ELF symbol name associated withthe C language identifier specified by the _name parameter.\n",
+        "The Real-Time Executive for Multiprocessor Systems _ SYMBOL _ NAME macro will expand to the name of the ELF symbol associated with the C language specified by the _ name parameter."
+    ],
+    [
+        "RTT",
+        "Two logical repositories will be used for the configuration management activities:  x the development repository: this repository will contain and handle the version control of the complete project data as it is been developed. x the master repository: this repository will contain and handle the baselines of the Configuration Item as listed in the Configuration Item List.\n",
+        "Two logical repositories will be used to manage the alignment process: x development repository: this repository will contain and process the management of versions of complete project data as they are developed; x master repository: this repository will contain and process the Confession Item baselines listed in the Confession Item List."
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library shall provide best practices to develop an interface to access allits functionality from Simulink.\n",
+        "the basic library should provide the best practices in developing an interface for accessing functionality from the simulator"
+    ],
+    [
+        "RTT",
+        "The software architecture shall have a component containing the Signal Manager implementation.\n",
+        "the software architecture must have a component containing the implementation of the signal manager"
+    ],
+    [
+        "RTT",
+        "When rtems_cpu_usage_reset is called, the CPU usage shall be set to zero for each thread.\n",
+        "when the rtemscpuusagereset function is called cpu usage for each three must be set to 0"
+    ],
+    [
+        "EDA",
+        "The atan and atanf procedures shall return ±π2 if the argument is ±Inf.",
+        "the atan and atanf procedures shall return if the argument procedure y is and the argument x is inf"
+    ],
+    [
+        "EDA",
+        "The acos and acosf procedures shall return +0 if the argument is +1.",
+        "the acos and acosf procedures shall return y the argument x is inf and the argument if is"
+    ],
+    [
+        "EDA",
+        "The macro Real-Time Executive for Multiprocessor Systems_XSTRING shall apply all possible C pre-processor substitutions to its argument values before the result of this substitution is converted to a string formed by the C pre-processor #operator and the macro results in this string.",
+        "the macro o time executive for multiprocessor systems xstring shall apply all possible c pre substitutions processor to result argument values before the its of this substitution is converted t real a string formed by the operatorplaced pre processor c before the formal parameter"
+    ],
+    [
+        "EDA",
+        "While a thread is suspended, the thread shall not reconsider help requests.",
+        "thread a thread is suspended the while shall not reconsider help requests"
+    ],
+    [
+        "EDA",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application configuration with a call to rtems_task_get_scheduler.",
+        "the system provide a benchmark program to the static memory usage of a basicapplication con guration with a to rtems task restart"
+    ],
+    [
+        "RTT",
+        "The system shall provide a benchmark program to show the static memory usage of a basicapplication configuration with a call to rtems_fatal.\n",
+        "with rtemsfatal the system should provide a program showing the use of the static memory of the base application."
+    ],
+    [
+        "EDA",
+        "The Basic mathematical Library shall provide the following procedures: sin, cos, tan, asin, acos, atan, atan2, floor, ceil, round, trunc, hypot, sqrt, fmod, remainder, fabs, signbit, modf, exp, pow, log10, log, fmin, fmax, isfinite, isinf, isnan, and copy-sign.",
+        "the basic mathematical library shall provide fish the following procedures sin cos group a face tan asin acos atan atan floor ceil round subroutine library trunc hypot and floorf procedures sin and cosf numerical procedures shall calculate the length of the hypotenuse of the hypotenuse of the hypotenuse of a right angled triangle with sides wickedness of length x and y x and yf procedures shall calculate the length of the wickedness hypotenuse of a right angled trilateral triangle with sides of length x and yf sin and cosf procedures shall calculate the work out tangent and absolute values of the hypotenuse of a right angled triangle with sides of length xand yf"
+    ],
+    [
+        "RTT",
+        "In the C source code of MicroPython cross-compiler and Virtual Machine, any language feature out of scope of the requirements defined in the present document shall be disabled by C preprocessor directives.\n",
+        "in the source code of the cross-compiler and the microython virtual machine, any language feature that goes beyond the requirements defined in this document must be disabled by pre-processor directives in c"
+    ],
+    [
+        "RTT",
+        "The macro FALSE shall result in the text 0.\n",
+        "Macro FALSE leads to text 0."
+    ],
+    [
+        "RTT",
+        "The application configuration option shall define the initial execution mode of the Classic Application Programming Interface initialization task.\n",
+        "the application conversion option specifies the initial mode of the initialization task of the classic application programming interface"
+    ],
+    [
+        "RTT",
+        "Each default directive option constant shall have a value of zero.\n",
+        "each default directive constant must have a value of zero"
+    ],
+    [
+        "EDA",
+        "The software product shall take the errata 20 (Technical Note on LEON3FT RETT RestartErrata) into account.",
+        "the software product shall take the errata technical note on leon ft news report rett restarterrata into account"
+    ],
+    [
+        "RTT",
+        "The application configuration option shall define the minimum stack size in bytes for every user task or thread in the system.\n",
+        "the application conversion option should specify the minimum stack size in bytes for each user or troika task on the system"
+    ],
+    [
+        "RTT",
+        "The non-default task mode constants shall have unique values.\n",
+        "the constants of the non-standard task mode must have unique values"
+    ],
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall not loose results from previous runs. Basic mathematical Library Test Suite shall archive the obtained test report along with platform information as a performed run results.\n",
+        "the library's basic test set should not lose the results of previous runs The library's basic test set should archive the resulting test protocol together with information about the platform as a result of the runs performed"
+    ]
+]

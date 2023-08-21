@@ -1,0 +1,8 @@
+
+results for duplicate removal for method: GPT in experiment no. 1
+|I| Total data: 30
+|I| Total final data: 27
+|I| Total removed duplicates: 3
+----------------------------------------------------------------------------------------------------
+List of duplicates: 
+[['GPT', 'The fatal user extensions shall be invoked in extension forward order.\n', 'The fatal user extensions shall be invoked in extension forward order.\n'], ['GPT', 'The mutex may be acquired recursively.\n', 'The mutex may be acquired recursively.\n'], ['GPT', 'The Virtual Machine test suite shall be automated.\n', 'The Virtual Machine test suite shall be automated.\n']]

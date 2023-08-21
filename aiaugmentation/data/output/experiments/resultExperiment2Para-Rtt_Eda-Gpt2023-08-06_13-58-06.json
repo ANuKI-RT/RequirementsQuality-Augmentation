@@ -1,0 +1,482 @@
+[
+    [
+        "PARA",
+        "The super core shall have a component containing the thread implementation.\n",
+        "the supercore must have a component with three implementations"
+    ],
+    [
+        "EDA",
+        "Basic mathematical Library Test Suite shall allow the execution of functional unit tests. Remark:  Unit tests are written in order to verify tested function requirements, domain limits, corner cases, etc.",
+        "basic mathematical execution test suite shall allow the library of functional unit unit remark tests tests result documents in order to verify tested functions and macros"
+    ],
+    [
+        "PARA",
+        "The software product shall take the errata 16 (Technical Note on GR712RC Incorrect Annulation of Floating-point Operation on) into account.\n",
+        "The software product should take into account error 16 (note to GR712RC on incorrect floating point operation)."
+    ],
+    [
+        "EDA",
+        "The isnan procedure shall return a non-zero value if and only if the argument x is Not a Number.",
+        "the procedure shall return a non zero value if and if the argument x is inf"
+    ],
+    [
+        "EDA",
+        "If a thread body function returned and the thread exitted extension invocation for the thread returned, then the system shall terminate with the INTERNAL_ERROR_CORE fatal sourceand the INTERNAL_ERROR_THREAD_EXITTED fatal code.",
+        "if a thread more than body function returned and the thread exitted extension invocation for the thread returned the more than extension shall be invoked exactly one more time"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow tests that check mathematical properties of tested functions.\n",
+        "library test suite provides a way to conduct tests that check the properties of the functions to be tested"
+    ],
+    [
+        "PARA",
+        "The timecounter component shall implement a directive to install a timecounter.\n",
+        "the timecoin component must comply with timecoin installation directive"
+    ],
+    [
+        "EDA",
+        "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_PACKED macro is used as last part of a structure member declaration, and the aligned attribute or Real-Time Executive for Multiprocessor Systems_ALIGNED macro is not used on this structure member, the Real-Time Executive for Multiprocessor Systems_PACKED macro shall cause the structure member to be aligned at one bit for a bit-field member and one byte otherwise.",
+        "when the code is compiled with the gnu c compiler and the real time executive for operating theater multiprocessor systems packed macro is used as last part of a structure member declaration group a and the aligned attribute or real time executive for multiprocessor systems alignedmacro is not used on this structure member andthe aligned attribute take or real time executive for multiprocessor systems alignedmacro organization is not used on this structure member the real time executive for multiprocessor compiling program systems packed macro shall cause the struc ture member to be aligned at one along bit align for a bit eld appendage member and one byte otherwise"
+    ],
+    [
+        "PARA",
+        "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_ZERO_LENGTH_ARRAY macro is used as element count of an array declaration, and that array declaration is the last member of a struct that is otherwise non-empty ,and that structure is never used as member of another structure or array, the macro shall cause the compiler to layout the structure as if the array had an element count of one but to reduce the total size of the structure by the size of that one array element.\n",
+        "When the code is compiled by the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems _ ZERO _ LENG H _ ARY macro is used as an array declaration element count, and this array declaration is the last member of a structure that is not otherwise empty, and that structure is never used as a member of another structure or array, the macro should force the compiler to position the structure as if there were a number of elements in an array, but reduce the overall structure size by the size of that one array element."
+    ],
+    [
+        "EDA",
+        "The Basic mathematical Library Test Suite shall perform execution time tests, analyzing the minimum, maximum, average, and median execution timesof the procedures.",
+        "the basic mathematical library place test suite shall perform execution time subroutine library tests analyzing the reproducibility of the mathematical properties of the tested library"
+    ],
+    [
+        "EDA",
+        "The Basic mathematical Library shall have a configurable modus to flush denormal computation results to zero.",
+        "the basic mathematical library have a configurable modus to handle denormal arguments in degrees"
+    ],
+    [
+        "PARA",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application configuration with a call to rtems_task_delete.\n",
+        "The system must provide a program showing the use of the static memory of the base application with the call rtems _ task _ delete."
+    ],
+    [
+        "PARA",
+        "While the execution environment is below environments, while the semaphore is a priority inheritance mutex, while the measurement sample is the runtime of exactly one unsatisfied call to rtems_semaphore_obtain which immediately returns, when exactly 100 samples are collected,the below limit kinds shall be below limit conditions.\n",
+        "While the runtime is below the runtime, the semaphore is the priority inheritance of mutex, while the runtime is the time of exactly one unsatisfied rems _ semaphore _ get call, which is immediately returned when exactly 100 samples are collected, below the limit conditions."
+    ],
+    [
+        "PARA",
+        "The atan and atanf procedures shall return Not a Number if the argument is Not a Number.\n",
+        "The atan and atanf procedures return Not a Number if the Not a Number argument."
+    ],
+    [
+        "PARA",
+        "The super core shall have a component containing the Symmetric Multiprocessing-specific implementation.\n",
+        "the supercore must have a component which contains a symantec-specific multiprocessing implementation"
+    ],
+    [
+        "PARA",
+        "The runtime of @ref Real-Time Executive for Multiprocessor SystemsApplication Programming InterfaceClassicEvent directives shall be measured.\n",
+        "Measures the execution time of the @ ref Real-Time Executive for Multiprocessor Application Programming Interfacedirections directive."
+    ],
+    [
+        "PARA",
+        "Let U and V be two tasks with the same home scheduler. Let B be a time point measured by U right before a call to rtems_message_queue_receive which blocks on the message queue with no timeout. Let E be a time point measured by V right after the first context switch after B. While the execution environment is below environments, while a message queue is empty , while the measurement sample is E−B, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.\n",
+        "using the same home planner let u and v be two tasks"
+    ],
+    [
+        "PARA",
+        "The fabs and fabsf procedures shall return +Inf, if the argument x is ±Inf.\n",
+        "the procedures fabs and fabsf return inf if x is equal to inf"
+    ],
+    [
+        "EDA",
+        "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall result in only those characters which also appear in its argument values after applying all possible C pre-processor substitutions to them.",
+        "the macro real executive director time executive for multiprocessor systems xconcat shall prize result in only those characters which also appear in itsargument values"
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library Test Suite shall perform memory usage tests, analyzing the memoryusage of the Basic mathematical Library procedures.\n",
+        "the library test kit will perform memory tests by analyzing the memory of library procedures "
+    ],
+    [
+        "PARA",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application configuration with calls to rtems_timer_create and rtems_timer_delete.\n",
+        "the system should provide a program showing the use of the static memory of the base application with calls to create and delete rtems"
+    ],
+    [
+        "EDA",
+        "The system shall provide a benchmark program to show the static memory usage of a basicapplication configuration with a call to rtems_fatal.",
+        "the system shall af a a program to show the static memory usage of a basicapplication con guration with benchmark call to rtems task get provide nity"
+    ],
+    [
+        "EDA",
+        "The Basic mathematical Library shall provide a procedure to convert an angle to an equivalentone in the range [0,2π].",
+        "the basic mathematical library a procedure to convert an angle to an equivalentone in the range"
+    ],
+    [
+        "EDA",
+        "While the system is initialized, if the data cache snooping is disabled on the boot processor, then the system shall terminate with the Real-Time Executive for Multiprocessor Systems_FATAL_SOURCE_BSP fatal source and the LEON3_FATAL_INVALID_CACHE_CONFIG_BOOT_PROCESSOR fatal code. ",
+        "while the system is initialized if the data memory cache snooping is disabled on the boot processor then thenthe systemshall fire with the real clock time executive for multiprocessor system of rules fatal source bsp fatal source and theleon fatal mandatory bsp fatal code"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the user to select one of the configured targets before a test run.\n",
+        "the library test suite will allow the user to select one of the configured targets before the test runs"
+    ],
+    [
+        "PARA",
+        "The signbit procedure shall return a non-zero value if and only if the argument x is negative.\n",
+        "the signbit procedure returns a non-zero value only when the x argument is negative"
+    ],
+    [
+        "PARA",
+        "The thread create user extensions shall be invoked in extension forward order.\n",
+        "The top three creating custom extensions are called forward in order of extension."
+    ],
+    [
+        "PARA",
+        "While the execution environment is below environments, while the measurement sample is the runtime of exactly one successful call to rtems_task_set_scheduler which does not change the scheduler or priority , when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.\n",
+        "While the runtime is lower than the runtime, whereas the runtime is the time it takes to execute exactly one successful call to rtems _ task _ set _ schedule, which does not change the scheduler or priority when exactly 100 samples are collected, the below-limit views must be below the limit conditions."
+    ],
+    [
+        "PARA",
+        "The runtime of @ref Real-Time Executive for Multiprocessor SystemsApplication Programming InterfaceClassicMessage directives shall be measured.\n",
+        "Measures the execution time of @ ref Real-Time Executive for Multiprocessor Application Programming InterfaceMessage directives."
+    ],
+    [
+        "PARA",
+        "The rtems_configuration_get_stack_allocator_avoids_work_space directive shall return the option value configured by CONFIG-URE_TASK_STACK_ALLOCATOR_AVOIDS_WORK_SPACE.\n",
+        "The rms _ connection _ get _ stack _ cator _ avoids _ work _ space directive returns the option value configured by CONFIG-URE _ TASK _ STACK _ ALLOCATOR _ AVOAIDS _ WORK _ SPACE."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow comparison of tests to help assessing numerical reproducibility of the results produced by the mathematical library, from one run to the next, either on the same or different machines for the same input data set.\n",
+        "the library test suite will allow you to compare tests to help calculate the numerical reproducibility of library results from one run to another either on the same machines or on different machines for the same set of inputs "
+    ],
+    [
+        "EDA",
+        "Test Suite Executable shall be portable on different platforms, at least between Intel, AMD, Sparc V8 based processors.",
+        "test suite executable shall to the lowest degree be portable on different platforms at least between intel amd sparc v based processors"
+    ],
+    [
+        "EDA",
+        "While the execution environment is below environments, while a task waits for events, while the measurement sample is the runtime of exactly one successful call to rtems_event_send which does satisfy the event condition of the waiting task which does not preempt the caller, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.",
+        "while the execution sample is below environments while a task waits for events while the measurement environment is the runtime of shall one kinds call to rtems event send which does not conditions a waiting task when exactly limit are collected the below samples successful exactly be below limit unblock"
+    ],
+    [
+        "PARA",
+        "The system shall have a procedure to terminate the system.\n",
+        "the system has to have a system shutdown procedure"
+    ],
+    [
+        "PARA",
+        "The trunc and truncf procedures shall return the argument, if the argument x is ±0 or ±Inf.\n",
+        "the trunc and truncf procedures return an argument if x is 0 or inf"
+    ],
+    [
+        "PARA",
+        "The rtems_event_send directive shall send events to the application event set of a task asspecified by \/rtems\/event\/req\/send-receive.\n",
+        "The ritems _ event _ send directive sends events to a set of events in the application of the task specified by \/ ritems \/ event \/ req \/ send-receive."
+    ],
+    [
+        "PARA",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.\n",
+        "the procedures cil and cef must calculate the smallest integer value of at least the argument x"
+    ],
+    [
+        "PARA",
+        "While the execution environment is below environments, while a message queue is empty , while exactly one task waits on the message queue, while the measurement sample is the runtime of exactly one successful call to rtems_message_queue_send which does not preempt the caller,when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.\n",
+        "While the runtime is below the runtime, while the message is empty, while exactly one task waits for the message, the runtime is exactly one successful call to ritems _ message _ e _ send, which does not prejudge the caller when exactly 100 samples are collected, below the limit."
+    ],
+    [
+        "PARA",
+        "The asin and asinf procedures shall return the value of the argument if the argument is ±0.\n",
+        "the procedures asin and asinf return the value of the argument if the argument is 0"
+    ],
+    [
+        "EDA",
+        "The system shall provide a benchmark program to show the static memory usage of a basicapplication configuration with calls to rtems_event_send and rtems_event_receive.",
+        "the system shall provide a benchmark program to show the static memory usage of con guration with a call to task get af nity"
+    ],
+    [
+        "EDA",
+        "In the C source code of MicroPython cross-compiler and Virtual Machine, any language feature out of scope of the requirements defined in the present document shall be disabled by C preprocessor directives.",
+        "in the c source code of micropython cross compiler and virtual machine any language feature kayoed out of scope of the requirements defined in the present document sport shall be disabled by the software user manual of arms manual"
+    ],
+    [
+        "PARA",
+        "The BSP shall define BSP_IDLE_TASK_BODY to bsp_idle_thread().\n",
+        "BB defines BB _ IDLE _ TASK _ BODY as bp _ idle _ thread ()."
+    ],
+    [
+        "PARA",
+        "The rtems_configuration_get_stack_allocate_for_idle_hook directive shall return the stack allocator allocate handler used to allocate the task stack of each IDLE task.\n",
+        "The rems _ construction _ get _ stack _ for _ idle _ hook directive returns the handler stack used to create the task stack for each IDLE task."
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library Test Suite shall provide loop and Multiple Condition Decision Coverage coverage data obtained while developing the test suite.\n",
+        "data from the library test kit should be provided in decibels"
+    ],
+    [
+        "PARA",
+        "When the rtems_interrupt_entry_initialize directive is called, the handler member of the object referenced by the entry parameter shall be set to the value of the routine.\n",
+        "when the rems interrupt entry initialize directive is invoked the object handler referenced by the entry parameter must be set to procedure value"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce Ada wrappers to enable the use of the library from Ada83 and Ada95. \n",
+        "the library provides best practices under the ada83 and ada95 packaging manual for use by the library "
+    ],
+    [
+        "PARA",
+        "The ceil and ceilf procedures shall return Not a Number, if the argument x is Not a Number.\n",
+        "the ceil and cff procedures return not a number if the argument x is not not a number"
+    ],
+    [
+        "PARA",
+        "When the argument _index evaluates to an value o f a C one-dimensional array type, and the evaluation of that argument has no side effects, the macro Real-Time Executive for Multiprocessor Systems_ARRAY_SIZE shall result in the number of elements with which that array has been defined.\n",
+        "argy size macro for real-time executive for multiprocessor systems returns the number of elements by which the array was defined when the argument index is valued at o f of a one-dimensional type of array c"
+    ],
+    [
+        "EDA",
+        "When the code is compiled with a C compiler and the __STDC_VERSION__ symbol is defined with version 201112L or higher or the code is compiled with a C++ compiler and the __cplusplus symbol is defined with version 201103L or higher, the macro Real-Time Executive for Multiprocessor Systems_ALIGNOF shall not evaluate its argument _type_name .",
+        "when the type is compiled with a used compiler and the stdc version symbol is defined with or l or higher values the code is compiled with a c compiler and the cplus symbol is with with de expression the type higher and argument code name is a type ned none constant size version and themacro is ment name of for function type and l argument type the is the version of the with and the function type argument type nameis a function type function none constant size expression and the argument type name is a with type has none global scope and apply type of type name is the same as type type name themacro shall be the format c for the function type identi er in name real time executive a multiprocessor systems profiler simple attribute and processor rst parameter function a type expression the macro real time executive for multiprocessor systems profiler simple attribute shall the all possible c pre the substitutions to its argu a value before it concatenates the or in itsargument values before it results in a compilation error"
+    ],
+    [
+        "EDA",
+        "The application configuration option shall indicate that the task stack allocator does not use the Real-Time Executive for Multiprocessor Systems Workspace.",
+        "the application configuration pick shall indicate that the task stack allocator does not usethe existent time executive for multiprocessor systems workspace"
+    ],
+    [
+        "EDA",
+        "The initial value of the CLOCK_REALTIME shall be 1988-01-01T00:00:00.000000000.",
+        "the initial value of the clock realtime shall be astatine at some time point close to the directive call"
+    ],
+    [
+        "EDA",
+        "The application configuration option shall define the stack allocator deallocate handler.",
+        "the application configuration option shall define the behavior of the system initialization and de nebraska"
+    ],
+    [
+        "PARA",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4\n",
+        "the micropython language must support the object orientation as defined in python 34"
+    ],
+    [
+        "EDA",
+        "The super core shall have a component containing the Symmetric Multiprocessing \/glossary\/scheduler implementations.",
+        "the super core shall have other a component containing the earliest deadline first symmetric multiprocessing glossary scheduler imple mentation"
+    ],
+    [
+        "PARA",
+        "The application configuration option shall define the task stack size for an IDLE task.\n",
+        "the confession parameter of the application defines the size of the task stack for the idle task"
+    ],
+    [
+        "PARA",
+        "The Software Development Environment shall provide a simple means to call the ISO checksum tool in order to produce the .bin  file for a given .mpy file.\n",
+        "it provides a simple means of calling the iso checksum tool to create a bin file for thismpyfile"
+    ],
+    [
+        "PARA",
+        "The sin and sinf procedures shall return the value of the argument if the argument is ±0.\n",
+        "the sin and sinf procedures return the value of the argument if the argument is 0 "
+    ],
+    [
+        "EDA",
+        "The grlib_load_64 directive shall load an unsigned 64-bit value from the address specified by address and return it.",
+        "the grlib load directive shall load an unsigned bit value from the directional address speci ed byaddress and return it"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). \n",
+        "the library returns the same value whenever the procedure is called with the same argument s several times"
+    ],
+    [
+        "PARA",
+        "The bsp_idle_thread() function shall perform an endless loop which sets the processor in to the power-down mode using a write to %asr19 in each iteration.\n",
+        "it performs an infinite jerk that puts the processor into power-off mode by writing asr19 to each line"
+    ],
+    [
+        "PARA",
+        "The application configuration option shall define the stack allocator allocate handler for an IDLE task.\n",
+        "the option application conversion specifies the stack indicator and handler for the idle task"
+    ],
+    [
+        "EDA",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application configuration with CONFIGURE_MAXIMUM_PROCESSORS defined to two using the global Symmetric Multiprocessing Earliest Deadline First scheduler (CONFIGURE_SCHEDULER_Earliest Deadline First_Symmetric Multiprocessing).",
+        "the system shall provide a benchmark program to show call application memory usage of a basic static configuration with a the to rtems task set priority"
+    ],
+    [
+        "EDA",
+        "When the macro Real-Time Executive for Multiprocessor Systems_DEFINE_GLOBAL_SYMBOL appears at file scope, and argument_name after undergoing C pre-processor substitutions results in a valid C identifier name, and this identifier name is not yet defined at file scope, and argument _value after undergoing C pre-processor substitutions results in a valid assembler integer value, the macro Real-Time Executive for Multiprocessor Systems_DEFINE_GLOBAL_SYMBOL shall apply all possible C pre-processor substitutions to its argument values before it results in assembler code which defines a global symbol with the respective name and value.",
+        "when the macro real time executive for multiprocessor systems define global symbol come along at file scope and argument name after undergoing atomic number pre processor replacement results in a valid atomic number identifier name and this identifier name is not until now fix at file scope and argument value after undergoing atomic number pre processor replacement results in a valid atomic number iden titanium erbium nameis used as a global variable in this form payoff case newname argument case list real time executive for multiprocessor systems global symbol symbol shall result in anexpression which returns a pointer of case value"
+    ],
+    [
+        "PARA",
+        "The software product shall provide an Application Programming Interface.\n",
+        "the software should provide an application programming interface"
+    ],
+    [
+        "PARA",
+        "If the installation of the clock interrupt entry fails, then the system shall terminate with the Real-Time Executive for Multiprocessor Systems_FATAL_SOURCE_BSP fatal source and the LEON3_FATAL_CLOCK_INITIALIZATION fatal code.\n",
+        "If the clock interruption recording installation fails, the system stops working with the fatal code LEON3 _ FATAL _ CLOCK _ INITIALIZATION."
+    ],
+    [
+        "PARA",
+        "When a task is created, the home scheduler of the created task shall be set to the homescheduler of the task calling the rtems_task_create directive at some time point during the directive call.\n",
+        "When a task is created, the task's home scheduler must be installed in the task's home scheduler, which calls the ritems _ task _ create directive at some point during the directive call."
+    ],
+    [
+        "PARA",
+        "The atan2 and atan2f procedures shall return ±π, if the argument y is ±0 and the argument x is -0.\n",
+        "the procedures atan2 and atan2f return if the argument y is 0 and the argument x is -0"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not provide error handling with the errnoglobal variable.\n",
+        "the library shouldn't handle errnoglobal errors"
+    ],
+    [
+        "PARA",
+        "Let U and V be two tasks with the same home scheduler. Let B be a time point measured by U right before a call to rtems_semaphore_obtain which blocks on the mutex with no timeout. Let E be a time point measured by V right after the first context switch after B. While the execution environment is below environments, while the semaphore is a priority inheritance mutex, while the measurement sample is E−B, when exactly 100 samples arecollected, the below limit kinds shall be below limit conditions.\n",
+        "Let U and V be two tasks with the same home planner. Let B be a temporary moment measured by U just before calling rtems _ semaphore _ gain, which is locked on mutex without a timeout."
+    ],
+    [
+        "PARA",
+        "The rtems_rate_monotonic_ident directive shall identify an Classic Application Programming Interface rate monotonic classobject by its name as specified by \/rtems\/req\/ident-local.\n",
+        "The rems _ rate _ monotonic _ ident directive identifies a monotonic object by the name specified in \/ rems \/ req \/ ident-local."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow user to select one or more functions for running a test.\n",
+        "using the library test suite the user can select one or more functions to perform the test"
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library shall provide float (32 bit floating-point) and double (64 bitfloating-point) versions of the procedures.\n",
+        "the library will provide floating 32 bits with floating point and double 64 bits versions of procedures with floating point"
+    ],
+    [
+        "PARA",
+        "Where the target has an instruction cache, where the instruction cache can be frozen, when the rtems_cache_freeze_instruction directive is called, the instruction cache shall be frozen.\n",
+        "if the target has an instruction cache where the instruction cache can be frozen when the instruction directive ritems cache freeze is invoked the instruction cache must be frozen"
+    ],
+    [
+        "EDA",
+        "The Basic Library shall contribute less than 100kB to the size of the final On-Board Software executable. ",
+        "the basic library shall contribute less than kb to the size of final on board software executable"
+    ],
+    [
+        "PARA",
+        "The application configuration option shall define the entry point of the Classic Application Programming Interface initialization task.\n",
+        "the confession option defines the entry point of the task of initializing the classic application programming interface"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be implemented in ISO C99 \/ C++11.\n",
+        "the library testing suite is to be implemented in the standard iso c99  c 11"
+    ],
+    [
+        "EDA",
+        "The rtems_event_system_receive directive shall receive events from the system event set of a task as specified by \/rtems\/event\/req\/send-receive.",
+        "the rtems event system receive directive shall receive events from the system event set of atask as speci ed by rtems event req send receive"
+    ],
+    [
+        "PARA",
+        "Test Suite Executable executable size shall not exceed 1024 kB.\n",
+        "the test kit should not exceed 1024 kb"
+    ],
+    [
+        "EDA",
+        "While the BSP_poll_char pointer references a function, while the kernel character input device used by the function has no character enqueued, the function shall return minus one.",
+        "while the and poll char pointer references a function while the kernel character input device by by the function has no parameter enqueued the function shall performexecution time adjustments bsp returning the characterspeci ed used the function character"
+    ],
+    [
+        "PARA",
+        "The Application Programming Interface shall contain the application configuration interface.\n",
+        "the application programming interface must include an application programming interface"
+    ],
+    [
+        "EDA",
+        "The Basic Library shall provide a justification for not respected required rules in MISRA C:2012[RD06]. ",
+        "the basic library shall provide a justification for not respected required rules in rd c misra"
+    ],
+    [
+        "EDA",
+        "While the timecounter to install has a quality level greater than the quality level of the currently installed timecounter, the timecounter to install shall be installed.",
+        "while the timecounter to install has a quality level greater than the quality level group a of the cur rently installed timecounter timecounter to atomic number install shall be installed"
+    ],
+    [
+        "PARA",
+        "The software product shall use the define SPARC_LEON3FT_B2BST_NOP in assembler language source code to insert no p instructions required by the errata workaround.\n",
+        "to avoid giving instructions required by the error workaround the software should use the sparc leon3ft b2bst nop definition in the source code of the build language"
+    ],
+    [
+        "PARA",
+        "When the code is compiled with the GNU C compiler, the Real-Time Executive for Multiprocessor Systems_RETURN_ADDRESS macro shall evaluate to the code __builtin_return_address( 0 ) .\n",
+        "the real time executive for multiprocessor systems return address macro is calculated when the code is compiled by the gnu c compiler and returns address 0"
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library procedures shall behave as defined by the POIX standard for special cases i.e. regarding arguments and outputs involving Not a Number, infinities, and ±0.\n",
+        "Libraries are governed by the POIX standard for special cases i. for arguments and results that include no number, infinity, and ± 0."
+    ],
+    [
+        "EDA",
+        "The pow and powf procedures shall return +0, if the argument x is -Inf and the argument y is <0 and not an odd integer. ",
+        "the pow and powf procedures shall return if whole number equal the argument x is and the argument y and not an odd integer"
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return +Inf, if the argument x is +Inf.\n",
+        "the log10 and log10f procedures return inf if x is equal to inf"
+    ],
+    [
+        "EDA",
+        "If the Software Development Environment is configured to do so, the Import Expander shall be called automatically before calling the cross-compiler (preprocessing of source code). The messages output by the Import Expander shall be visible in the Software Development Environment.",
+        "if the software development environment is configured to do so the direction import expander shall be called automatically before calling the cross compiler package preprocessing of source code the import expander shall be able to treat both flavours yield of thus micropython procedure bits model this procedure calls the bytecode with a given name as defined in python atomic number importation the messages output by the import expander shall be visible in the software development environment corresponding c function implemenate corresponding c function implemenate the import expander shall have no dependencies to do configuration management the import expander shall be able to treat both flavours of micropython bits model if the map import expander is compiled with help oneself atomic number the gnu c compiler and the import expander is designed to help in memorization dick able bodied it shall be accepted to treat both flavours of micropython as if the delineated tool is called automatically before calling the cross compiler preprocessing of importation source code the feeling import expander shall be able to treat both flavours of micropython bits model this method calls the delineate bytecode with the given importation name as defined in python the messages committal to memory output by the import expander shall map be visible in the software development environment returns none corresponding c function implemenate corresponding c function implemenate"
+    ],
+    [
+        "PARA",
+        "The bitwise and of a task mode mask constant and Real-Time Executive for Multiprocessor Systems_ALL_MODE_MASKS shall be equal to the task mode mask constant.\n",
+        "the constant bit mask and task mode mask and the real-time mask constant for multi-processor systems all mode masks should be equal to the task mode mask constant"
+    ],
+    [
+        "PARA",
+        "The rtems_configuration_get_maximum_timers directive shall return the maximum number of objects managed by the @ref Real-Time Executive for Multiprocessor SystemsApplication Programming InterfaceClassicTimer that can be concurrently active.\n",
+        "The rms _ connection _ get _ maximum _ timers directive returns the maximum number of objects managed by @ ref Real-Time Executive for Multiprocessor Programming InterfaceTimer that can be simultaneously active."
+    ],
+    [
+        "PARA",
+        "While the extracted thread is in the blocked wait state, the thread queue ﬂush operation shall remove the thread timer.\n",
+        "as long as the troika is in a waiting state the troika operation should remove the troika"
+    ],
+    [
+        "EDA",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normal numbers.",
+        "the staple library shall be able to convert to a modus that mirror the floating point unit s behaviour regarding subnormal numbers"
+    ],
+    [
+        "PARA",
+        "While the BSP_poll_char pointer references a function, while the kernel character input device used by the function has a character enqueued, the function shall dequeue the least recently enqueued character and return it as an unsigned character value.\n",
+        "while the bb poll char pointer refers to a function while the kernel character input device used by the function has the enched symbol the function decodes the least recently enched character and returns it as an unsigned character value"
+    ],
+    [
+        "PARA",
+        "The rtems_configuration_get_maximum_partitions directive shall return the maximum number of objects managed by the @ref Real-Time Executive for Multiprocessor SystemsApplication Programming InterfaceClassicPart that can be concurrently active.\n",
+        "The rtems _ connection _ get _ maximum _ partitions directive returns the maximum number of objects managed by @ ref Real-Time Executive for Multiprocessor Programming InterfacePart that can be simultaneously active."
+    ],
+    [
+        "PARA",
+        "The grlib_load_8 directive shall load an unsigned 8-bit value from the address specified by address and return it.\n",
+        "the grlib load 8 directive loads an unsigned 8-bit value from the address specified by the address and returns this value"
+    ],
+    [
+        "PARA",
+        "The atan2 and atan2f procedures shall return -π2, if the argument y is <0 and the argument x is ±0.\n",
+        "the procedures atan2 and atan2f return -2 if the argument y equals ob 0 and the argument x equals 0"
+    ]
+]

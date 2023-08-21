@@ -1,0 +1,8 @@
+
+results for duplicate removal for method: EDA in experiment no. 1
+|I| Total data: 30
+|I| Total final data: 30
+|I| Total removed duplicates: 0
+----------------------------------------------------------------------------------------------------
+List of duplicates: 
+[]

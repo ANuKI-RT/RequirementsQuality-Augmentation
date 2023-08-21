@@ -1,0 +1,47 @@
+[
+    [
+        "EDA",
+        "The Basic Library source shall be compliant to the mandatory metrics ‘User documentation completeness’ defined at: https:\/\/github. devicedata-tASK_BINARY_SOURCE:  - coding rules for C++ development - coding rules for C++11 - code completion and debugging",
+        "the basic library rootage shall be compliant to the mandatory metrics user corroboration completeness defined at https github devicedata task binary rootage coding rules for ampere second development coding rules for ampere second code completion and debugging"
+    ],
+    [
+        "EDA",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit ’ s behaviour regarding subnormal numbers, while also emitting a warning if subnormal numbers differ.",
+        "the basic library shall be able to to modus that mirrors the floating point unit s regarding numbers while also emitting a warning if subnormal differ"
+    ],
+    [
+        "EDA",
+        "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation foralgorithm optimization. ",
+        "the basic library shall not on the presence of the fused multiply add fused multiply operation foralgorithm optimization"
+    ],
+    [
+        "PARA",
+        "The library should not rely on the Fused Multiply-Add operation for algorithmization.",
+        "the library should not rely on the fused multiply-add operation for algorithmization"
+    ],
+    [
+        "PARA",
+        "The library should be able to convert to a mode that reflects the behavior of the Floating Point Unit with respect to abnormal numbers if the Floating Point Unit does not treat abnormal numbers in the same way as normal numbers.",
+        "the library should be able to convert to a mode that reflects the behavior of the floating point unit with respect to abnormal numbers if the float point unit does not treat abnormal numbers in the same way as normal numbers"
+    ],
+    [
+        "PARA",
+        "The library should not use the built-in Floating Point Unit functions to evaluate a mathematical function.",
+        "to evaluate a mathematical function a library should not use the built-in floating point unit functions"
+    ],
+    [
+        "EDA",
+        "The Basic Library shall not use Floating Point Unit built in functions for elementary math function evaluation.",
+        "the basic library shall not rating use floating point unit built in functions for elementary math function evaluation"
+    ],
+    [
+        "PARA",
+        "The source code of the library must comply with the rules described in MISRA C: 2012 [RD06].",
+        "the source code of the library must meet the rules described in misra c 2012 rd06"
+    ],
+    [
+        "EDA",
+        "The Basic Library shall provide a justification for not respected required rules in MISRA C:2012 [RD06]. ",
+        "the basic library shall provide a justification for not respected postulate rules in misra c rd"
+    ]
+]
