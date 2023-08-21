@@ -1,0 +1,10 @@
+# ignore pycache
+/__pycache__
+/data/__pycache__
+
+# ignore unused additional data
+/data/output/experimentno1/unused_data
+/data/output/experimentno2/unused_data
+/data/output/experimentno3/unused_data
+/data/output/experimentno4/unused_data
+/data/output/experimentno5/unused_data

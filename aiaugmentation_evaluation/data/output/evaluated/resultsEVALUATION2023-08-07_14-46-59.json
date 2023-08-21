@@ -1,0 +1,578 @@
+[
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall be implemented in ISO C99 \/ C++11.\n",
+        "Library Test Suite will be implemented in the ISO C99 \/ C + + 11 standard.",
+        "n"
+    ],
+    [
+        "RTT",
+        "If the installation of the clock interrupt entry fails, then the system shall terminate with the Real-Time Executive for Multiprocessor Systems_FATAL_SOURCE_BSP fatal source and the LEON3_FATAL_CLOCK_INITIALIZATION fatal code.\n",
+        "If the clock interruption recording installation fails, the system stops working with the fatal code LEON3 _ FATAL _ CLOCK _ INITIALIZATION.",
+        "n"
+    ],
+    [
+        "GPT",
+        "The isnan procedure shall return a non-zero value if and only if the argument x is Not a Number.\n",
+        "The isnan procedure shall return a non-zero value if and only if the argument x is ±0 or ±Inf.\n",
+        "n"
+    ],
+    [
+        "RTT",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.\n",
+        "The ceil and cef procedures must calculate the smallest integer value of at least the argument x.",
+        "n"
+    ],
+    [
+        "GPT",
+        "While the system is initialized, if the data cache snooping is disabled on the boot processor, then the system shall terminate with the Real-Time Executive for Multiprocessor Systems_FATAL_SOURCE_BSP fatal source and the LEON3_FATAL_INVALID_CACHE_CONFIG_BOOT_PROCESSOR fatal code. \n",
+        "While the system is initialized, if the data cache snooping is disabled on the boot processor, then the system shall terminate with the Real-Time Executive for Multiprocessor Systems_FATAL_SOURCE_BSP fatal source and theLEON3_FATAL_START_OF_MANDATORY_BOOT_PROCESSOR fatal code.\n",
+        "data"
+    ],
+    [
+        "GPT",
+        "When the code is compiled with a C compiler and the __STDC_VERSION__ symbol is defined with version 201112L or higher or the code is compiled with a C++ compiler and the __cplusplus symbol is defined with version 201103L or higher, the macro Real-Time Executive for Multiprocessor Systems_ALIGNOF shall not evaluate its argument _type_name .\n",
+        "When the code is compiled with a C compiler and the __STDC_VERSION__ symbol is defined with version 201112L or higher or the code is compiled with a C++ compiler andthe__cplus symbol is deﬁned with version 201103L or higher or the code is compiled with a C++ compiler and the__cplus symbol is deﬁned with version 201103L or higher, themacro shall cause the compiler to issue a warning message when itencounters a fatal error.\n",
+        "n"
+    ],
+    [
+        "RTT",
+        "The rtems_rate_monotonic_ident directive shall identify an Classic Application Programming Interface rate monotonic classobject by its name as specified by \/rtems\/req\/ident-local.\n",
+        "The rems _ rate _ monotonic _ ident directive identifies a monotonic object by the name specified in \/ rems \/ req \/ ident-local.",
+        "n"
+    ],
+    [
+        "RTT",
+        "When the rtems_interrupt_entry_initialize directive is called, the handler member of the object referenced by the entry parameter shall be set to the value of the routine.\n",
+        "When the rems _ interrupt _ entry _ initialize directive is invoked, the object handler referenced by the entry parameter must be set to the procedure value.",
+        "j"
+    ],
+    [
+        "RTT",
+        "The application configuration option shall define the entry point of the Classic Application Programming Interface initialization task.\n",
+        "The confession option defines the entry point of the Classic Application Programming Interface initialization task.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The atan and atanf procedures shall return Not a Number if the argument is Not a Number.\n",
+        "The atan and atanf procedures return Not a Number if the Not a Number argument.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The Application Programming Interface shall contain the application configuration interface.\n",
+        "The application programming interface must contain an application programming interface.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The super core shall have a component containing the thread implementation.\n",
+        "The supercore must have a component containing three implementations.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The system shall have a procedure to terminate the system.\n",
+        "The system must have a system shutdown procedure.",
+        "j"
+    ],
+    [
+        "RTT",
+        "The fabs and fabsf procedures shall return +Inf, if the argument x is ±Inf.\n",
+        "The fabs and fabsf procedures return + Inf if x equals ± Inf.",
+        "j"
+    ],
+    [
+        "GPT",
+        "Test Suite Executable shall be portable on different platforms, at least between Intel, AMD, Sparc V8 based processors.\n",
+        "Test Suite Executable shall be portable on different platforms, at least between Intel, AMD, Sparc V8 and SPARC V8 processors.\n",
+        "n"
+    ],
+    [
+        "RTT",
+        "The software product shall use the define SPARC_LEON3FT_B2BST_NOP in assembler language source code to insert no p instructions required by the errata workaround.\n",
+        "The software should use the SPARC _ LEON3FT _ B2BST _ NOP definition in the source code of the build language to avoid giving any instructions required by the error workaround.",
+        "n"
+    ],
+    [
+        "RTT",
+        "When the argument _index evaluates to an value o f a C one-dimensional array type, and the evaluation of that argument has no side effects, the macro Real-Time Executive for Multiprocessor Systems_ARRAY_SIZE shall result in the number of elements with which that array has been defined.\n",
+        "When argument _ index is valued at o f of a one-dimensional type of array C, and the evaluation of this argument has no side effects, the Real-Time Executive for Multiprocessor Systems _ ARGY _ SIZE macro results in the number of elements by which the array was defined.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The runtime of @ref Real-Time Executive for Multiprocessor SystemsApplication Programming InterfaceClassicMessage directives shall be measured.\n",
+        "Measures the execution time of @ ref Real-Time Executive for Multiprocessor Application Programming InterfaceMessage directives.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library Test Suite shall perform memory usage tests, analyzing the memoryusage of the Basic mathematical Library procedures.\n",
+        "The library test kit will perform memory tests by analyzing the memory of library procedures.",
+        "n"
+    ],
+    [
+        "RTT",
+        "Test Suite Executable executable size shall not exceed 1024 kB.\n",
+        "The size of the test kit should not exceed 1024 kB.",
+        "n"
+    ],
+    [
+        "GPT",
+        "The application configuration option shall define the stack allocator deallocate handler.\n",
+        "The application configuration option shall define the attributes of the Classic Application Programming Interface initial-ization task.\n",
+        "n"
+    ],
+    [
+        "RTT",
+        "Let T be the seconds value of the CLOCK_REALTIME time point of the timehand which is currently updated, let S be the seconds value of the CLOCK_REALTIME time point of the previous timehand, let D be T minus S, while the NTP handler is not NULL, while D is greater than 200, while the timehand is updated, the NTP handler shall be called exactly two times.\n",
+        "Let T be the value of the seconds of the CLOCK _ REALTIME timehand that is currently being updated, let S be the value of the seconds of the CLOCK _ REALTIME timepoint of the previous timehand, let D be T minus S, while the NTP handler is not NULL, while D is greater than 200, while the timehand is being updated, the NTP handler is called exactly twice.",
+        "j"
+    ],
+    [
+        "RTT",
+        "The asin and asinf procedures shall return the value of the argument if the argument is ±0.\n",
+        "The asin and asinf procedures return the value of the argument if the argument is ± 0.",
+        "j"
+    ],
+    [
+        "GPT",
+        "The super core shall have a component containing the Symmetric Multiprocessing \/glossary\/scheduler implementations.\n",
+        "The super core shall have a component containing the Earliest Deadline First Symmetric Multiprocessing \/glossary\/scheduler imple-mentation.\n",
+        "n"
+    ],
+    [
+        "RTT",
+        "The atan2 and atan2f procedures shall return ±π, if the argument y is ±0 and the argument x is -0.\n",
+        "The atan2 and atan2f procedures return ± π if the argument y is ± 0 and the argument x is -0.",
+        "j"
+    ],
+    [
+        "RTT",
+        "The rtems_configuration_get_maximum_partitions directive shall return the maximum number of objects managed by the @ref Real-Time Executive for Multiprocessor SystemsApplication Programming InterfaceClassicPart that can be concurrently active.\n",
+        "The rtems _ connection _ get _ maximum _ partitions directive returns the maximum number of objects managed by @ ref Real-Time Executive for Multiprocessor Programming InterfacePart that can be simultaneously active.",
+        "n"
+    ],
+    [
+        "RTT",
+        "While the execution environment is below environments, while a message queue is empty , while exactly one task waits on the message queue, while the measurement sample is the runtime of exactly one successful call to rtems_message_queue_send which does not preempt the caller,when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.\n",
+        "While the runtime is below the runtime, while the message is empty, while exactly one task waits for the message, the runtime is exactly one successful call to ritems _ message _ e _ send, which does not prejudge the caller when exactly 100 samples are collected, below the limit.",
+        "n"
+    ],
+    [
+        "GPT",
+        "The application configuration option shall indicate that the task stack allocator does not use the Real-Time Executive for Multiprocessor Systems Workspace.\n",
+        "The application configuration option shall indicate that the task stack allocator does not usethe Real-Time Executive for Multiprocessor Systems Workspace.\n",
+        "d"
+    ],
+    [
+        "RTT",
+        "The Software Development Environment shall provide a simple means to call the ISO checksum tool in order to produce the .bin  file for a given .mpy file.\n",
+        "The development environment provides a simple means of calling the ISO checksum tool to create a .bin file for this .mpy. file.",
+        "j"
+    ],
+    [
+        "GPT",
+        "The Basic Library shall provide a justification for not respected required rules in MISRA C:2012[RD06]. \n",
+        "The Basic Library shall provide a justification for not respected required rules in MISRA C:2012[RD06]\n",
+        "d"
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library procedures shall behave as defined by the POIX standard for special cases i.e. regarding arguments and outputs involving Not a Number, infinities, and ±0.\n",
+        "Libraries are governed by the POIX standard for special cases i. for arguments and results that include no number, infinity, and ± 0.",
+        "n"
+    ],
+    [
+        "GPT",
+        "The system shall provide a benchmark program to show the static memory usage of a basicapplication configuration with calls to rtems_event_send and rtems_event_receive.\n",
+        "The system shall provide a benchmark program to show the static memory usage of a basicapplication conﬁguration with CONFIGURE_MAXIMUM_PROCESSORS deﬁned to one and calls tortems_task_get_priority.\n",
+        "n"
+    ],
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall allow tests that check mathematical properties of tested functions.\n",
+        "Library Test Suite allows you to conduct tests that check the properties of the functions being tested.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The rtems_configuration_get_maximum_timers directive shall return the maximum number of objects managed by the @ref Real-Time Executive for Multiprocessor SystemsApplication Programming InterfaceClassicTimer that can be concurrently active.\n",
+        "The rms _ connection _ get _ maximum _ timers directive returns the maximum number of objects managed by @ ref Real-Time Executive for Multiprocessor Programming InterfaceTimer that can be simultaneously active.",
+        "n"
+    ],
+    [
+        "GPT",
+        "If the Software Development Environment is configured to do so, the Import Expander shall be called automatically before calling the cross-compiler (preprocessing of source code). The messages output by the Import Expander shall be visible in the Software Development Environment.\n",
+        "If the Software Development Environment is configured to do so, the Import Expander shall be called automatically before calling the cross-compiler and the messages output by the messages output by the messages output by the Import Expander shall be visible on the host platforms and ini-tialization unit.\n",
+        "n"
+    ],
+    [
+        "GPT",
+        "Basic mathematical Library Test Suite shall allow the execution of functional unit tests. Remark:  Unit tests are written in order to verify tested function requirements, domain limits, corner cases, etc.\n",
+        "Basic mathematical Library Test Suite shall allow the execution of functional unit tests. Remark : Unit tests run in batch mode.\n",
+        "n"
+    ],
+    [
+        "RTT",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4\n",
+        "The MicroPython language must support object orientation as defined in Python 3.4",
+        "j"
+    ],
+    [
+        "RTT",
+        "The application configuration option shall define the task stack size for an IDLE task.\n",
+        "The application's confession parameter defines the size of the task stack for the IDLE task.",
+        "n"
+    ],
+    [
+        "GPT",
+        "If a thread body function returned and the thread exitted extension invocation for the thread returned, then the system shall terminate with the INTERNAL_ERROR_CORE fatal sourceand the INTERNAL_ERROR_THREAD_EXITTED fatal code.\n",
+        "If a thread body function returned and the thread exitted extension invocation for the thread returned, then the system shall terminate with the INTERNAL_ERROR_CORE fatal sourceand the INTER-NAL_ERROR_THREAD_EXITTED fatal code.\n",
+        "d"
+    ],
+    [
+        "RTT",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application configuration with calls to rtems_timer_create and rtems_timer_delete.\n",
+        "The system should provide a program showing the use of the static memory of the base application with calls to rtems _ create and rtems _ delete.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The sin and sinf procedures shall return the value of the argument if the argument is ±0.\n",
+        "The sin and sinf procedures return the value of the argument if the argument is ± 0.",
+        "j"
+    ],
+    [
+        "RTT",
+        "The software product shall take the errata 16 (Technical Note on GR712RC Incorrect Annulation of Floating-point Operation on) into account.\n",
+        "The software product should take into account error 16 (note to GR712RC on incorrect floating point operation).",
+        "n"
+    ],
+    [
+        "RTT",
+        "The Basic Library shall be compileable with GNU C Compiler version 4.2.1 with Binutils version 2.18. \n",
+        "The library will be compatible with GNU C Compiler version 4.2.1 and Binutils version 2.18.",
+        "n"
+    ],
+    [
+        "GPT",
+        "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall result in only those characters which also appear in its argument values after applying all possible C pre-processor substitutions to them.\n",
+        "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall result in only those characters which also appear in itsargument values.\n",
+        "n"
+    ],
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall allow comparison of tests to help assessing numerical reproducibility of the results produced by the mathematical library, from one run to the next, either on the same or different machines for the same input data set.\n",
+        "Library Test Suite will allow you to compare tests to help calculate the numerical reproducibility of library results from one run to another, either on the same machines or on different machines for the same set of inputs.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application configuration with a call to rtems_task_delete.\n",
+        "The system must provide a program showing the use of the static memory of the base application with the call rtems _ task _ delete.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The timecounter component shall implement a directive to install a timecounter.\n",
+        "The timecoin component must comply with the timecoin installation directive.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The rtems_event_send directive shall send events to the application event set of a task asspecified by \/rtems\/event\/req\/send-receive.\n",
+        "The ritems _ event _ send directive sends events to a set of events in the application of the task specified by \/ ritems \/ event \/ req \/ send-receive.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The rtems_configuration_get_stack_allocator_avoids_work_space directive shall return the option value configured by CONFIG-URE_TASK_STACK_ALLOCATOR_AVOIDS_WORK_SPACE.\n",
+        "The rms _ connection _ get _ stack _ cator _ avoids _ work _ space directive returns the option value configured by CONFIG-URE _ TASK _ STACK _ ALLOCATOR _ AVOAIDS _ WORK _ SPACE.",
+        "n"
+    ],
+    [
+        "GPT",
+        "The rtems_event_system_receive directive shall receive events from the system event set of a task as specified by \/rtems\/event\/req\/send-receive.\n",
+        "The rtems_event_system_receive directive shall receive events from the system event set of atask as speciﬁed by \/rtems\/event\/req\/send-receive.\n",
+        "d"
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library Test Suite shall provide loop and Multiple Condition Decision Coverage coverage data obtained while developing the test suite.\n",
+        "The Library Test Suite should provide decibel data from the development of the test kit.",
+        "n"
+    ],
+    [
+        "RTT",
+        "When a task is created, the home scheduler of the created task shall be set to the homescheduler of the task calling the rtems_task_create directive at some time point during the directive call.\n",
+        "When a task is created, the task's home scheduler must be installed in the task's home scheduler, which calls the ritems _ task _ create directive at some point during the directive call.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The signbit procedure shall return a non-zero value if and only if the argument x is negative.\n",
+        "The signbit procedure returns a non-zero value only if the x argument is negative.",
+        "j"
+    ],
+    [
+        "RTT",
+        "The trunc and truncf procedures shall return the argument, if the argument x is ±0 or ±Inf.\n",
+        "The trunc and truncf procedures return an argument if x equals ± 0 or ± Inf.",
+        "j"
+    ],
+    [
+        "RTT",
+        "While the BSP_poll_char pointer references a function, while the kernel character input device used by the function has a character enqueued, the function shall dequeue the least recently enqueued character and return it as an unsigned character value.\n",
+        "While the BB _ poll _ char pointer refers to a function, while the kernel character input device used by the function has the enched symbol, the function decodes the least recently enched character and returns it as an unsigned character value.",
+        "n"
+    ],
+    [
+        "GPT",
+        "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_PACKED macro is used as last part of a structure member declaration, and the aligned attribute or Real-Time Executive for Multiprocessor Systems_ALIGNED macro is not used on this structure member, the Real-Time Executive for Multiprocessor Systems_PACKED macro shall cause the structure member to be aligned at one bit for a bit-field member and one byte otherwise.\n",
+        "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_PACKED macro is used as last part of a structure member declaration, and the aligned attribute or Real-Time Executive for Multiprocessor Systems_ALIGNED macro is not used on this structure member, the Real-Time Executive for Multiprocessor Systems_PACKED macro shall cause the structure member to be aligned at one bit for a bit-ﬁeld member and one byte otherwise.\n",
+        "d"
+    ],
+    [
+        "RTT",
+        "The software product shall provide an Application Programming Interface.\n",
+        "The software product should provide an application programming interface.",
+        "n"
+    ],
+    [
+        "GPT",
+        "While the execution environment is below environments, while a task waits for events, while the measurement sample is the runtime of exactly one successful call to rtems_event_send which does satisfy the event condition of the waiting task which does not preempt the caller, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.\n",
+        "While the execution environment is below environments, while a task waits for events, while the measurement sample is the runtime of exactly one successful call to rtems_event_send which does not satisfy the event condition of the waiting task, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.\n",
+        "n"
+    ],
+    [
+        "RTT",
+        "While the execution environment is below environments, while the semaphore is a priority inheritance mutex, while the measurement sample is the runtime of exactly one unsatisfied call to rtems_semaphore_obtain which immediately returns, when exactly 100 samples are collected,the below limit kinds shall be below limit conditions.\n",
+        "While the runtime is below the runtime, the semaphore is the priority inheritance of mutex, while the runtime is the time of exactly one unsatisfied rems _ semaphore _ get call, which is immediately returned when exactly 100 samples are collected, below the limit conditions.",
+        "n"
+    ],
+    [
+        "GPT",
+        "The initial value of the CLOCK_REALTIME shall be 1988-01-01T00:00:00.000000000.\n",
+        "The initial value of the CLOCK_REALTIME shall be 0000-00-00T00:00:00:000000000.\n",
+        "n"
+    ],
+    [
+        "RTT",
+        "Where the target has an instruction cache, where the instruction cache can be frozen, when the rtems_cache_freeze_instruction directive is called, the instruction cache shall be frozen.\n",
+        "If the target has an instruction cache where the instruction cache can be frozen when the ritems _ cache _ freeze _ instruction directive is invoked, the instruction cache must be frozen.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The thread create user extensions shall be invoked in extension forward order.\n",
+        "The top three creating custom extensions are called forward in order of extension.",
+        "n"
+    ],
+    [
+        "GPT",
+        "The Basic mathematical Library shall provide a procedure to convert an angle to an equivalentone in the range [0,2π].\n",
+        "The Basic mathematical Library shall provide a procedure to convert an angle to a bit-ﬁeld member as well as a bit-ﬁeld member. \n",
+        "n"
+    ],
+    [
+        "GPT",
+        "While the timecounter to install has a quality level greater than the quality level of the currently installed timecounter, the timecounter to install shall be installed.\n",
+        "While the timecounter to install has a quality level greater than the quality level of the cur-rently installed timecounter, the timecounter to install shall be installed.\n",
+        "d"
+    ],
+    [
+        "RTT",
+        "The Basic Library shall not provide error handling with the errnoglobal variable.\n",
+        "The library should not handle errnoglobal errors.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). \n",
+        "The library returns the same value whenever the procedure is called several times with the same argument (s).",
+        "j"
+    ],
+    [
+        "RTT",
+        "The interfaces used or provided by the system shall be a contained in interface domains.\n",
+        "Interfaces used or provided by the system should be included in interface domains.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The ceil and ceilf procedures shall return Not a Number, if the argument x is Not a Number.\n",
+        "The ceil and cff procedures return Not a Number if the argument x is not Not a Number.",
+        "n"
+    ],
+    [
+        "RTT",
+        "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_ZERO_LENGTH_ARRAY macro is used as element count of an array declaration, and that array declaration is the last member of a struct that is otherwise non-empty ,and that structure is never used as member of another structure or array, the macro shall cause the compiler to layout the structure as if the array had an element count of one but to reduce the total size of the structure by the size of that one array element.\n",
+        "When the code is compiled by the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems _ ZERO _ LENG H _ ARY macro is used as an array declaration element count, and this array declaration is the last member of a structure that is not otherwise empty, and that structure is never used as a member of another structure or array, the macro should force the compiler to position the structure as if there were a number of elements in an array, but reduce the overall structure size by the size of that one array element.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The bsp_idle_thread() function shall perform an endless loop which sets the processor in to the power-down mode using a write to %asr19 in each iteration.\n",
+        "The function \"p _ idle _ thread ()\" performs an infinite jerk that puts the processor into power-off mode by writing% asr19 in each line.",
+        "n"
+    ],
+    [
+        "GPT",
+        "The Basic mathematical Library Test Suite shall perform execution time tests, analyzing the minimum, maximum, average, and median execution timesof the procedures.\n",
+        "The Basic mathematical Library Test Suite shall perform execution time tests, analyzing the completeness of the tested function and the functional unit tests  to verify the completeness of the functions.\n",
+        "n"
+    ],
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall allow user to select one or more functions for running a test.\n",
+        "Library Test Suite allows the user to select one or more functions to perform the test.",
+        "n"
+    ],
+    [
+        "RTT",
+        "While the execution environment is below environments, while the measurement sample is the runtime of exactly one successful call to rtems_task_set_scheduler which does not change the scheduler or priority , when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.\n",
+        "While the runtime is lower than the runtime, whereas the runtime is the time it takes to execute exactly one successful call to rtems _ task _ set _ schedule, which does not change the scheduler or priority when exactly 100 samples are collected, the below-limit views must be below the limit conditions.",
+        "n"
+    ],
+    [
+        "GPT",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normal numbers.\n",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit ’ s behaviour regarding subnormal numbers.\n",
+        "n"
+    ],
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall be expandable, allowing the integration of new mathematical functions by configuration means and dedicated code source files.\n",
+        "The Library Test Suite should be extensible, enabling the integration of new features with conversion tools and special source code files.",
+        "n"
+    ],
+    [
+        "RTT",
+        "Let U and V be two tasks with the same home scheduler. Let B be a time point measured by U right before a call to rtems_message_queue_receive which blocks on the message queue with no timeout. Let E be a time point measured by V right after the first context switch after B. While the execution environment is below environments, while a message queue is empty , while the measurement sample is E−B, when exactly 100 samples are collected, the below limit kinds shall be below limit conditions.\n",
+        "Let U and V be two tasks with the same home planner.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The Basic Library shall provide best practices within the Software User Manual to produce Ada wrappers to enable the use of the library from Ada83 and Ada95. \n",
+        "The Library provides best practices under the Ada83 and Ada95 Packaging Manual for use by the Library.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The runtime of @ref Real-Time Executive for Multiprocessor SystemsApplication Programming InterfaceClassicEvent directives shall be measured.\n",
+        "Measures the execution time of the @ ref Real-Time Executive for Multiprocessor Application Programming Interfacedirections directive.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The atan2 and atan2f procedures shall return -π2, if the argument y is <0 and the argument x is ±0.\n",
+        "The atan2 and atan2f procedures return -π2 if the argument y equals OB; 0 and the argument x equals ± 0.",
+        "n"
+    ],
+    [
+        "RTT",
+        "The log10 and log10f procedures shall return +Inf, if the argument x is +Inf.\n",
+        "The log10 and log10f procedures return + Inf if x equals + Inf.",
+        "j"
+    ],
+    [
+        "RTT",
+        "The BSP shall define BSP_IDLE_TASK_BODY to bsp_idle_thread().\n",
+        "BB defines BB _ IDLE _ TASK _ BODY as bp _ idle _ thread ().",
+        "n"
+    ],
+    [
+        "RTT",
+        "Let U and V be two tasks with the same home scheduler. Let B be a time point measured by U right before a call to rtems_semaphore_obtain which blocks on the mutex with no timeout. Let E be a time point measured by V right after the first context switch after B. While the execution environment is below environments, while the semaphore is a priority inheritance mutex, while the measurement sample is E−B, when exactly 100 samples arecollected, the below limit kinds shall be below limit conditions.\n",
+        "Let U and V be two tasks with the same home planner. Let B be a temporary moment measured by U just before calling rtems _ semaphore _ gain, which is locked on mutex without a timeout.",
+        "n"
+    ],
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall allow the user to select one of the configured targets before a test run.\n",
+        "Library Test Suite will allow the user to select one of the configured targets before the test run.",
+        "n"
+    ],
+    [
+        "GPT",
+        "The system shall provide a benchmark program to show the static memory usage of a basicapplication configuration with a call to rtems_fatal.\n",
+        "The system shall provide a benchmark program to show the static memory usage of a basicapplication conﬁguration with CONFIGURE_MAXIMUM_PROCESSORS deﬁned to four usingthe global Symmetric Multiprocessing Earliest Deadline First scheduler (CONFIGURE_SCHEDULER_Earliest Deadline First_Symmetric Multiprocessing).\n",
+        "n"
+    ],
+    [
+        "GPT",
+        "The pow and powf procedures shall return +0, if the argument x is -Inf and the argument y is <0 and not an odd integer. \n",
+        "The pow and powf procedures shall return +0, if the argument x is -Inf and the argument y is>0 and not an odd integer. \n",
+        "n"
+    ],
+    [
+        "GPT",
+        "The Basic mathematical Library shall have a configurable modus to flush denormal computation results to zero.\n",
+        "The Basic mathematical Library shall have a configurable modus to handle denormal arguments as zero.\n",
+        "n"
+    ],
+    [
+        "RTT",
+        "When the code is compiled with the GNU C compiler, the Real-Time Executive for Multiprocessor Systems_RETURN_ADDRESS macro shall evaluate to the code __builtin_return_address( 0 ) .\n",
+        "When the code is compiled by the GNU C compiler, the Real-Time Executive for Multiprocessor Systems _ RETURN _ ADDRESS macro is calculated at code _ _ built _ return _ address (0).",
+        "n"
+    ],
+    [
+        "RTT",
+        "The grlib_load_8 directive shall load an unsigned 8-bit value from the address specified by address and return it.\n",
+        "The grlib _ load _ 8 directive loads an unsigned 8-bit value from the address specified by the address and returns it.",
+        "j"
+    ],
+    [
+        "RTT",
+        "The Basic mathematical Library shall provide float (32 bit floating-point) and double (64 bitfloating-point) versions of the procedures.\n",
+        "The library will provide floating (32 bits with floating point) and double (64 bits with floating point) versions of procedures.",
+        "n"
+    ],
+    [
+        "RTT",
+        "While the extracted thread is in the blocked wait state, the thread queue ﬂush operation shall remove the thread timer.\n",
+        "As long as the troika is in a blocked state of waiting, the troika operation should remove the troika.",
+        "n"
+    ],
+    [
+        "GPT",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application configuration with CONFIGURE_MAXIMUM_PROCESSORS defined to two using the global Symmetric Multiprocessing Earliest Deadline First scheduler (CONFIGURE_SCHEDULER_Earliest Deadline First_Symmetric Multiprocessing).\n",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application configuration with a call to rtems_partition_get_buffer.\n",
+        "n"
+    ],
+    [
+        "RTT",
+        "The super core shall have a component containing the Symmetric Multiprocessing-specific implementation.\n",
+        "The supercore must have a component that contains a Symantec-specific Multiprocessing implementation.",
+        "j"
+    ],
+    [
+        "GPT",
+        "When the macro Real-Time Executive for Multiprocessor Systems_DEFINE_GLOBAL_SYMBOL appears at file scope, and argument_name after undergoing C pre-processor substitutions results in a valid C identifier name, and this identifier name is not yet defined at file scope, and argument _value after undergoing C pre-processor substitutions results in a valid assembler integer value, the macro Real-Time Executive for Multiprocessor Systems_DEFINE_GLOBAL_SYMBOL shall apply all possible C pre-processor substitutions to its argument values before it results in assembler code which defines a global symbol with the respective name and value.\n",
+        "When the macro Real-Time Executive for Multiprocessor Systems_DEFINE_GLOBAL_SYMBOL appears at file scope, and argument_name after undergoing C pre-processor substitutions results in a valid C identifier name, and this identifier name is not yet defined at file scope, and argument _value after undergoing C pre-processor substitutions results in a valid C iden-tiﬁer nameis used as member of a global variable deﬁnition, the macro shall cause all other variables of the variable to be substituted in its place.\n",
+        "n"
+    ],
+    [
+        "RTT",
+        "The bitwise and of a task mode mask constant and Real-Time Executive for Multiprocessor Systems_ALL_MODE_MASKS shall be equal to the task mode mask constant.\n",
+        "The constant bit mask and task mode mask and the real-time mask constant for multi-processor systems _ ALL _ MODE _ MASKS should be equal to the task mode mask constant.",
+        "n"
+    ],
+    [
+        "GPT",
+        "The grlib_load_64 directive shall load an unsigned 64-bit value from the address specified by address and return it.",
+        "The grlib_load_64 directive shall load an unsigned 64-bit value from the address speciﬁed byaddress and return it.\n",
+        "n"
+    ],
+    [
+        "RTT",
+        "The rtems_configuration_get_stack_allocate_for_idle_hook directive shall return the stack allocator allocate handler used to allocate the task stack of each IDLE task.\n",
+        "The rems _ construction _ get _ stack _ for _ idle _ hook directive returns the handler stack used to create the task stack for each IDLE task.",
+        "n"
+    ]
+]

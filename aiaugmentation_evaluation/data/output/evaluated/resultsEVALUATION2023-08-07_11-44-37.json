@@ -1,0 +1,440 @@
+[
+    [
+        "PARA",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application configuration.\n",
+        "the system shall provide a benchmark to show the static memory usage of a basic application configuration",
+        "j"
+    ],
+    [
+        "EDA",
+        "While the thread dispatch disable level is not equal to one, if a direct thread dispatch is done, then the system shall terminate with the INTERNAL_ERROR_CORE fatal source and the INTERNAL_ERROR_BAD_THREAD_DISPATCH_DISABLE_LEVEL fatal code.",
+        "while the thread dispatch disable level shall is equal to one if the source thread dispatch is done then a system not terminate with the internal error core fatal direct and the internal error bad thread dispatch disable level fatal code",
+        "n"
+    ],
+    [
+        "EDA",
+        "The value of macro Real-Time Executive for Multiprocessor Systems_DEFAULT_ATTRIBUTES shall be equal to the value of expression Real-Time Executive for Multiprocessor Systems_FIFO | Real-Time Executive for Multiprocessor Systems_LOCAL.",
+        "the value of macro time executive for multiprocessor systems default attributes shall be equal to the value of expression real time executive for multiprocessor fifo real executive for multiprocessor systems local",
+        "n"
+    ],
+    [
+        "EDA",
+        "Basic mathematical Library Test Suite shall allow tests that adjust the value of the functions parameters by sweeping the parameter values through a user defined range.",
+        "basic mathematical library test suite shall allow tests that adjust the value of the functions parameters by span the argument values through a user defined range",
+        "j"
+    ],
+    [
+        "PARA",
+        "The timecounter component shall provide the CLOCK_MONOTONIC.\n",
+        "the timecounter component shall provide the clockmonotonic",
+        "n"
+    ],
+    [
+        "PARA",
+        "When the rtems_scheduler_get_processor directive is called, the directive shall return the return value of a call to rtems_scheduler_get_processor.\n",
+        "the directive shall return the return value of a call to rtemsschedulergetprocessor when the directive is called",
+        "j"
+    ],
+    [
+        "PARA",
+        "MicroPython shall allow for using custom modules developed in C.\n",
+        "micropython will allow the use of custom modules developed in c",
+        "j"
+    ],
+    [
+        "PARA",
+        "The application configuration option shall define the maximum number of Classic Application Programming Interface Tasks that can be concurrently active.\n",
+        "the application configuration option shall define the maximum number of classical application programming interface tasks that can be simultaneously active",
+        "j"
+    ],
+    [
+        "PARA",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application configuration with a call to rtems_scheduler_add_processor.\n",
+        "the system shall provide a benchmark program to show the static memory usage of a basic application configuration by calling rtemsscheduleraddprocessor",
+        "n"
+    ],
+    [
+        "EDA",
+        "The pow and powf procedures shall return +0, if the argument x is -Inf and the argument y is <0 and not an odd integer. ",
+        "the pow and powf procedures shall return if argument x is inf and the argument y is and not an odd integer",
+        "n"
+    ],
+    [
+        "PARA",
+        "The MicroPython Software Development Environment shall provide a preprocessing tool called \"Import Expander\". The Import Expander shall take a given Micr oPython script in input and it shall generate a semantically equivalent MicroPython script by replacing import statements by the content of the corresponding MicroPython source files, provided  that these modules are not C extensions. This process shall be recursive, in case the imported  modules themselves contain import statements.\n",
+        "the micropython software development environment shall provide a preprocessing tool called import expander the import expander shall take a given micr opython script input and it shall generate a semantically equivalent micropython script by replacing import statements by",
+        "n"
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall return 1 if the argument x is ±0.\n",
+        "the procedures exp and expf shall return 1 if the argument x is 0",
+        "j"
+    ],
+    [
+        "PARA",
+        "The copysign and copysignf procedures shall compute a new number with the magnitude of the argument x and the the sign of y.\n",
+        "the procedures copysign and copysignf shall compute a new number with the magnitude of the argument x and the sign of y",
+        "j"
+    ],
+    [
+        "EDA",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. ",
+        "the basic library source shall be compliant to the mandate and required rules depicted in misra c rd",
+        "n"
+    ],
+    [
+        "PARA",
+        "The software architecture shall have a component containing the Signal Manager implementation.\n",
+        "the software architecture shall have a component containing the signal manager implementation",
+        "n"
+    ],
+    [
+        "PARA",
+        "The tan and tanf procedures shall return the value of the argument if the argument is ±0.\n",
+        "the tan and tanf procedures will return the value of the argument if the argument is 0",
+        "j"
+    ],
+    [
+        "EDA",
+        "While the fatal source is not Real-Time Executive for Multiprocessor Systems_FATAL_SOURCE_Symmetric Multiprocessing or the fatal code is not Symmetric Multiprocessing_SHUTDOWN_RESPONSE, while all shutdown requests were issued, the bsp_fatal_extension() directive shall wait for at most approximately one millisecond for the power down response of all other configured and present processors.",
+        "while the fatal source is not real time executive for multiprocessor systems fatal source symmetric all or the fatal code is not symmetric multiprocessing shutdown for while multiprocessing shutdown requests approximately issued at bsp fatal extension millisecond shall wait response the most were one directive for the power down response of all other configured and present processors",
+        "n"
+    ],
+    [
+        "EDA",
+        "The Virtual Machine test suite shall be automated.",
+        "the virtual simple machine test suite shall be automated",
+        "n"
+    ],
+    [
+        "EDA",
+        "The system shall provide a benchmark program to show the static memory usage of a basic application configuration with calls to rtems_timer_create and rtems_timer_fire_when.",
+        "the system shall provide benchmark to show the static memory of a basic application configuration with calls to rtems timer create rtems timer fire when",
+        "n"
+    ],
+    [
+        "EDA",
+        "The sin and sinf procedures shall return Not a Number if x is ±Inf.",
+        "the sin and sinf procedures shall return not a total if x is inf",
+        "n"
+    ],
+    [
+        "EDA",
+        "The macro TRUE shall result in the text 1.",
+        "the macro true shall result in the upshot text",
+        "n"
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.\n",
+        "the procedures fmax and fmaxf determine the maximum numeric value of the arguments x and y b",
+        "n"
+    ],
+    [
+        "EDA",
+        "The pow and powf procedures shall return +Inf, if |x|>1 and the argument y is +Inf.",
+        "the prisoner of war and powf procedures shall return inf if x and the argument y is inf",
+        "n"
+    ],
+    [
+        "PARA",
+        "The rtems_configuration_get_ticks_per_timeslice directive shall return the number of clockticks per timeslice.\n",
+        "the rtemsconfigurationgettickspertimeslice directive shall return the number of clockticks per timeslice",
+        "n"
+    ],
+    [
+        "PARA",
+        "While the timehand is updated, when the NTP handler is called, the value returned by the new sec parameter shall define the seconds value of the CLOCK_REALTIME time point of the timehand.\n",
+        "the value returned by the new sec parameter during the update of the timehand defines the seconds value of the clockrealtime timepoint of the timehand",
+        "j"
+    ],
+    [
+        "PARA",
+        "When the Real-Time Executive for Multiprocessor Systems_INTERRUPT_ENTRY_INITIALIZER is used to statically initialize an object of type rtems_interrupt_entry, the next member of the object shall be initialized to a value equal to NULL.\n",
+        "when the real-time executive for multiprocessor systemsinterruptentryinitializer is used to statically initialize an object of type rtemsinterruptentry the next member of the object is initialized to a value equal to null",
+        "j"
+    ],
+    [
+        "PARA",
+        "The MicroPython Virtual Machine and compile chain shall allow building MicroPython Virtual Machine without support of memtime  and rtems  modules\/submodules\n",
+        "it shall be possible to build a micropython virtual machine without the support of memtime and rtems modules  submodules",
+        "j"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be implemented in ISO C99 \/ C++11.\n",
+        "the basic mathematical library test suite shall be implemented in iso c99  c11",
+        "n"
+    ],
+    [
+        "EDA",
+        "Let T be the seconds value of the CLOCK_REALTIME time point of the timehand which is currently updated, let S be the seconds value of the CLOCK_REALTIME time point of the previous timehand, let D be T minus S, while the NTP handler is not NULL, while D is greater than 200, while the timehand is updated, the NTP handler shall be called exactly two times.",
+        "let t be the seconds value of the clock realtime time point of the timehand which is currently updated let s the seconds value of the clock realtime time point of the previous timehand let d be minus s while the handler not null while d is greater than while the timehand is the ntp handler be called exactly two",
+        "n"
+    ],
+    [
+        "PARA",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].\n",
+        "the micropython virtual machine shall be qualified with the requirements of ecss cat-b as defined in ad02 and ad03",
+        "j"
+    ],
+    [
+        "PARA",
+        "The rtems_configuration_get_stack_allocate_hook directive shall return the address of the task stack allocator which is used to allocate the stack for a task which is not an IDLE task.\n",
+        "it shall return the address of the task stack allocator which is used to allocate a stack for a task that is not an idle task",
+        "n"
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library shall not rely on the presence of the Fused Multiply-Addoperation for algorithm optimization.\n",
+        "the basic mathematical library shall not rely on the presence of the fused multiply-addoperation for algorithm optimization",
+        "n"
+    ],
+    [
+        "EDA",
+        "The rtems_configuration_get_maximum_message_queues directive shall return the maximum number of objects managed by the @ref Real-Time Executive for Multiprocessor SystemsApplication Programming InterfaceClassicMessage that can be concurrently active.",
+        "the rtems configuration get maximum message queues directive shall at the same time return the maximum number of objects managed by the ref real fourth dimension time executive for multiprocessor systemsapplication programming interfaceclassicmessage that can queue be concurrently active",
+        "n"
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall return +0, if the argument x is 1.\n",
+        "when the argument x is 1 the log and logf procedures return 0",
+        "j"
+    ],
+    [
+        "PARA",
+        "The result of rtems_object_get_local_node shall be equal to the local node number.\n",
+        "the return value of the rtemsobjectgetlocalnode is equal to the number of local nodes",
+        "n"
+    ],
+    [
+        "PARA",
+        "While an iteration over all tasks was started by calling rtems_task_iterate, while no task exists which was not visited, the iteration shall stop and then the object allocator lock shall be released.\n",
+        "the iteration over all tasks is started by calling rtemstaskiterate while no task exists which was not visited the iteration shall stop and the object allocator lock shall be released if",
+        "j"
+    ],
+    [
+        "EDA",
+        "While no timecounter is installed, the CLOCK_MONOTONIC shall remain at the initial value.",
+        "while no timecounter is installed the clock monotonic shall stay at the initial value",
+        "j"
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.\n",
+        "the log and logf procedures return not a number if the argument x is not a number",
+        "j"
+    ],
+    [
+        "EDA",
+        "The \/rtems\/task\/if\/no-priority constant shall expand to a constant expression which evaluates to the value of Real-Time Executive for Multiprocessor Systems_CURRENT_PRIORITY.",
+        "the rtems task if no priority shall expand to a constant expression which to the value of time executive for systems current priority",
+        "n"
+    ],
+    [
+        "PARA",
+        "The value of macro Real-Time Executive for Multiprocessor Systems_DEFAULT_OPTIONS shall be equal to the value of expression Real-Time Executive for Multiprocessor Systems_WAIT .\n",
+        "the value of macro real time executive for multiprocessor systemsdefaultoptions shall be equal to the value of expression real time executive for multiprocessor systems wait",
+        "n"
+    ],
+    [
+        "EDA",
+        "Basic mathematical Library Test Suite shall be reusable and shall not make use of commercial third party software.",
+        "basic library test suite be reusable shall not make use of commercial third party software",
+        "n"
+    ],
+    [
+        "EDA",
+        "The shared BSP support shall be a component containing functions used by multiple targets.",
+        "the shared bsp support shall be a component containing functions used by multiple targets",
+        "n"
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library Test Suite shall run in batch and manual modus.\n",
+        "the mathematical library test suite shall run in batch and manual modes",
+        "j"
+    ],
+    [
+        "PARA",
+        "The BSPs shall be a software architecture component containing the implementation specificto targets and devices.\n",
+        "the bsps shall be a software architecture component containing the implementation specific targets and devices",
+        "j"
+    ],
+    [
+        "PARA",
+        "The tan and tanf procedures shall use a minimax polynomial for the calculation. \n",
+        "tan and tanf procedures shall use a minimax polynomial for the calculation b",
+        "n"
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library shall provide best practices to develop S-function wrappers for all its procedures.\n",
+        "the basic mathematical library shall provide best practices to develop s-function wrappers for all its procedures",
+        "n"
+    ],
+    [
+        "EDA",
+        "The Basic mathematical Library shall be tested on a LEON2, a LEON4, and a x86-64 platformfor its reproducibility.",
+        "the basic mathematical library shall be tried on a leon a leon and a x platformfor its reproducibility",
+        "n"
+    ],
+    [
+        "EDA",
+        "The Real-Time Executive for Multiprocessor Systems_ID_NONE constant shall be a constant expression which evaluates to an invalid object identifier.",
+        "the real time executive multiprocessor systems id none constant shall a constant expression which evaluates to an invalid object identifier",
+        "j"
+    ],
+    [
+        "PARA",
+        "The non-default directive option constants shall have unique values.\n",
+        "the variable options in the non-default directive shall have unique values",
+        "j"
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library shall have a configurable modus to handle denormal arguments as zero.\n",
+        "the basic mathematical library shall have a configurable modus to handle denormal arguments as zero",
+        "n"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.\n",
+        "the basic mathematics library test suite shall verify the communication with the target through gdb by using checksums on transferred packets and implement retry management",
+        "j"
+    ],
+    [
+        "PARA",
+        "Where the target has an instruction cache, where the instruction cache can be enabled, when the rtems_cache_enable_instruction directive is called, the instruction cache shall be enabled.\n",
+        "where the target has an instruction cache where the instruction cache can be enabled when the rtemscacheenableinstruction directive is called the instruction cache shall be enabled",
+        "n"
+    ],
+    [
+        "PARA",
+        "While the system is initialized, if the start of an optional processor defined by the application configuration fails, then the system initialization shall continue.\n",
+        "while the system is initialized if the start of an optional processor defined in the application configuration fails the system initialization shall continue",
+        "j"
+    ],
+    [
+        "EDA",
+        "The _Mutex_Release() directive shall surrender the mutex as specified by\/score\/mtx\/req\/surrender.",
+        "the mutex release directive shall mtx the mutex as specified by score surrender req surrender",
+        "n"
+    ],
+    [
+        "PARA",
+        "Test Suite Executable executable size shall not exceed 1024 kB.\n",
+        "test suite executable executable size should not exceed 1024 kb",
+        "n"
+    ],
+    [
+        "PARA",
+        "The application configuration option shall define the name of the Classic Application Programming Interface initialization task.\n",
+        "the application configuration option shall define the name of the initialization task of the classic application programming interface",
+        "j"
+    ],
+    [
+        "EDA",
+        "The trunc and truncf procedures shall return the argument, if the argument x is ±0 or ±Inf.",
+        "the argument and truncf procedures shall return the trunc if the argument x is or inf",
+        "n"
+    ],
+    [
+        "EDA",
+        "Where the target has a data cache, where the data cache can be ﬂushed and invalidated, when the rtems_cache_invalidate_entire_data directive is called, the data cache shall be ﬂushed and invalidated.",
+        "where the target has a data cache where data data when can be the and invalidated cache the rtems cache invalidate entire data directive is called the ushed cache shall be ushed and invalidated",
+        "n"
+    ],
+    [
+        "EDA",
+        "Basic mathematical Library Test Suite shall support the automatically build of the target-native binaries on the host machine for the functions selected for test, based on a user adapted build script for specific target.",
+        "staple mathematical library test suite shall support the automatically build of the target native binaries on the host machine for the functions selected for test base on a drug user adapted build script for specific target",
+        "n"
+    ],
+    [
+        "EDA",
+        "The fatal user extensions shall be invoked in extension forward order.",
+        "the fatal user extensions shall be in invoked extension forward order",
+        "n"
+    ],
+    [
+        "PARA",
+        "MicroPython shall support the following built-in types, as defined in Python 3.4: bool int float str object super type\n",
+        "it shall support the following built-in types defined in python 34 bool int float str object super type",
+        "n"
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall return the argument x, if the argument x is not ± Inf and the argument y is ±Inf.\n",
+        "the procedures fmod and fmodf return the argument x if the argument x is not inf and the argument y is",
+        "n"
+    ],
+    [
+        "EDA",
+        "High level test report documents in html\/xml format contains:  - Target information - Basic mathematical Library information - Basic mathematical Library Test Suite and toolchain information - Name of the function tested - Description of the test type selected - Summarisation section containing information interpreting the results of the suite of tests. - Depending of type of the test, for each function may be provided several types of graphs, e.g. ULP, absolute and relative error vs argument value.",
+        "high level test report documents in html xml format contains target information basic mathematical library information basic mathematical library test suite and mellow toolchain information mellow name of the function tested personify description of the test type selected summarisation section containing information interpreting the results of the high suite describe of tests depending of type proportional of the test for each retinue function may be provided several types of graphs e g ulp absolute and relative error vs argument value",
+        "n"
+    ],
+    [
+        "EDA",
+        "The Basic Library shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating-point datums.",
+        "the basic library shall provide procedures double star for bit binary and bit binary precision floating point datums",
+        "n"
+    ],
+    [
+        "EDA",
+        "The mutex may be acquired recursively.",
+        "may mutex the be acquired recursively",
+        "n"
+    ],
+    [
+        "PARA",
+        "For each test execution, the Basic mathematical Library TS shall use as input a test configuration file which contains at least this information: - Name of the function(s) to be tested - Type of the test  - Tested values and expected values for single value tests - Range of parameter values for the tests that need sweeping the function parameter values  - Any other configuration parameter needed to run the tests.\n",
+        "for each test execution the basic mathematical library ts shall use as input a test configuration file which contains at least this information - name of the functions to be tested - type of the test - tested values and expected values for single value tests - range of parameter values for the tests",
+        "n"
+    ],
+    [
+        "PARA",
+        "The atan2 and atan2f procedures shall return ±0, if the argument y is ±0 and the argument x is +0.\n",
+        "the procedures atan2 and atan2f return 0 if the argument y is 0 and the argument x is 0",
+        "j"
+    ],
+    [
+        "PARA",
+        "The archived results shall also contain configuration information previously set by the user in order to permit the reproducibility of the test. Remark: Will be archived, at least: test input files, produced and used binaries, intermediary and log files, result documents.\n",
+        "in addition the archived results shall contain configuration information previously set by the user in order to permit the reproducibility of the test",
+        "j"
+    ],
+    [
+        "EDA",
+        "The Real-Time Executive for Multiprocessor Systems_PARTITION_ALIGNMENT constant shall expand to a constant expression which evaluates to the value of CPU_SIZEOF_POINTER.",
+        "the real time multiprocessor for executive systems partition alignment value shall expand to a constant expression which evaluates to the constant of cpu sizeof pointer",
+        "n"
+    ],
+    [
+        "EDA",
+        "The log10 and log10f procedures shall return -Inf if the argument x is ±0.",
+        "the log and log f procedures shall return inf if the argument x is",
+        "n"
+    ],
+    [
+        "PARA",
+        "The directives to get time values in a coarse resolution shall not use the currently installed timecounter.\n",
+        "the directives to obtain time values in a coarse resolution shall not use the currently installed timecounter",
+        "j"
+    ],
+    [
+        "PARA",
+        "The application configuration option shall define the maximum number of Classic Application Programming Interface Message Queues that can be concurrently active.\n",
+        "the application configuration option shall define the maximum number of classical application programming interface message queues that can be concurrently active",
+        "n"
+    ],
+    [
+        "EDA",
+        "While the timeout parameter specifies a valid absolute CLOCK_REALTIME time point, while the mutex is not avaiable at the specified time point, the directive shall return with a statuscode of ETIMEDOUT.",
+        "while the timeout argument specifies a valid sheer clock realtime prison term point while the mutex is not avaiable at the specified prison term point the directive shall return with a statuscode of etimedout",
+        "n"
+    ]
+]
