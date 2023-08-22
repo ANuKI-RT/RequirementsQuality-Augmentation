@@ -1,0 +1,5 @@
+Basic mathematical Library Test Suite shall be implemented in ISO C99 / C++11.[END]
+Basic mathematical Library Test Suite shall be reusable and shall not make use of commercial third party software.[END]
+Basic mathematical Library Test Suite shall work on both host platforms: on Windows and Linux.[SEP]The Test Suite Executable execution on a target platform will be controlled from a host PC running Windows or Linux.[END]
+Basic mathematical Library Test Suite shall support tests for all functions and macros of Basic mathematical Library in single (32bit) and double (64bit) floating point precision.[END]
+Basic mathematical Library Test Suite shall be designed to work as a stand-alone application.[END]
