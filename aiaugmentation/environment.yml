@@ -154,7 +154,6 @@ dependencies:
   - utf8proc=2.6.1
   - wasabi=0.9.1
   - wheel=0.38.4
-  - win_inet_pton=1.1.0
   - xxhash=0.8.0
   - xz=5.4.2
   - yaml=0.2.5
