@@ -58,7 +58,6 @@ dependencies:
   - importlib-metadata=6.0.0
   - importlib_metadata=6.0.0
   - importlib_resources=5.2.0
-  - intel-openmp=2023.1.0
   - jinja2=3.1.2
   - jinja2-time=0.2.0
   - joblib=1.2.0
@@ -87,10 +86,6 @@ dependencies:
   - lxml=4.9.2
   - lz4-c=1.9.4
   - matplotlib-base=3.7.1
-  - mkl=2023.1.0
-  - mkl-service=2.4.0
-  - mkl_fft=1.3.6
-  - mkl_random=1.2.2
   - multidict=6.0.2
   - multiprocess=0.70.14
   - munkres=1.1.4
@@ -123,7 +118,6 @@ dependencies:
   - python-slugify=5.0.2
   - python-xxhash=2.0.2
   - pytz=2022.7
-  - pywin32=305
   - pyyaml=6.0
   - re2=2022.04.01
   - regex=2022.7.9
@@ -148,7 +142,7 @@ dependencies:
   - text-unidecode=1.3
   - thinc=8.1.10
   - tk=8.6.12
-  - tokenizers=0.13.0.dev0
+  - tokenizers
   - tqdm=4.65.0
   - transformers=4.28.1
   - typer=0.4.1
@@ -158,8 +152,6 @@ dependencies:
   - unidecode=1.2.0
   - urllib3=1.26.16
   - utf8proc=2.6.1
-  - vc=14.2
-  - vs2015_runtime=14.27.29016
   - wasabi=0.9.1
   - wheel=0.38.4
   - win_inet_pton=1.1.0
@@ -201,4 +193,3 @@ dependencies:
       - torchmetrics==1.0.1
       - torchvision==0.15.2
       - typing-extensions==4.7.1
-prefix: C:\Users\Robin\Programmierumgebungen\Anaconda\envs\aiaugmentationENV
