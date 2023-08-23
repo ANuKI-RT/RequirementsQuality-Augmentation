@@ -26,6 +26,8 @@ RESULTS = ["resultgpt12023-07-17_20-23-04.txt", "resultEDA2023-07-27_18-43-09.tx
 # write.write_file(data.delete_duplicates_txt(pa.execute_para(read.read_raw_data(DATA), False)), "PARA")
 # write.write_json(data.delete_duplicates_json(pa.execute_para(read.read_raw_data(DATA), True)), "PARA") 
 
+print("test")
+
 #-----------------------------------------------------------------------------------------------------
 #------------------------------------------Train AI Models--------------------------------------------
 #-----------------------------------------------------------------------------------------------------
