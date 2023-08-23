@@ -11,6 +11,8 @@
 /rtt/fairseq
 /rtt/wmt19.en-ru.ensemble
 /rtt/wmt19.ru-en.ensemble
+/rtt/wmt19.en-ru
+/rtt/wmt19.ru-en
 
 /gptV1/model_save
 
