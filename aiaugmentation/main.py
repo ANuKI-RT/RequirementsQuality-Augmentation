@@ -1,5 +1,6 @@
 import os
 import gpt.gen as gen
+import gpt.gpt as gpt
 import data.data as data
 import data.write as write
 import data.read as read
