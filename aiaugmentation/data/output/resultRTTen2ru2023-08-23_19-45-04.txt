@@ -1,0 +1,25 @@
+
+The Library Test Suite is designed to work offline.
+Library Test Suite is designed to work offline.
+The Library Test Suite is designed to operate offline.
+The Library Test Suite is designed for offline operation.
+The Library Test Suite is designed for offline use.
+The Library Test Suite should work as a stand-alone application.
+The Library Test Suite should work as a standalone application.
+The Library Test Suite must work as a stand-alone application.
+Library Test Suite should work as a stand-alone application.
+Library Test Suite should work as a standalone application.
+The Library Test Suite will work as a stand-alone application.
+The Library Test Suite will work as a standalone application.
+Library Test Suite will work as a stand-alone application.
+Library Test Suite will work as a standalone application.
+The Library Test Suite will operate as a standalone application.
+The Library Test Suite is designed to work autonomously.
+The Library Test Suite is designed for autonomous operation.
+The Library Test Suite is designed for standalone operation.
+Library Test Suite is designed for autonomous operation.
+The Library Test Suite is designed to work in a stand-alone application.
+The Library Test Suite is designed to work in a standalone application.
+Library Test Suite is designed to work in a stand-alone application.
+Library Test Suite is designed to work in a standalone application.
+The Library Test Suite is designed to work as a stand-alone application.
