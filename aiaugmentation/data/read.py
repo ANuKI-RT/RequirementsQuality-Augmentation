@@ -16,7 +16,7 @@ def read_raw_data(files: list):
 #   files is a list containing string names of files, without dir-prefix  
     data = []   
     for d in files: 
-        with io.open(os.path.join(TRAINING_DIR,d), mode="r", encoding="utf-8") as data_file:
+        with io.open(os.path.join(TRAINING_DIR,d), mode="r", encoding="cp1252") as data_file:
             for line in data_file:
                 if line.strip():
                     if re.search("\[SEP\]", line) is None:
