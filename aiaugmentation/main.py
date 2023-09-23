@@ -28,17 +28,12 @@ for d in DATA:
 
 # write.write_file(data.delete_duplicates_txt(pa.execute_para(read.read_raw_data(DATA), False)), "PARA")
 
-<<<<<<< HEAD
-print("test")
-
-=======
->>>>>>> refs/remotes/origin/main
 # write.write_file(data.delete_duplicates_txt(rttru.execute_rtt(read.read_raw_data(DATA), False)), "RTTen2ru")
 # write.write_json(data.delete_duplicates_json(rttru.execute_rtt(read.read_raw_data(DATA), True)), "RTTen2ru")
 
-gpt.gpt(read.read_raw_data(["Test.txt"]))
-write.write_file(data.delete_duplicates_txt(gen.execute_gpt(EXAMPLE_PROMPT, 20, False)), "GPT")
-write.write_json(data.delete_duplicates_json(gen.execute_gpt(EXAMPLE_PROMPT, 20, True)), "GPT")
+# gpt.gpt(read.read_raw_data(["Test.txt"]))
+# write.write_file(data.delete_duplicates_txt(gen.execute_gpt(EXAMPLE_PROMPT, 20, False)), "GPT")
+# write.write_json(data.delete_duplicates_json(gen.execute_gpt(EXAMPLE_PROMPT, 20, True)), "GPT")
 
 # write.write_file(data.delete_duplicates_txt(eda.execute_eda(read.read_raw_data(["Test.txt"],), False)), "EDA")
 # write.write_json(data.delete_duplicates_json(eda.execute_eda(read.read_raw_data(["Test.txt"],), True)), "EDA")
