@@ -18,6 +18,7 @@
 
 #ignore __pycache__
 
+.DS_Store
 eda/__pycache__
 data/__pycache__
 rtt/__pycache__
