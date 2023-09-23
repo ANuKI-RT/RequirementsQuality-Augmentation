@@ -7,7 +7,7 @@ import data.read as read
 import eda.eda as eda
 # import rtt.rttru as rttru
 import para.paraphrase as pa
-import experiment as ex
+# import experiment as ex
 import evaluate
 
 EXAMPLE_PROMPT=["MicroPython", "The system shall", "The system shall process the function as follows"]
