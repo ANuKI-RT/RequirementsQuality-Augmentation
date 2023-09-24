@@ -4,8 +4,8 @@ import os
 from rtt.fairseq import fairseq as fairseq
 # import fairseq.fairseq.logging.meters
 
-EN_DE_PATH = os.path.join("rtt","wmt19.en-de.ensemble")
-DE_EN_PATH = os.path.join("rtt","wmt19.de-en.ensemble")
+EN_DE_PATH = os.path.join("rtt","wmt19.en-de.joined-dict.ensemble")
+DE_EN_PATH = os.path.join("rtt","wmt19.de-en.joined-dict.ensemble")
 
 def execute_rtt(data:list, gen_json:bool = False):
     results = []
