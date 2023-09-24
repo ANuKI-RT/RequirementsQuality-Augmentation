@@ -5,9 +5,9 @@ import data.data as data
 import data.write as write
 import data.read as read
 import eda.eda as eda
-# import rtt.rttru as rttru
+import rtt.rttru as rttru
 import para.paraphrase as pa
-# import experiment as ex
+import experiment as ex
 import evaluate
 
 EXAMPLE_PROMPT=["MicroPython", "The system shall", "The system shall process the function as follows"]
@@ -17,8 +17,8 @@ RESULTS = ["resultgpt12023-07-17_20-23-04.txt", "resultEDA2023-07-27_18-43-09.tx
 
 # write.write_file(data.delete_duplicates_txt(rttru.execute_rtt(read.read_raw_data(DATA), False)), "RTTen2ru")
 for d in DATA:
-    # write.write_json(data.delete_duplicates_json(rttru.execute_rtt(read.read_raw_data([d]), True)), "RTTen2ru")
-    write.write_json(data.delete_duplicates_json(pa.execute_para(read.read_raw_data([d]), True)), "PARA") 
+    write.write_json(data.delete_duplicates_json(rttru.execute_rtt(read.read_raw_data([d]), True)), "RTTen2ru")
+    # write.write_json(data.delete_duplicates_json(pa.execute_para(read.read_raw_data([d]), True)), "PARA") 
 
 # write.write_file(data.delete_duplicates_txt(gen.execute_gpt(EXAMPLE_PROMPT, 20, False)), "GPT")
 # write.write_json(data.delete_duplicates_json(gen.execute_gpt(EXAMPLE_PROMPT, 20, True)), "GPT")
