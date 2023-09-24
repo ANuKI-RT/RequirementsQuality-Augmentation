@@ -1,0 +1,1737 @@
+[
+    [
+        "PARA",
+        "The Energy Management System system shall control the heating and cooling units that are defined as part of the Energy Management System system. The definitions of the individual heating and cooling systems reside in an initialization file. The system shall read this file and the definitions shall be derived from the initialization data in the file.\n",
+        "It shall control the heating and cooling units defined as part of the Energy Management System system. The definitions of the individual heating and cooling systems shall reside in an initialization file. The system shall read this file and the definitions shall be derived from the initial"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control the heating and cooling units that are defined as part of the Energy Management System system. The definitions of the individual heating and cooling systems reside in an initialization file. The system shall read this file and the definitions shall be derived from the initialization data in the file.\n",
+        "The Energy Management System system shall control the heating and cooling units that are defined as part of the Energy Management System system. The definitions of the individual heating and cooling systems reside in an initialization file the system shall read this file and the definitions shall be derived from the initial"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control the heating and cooling units that are defined as part of the Energy Management System system. The definitions of the individual heating and cooling systems reside in an initialization file. The system shall read this file and the definitions shall be derived from the initialization data in the file.\n",
+        "It shall control the heating and cooling units defined as part of the Energy Management System system. The definitions of the individual heating and cooling systems shall reside in an initialization file. The system shall read this file and the definitions shall be derived from the"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control the heating and cooling units that are defined as part of the Energy Management System system. The definitions of the individual heating and cooling systems reside in an initialization file. The system shall read this file and the definitions shall be derived from the initialization data in the file.\n",
+        "It shall control the heating and cooling units defined as part of the Energy Management System system. The definitions of the individual heating and cooling systems reside in an initialization file. The system shall read this file and the definitions shall be derived from the initialization data"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control the heating and cooling units that are defined as part of the Energy Management System system. The definitions of the individual heating and cooling systems reside in an initialization file. The system shall read this file and the definitions shall be derived from the initialization data in the file.\n",
+        "It shall control the heating and cooling units defined as part of the Energy Management System system. The definitions of the individual heating and cooling systems shall reside in an initialization file. The system shall read this file and the definitions shall be derived from the initialization data in"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control the heating and cooling units that are defined as part of the Energy Management System system. The definitions of the individual heating and cooling systems reside in an initialization file. The system shall read this file and the definitions shall be derived from the initialization data in the file.\n",
+        "It shall control the heating and cooling units defined as part of the Energy Management System system. The definitions of the individual heating and cooling systems shall reside in an initialization file. The system shall read this file and the definitions shall be derived from the initialization"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control the heating and cooling units that are defined as part of the Energy Management System system. The definitions of the individual heating and cooling systems reside in an initialization file. The system shall read this file and the definitions shall be derived from the initialization data in the file.\n",
+        "It shall control the heating and cooling units defined as part of the Energy Management System system. The definitions of the individual heating and cooling systems shall reside in an initialization file. The system shall read this file and the definitions shall be derived from the initialization data"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control the heating and cooling units that are defined as part of the Energy Management System system. The definitions of the individual heating and cooling systems reside in an initialization file. The system shall read this file and the definitions shall be derived from the initialization data in the file.\n",
+        "It shall control the heating and cooling units defined as part of the Energy Management System system. The definitions of the individual heating and cooling systems shall reside in an initialization file. The system shall read this file and the definitions shall be derived"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control the heating and cooling units that are defined as part of the Energy Management System system. The definitions of the individual heating and cooling systems reside in an initialization file. The system shall read this file and the definitions shall be derived from the initialization data in the file.\n",
+        "It shall control the heating and cooling units defined as part of the Energy Management System system. The definitions of the individual heating and cooling systems shall reside in an initialization file. The system shall read this file and the definitions shall be derived from the initialization data in the"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control the heating and cooling units that are defined as part of the Energy Management System system. The definitions of the individual heating and cooling systems reside in an initialization file. The system shall read this file and the definitions shall be derived from the initialization data in the file.\n",
+        "It shall control the heating and cooling units defined as part of the Energy Management System system. The definitions of individual heating and cooling systems reside in an initialization file. The system shall read this file and the definitions shall be derived from the initialization data in the file."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall use the information contained in the initialization data file to determine which heating and cooling units are part of the Energy Management System system. There is one heating and cooling unit that corresponds to one thermostat in each of four quadrants on each of three floors of the office building.\n",
+        "Each of the four quadrants on each of three floors of the office building shall have a heating and cooling unit that corresponds to a thermostat in each quadrant of the office building."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall use the information contained in the initialization data file to determine which heating and cooling units are part of the Energy Management System system. There is one heating and cooling unit that corresponds to one thermostat in each of four quadrants on each of three floors of the office building.\n",
+        "Each of the four quadrants on each of three floors of the office building shall have a heating and cooling unit that corresponds to a thermostat in each quadrant."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall use the information contained in the initialization data file to determine which heating and cooling units are part of the Energy Management System system. There is one heating and cooling unit that corresponds to one thermostat in each of four quadrants on each of three floors of the office building.\n",
+        "Each of the four quadrants on each of three floors of the office building shall have a heating and cooling unit that corresponds to a thermostat in each of the four quadrants. "
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall use the information contained in the initialization data file to determine which heating and cooling units are part of the Energy Management System system. There is one heating and cooling unit that corresponds to one thermostat in each of four quadrants on each of three floors of the office building.\n",
+        "Each of the four quadrants on each of three floors of the office building shall have a heating and cooling unit that corresponds to a thermostat in each of the four quadrants."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall use the information contained in the initialization data file to determine which heating and cooling units are part of the Energy Management System system. There is one heating and cooling unit that corresponds to one thermostat in each of four quadrants on each of three floors of the office building.\n",
+        "Each of the four quadrants on each of three floors of the office building shall have a heating and cooling unit that corresponds to a thermostat in each of four quadrants."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall use the information contained in the initialization data file to determine which heating and cooling units are part of the Energy Management System system. There is one heating and cooling unit that corresponds to one thermostat in each of four quadrants on each of three floors of the office building.\n",
+        "Each of the four quadrants on each of three floors of the office building shall have a heating and cooling unit that corresponds to a thermostat in each of four quadrants of the office building."
+    ],
+    [
+        "PARA",
+        "Each thermostat shall have a unique identifier by which that thermostat is identified in the Energy Management System system. This procedure will load these definitions into the Energy Management System software.\n",
+        "Each thermostat shall have a unique identifier by which that thermostat is identified in the Energy Management System system. This procedure will load these definitions into the Energy Management"
+    ],
+    [
+        "PARA",
+        "Each thermostat shall have a unique identifier by which that thermostat is identified in the Energy Management System system. This procedure will load these definitions into the Energy Management System software.\n",
+        "Each thermostat shall have a unique identifier by which this thermostat is identified in the Energy Management System system. This procedure will load these definitions into the Energy Management System software."
+    ],
+    [
+        "PARA",
+        "Each thermostat shall have a unique identifier by which that thermostat is identified in the Energy Management System system. This procedure will load these definitions into the Energy Management System software.\n",
+        "Each thermostat shall have a unique identifier by which the thermostat is identified in the Energy Management System system. This procedure will load these definitions into the Energy Management System software."
+    ],
+    [
+        "PARA",
+        "Each thermostat shall have a unique identifier by which that thermostat is identified in the Energy Management System system. This procedure will load these definitions into the Energy Management System software.\n",
+        "Each thermostat shall have a unique identifier by which the thermostat is identified in the Energy Management System system. This procedure will load these definitions into the Energy Management"
+    ],
+    [
+        "PARA",
+        "Each thermostat shall have a unique identifier by which that thermostat is identified in the Energy Management System system. This procedure will load these definitions into the Energy Management System software.\n",
+        "Each thermostat shall have a unique identifier by which that thermostat is identified in the Energy Management System system. This procedure will load these definitions into the Energy Management System software."
+    ],
+    [
+        "PARA",
+        "Each thermostat shall have a unique identifier by which that thermostat is identified in the Energy Management System system. This procedure will load these definitions into the Energy Management System software.\n",
+        "Chaque thermostat shall have a unique identifier by which that thermostat is identified in the Energy Management System system. This procedure will load these definitions into the Energy Management"
+    ],
+    [
+        "PARA",
+        "Each thermostat shall have a unique identifier by which that thermostat is identified in the Energy Management System system. This procedure will load these definitions into the Energy Management System software.\n",
+        "Each thermostat shall have a unique identifier by which it is identified in the Energy Management System system. This procedure will load these definitions into the Energy Management"
+    ],
+    [
+        "PARA",
+        "Each thermostat shall have a unique identifier by which that thermostat is identified in the Energy Management System system. This procedure will load these definitions into the Energy Management System software.\n",
+        "Each thermostat shall have a unique identifier by which that thermostat is identified in the Energy Management System system and this procedure will load these definitions into the Energy Management System software."
+    ],
+    [
+        "PARA",
+        "Each thermostat shall have a unique identifier by which that thermostat is identified in the Energy Management System system. This procedure will load these definitions into the Energy Management System software.\n",
+        "Each thermostat shall have a unique identifier by which it is identified in the Energy Management System system. This procedure will load these definitions into the Energy Management System software."
+    ],
+    [
+        "PARA",
+        "Each thermostat shall have a unique identifier by which that thermostat is identified in the Energy Management System system. This procedure will load these definitions into the Energy Management System software.\n",
+        "Each thermostat shall have a unique identifier by which this thermostat is identified in the Energy Management System system. This procedure will load these definitions into the Energy Management"
+    ],
+    [
+        "PARA",
+        "Each quadrant of each floor shall have a thermostat which is to be used to provide temperature data to the Energy Management System system. The initialization file shall contain a unique identifier for each thermostat that the system is to monitor. These identifiers shall be read from the initialization file and loaded into the Energy Management System system during the initialization process.\n",
+        "Each quadrant of each floor shall have a thermostat which is to be used to provide temperature data to the Energy Management System system. The initialization file shall contain a unique identifier for each thermostat the system is to monitor. These identifiers shall be read from the initial"
+    ],
+    [
+        "PARA",
+        "Each quadrant of each floor shall have a thermostat which is to be used to provide temperature data to the Energy Management System system. The initialization file shall contain a unique identifier for each thermostat that the system is to monitor. These identifiers shall be read from the initialization file and loaded into the Energy Management System system during the initialization process.\n",
+        "Each floor has a thermostat which is to be used to provide temperature data to the Energy Management System system. The initialization file shall contain a unique identifier for each thermostat that the system is to monitor. These identifiers shall be read from the initialization file and loaded into the"
+    ],
+    [
+        "PARA",
+        "There shall be a maximum number of heating or cooling units that can be on at any given time. This procedure loads the maximum number of concurrently running units allowed.\n",
+        "There shall be a maximum number of heating or cooling units that can be on at any given time. This procedure loads the maximum number of concurrently operating units allowed."
+    ],
+    [
+        "PARA",
+        "There shall be a maximum number of heating or cooling units that can be on at any given time. This procedure loads the maximum number of concurrently running units allowed.\n",
+        "There shall be a maximum number of heating or cooling units that can be on at any given time. This procedure charges the maximum number of concurrently running units allowed."
+    ],
+    [
+        "PARA",
+        "There shall be a maximum number of heating or cooling units that can be on at any given time. This procedure loads the maximum number of concurrently running units allowed.\n",
+        "There shall be a maximum number of heating or cooling units that can be on at any given time. This procedure loads the maximum number of concurrently running units allowed."
+    ],
+    [
+        "PARA",
+        "There shall be a maximum number of heating or cooling units that can be on at any given time. This procedure loads the maximum number of concurrently running units allowed.\n",
+        "There shall be a maximum number of heating or cooling units that can be on at any given time. This procedure loads the maximum number of simultaneously running units allowed."
+    ],
+    [
+        "PARA",
+        "The maximum number of heating or cooling units that can run concurrently shall reside in an initialization file. The maximum number of concurrently running units shall be read from the initialization file and stored in the Energy Management System system.\n",
+        "The maximum number of heating or cooling units that can run concurrently shall reside in an initialization file. The maximum number of concurrently running units shall be read from the initialization file and stored in the energy management system system. "
+    ],
+    [
+        "PARA",
+        "The maximum number of heating or cooling units that can run concurrently shall reside in an initialization file. The maximum number of concurrently running units shall be read from the initialization file and stored in the Energy Management System system.\n",
+        "The maximum number of heating or cooling units that can run concurrently shall reside in an initialization file. The maximum number of concurrently running units shall be read from the initialization file and stored in the Energy Management System system. "
+    ],
+    [
+        "PARA",
+        "The maximum number of heating or cooling units that can run concurrently shall reside in an initialization file. The maximum number of concurrently running units shall be read from the initialization file and stored in the Energy Management System system.\n",
+        "The maximum number of heating or cooling units that can run concurrently shall reside in an initialization file. The maximum number of concurrently running units shall be read from the initialization file and stored in the energy management system. "
+    ],
+    [
+        "PARA",
+        "The maximum number of heating or cooling units that can run concurrently shall reside in an initialization file. The maximum number of concurrently running units shall be read from the initialization file and stored in the Energy Management System system.\n",
+        "The maximum number of heating or cooling units that can run concurrently shall reside in an initialization file. The maximum number of concurrently running units shall be read from the initialization file and stored in the energy management system system."
+    ],
+    [
+        "PARA",
+        "The maximum number of heating or cooling units that can run concurrently shall reside in an initialization file. The maximum number of concurrently running units shall be read from the initialization file and stored in the Energy Management System system.\n",
+        "The maximum number of heating or cooling units that can run concurrently shall reside in an initialization file. The maximum number of concurrently running units shall be read from the initialization file and stored in the Energy Management System system."
+    ],
+    [
+        "PARA",
+        "The maximum number of heating or cooling units that can run concurrently shall reside in an initialization file. The maximum number of concurrently running units shall be read from the initialization file and stored in the Energy Management System system.\n",
+        "The maximum number of heating or cooling units that can run concurrently shall reside in an initialization file and the maximum number of concurrently running units shall be read from the initialization file and stored in the Energy Management System system."
+    ],
+    [
+        "PARA",
+        "The maximum number of heating or cooling units that can run concurrently shall reside in an initialization file. The maximum number of concurrently running units shall be read from the initialization file and stored in the Energy Management System system.\n",
+        "The maximum number of heating or cooling units that can run concurrently shall reside in an initialization file and the maximum number of concurrently running units shall be read from the initialization file and stored in the energy management system."
+    ],
+    [
+        "PARA",
+        "The maximum number of heating or cooling units that can run concurrently shall reside in an initialization file. The maximum number of concurrently running units shall be read from the initialization file and stored in the Energy Management System system.\n",
+        "The maximum number of heating or cooling units that can run concurrently shall reside in an initialization file and the maximum number of concurrently running units shall be read from the initialization file and stored in the Energy Management System system. "
+    ],
+    [
+        "PARA",
+        "The maximum number of heating or cooling units that can run concurrently shall reside in an initialization file. The maximum number of concurrently running units shall be read from the initialization file and stored in the Energy Management System system.\n",
+        "The maximum number of heating or cooling units that can run concurrently shall reside in an initialization file. The maximum number of concurrently running units shall be read from the initialization file and stored in the energy management system."
+    ],
+    [
+        "PARA",
+        "The maximum number of heating or cooling units that can run concurrently shall reside in an initialization file. The maximum number of concurrently running units shall be read from the initialization file and stored in the Energy Management System system.\n",
+        "The maximum number of heating or cooling units that can run concurrently shall reside in an initialization file the maximum number of concurrently running units shall be read from the initialization file and stored in the energy management system."
+    ],
+    [
+        "PARA",
+        "The trigger value is used in combination with the current temperature to determine when a heating or cooling unit shall be turned on or off.\n",
+        "The trigger value is used in combination with the current temperature to determine when a heating or cooling unit must be turned on or off."
+    ],
+    [
+        "PARA",
+        "The trigger value is used in combination with the current temperature to determine when a heating or cooling unit shall be turned on or off.\n",
+        "It is used together with the current temperature to determine when a heating or cooling unit is turned on or off."
+    ],
+    [
+        "PARA",
+        "The trigger value is used in combination with the current temperature to determine when a heating or cooling unit shall be turned on or off.\n",
+        "The trigger value is used in combination with the current temperature to determine when a heating or cooling unit is turned on or off."
+    ],
+    [
+        "PARA",
+        "The trigger value is used in combination with the current temperature to determine when a heating or cooling unit shall be turned on or off.\n",
+        "It is used together with the current temperature to determine when a heating or cooling unit shall be turned on or off."
+    ],
+    [
+        "PARA",
+        "The trigger value is used in combination with the current temperature to determine when a heating or cooling unit shall be turned on or off.\n",
+        "The trigger value is used in combination with the current temperature to determine when a heating or cooling unit should be turned on or off."
+    ],
+    [
+        "PARA",
+        "The trigger value is used in combination with the current temperature to determine when a heating or cooling unit shall be turned on or off.\n",
+        "It is used together with the current temperature to determine when a heating or cooling unit is turned on or off. ''"
+    ],
+    [
+        "PARA",
+        "The trigger value is used in combination with the current temperature to determine when a heating or cooling unit shall be turned on or off.\n",
+        "It is used together with the current temperature to determine when a heating or cooling unit must be turned on or off."
+    ],
+    [
+        "PARA",
+        "The trigger value is used in combination with the current temperature to determine when a heating or cooling unit shall be turned on or off.\n",
+        "It is used together with the current temperature to determine when a heating or cooling unit should be turned on or off."
+    ],
+    [
+        "PARA",
+        "The trigger value is used in combination with the current temperature to determine when a heating or cooling unit shall be turned on or off.\n",
+        "It is used together with the current temperature to determine when a heating or cooling unit should be turned on or off. "
+    ],
+    [
+        "PARA",
+        "The trigger value is used in combination with the current temperature to determine when a heating or cooling unit shall be turned on or off.\n",
+        "The trigger value is used in combination with the current temperature to determine when a heating or cooling unit shall be turned on or off."
+    ],
+    [
+        "PARA",
+        "The trigger values shall reside in an initialization file. This procedure shall read the initialization file and establish the trigger value from the data in that file.\n",
+        "The trigger values shall reside in an initialization file. This procedure shall read the initialization file and establish the trigger value from the data in that file."
+    ],
+    [
+        "PARA",
+        "The trigger values shall reside in an initialization file. This procedure shall read the initialization file and establish the trigger value from the data in that file.\n",
+        "The trigger values shall reside in an initialization file. This procedure reads the initialization file and establishes the trigger value from the data in the file."
+    ],
+    [
+        "PARA",
+        "The trigger values shall reside in an initialization file. This procedure shall read the initialization file and establish the trigger value from the data in that file.\n",
+        "The trigger values shall reside in an initialization file. This procedure reads the initialization file and establishes the trigger value from the data in the file. "
+    ],
+    [
+        "PARA",
+        "The trigger values shall reside in an initialization file. This procedure shall read the initialization file and establish the trigger value from the data in that file.\n",
+        "The trigger values shall reside in an initialization file. This procedure shall read the initialization file and establish the trigger value from the data in this file."
+    ],
+    [
+        "PARA",
+        "The trigger values shall reside in an initialization file. This procedure shall read the initialization file and establish the trigger value from the data in that file.\n",
+        "The trigger values shall reside in an initialization file. This procedure reads the initialization file and establishes the trigger value from the data in this file. "
+    ],
+    [
+        "PARA",
+        "The trigger values shall reside in an initialization file. This procedure shall read the initialization file and establish the trigger value from the data in that file.\n",
+        "The trigger values shall reside in an initialization file. This procedure reads the initialization file and establishes the trigger value from the data in that file."
+    ],
+    [
+        "PARA",
+        "The trigger values shall reside in an initialization file. This procedure shall read the initialization file and establish the trigger value from the data in that file.\n",
+        "The trigger values shall reside in an initialization file. This procedure shall read the initialization file and establish the trigger value from the data in that file. "
+    ],
+    [
+        "PARA",
+        "The trigger values shall reside in an initialization file. This procedure shall read the initialization file and establish the trigger value from the data in that file.\n",
+        "The trigger values shall reside in an initialization file. This procedure shall read the initialization file and establish the trigger value from the data in this file. "
+    ],
+    [
+        "PARA",
+        "The trigger values shall reside in an initialization file. This procedure shall read the initialization file and establish the trigger value from the data in that file.\n",
+        "The trigger values shall reside in an initialization file. This procedure reads the initialization file and establishes the trigger value from the data in that file. "
+    ],
+    [
+        "PARA",
+        "The trigger values shall reside in an initialization file. This procedure shall read the initialization file and establish the trigger value from the data in that file.\n",
+        "The trigger values shall reside in an initialization file. This procedure reads the initialization file and establishes the trigger value from the data in this file."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall ensure the temperature reported by a given thermostat shall not exceed a maximum deviation value of 3 degrees Fahrenheit.\n",
+        "The energy management system shall ensure that the temperature reported by a given thermostat shall not exceed a maximum deviation value of 3 degrees Fahrenheit. "
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall ensure the temperature reported by a given thermostat shall not exceed a maximum deviation value of 3 degrees Fahrenheit.\n",
+        "The Energy Management System system shall ensure that the temperature reported by a given thermostat shall not exceed a maximum deviation of 3 degrees Fahrenheit."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall ensure the temperature reported by a given thermostat shall not exceed a maximum deviation value of 3 degrees Fahrenheit.\n",
+        "In addition the energy management system shall ensure that the temperature reported by a given thermostat shall not exceed a maximum deviation value of 3 degrees Fahrenheit"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall ensure the temperature reported by a given thermostat shall not exceed a maximum deviation value of 3 degrees Fahrenheit.\n",
+        "The energy management system shall ensure that the temperature reported by a given thermostat shall not exceed a maximum deviation of 3 degrees Fahrenheit. ''"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall ensure the temperature reported by a given thermostat shall not exceed a maximum deviation value of 3 degrees Fahrenheit.\n",
+        "The Energy Management System system shall ensure that the temperature reported by a given thermostat shall not exceed a maximum deviation of 3 degrees Fahrenheit. "
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall ensure the temperature reported by a given thermostat shall not exceed a maximum deviation value of 3 degrees Fahrenheit.\n",
+        "The Energy Management System system shall ensure that the temperature reported by a given thermostat shall not exceed a maximum deviation value of 3 degrees Fahrenheit."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall ensure the temperature reported by a given thermostat shall not exceed a maximum deviation value of 3 degrees Fahrenheit.\n",
+        "The energy management system shall ensure the temperature reported by a given thermostat shall not exceed a maximum deviation of 3 degrees Fahrenheit."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall ensure the temperature reported by a given thermostat shall not exceed a maximum deviation value of 3 degrees Fahrenheit.\n",
+        "The energy management system shall ensure that the temperature reported by a given thermostat shall not exceed a maximum deviation of 3 degrees Fahrenheit."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall ensure the temperature reported by a given thermostat shall not exceed a maximum deviation value of 3 degrees Fahrenheit.\n",
+        "The energy management system shall ensure that the temperature reported by a given thermostat shall not exceed a maximum deviation value of 3 degrees Fahrenheit."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall ensure the temperature reported by a given thermostat shall not exceed a maximum deviation value of 3 degrees Fahrenheit.\n",
+        "The Energy Management System system shall ensure that the temperature reported by a given thermostat shall not exceed a maximum deviation value of 3 degrees Fahrenheit. "
+    ],
+    [
+        "PARA",
+        "The overtemperature values shall reside in an initialization file. This procedure shall read the initialization file and establish the overtemperature value from the data in that file.\n",
+        "The overtemperature values shall reside in an initialization file. This procedure reads the initialization file and determines the overtemperature value from the data in this file. "
+    ],
+    [
+        "PARA",
+        "The overtemperature values shall reside in an initialization file. This procedure shall read the initialization file and establish the overtemperature value from the data in that file.\n",
+        "The overtemperature values shall reside in an initialization file. This procedure shall read the initialization file and establish the overtemperature value from the data in that file."
+    ],
+    [
+        "PARA",
+        "The overtemperature values shall reside in an initialization file. This procedure shall read the initialization file and establish the overtemperature value from the data in that file.\n",
+        "The overtemperature values shall reside in an initialization file. This procedure reads the initialization file and determines the overtemperature value from the data in this file."
+    ],
+    [
+        "PARA",
+        "The overtemperature values shall reside in an initialization file. This procedure shall read the initialization file and establish the overtemperature value from the data in that file.\n",
+        "The overtemperature values shall reside in an initialization file. This procedure shall read the initialization file and establish the overtemperature value from the data in that file. "
+    ],
+    [
+        "PARA",
+        "The overtemperature values shall reside in an initialization file. This procedure shall read the initialization file and establish the overtemperature value from the data in that file.\n",
+        "In this procedure the overtemperature values shall reside in an initialization file. This procedure shall read the initialization file and establish the overtemperature value from the data in the"
+    ],
+    [
+        "PARA",
+        "The overtemperature values shall reside in an initialization file. This procedure shall read the initialization file and establish the overtemperature value from the data in that file.\n",
+        "The overtemperature values shall reside in an initialization file. This procedure shall read the initialization file and establish the overtemperature value from the data in this file."
+    ],
+    [
+        "PARA",
+        "The overtemperature values shall reside in an initialization file. This procedure shall read the initialization file and establish the overtemperature value from the data in that file.\n",
+        "The overtemperature values shall reside in an initialization file. This procedure reads the initialization file and establishes the overtemperature value from the data in this file."
+    ],
+    [
+        "PARA",
+        "The overtemperature values shall reside in an initialization file. This procedure shall read the initialization file and establish the overtemperature value from the data in that file.\n",
+        "In this procedure the overtemperature values shall reside in an initialization file. This procedure shall read the initialization file and establish the overtemperature value from the data"
+    ],
+    [
+        "PARA",
+        "The overtemperature values shall reside in an initialization file. This procedure shall read the initialization file and establish the overtemperature value from the data in that file.\n",
+        "The overtemperature values shall reside in an initialization file. This procedure reads the initialization file and establishes the overtemperature value from the data in that file."
+    ],
+    [
+        "PARA",
+        "The overtemperature values shall reside in an initialization file. This procedure shall read the initialization file and establish the overtemperature value from the data in that file.\n",
+        "The overtemperature values shall reside in an initialization file. This procedure shall read the initialization file and establish the overtemperature value from the data in this file. "
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall only respond to temperatures that are within a reasonable value.\n",
+        "The energy management system shall respond only to temperatures within a reasonable value."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall only respond to temperatures that are within a reasonable value.\n",
+        "It shall respond only to temperatures within a reasonable value."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall only respond to temperatures that are within a reasonable value.\n",
+        "The energy management system shall only respond to temperatures within a reasonable value."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall only respond to temperatures that are within a reasonable value.\n",
+        "It shall respond only to temperatures that are within a reasonable value. "
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall only respond to temperatures that are within a reasonable value.\n",
+        "It shall respond only to temperatures that are within a reasonable value."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall only respond to temperatures that are within a reasonable value.\n",
+        "It shall respond to temperatures that are within a reasonable value."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall only respond to temperatures that are within a reasonable value.\n",
+        "It shall respond only to temperature within a reasonable value."
+    ],
+    [
+        "PARA",
+        "The valid temperature range value shall reside in an initialization file. This procedure shall read the initialization file and establish the valid temperature range from the data in it.\n",
+        "The valid temperature range value shall reside in an initialization file. This procedure reads the initialization file and establishes the valid temperature range from the data in"
+    ],
+    [
+        "PARA",
+        "The valid temperature range value shall reside in an initialization file. This procedure shall read the initialization file and establish the valid temperature range from the data in it.\n",
+        "The valid temperature range value shall reside in an initialization file. This procedure shall read the initialization file and establish the valid temperature range from the data in it."
+    ],
+    [
+        "PARA",
+        "When the Energy Management System system is initialized, it shall first turn off all the heating and cooling units. Then, it shall check all the thermostats and determine if any thermostatâ€™s settings require a heating or cooling unit to be turned on back on.\n",
+        "When the Energy Management System system is initialized it shall first turn off all heating and cooling units and then check all thermostats and determine if any thermostat's settings require a heating or cooling unit to be turned on back on."
+    ],
+    [
+        "PARA",
+        "When the Energy Management System system is initialized, it shall first turn off all the heating and cooling units. Then, it shall check all the thermostats and determine if any thermostatâ€™s settings require a heating or cooling unit to be turned on back on.\n",
+        "As soon as the energy management system is initialized it shall first turn off all the heating and cooling units and then check all the thermostats and determine if any thermostat's settings require a heating or cooling unit to be turned off"
+    ],
+    [
+        "PARA",
+        "When the Energy Management System system is initialized, it shall first turn off all the heating and cooling units. Then, it shall check all the thermostats and determine if any thermostatâ€™s settings require a heating or cooling unit to be turned on back on.\n",
+        "Upon initialization of the Energy Management System system it shall first turn off all the heating and cooling units and then check all the thermostats and determine if any thermostat's settings require a heating or cooling unit to be"
+    ],
+    [
+        "PARA",
+        "When the Energy Management System system is initialized, it shall first turn off all the heating and cooling units. Then, it shall check all the thermostats and determine if any thermostatâ€™s settings require a heating or cooling unit to be turned on back on.\n",
+        "Upon initialization of the Energy Management System system it shall first turn off all the heating and cooling units and then check all the thermostats and determine if any thermostat's settings require a heating or cooling unit to be turned off"
+    ],
+    [
+        "PARA",
+        "When the Energy Management System system is initialized, it shall first turn off all the heating and cooling units. Then, it shall check all the thermostats and determine if any thermostatâ€™s settings require a heating or cooling unit to be turned on back on.\n",
+        "When the Energy Management System system is initialized it shall first turn off all the heating and cooling units and then check all the thermostats and determine if any thermostat's settings require a heating or cooling unit to be turned on back"
+    ],
+    [
+        "PARA",
+        "When the Energy Management System system is initialized, it shall first turn off all the heating and cooling units. Then, it shall check all the thermostats and determine if any thermostatâ€™s settings require a heating or cooling unit to be turned on back on.\n",
+        "When the Energy Management System system is initialized it shall first turn off all heating and cooling units and then check all thermostats and determine if any thermostat's settings require a heating or cooling unit to be turned on back"
+    ],
+    [
+        "PARA",
+        "When the Energy Management System system is initialized, it shall first turn off all the heating and cooling units. Then, it shall check all the thermostats and determine if any thermostatâ€™s settings require a heating or cooling unit to be turned on back on.\n",
+        "Upon initialization of the energy management system the system shall first turn off all the heating and cooling units and then check all the thermostats and determine if any thermostat's settings require a heating or cooling unit to be turned off"
+    ],
+    [
+        "PARA",
+        "This process shall first determine a known state of all the heating and cooling units by issuing a request to turn off all the units. It shall then read the current temperature values and current temperature settings of each thermostat. If the settings reflect a need for a heating or cooling unit to be turned on, the process shall issue a request to turn on the appropriate unit. This determination shall be made in accordance with the rules outlined in section 3.1.4.1 and 3.1.4.2.\n",
+        "If the settings reflect the need for a heating or cooling unit to be turned on the process shall issue a request to turn on the appropriate unit. This determination shall be made in accordance with the rules outlined in section 3.1."
+    ],
+    [
+        "PARA",
+        "This process shall first determine a known state of all the heating and cooling units by issuing a request to turn off all the units. It shall then read the current temperature values and current temperature settings of each thermostat. If the settings reflect a need for a heating or cooling unit to be turned on, the process shall issue a request to turn on the appropriate unit. This determination shall be made in accordance with the rules outlined in section 3.1.4.1 and 3.1.4.2.\n",
+        "If the settings reflect the need for a heating or cooling unit to be turned on the process shall issue a request to turn on the appropriate unit. This determination shall be made in accordance with the rules outlined in"
+    ],
+    [
+        "PARA",
+        "This process shall first determine a known state of all the heating and cooling units by issuing a request to turn off all the units. It shall then read the current temperature values and current temperature settings of each thermostat. If the settings reflect a need for a heating or cooling unit to be turned on, the process shall issue a request to turn on the appropriate unit. This determination shall be made in accordance with the rules outlined in section 3.1.4.1 and 3.1.4.2.\n",
+        "If the settings reflect the need for a heating or cooling unit to be turned on the process shall issue a request to turn on the appropriate unit. This determination shall be made in accordance with the rules outlined in section 3.1.4.1 and"
+    ],
+    [
+        "PARA",
+        "This process shall first determine a known state of all the heating and cooling units by issuing a request to turn off all the units. It shall then read the current temperature values and current temperature settings of each thermostat. If the settings reflect a need for a heating or cooling unit to be turned on, the process shall issue a request to turn on the appropriate unit. This determination shall be made in accordance with the rules outlined in section 3.1.4.1 and 3.1.4.2.\n",
+        "If the settings reflect the need for a heating or cooling unit to be turned on the process shall issue a request to turn on the appropriate unit. This determination shall be made in accordance with the rules outlined in section"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall only respond to temperatures from the thermostats that are within the specified valid range.\n",
+        "It shall respond only to temperatures from the thermostats that are within the specified valid range. "
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall only respond to temperatures from the thermostats that are within the specified valid range.\n",
+        "The energy management system shall only respond to temperatures from the thermostats within the specified valid range."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall only respond to temperatures from the thermostats that are within the specified valid range.\n",
+        "The Energy Management System system shall only respond to temperatures from the thermostats within the specified valid range."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall only respond to temperatures from the thermostats that are within the specified valid range.\n",
+        "It shall respond only to temperatures from the thermostats which are within the specified valid range."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall only respond to temperatures from the thermostats that are within the specified valid range.\n",
+        "It shall respond only to temperatures from the thermostats that are within the specified valid range. ''"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall only respond to temperatures from the thermostats that are within the specified valid range.\n",
+        "The energy management system shall only respond to temperatures from the thermostats that are within the specified valid range."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall only respond to temperatures from the thermostats that are within the specified valid range.\n",
+        "It shall respond only to temperatures from the thermostats that are within the specified valid range."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall only respond to temperatures from the thermostats that are within the specified valid range.\n",
+        "It shall respond only to temperatures from the thermostats that are in the specified valid range."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall only respond to temperatures from the thermostats that are within the specified valid range.\n",
+        "It shall respond only to the temperature of the thermostats within the specified valid range. ''"
+    ],
+    [
+        "PARA",
+        "Two types of temperature data shall be recognized from the thermostats: 1) the temperature setting; 2) the current temperature. This module shall process both types of data.\n",
+        "Two different types of temperature data shall be recognized from the thermostats: 1) the temperature setting and 2) the current temperature. This module shall process both types of data."
+    ],
+    [
+        "PARA",
+        "Two types of temperature data shall be recognized from the thermostats: 1) the temperature setting; 2) the current temperature. This module shall process both types of data.\n",
+        "Two types of temperature data are recognized from the thermostats: 1) the temperature setting; 2) the current temperature. This module shall process both types of data."
+    ],
+    [
+        "PARA",
+        "Two types of temperature data shall be recognized from the thermostats: 1) the temperature setting; 2) the current temperature. This module shall process both types of data.\n",
+        "Two types of temperature data shall be recognized from the thermostats: 1) the temperature setting and 2) the current temperature. This module shall process both types of data. "
+    ],
+    [
+        "PARA",
+        "Two types of temperature data shall be recognized from the thermostats: 1) the temperature setting; 2) the current temperature. This module shall process both types of data.\n",
+        "Two types of temperature data shall be recognized from the thermostats: 1) the temperature setting; 2) the current temperature. This module shall process both types of data. "
+    ],
+    [
+        "PARA",
+        "Two types of temperature data shall be recognized from the thermostats: 1) the temperature setting; 2) the current temperature. This module shall process both types of data.\n",
+        "Two types of temperature data shall be recognized from the thermostats: 1) the temperature setting; 2) the current temperature. This module shall process both types of data."
+    ],
+    [
+        "PARA",
+        "Two types of temperature data shall be recognized from the thermostats: 1) the temperature setting; 2) the current temperature. This module shall process both types of data.\n",
+        "Two types of temperature data must be recognized from the thermostats: 1) the temperature setting; 2) the current temperature. This module shall process both types of data. "
+    ],
+    [
+        "PARA",
+        "Two types of temperature data shall be recognized from the thermostats: 1) the temperature setting; 2) the current temperature. This module shall process both types of data.\n",
+        "Two types of temperature data shall be recognized from the thermostats: 1) the temperature setting and 2) the current temperature. This module shall process both types of data."
+    ],
+    [
+        "PARA",
+        "Two types of temperature data shall be recognized from the thermostats: 1) the temperature setting; 2) the current temperature. This module shall process both types of data.\n",
+        "Two types of temperature data shall be recognized from thermostats: 1) the temperature setting; 2) the current temperature. This module shall process both types of data."
+    ],
+    [
+        "PARA",
+        "Two types of temperature data shall be recognized from the thermostats: 1) the temperature setting; 2) the current temperature. This module shall process both types of data.\n",
+        "Two different types of temperature data shall be recognized from the thermostats: 1) the temperature setting; 2) the current temperature. This module shall process both types of data."
+    ],
+    [
+        "PARA",
+        "Two types of temperature data shall be recognized from the thermostats: 1) the temperature setting; 2) the current temperature. This module shall process both types of data.\n",
+        "Two types of temperature data must be recognized from the thermostats: 1) the temperature setting; 2) the current temperature. This module shall process both types of data."
+    ],
+    [
+        "PARA",
+        "A current temperature value that is received from an individual thermostat shall be compared to the valid temperature range values. If the current temperature value is strictly less than the lower value of the valid temperature range or if the received temperature value is strictly greater than the upper value of the valid temperature range, then the Energy Management System system shall identify the current temperature value as an invalid temperature and shall output an invalid temperature status. Otherwise, the Energy Management System system shall output a valid temperature status.\n",
+        "A current temperature value received from an individual thermostat shall be compared to the valid temperature range values. If the current temperature value is strictly less than the lower value of the valid temperature range or if the received temperature value is strictly greater than the upper value of the valid temperature range the energy management system system shall identify"
+    ],
+    [
+        "PARA",
+        "A current temperature value that is received from an individual thermostat shall be compared to the valid temperature range values. If the current temperature value is strictly less than the lower value of the valid temperature range or if the received temperature value is strictly greater than the upper value of the valid temperature range, then the Energy Management System system shall identify the current temperature value as an invalid temperature and shall output an invalid temperature status. Otherwise, the Energy Management System system shall output a valid temperature status.\n",
+        "A current temperature value received from an individual thermostat shall be compared to the valid temperature range values. If the current temperature value is strictly less than the lower value of the valid temperature range or if the received temperature value is strictly greater than the upper value of the valid temperature range then the Energy Management System system shall"
+    ],
+    [
+        "PARA",
+        "A current temperature value that is received from an individual thermostat shall be compared to the valid temperature range values. If the current temperature value is strictly less than the lower value of the valid temperature range or if the received temperature value is strictly greater than the upper value of the valid temperature range, then the Energy Management System system shall identify the current temperature value as an invalid temperature and shall output an invalid temperature status. Otherwise, the Energy Management System system shall output a valid temperature status.\n",
+        "A current temperature value that is received from an individual thermostat shall be compared to the valid temperature range values. If the current temperature value is strictly less than the lower value of the valid temperature range or if the received temperature value is strictly greater than the upper value of the valid temperature range then the Energy Management System"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall determine when a reported temperature or a changed temperature setting exceeds the limits set by the overtemperature values. Temperatures that exceed the overtemperature limits shall be reported as such. Temperatures that do not exceed these limits shall be output for subsequent processing.\n",
+        "Temperatures that exceed the overtemperature limits shall be reported as such and temperatures that do not exceed these limits shall be output for subsequent processing by the Energy Management System system."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall determine when a reported temperature or a changed temperature setting exceeds the limits set by the overtemperature values. Temperatures that exceed the overtemperature limits shall be reported as such. Temperatures that do not exceed these limits shall be output for subsequent processing.\n",
+        "Temperatures that exceed the overtemperature limits shall be reported as such and temperatures that do not exceed these limits shall be output for subsequent processing. "
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall determine when a reported temperature or a changed temperature setting exceeds the limits set by the overtemperature values. Temperatures that exceed the overtemperature limits shall be reported as such. Temperatures that do not exceed these limits shall be output for subsequent processing.\n",
+        "Temperatures exceeding the overtemperature limits shall be reported as such. Temperatures that do not exceed these limits shall be output for subsequent processing. ''"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall determine when a reported temperature or a changed temperature setting exceeds the limits set by the overtemperature values. Temperatures that exceed the overtemperature limits shall be reported as such. Temperatures that do not exceed these limits shall be output for subsequent processing.\n",
+        "Temperatures that exceed the overtemperature limits shall be reported as such and temperatures that do not exceed these limits shall be output for subsequent processing. ''"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall determine when a reported temperature or a changed temperature setting exceeds the limits set by the overtemperature values. Temperatures that exceed the overtemperature limits shall be reported as such. Temperatures that do not exceed these limits shall be output for subsequent processing.\n",
+        "Temperatures that exceed the overtemperature limits shall be reported as such and temperatures that do not exceed these limits shall be output for subsequent processing by the Energy Management System."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall determine when a reported temperature or a changed temperature setting exceeds the limits set by the overtemperature values. Temperatures that exceed the overtemperature limits shall be reported as such. Temperatures that do not exceed these limits shall be output for subsequent processing.\n",
+        "Temperatures exceeding the overtemperature limits shall be reported as such. Temperatures that do not exceed these limits shall be output for subsequent processing."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall determine when a reported temperature or a changed temperature setting exceeds the limits set by the overtemperature values. Temperatures that exceed the overtemperature limits shall be reported as such. Temperatures that do not exceed these limits shall be output for subsequent processing.\n",
+        "Temperatures that exceed the overtemperature limits shall be reported as such and temperatures that do not exceed these limits shall be output for subsequent processing by the energy management system system."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall determine when a reported temperature or a changed temperature setting exceeds the limits set by the overtemperature values. Temperatures that exceed the overtemperature limits shall be reported as such. Temperatures that do not exceed these limits shall be output for subsequent processing.\n",
+        "Temperatures that exceed the overtemperature limits shall be reported as such and temperatures that do not exceed these limits shall be output for subsequent processing by the energy management system."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall determine when a reported temperature or a changed temperature setting exceeds the limits set by the overtemperature values. Temperatures that exceed the overtemperature limits shall be reported as such. Temperatures that do not exceed these limits shall be output for subsequent processing.\n",
+        "Temperatures that exceed the overtemperature limits shall be reported as such and temperatures that do not exceed these limits shall be output for subsequent processing."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall determine when a reported temperature or a changed temperature setting exceeds the limits set by the overtemperature values. Temperatures that exceed the overtemperature limits shall be reported as such. Temperatures that do not exceed these limits shall be output for subsequent processing.\n",
+        "Temperatures exceeding the overtemperature limits shall be reported as such. Temperatures that do not exceed these limits shall be output for subsequent processing. "
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall compare the reported temperature value to the temperature setting and detect when the temperature value exceeds the specified limits. To clarify these conditions, the following definitions will be used: 1) LO : Lower Overtemperature Value = TSET - OD 2) UO : Upper Overtemperature Value = TSET + OD\n",
+        "It shall compare the reported temperature value to the temperature setting and detect when the temperature value exceeds the specified limits. To clarify these conditions the following definitions will be used: 1) LO : Lower Overtemperature Value = TSET - OD 2) UO : Upper Overtemperature"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall compare the reported temperature value to the temperature setting and detect when the temperature value exceeds the specified limits. To clarify these conditions, the following definitions will be used: 1) LO : Lower Overtemperature Value = TSET - OD 2) UO : Upper Overtemperature Value = TSET + OD\n",
+        "The Energy Management System shall compare the reported temperature value to the temperature setting and detect when the temperature value exceeds the specified limits. To clarify these conditions the following definitions will be used: 1) LO : Lower Overtemperature Value = TSET - OD 2) UO : Upper Overtemperatur"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall compare the reported temperature value to the temperature setting and detect when the temperature value exceeds the specified limits. To clarify these conditions, the following definitions will be used: 1) LO : Lower Overtemperature Value = TSET - OD 2) UO : Upper Overtemperature Value = TSET + OD\n",
+        "The Energy Management System system shall compare the reported temperature value to the temperature setting and detect when the temperature value exceeds the specified limits. To clarify these conditions the following definitions will be used: 1) LO : Lower Overtemperature Value = TSET - OD 2) UO : Upper Over"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall compare the reported temperature value to the temperature setting and detect when the temperature value exceeds the specified limits. To clarify these conditions, the following definitions will be used: 1) LO : Lower Overtemperature Value = TSET - OD 2) UO : Upper Overtemperature Value = TSET + OD\n",
+        "The energy management system shall compare the reported temperature value to the temperature setting and detect when the temperature value exceeds the specified limits. To clarify these conditions the following definitions will be used: 1) LO : Lower Overtemperature Value = TSET - OD 2) UO : Upper"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall compare the reported temperature value to the temperature setting and detect when the temperature value exceeds the specified limits. To clarify these conditions, the following definitions will be used: 1) LO : Lower Overtemperature Value = TSET - OD 2) UO : Upper Overtemperature Value = TSET + OD\n",
+        "The Energy Management System system shall compare the reported temperature value to the temperature setting and detect when the temperature value exceeds the specified limits. To clarify these conditions the following definitions are used: 1) LO : Lower Overtemperature Value = TSET - OD 2) UO : Upper Overtemperatur"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall compare the reported temperature value to the temperature setting and detect when the temperature value exceeds the specified limits. To clarify these conditions, the following definitions will be used: 1) LO : Lower Overtemperature Value = TSET - OD 2) UO : Upper Overtemperature Value = TSET + OD\n",
+        "The energy management system shall compare the reported temperature value to the temperature setting and detect when the temperature value exceeds the specified limits. To clarify these conditions the following definitions will be used: 1) LO : Lower Overtemperature value = TSET - OD 2) UO : Upper Overtemperatur"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall compare the reported temperature value to the temperature setting and detect when the temperature value exceeds the specified limits. To clarify these conditions, the following definitions will be used: 1) LO : Lower Overtemperature Value = TSET - OD 2) UO : Upper Overtemperature Value = TSET + OD\n",
+        "The Energy Management System system shall compare the reported temperature value to the temperature setting and detect when the temperature value exceeds the specified limits. To clarify these conditions the following definitions will be used: 1) LO : Lower Overtemperature Value = TSET - OD 2) UO : Upper"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall compare the reported temperature value to the temperature setting and detect when the temperature value exceeds the specified limits. To clarify these conditions, the following definitions will be used: 1) LO : Lower Overtemperature Value = TSET - OD 2) UO : Upper Overtemperature Value = TSET + OD\n",
+        "The energy management system shall compare the reported temperature value to the temperature setting and detect when the temperature value exceeds the specified limits. To clarify these conditions the following definitions will be used: 1) LO : Lower Overtemperature Value = TSET - OD 2) UO : Upper Overtemperatur"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall compare the reported temperature value to the temperature setting and detect when the temperature value exceeds the specified limits. To clarify these conditions, the following definitions will be used: 1) LO : Lower Overtemperature Value = TSET - OD 2) UO : Upper Overtemperature Value = TSET + OD\n",
+        "The Energy Management System shall compare the reported temperature value to the temperature setting and detect when the temperature value exceeds the specified limits. To clarify these conditions the following definitions will be used: 1) LO : Lower Overtemperature Value = TSET - OD 2) UO : Upper"
+    ],
+    [
+        "PARA",
+        "If T < LO or UO < T then the Energy Management System system shall recognize this condition as the temperature limit has been exceeded. In this case this process shall output the condition of the temperature limit having been exceeded.\n",
+        "If T < LO or UO < T then the Energy Management System system shall recognize this condition as the temperature limit has been exceeded. In this case this process shall output the condition of the temperature limit having been exceeded.\n"
+    ],
+    [
+        "PARA",
+        "When the current temperature value exceeds the current temperature setting by a pre-defined amount, the Energy Management System system shall activate the appropriate heating or cooling unit.\n",
+        "When the current temperature exceeds the current temperature setting by a pre-defined amount the Energy Management System system activates the appropriate heating or cooling unit. ''"
+    ],
+    [
+        "PARA",
+        "When the current temperature value exceeds the current temperature setting by a pre-defined amount, the Energy Management System system shall activate the appropriate heating or cooling unit.\n",
+        "When the current temperature value exceeds the current temperature setting by a pre-defined amount the Energy Management System system shall activate the appropriate heating or cooling unit. "
+    ],
+    [
+        "PARA",
+        "When the current temperature value exceeds the current temperature setting by a pre-defined amount, the Energy Management System system shall activate the appropriate heating or cooling unit.\n",
+        "When the current temperature value exceeds the current temperature setting by a pre-defined amount the Energy Management System system shall activate the appropriate heating or cooling unit."
+    ],
+    [
+        "PARA",
+        "When the current temperature value exceeds the current temperature setting by a pre-defined amount, the Energy Management System system shall activate the appropriate heating or cooling unit.\n",
+        "When the current temperature value exceeds the current temperature setting by a pre-defined amount the energy management system system shall activate the appropriate heating or cooling unit."
+    ],
+    [
+        "PARA",
+        "When the current temperature value exceeds the current temperature setting by a pre-defined amount, the Energy Management System system shall activate the appropriate heating or cooling unit.\n",
+        "When the current temperature exceeds the current temperature setting by a pre-defined amount the Energy Management System system shall activate the appropriate heating or cooling unit. ''"
+    ],
+    [
+        "PARA",
+        "When the current temperature value exceeds the current temperature setting by a pre-defined amount, the Energy Management System system shall activate the appropriate heating or cooling unit.\n",
+        "When the current temperature value exceeds the current temperature setting by a pre-defined amount the energy management system system shall activate the appropriate heating or cooling unit. "
+    ],
+    [
+        "PARA",
+        "When the current temperature value exceeds the current temperature setting by a pre-defined amount, the Energy Management System system shall activate the appropriate heating or cooling unit.\n",
+        "When the current temperature exceeds the current temperature setting by a pre-defined amount the Energy Management System system shall activate the appropriate heating or cooling unit."
+    ],
+    [
+        "PARA",
+        "There are two conditions for each individual thermostat that shall be tested for: 1) the thermostatâ€™s settings are satisfied; 2) the thermostatâ€™s temperature indicates it requires a heating or cooling unit to be turned on. To clarify these conditions, the following definitions will be used: 1) LT : Lower Trigger Value = TSET - TD 2) UT : Upper Trigger Value = TSET + TD\n",
+        "Each individual thermostat must be tested for two conditions: 1) the thermostat's settings are satisfied; 2) the thermostat's temperature indicates that it requires a heating or cooling unit to be turned on. To clarify these conditions the following definitions will be used:"
+    ],
+    [
+        "PARA",
+        "There are two conditions for each individual thermostat that shall be tested for: 1) the thermostatâ€™s settings are satisfied; 2) the thermostatâ€™s temperature indicates it requires a heating or cooling unit to be turned on. To clarify these conditions, the following definitions will be used: 1) LT : Lower Trigger Value = TSET - TD 2) UT : Upper Trigger Value = TSET + TD\n",
+        "There are two conditions for each individual thermostat that shall be tested for: 1) the thermostat's settings are satisfied; 2) the thermostat's temperature indicates it requires a heating or cooling unit to be turned on. To clarify these conditions the following definitions will be used:"
+    ],
+    [
+        "PARA",
+        "There are two conditions for each individual thermostat that shall be tested for: 1) the thermostatâ€™s settings are satisfied; 2) the thermostatâ€™s temperature indicates it requires a heating or cooling unit to be turned on. To clarify these conditions, the following definitions will be used: 1) LT : Lower Trigger Value = TSET - TD 2) UT : Upper Trigger Value = TSET + TD\n",
+        "Each individual thermostat shall be tested for two conditions: 1) the thermostat's settings are satisfied; 2) the thermostat's temperature indicates it requires a heating or cooling unit to be turned on. To clarify these conditions the following definitions will be used:"
+    ],
+    [
+        "PARA",
+        "There are two conditions for each individual thermostat that shall be tested for: 1) the thermostatâ€™s settings are satisfied; 2) the thermostatâ€™s temperature indicates it requires a heating or cooling unit to be turned on. To clarify these conditions, the following definitions will be used: 1) LT : Lower Trigger Value = TSET - TD 2) UT : Upper Trigger Value = TSET + TD\n",
+        "There are two conditions for each individual thermostat that must be tested for: 1) the thermostat's settings are satisfied; 2) the thermostat's temperature indicates that it requires a heating or cooling unit to be turned on. To clarify these conditions the following definitions will be used:"
+    ],
+    [
+        "PARA",
+        "There are two conditions for each individual thermostat that shall be tested for: 1) the thermostatâ€™s settings are satisfied; 2) the thermostatâ€™s temperature indicates it requires a heating or cooling unit to be turned on. To clarify these conditions, the following definitions will be used: 1) LT : Lower Trigger Value = TSET - TD 2) UT : Upper Trigger Value = TSET + TD\n",
+        "Each individual thermostat must be tested for two conditions: 1) the thermostat's settings are satisfied; 2) the thermostat's temperature indicates it requires a heating or cooling unit to be turned on. To clarify these conditions the following definitions will be used:"
+    ],
+    [
+        "PARA",
+        "There are two conditions for each individual thermostat that shall be tested for: 1) the thermostatâ€™s settings are satisfied; 2) the thermostatâ€™s temperature indicates it requires a heating or cooling unit to be turned on. To clarify these conditions, the following definitions will be used: 1) LT : Lower Trigger Value = TSET - TD 2) UT : Upper Trigger Value = TSET + TD\n",
+        "Each individual thermostat shall be tested for two conditions: 1) the thermostat's settings are satisfied; 2) the thermostat's temperature indicates that it requires a heating or cooling unit to be turned on. To clarify these conditions the following definitions will be used:"
+    ],
+    [
+        "PARA",
+        "There are two conditions for each individual thermostat that shall be tested for: 1) the thermostatâ€™s settings are satisfied; 2) the thermostatâ€™s temperature indicates it requires a heating or cooling unit to be turned on. To clarify these conditions, the following definitions will be used: 1) LT : Lower Trigger Value = TSET - TD 2) UT : Upper Trigger Value = TSET + TD\n",
+        "There are two conditions for each individual thermostat that must be tested for: 1) the thermostat's settings are satisfied; 2) the thermostat's temperature indicates it requires a heating or cooling unit to be turned on. To clarify these conditions the following definitions will be used:"
+    ],
+    [
+        "PARA",
+        "There are two conditions for each individual thermostat that shall be tested for: 1) the thermostatâ€™s settings are satisfied; 2) the thermostatâ€™s temperature indicates it requires a heating or cooling unit to be turned on. To clarify these conditions, the following definitions will be used: 1) LT : Lower Trigger Value = TSET - TD 2) UT : Upper Trigger Value = TSET + TD\n",
+        "There are two conditions for each individual thermostat that shall be tested: 1) the thermostat's settings are satisfied; 2) the thermostat's temperature indicates it requires a heating or cooling unit to be turned on. To clarify these conditions the following definitions will be used:"
+    ],
+    [
+        "PARA",
+        "There are two conditions for each individual thermostat that shall be tested for: 1) the thermostatâ€™s settings are satisfied; 2) the thermostatâ€™s temperature indicates it requires a heating or cooling unit to be turned on. To clarify these conditions, the following definitions will be used: 1) LT : Lower Trigger Value = TSET - TD 2) UT : Upper Trigger Value = TSET + TD\n",
+        "There are two conditions for each individual thermostat that shall be tested for: 1) the thermostat's settings are satisfied; 2) the thermostat's temperature indicates that it requires a heating or cooling unit to be turned on. To clarify these conditions the following definitions will be used:"
+    ],
+    [
+        "PARA",
+        "Condition 1: LT < = T < = UT. This condition indicates the thermostatâ€™s current temperature setting is satisfied. If this condition is true, then the module shall output a request to turn off both the heating unit and the cooling unit.\n",
+        "If this condition is true then the module shall output a request to turn off the heating unit and the cooling unit. LT  = T  = UT. This condition indicates the thermostat's current temperature setting is satisfied."
+    ],
+    [
+        "PARA",
+        "Condition 1: LT < = T < = UT. This condition indicates the thermostatâ€™s current temperature setting is satisfied. If this condition is true, then the module shall output a request to turn off both the heating unit and the cooling unit.\n",
+        "If this condition is true then the module shall output a request to turn off both the heating unit and the cooling unit."
+    ],
+    [
+        "PARA",
+        "Condition 1: LT < = T < = UT. This condition indicates the thermostatâ€™s current temperature setting is satisfied. If this condition is true, then the module shall output a request to turn off both the heating unit and the cooling unit.\n",
+        "If this condition is true then the module outputs a request to turn off both the heating unit and the cooling unit. LT  = T  = UT."
+    ],
+    [
+        "PARA",
+        "Condition 1: LT < = T < = UT. This condition indicates the thermostatâ€™s current temperature setting is satisfied. If this condition is true, then the module shall output a request to turn off both the heating unit and the cooling unit.\n",
+        "If this condition is true then the module shall output a request to turn off both the heating unit and the cooling unit. LT  = T  = UT."
+    ],
+    [
+        "PARA",
+        "Condition 1: LT < = T < = UT. This condition indicates the thermostatâ€™s current temperature setting is satisfied. If this condition is true, then the module shall output a request to turn off both the heating unit and the cooling unit.\n",
+        "If this condition is true then the module will output a request to turn off both the heating unit and the cooling unit. LT  = T  = UT."
+    ],
+    [
+        "PARA",
+        "Condition 1: LT < = T < = UT. This condition indicates the thermostatâ€™s current temperature setting is satisfied. If this condition is true, then the module shall output a request to turn off both the heating unit and the cooling unit.\n",
+        "If this condition is true then the module will output a request to turn off both the heating unit and the cooling unit."
+    ],
+    [
+        "PARA",
+        "Condition 1: LT < = T < = UT. This condition indicates the thermostatâ€™s current temperature setting is satisfied. If this condition is true, then the module shall output a request to turn off both the heating unit and the cooling unit.\n",
+        "If this condition is true then the module will output a request to turn off the heating unit and the cooling unit. LT  = T  = UT."
+    ],
+    [
+        "PARA",
+        "Condition 1: LT < = T < = UT. This condition indicates the thermostatâ€™s current temperature setting is satisfied. If this condition is true, then the module shall output a request to turn off both the heating unit and the cooling unit.\n",
+        "If this condition is true then the module will output a request to turn off the heating unit and the cooling unit. LT  = T  = UT. This condition indicates the thermostat's current temperature setting is satisfied."
+    ],
+    [
+        "PARA",
+        "Condition 1: LT < = T < = UT. This condition indicates the thermostatâ€™s current temperature setting is satisfied. If this condition is true, then the module shall output a request to turn off both the heating unit and the cooling unit.\n",
+        "If this condition is true then the module shall output a request to turn off the heating unit and the cooling unit. LT  = T  = UT."
+    ],
+    [
+        "PARA",
+        "Condition 2: LO < = T < LT or UT < T < = UO. This condition the need for a heating or cooling unit to be turned on. If this condition is true, then this module shall output a request to turn on the heating unit if LO < = T < LT or the cooling unit if UT < T < = UO.\n",
+        "Condition 2: LO < = T < LT or UT < T < = UO. This condition the need for a heating or cooling unit to be turned on. If this condition is true, then this module shall output a request to turn on the heating unit if LO < = T < LT or the cooling unit if UT < T < = UO.\n"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control each of the heating and cooling units that are defined for the system. The Energy Management System system shall limit the number of heating or cooling units that may be running simultaneously.\n",
+        "The Energy Management System system shall control each of the heating and cooling units defined for the system and shall limit the number of heating or cooling units that may be running simultaneously."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control each of the heating and cooling units that are defined for the system. The Energy Management System system shall limit the number of heating or cooling units that may be running simultaneously.\n",
+        "The Energy Management System system shall control each of the heating and cooling units defined for the system and limit the number of heating or cooling units that may be running simultaneously."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control each of the heating and cooling units that are defined for the system. The Energy Management System system shall limit the number of heating or cooling units that may be running simultaneously.\n",
+        "It shall control each of the heating and cooling units defined for the system and shall limit the number of heating or cooling units that may be running simultaneously."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control each of the heating and cooling units that are defined for the system. The Energy Management System system shall limit the number of heating or cooling units that may be running simultaneously.\n",
+        "It shall control each of the heating and cooling units defined for the system. The Energy Management System System shall limit the number of heating or cooling units that may be running simultaneously."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control each of the heating and cooling units that are defined for the system. The Energy Management System system shall limit the number of heating or cooling units that may be running simultaneously.\n",
+        "It shall control each of the heating and cooling units defined for the system and shall limit the number of heating or cooling units that may be running simultaneously. ''"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control each of the heating and cooling units that are defined for the system. The Energy Management System system shall limit the number of heating or cooling units that may be running simultaneously.\n",
+        "It shall control each of the heating and cooling units defined for the system. The Energy Management System system shall limit the number of heating or cooling units that may be running simultaneously"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control each of the heating and cooling units that are defined for the system. The Energy Management System system shall limit the number of heating or cooling units that may be running simultaneously.\n",
+        "It shall control each of the heating and cooling units defined for the system and shall limit the number of heating and cooling units that may be running simultaneously."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control each of the heating and cooling units that are defined for the system. The Energy Management System system shall limit the number of heating or cooling units that may be running simultaneously.\n",
+        "It shall control each of the heating and cooling units defined for the system. The Energy Management System system shall limit the number of heating or cooling units that may be running simultaneously."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control each of the heating and cooling units that are defined for the system. The Energy Management System system shall limit the number of heating or cooling units that may be running simultaneously.\n",
+        "It shall control each of the heating and cooling units defined for the system and shall limit the number of heating or cooling units that may be running simultaneously. "
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control each of the heating and cooling units that are defined for the system. The Energy Management System system shall limit the number of heating or cooling units that may be running simultaneously.\n",
+        "It shall control each of the heating and cooling units defined for the system. The Energy Management System System shall limit the number of heating or cooling units that may be running simultaneously"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall maintain the ON\/OFF status of each heating and cooling unit. When a request to turn on or off a heating or cooling unit, the following processing will occur.\n",
+        "Energy Management System shall maintain the ON\/OFF status of each heating and cooling unit when a request to turn on or off a heating or cooling unit occurs the following processing shall take place."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall maintain the ON\/OFF status of each heating and cooling unit. When a request to turn on or off a heating or cooling unit, the following processing will occur.\n",
+        "Energy Management System shall maintain the ON\/OFF status of each heating and cooling unit when a request to turn on or off a heating or cooling unit occurs the following processing shall occur."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall maintain the ON\/OFF status of each heating and cooling unit. When a request to turn on or off a heating or cooling unit, the following processing will occur.\n",
+        "Energy Management System shall maintain the ON\/OFF status of each heating and cooling unit when a request to turn on or off a heating or cooling unit will occur."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall maintain the ON\/OFF status of each heating and cooling unit. When a request to turn on or off a heating or cooling unit, the following processing will occur.\n",
+        "Energy Management System shall maintain the ON\/OFF status of each heating and cooling unit when a request to turn on or off a heating or cooling unit occurs the following processing shall be performed."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall maintain the ON\/OFF status of each heating and cooling unit. When a request to turn on or off a heating or cooling unit, the following processing will occur.\n",
+        "Energy Management System shall maintain the ON\/OFF status of each heating and cooling unit when a request to turn on or off a heating or cooling unit occurs."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall maintain the ON\/OFF status of each heating and cooling unit. When a request to turn on or off a heating or cooling unit, the following processing will occur.\n",
+        "Energy Management System shall maintain the ON\/OFF status of each heating and cooling unit when a request to turn on or off a heating or cooling unit occurs the following processing will be performed."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall maintain the ON\/OFF status of each heating and cooling unit. When a request to turn on or off a heating or cooling unit, the following processing will occur.\n",
+        "Energy Management System shall maintain the ON\/OFF status of each heating and cooling unit when a request to turn on or off a heating or cooling unit occurs the following processing shall take place:"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall maintain the ON\/OFF status of each heating and cooling unit. When a request to turn on or off a heating or cooling unit, the following processing will occur.\n",
+        "Energy Management System shall maintain the ON\/OFF status of each heating and cooling unit when a request to turn on or off a heating or cooling unit occurs the following processing will occur."
+    ],
+    [
+        "PARA",
+        "When a request to turn on a heating or cooling unit is received, the system shall determine if the request can be honored. If the maximum number of heating or cooling units is already running, the request will be added to a LIFO queue. If the maximum number of heating or cooling units is not running, this process will generate a request to turn on the requested unit.\n",
+        "When a request to turn on a heating or cooling unit is received, the system shall determine if the request can be honored. If the maximum number of heating or cooling units is already running the request will be added to a LIFO queue. If the maximum number of heating or cooling units is not"
+    ],
+    [
+        "PARA",
+        "When a request to turn on a heating or cooling unit is received, the system shall determine if the request can be honored. If the maximum number of heating or cooling units is already running, the request will be added to a LIFO queue. If the maximum number of heating or cooling units is not running, this process will generate a request to turn on the requested unit.\n",
+        "When a request to turn on a heating or cooling unit is received the system shall determine if the request can be honored. If the maximum number of heating or cooling units is already running the request will be added to a LIFO queue if the maximum number of heating or cooling units is not running"
+    ],
+    [
+        "PARA",
+        "When a request to turn on a heating or cooling unit is received, the system shall determine if the request can be honored. If the maximum number of heating or cooling units is already running, the request will be added to a LIFO queue. If the maximum number of heating or cooling units is not running, this process will generate a request to turn on the requested unit.\n",
+        "When a request to turn on a heating or cooling unit is received the system shall determine if the request can be honored. If the maximum number of heating or cooling units is already running, the request will be added to a LIFO queue. If the maximum number of heating or cooling units is not"
+    ],
+    [
+        "PARA",
+        "When a request to turn on a heating or cooling unit is received, the system shall determine if the request can be honored. If the maximum number of heating or cooling units is already running, the request will be added to a LIFO queue. If the maximum number of heating or cooling units is not running, this process will generate a request to turn on the requested unit.\n",
+        "When a request to turn on a heating or cooling unit is received the system shall determine if the request can be honored. If the maximum number of heating or cooling units is already running the request will be added to a LIFO queue. If the maximum number of heating or cooling units is not running"
+    ],
+    [
+        "PARA",
+        "When a request to turn off a heating or cooling unit is received, this process shall check the queue of waiting heating and cooling requests. If the queue is not empty, this process shall remove one request from the LIFO queue and check the current state of the thermostat for which the queued request was made. If that thermostat still needs a heating or cooling unit turned on, this process shall submit a request to turn that unit on.\n",
+        "After receiving a request to turn off a heating or cooling unit this process shall check the queue of waiting heating and cooling requests. If the queue is not empty this process shall remove one request from the LIFO queue and check the current state of the thermostat for which the queued request was made."
+    ],
+    [
+        "PARA",
+        "When a request to turn off a heating or cooling unit is received, this process shall check the queue of waiting heating and cooling requests. If the queue is not empty, this process shall remove one request from the LIFO queue and check the current state of the thermostat for which the queued request was made. If that thermostat still needs a heating or cooling unit turned on, this process shall submit a request to turn that unit on.\n",
+        "When a request to turn off a heating or cooling unit is received this process shall check the queue of waiting heating and cooling requests. If the queue is not empty this process shall remove one request from the LIFO queue and check the current state of the thermostat for which the queued request was made"
+    ],
+    [
+        "PARA",
+        "When a request to turn off a heating or cooling unit is received, this process shall check the queue of waiting heating and cooling requests. If the queue is not empty, this process shall remove one request from the LIFO queue and check the current state of the thermostat for which the queued request was made. If that thermostat still needs a heating or cooling unit turned on, this process shall submit a request to turn that unit on.\n",
+        "When a request to turn off a heating or cooling unit is received this process shall check the queue of waiting heating and cooling requests if the queue is not empty this process shall remove one request from the LIFO queue and check the current state of the thermostat for which the queued request was made. If"
+    ],
+    [
+        "PARA",
+        "When a request to turn off a heating or cooling unit is received, this process shall check the queue of waiting heating and cooling requests. If the queue is not empty, this process shall remove one request from the LIFO queue and check the current state of the thermostat for which the queued request was made. If that thermostat still needs a heating or cooling unit turned on, this process shall submit a request to turn that unit on.\n",
+        "After receiving a request to turn off a heating or cooling unit this process shall check the queue of waiting heating and cooling requests. If the queue is not empty this process shall remove one request from the LIFO queue and check the current state of the thermostat for which the queued request was made. If this"
+    ],
+    [
+        "PARA",
+        "When a request to turn off a heating or cooling unit is received, this process shall check the queue of waiting heating and cooling requests. If the queue is not empty, this process shall remove one request from the LIFO queue and check the current state of the thermostat for which the queued request was made. If that thermostat still needs a heating or cooling unit turned on, this process shall submit a request to turn that unit on.\n",
+        "When a request to turn off a heating or cooling unit is received, this process shall check the queue of waiting heating and cooling requests. If the queue is not empty this process shall remove one request from the LIFO queue and check the current state of the thermostat for which the queued request was made."
+    ],
+    [
+        "PARA",
+        "When a request to turn off a heating or cooling unit is received, this process shall check the queue of waiting heating and cooling requests. If the queue is not empty, this process shall remove one request from the LIFO queue and check the current state of the thermostat for which the queued request was made. If that thermostat still needs a heating or cooling unit turned on, this process shall submit a request to turn that unit on.\n",
+        "When a request to turn off a heating or cooling unit is received this process shall check the queue of waiting heating and cooling requests. If the queue is not empty this process shall remove one request from the queue of LIFO and check the current state of the thermostat for which the queued request was made."
+    ],
+    [
+        "PARA",
+        "When a request to turn off a heating or cooling unit is received, this process shall check the queue of waiting heating and cooling requests. If the queue is not empty, this process shall remove one request from the LIFO queue and check the current state of the thermostat for which the queued request was made. If that thermostat still needs a heating or cooling unit turned on, this process shall submit a request to turn that unit on.\n",
+        "When a request to turn off a heating or cooling unit is received this process shall check the queue of waiting heating and cooling requests and if the queue is not empty this process shall remove one request from the LIFO queue and check the current state of the thermostat for which the queued request was made."
+    ],
+    [
+        "PARA",
+        "When a request to turn off a heating or cooling unit is received, this process shall check the queue of waiting heating and cooling requests. If the queue is not empty, this process shall remove one request from the LIFO queue and check the current state of the thermostat for which the queued request was made. If that thermostat still needs a heating or cooling unit turned on, this process shall submit a request to turn that unit on.\n",
+        "When a request to turn off a heating or cooling unit is received this process shall check the queue of waiting heating and cooling requests. If the queue is not empty this process shall remove one request from the LIFO queue and check the current state of the thermostat for which the queued request was made. If"
+    ],
+    [
+        "PARA",
+        "When a request to turn off a heating or cooling unit is received, this process shall check the queue of waiting heating and cooling requests. If the queue is not empty, this process shall remove one request from the LIFO queue and check the current state of the thermostat for which the queued request was made. If that thermostat still needs a heating or cooling unit turned on, this process shall submit a request to turn that unit on.\n",
+        "When a request to turn off a heating or cooling unit is received this process shall check the queue of waiting heating and cooling requests. If the queue is not empty this process shall remove one request from the LIFO queue and check the current state of the thermostat for which the queued request was made."
+    ],
+    [
+        "PARA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.\n",
+        "When a request for a heating unit or cooling to be turned is denied an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports."
+    ],
+    [
+        "PARA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.\n",
+        "When a request for a heating unit or cooling to be turned is denied an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports. "
+    ],
+    [
+        "PARA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.\n",
+        "When a request for a heating unit or cooling unit to be turned is denied an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports."
+    ],
+    [
+        "PARA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.\n",
+        "When a request for a heating unit or cooling unit to be turned is denied an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports. "
+    ],
+    [
+        "PARA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.\n",
+        "When a request for a heating unit or cooling to be turned is denied an event shall be generated and the Energy Management System system shall record this event. The information in these events will be used for creating statistical reports."
+    ],
+    [
+        "PARA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.\n",
+        "When a request for a heating unit or cooling to be turned is denied an event shall be generated and the Energy Management System system shall record this event. The information in these events will be used for creating statistical reports. "
+    ],
+    [
+        "PARA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.\n",
+        "When a request for a heating unit or cooling to be turned is denied an event shall be generated and the Energy Management System system shall record the event. The information in these events will be used for creating statistical reports. "
+    ],
+    [
+        "PARA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.\n",
+        "When a request for a heating unit or cooling to be turned is denied an event shall be generated and the energy management system system shall record that event. The information in these events will be used for creating statistical reports. "
+    ],
+    [
+        "PARA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.\n",
+        "When a request for a heating unit or cooling to be turned is denied an event shall be generated and the Energy Management System system shall record the event. The information in these events will be used for creating statistical reports."
+    ],
+    [
+        "PARA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.\n",
+        "When a request for a heating unit or cooling to be turned is denied an event shall be generated and the energy management system system shall record that event. The information in these events will be used for creating statistical reports."
+    ],
+    [
+        "PARA",
+        "This procedure shall realize the thermostat and heating or cooling information and use this information to generate a specific system event. This system event shall consist of a description of the event type (a request denied event), a designation of the thermostat that made the request, and a designation of the heating or cooling unit that was not turned on.\n",
+        "This procedure shall realize the thermostat and the heating or cooling information and use this information to generate a specific system event. This system event shall consist of a description of the event type (a request denied event), a designation of the thermostat that made the request and a designation of the heating or cooling unit"
+    ],
+    [
+        "PARA",
+        "This procedure shall realize the thermostat and heating or cooling information and use this information to generate a specific system event. This system event shall consist of a description of the event type (a request denied event), a designation of the thermostat that made the request, and a designation of the heating or cooling unit that was not turned on.\n",
+        "This procedure shall realize the thermostat and heating or cooling information and use this information to generate a specific system event. This system event shall consist of a description of the event type (a request denied event), a designation of the thermostat that made the request and a designation of the heating or cooling unit that"
+    ],
+    [
+        "PARA",
+        "This procedure shall realize the thermostat and heating or cooling information and use this information to generate a specific system event. This system event shall consist of a description of the event type (a request denied event), a designation of the thermostat that made the request, and a designation of the heating or cooling unit that was not turned on.\n",
+        "This procedure shall realize the thermostat and heating or cooling information and use this information to generate a specific system event. This system event shall consist of a description of the event type (a request denied event), a designation of the thermostat who made the request and a designation of the heating or cooling unit that"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control the heating and cooling units that are designated as part of the Energy Management System system.\n",
+        "The energy management system shall control the heating and cooling units designated as part of the energy management system."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control the heating and cooling units that are designated as part of the Energy Management System system.\n",
+        "The Energy Management System system shall control the heating and cooling units designated as part of the Energy Management System system."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control the heating and cooling units that are designated as part of the Energy Management System system.\n",
+        "The energy management system system shall control the heating and cooling units designated as part of the energy management system."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control the heating and cooling units that are designated as part of the Energy Management System system.\n",
+        "The energy management system shall control the heating and cooling units designated as part of the energy management system. ''"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control the heating and cooling units that are designated as part of the Energy Management System system.\n",
+        "The energy management system system shall control the heating and cooling units designated as part of the energy management system system."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control the heating and cooling units that are designated as part of the Energy Management System system.\n",
+        "The Energy Management System system shall control the heating and cooling units that are designated as part of the Energy Management System system."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control the heating and cooling units that are designated as part of the Energy Management System system.\n",
+        "The energy management system system shall control the heating and cooling units designated as part of the energy management system. ''"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control the heating and cooling units that are designated as part of the Energy Management System system.\n",
+        "It shall control heating and cooling units designated as part of the Energy Management System system. ''"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control the heating and cooling units that are designated as part of the Energy Management System system.\n",
+        "It shall control heating and cooling units that are designated as part of the Energy Management System system."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall control the heating and cooling units that are designated as part of the Energy Management System system.\n",
+        "The Energy Management System system shall control the heating and cooling units designated as part of the Energy Management System system. "
+    ],
+    [
+        "PARA",
+        "When a request to turn on or off a heating or cooling unit is made, this process shall generate the appropriate request to carry out that request. This request shall include the designation of the heating or cooling unit and a flag to indicate whether that unit is to be turned on or off.\n",
+        "When a request to turn on or off a heating or cooling unit is made this process shall generate the appropriate request to carry out the request. This request shall include the designation of the heating or cooling unit and a flag to indicate whether the unit is to be turned on or off."
+    ],
+    [
+        "PARA",
+        "When a request to turn on or off a heating or cooling unit is made, this process shall generate the appropriate request to carry out that request. This request shall include the designation of the heating or cooling unit and a flag to indicate whether that unit is to be turned on or off.\n",
+        "In case a request is made to turn on or off a heating or cooling unit, this process shall generate the appropriate request to carry out that request. This request shall include the designation of the heating or cooling unit and a flag to indicate whether the unit is to be turned on"
+    ],
+    [
+        "PARA",
+        "When a request to turn on or off a heating or cooling unit is made, this process shall generate the appropriate request to carry out that request. This request shall include the designation of the heating or cooling unit and a flag to indicate whether that unit is to be turned on or off.\n",
+        "In case a request to turn on or off heating or cooling units is made this process generates the appropriate request to carry out that request. This request shall include the designation of the heating or cooling unit and a flag to indicate whether the unit is to be turned on or off."
+    ],
+    [
+        "PARA",
+        "When a request to turn on or off a heating or cooling unit is made, this process shall generate the appropriate request to carry out that request. This request shall include the designation of the heating or cooling unit and a flag to indicate whether that unit is to be turned on or off.\n",
+        "When a request is made to turn on or off a heating or cooling unit this process shall generate the appropriate request to carry out that request. This request shall include the designation of the heating or cooling unit and a flag to indicate whether the unit is to be turned on or off."
+    ],
+    [
+        "PARA",
+        "When a request to turn on or off a heating or cooling unit is made, this process shall generate the appropriate request to carry out that request. This request shall include the designation of the heating or cooling unit and a flag to indicate whether that unit is to be turned on or off.\n",
+        "When a request to turn on or off a heating or cooling unit is made this process shall generate the appropriate request to carry out that request. This request shall include the designation of the heating or cooling unit and a flag to indicate whether this unit is to be turned on or off."
+    ],
+    [
+        "PARA",
+        "When a request to turn on or off a heating or cooling unit is made, this process shall generate the appropriate request to carry out that request. This request shall include the designation of the heating or cooling unit and a flag to indicate whether that unit is to be turned on or off.\n",
+        "When a request to turn on or off a heating or cooling unit is made this process shall generate the appropriate request to carry out that request. This request shall include the designation of the heating or cooling unit and a flag to indicate whether that unit is to be turned on or off."
+    ],
+    [
+        "PARA",
+        "When a request to turn on or off a heating or cooling unit is made, this process shall generate the appropriate request to carry out that request. This request shall include the designation of the heating or cooling unit and a flag to indicate whether that unit is to be turned on or off.\n",
+        "When a request to turn on or off a heating or cooling unit is made this process shall generate the appropriate request to carry out that request. This request shall include the designation of the heating or cooling unit and a flag to indicate whether the unit is to be turned on"
+    ],
+    [
+        "PARA",
+        "When a request to turn on or off a heating or cooling unit is made, this process shall generate the appropriate request to carry out that request. This request shall include the designation of the heating or cooling unit and a flag to indicate whether that unit is to be turned on or off.\n",
+        "When a request to turn on or off a heating or cooling unit is made this process shall generate the appropriate request to carry out that request. This request shall include the designation of the heating or cooling unit and a flag to indicate whether the unit is to be turned on or"
+    ],
+    [
+        "PARA",
+        "When a request to turn on or off a heating or cooling unit is made, this process shall generate the appropriate request to carry out that request. This request shall include the designation of the heating or cooling unit and a flag to indicate whether that unit is to be turned on or off.\n",
+        "In case a request to turn on or off heating or cooling units is made this process generates the appropriate request to carry out that request. This request shall include the designation of the heating or cooling unit and a flag to indicate whether the unit is to be turned on or"
+    ],
+    [
+        "PARA",
+        "When a request to turn on or off a heating or cooling unit is made, this process shall generate the appropriate request to carry out that request. This request shall include the designation of the heating or cooling unit and a flag to indicate whether that unit is to be turned on or off.\n",
+        "When a request to turn on or off a heating or cooling unit is made this process shall generate the appropriate request to carry out that request. This request shall include the designation of the heating or cooling unit and a flag to indicate whether the unit is to be turned on or off."
+    ],
+    [
+        "PARA",
+        "Once a request to turn on or off a heating or cooling unit, the Energy Management System system shall provide the necessary control signal for the unit. This control signal shall also provide an indication of the unitâ€™s status at the requesting thermostat.\n",
+        "Once a request to turn on or off a heating or cooling unit is made the Energy Management System system shall provide the necessary control signal for the unit and shall also provide an indication of the unit's status at the requesting thermostat"
+    ],
+    [
+        "PARA",
+        "Once a request to turn on or off a heating or cooling unit, the Energy Management System system shall provide the necessary control signal for the unit. This control signal shall also provide an indication of the unitâ€™s status at the requesting thermostat.\n",
+        "Upon request to turn on or off a heating or cooling unit the Energy Management System system shall provide the necessary control signal for the unit and shall also provide an indication of the unit status at the requesting thermostat."
+    ],
+    [
+        "PARA",
+        "Once a request to turn on or off a heating or cooling unit, the Energy Management System system shall provide the necessary control signal for the unit. This control signal shall also provide an indication of the unitâ€™s status at the requesting thermostat.\n",
+        "Upon request to turn on or off a heating or cooling unit the Energy Management System system shall provide the necessary control signal for the unit and shall also provide an indication of the unit status at the requesting thermostat. "
+    ],
+    [
+        "PARA",
+        "Once a request to turn on or off a heating or cooling unit, the Energy Management System system shall provide the necessary control signal for the unit. This control signal shall also provide an indication of the unitâ€™s status at the requesting thermostat.\n",
+        "Upon request to turn on or off a heating or cooling unit the Energy Management System system shall provide the necessary control signal for the unit. This control signal also provides an indication of the unit's status at the requesting thermostat"
+    ],
+    [
+        "PARA",
+        "Once a request to turn on or off a heating or cooling unit, the Energy Management System system shall provide the necessary control signal for the unit. This control signal shall also provide an indication of the unitâ€™s status at the requesting thermostat.\n",
+        "Upon request to turn on or off a heating or cooling unit the Energy Management System system shall provide the necessary control signal for the unit. This control signal also provides an indication of the unit's status at the request thermostat."
+    ],
+    [
+        "PARA",
+        "Once a request to turn on or off a heating or cooling unit, the Energy Management System system shall provide the necessary control signal for the unit. This control signal shall also provide an indication of the unitâ€™s status at the requesting thermostat.\n",
+        "Upon request to turn on or off a heating or cooling unit the Energy Management System system shall provide the necessary control signal for the unit and shall also provide an indication of the unit status at the requesting thermostat"
+    ],
+    [
+        "PARA",
+        "Once a request to turn on or off a heating or cooling unit, the Energy Management System system shall provide the necessary control signal for the unit. This control signal shall also provide an indication of the unitâ€™s status at the requesting thermostat.\n",
+        "Upon request to turn on or off a heating or cooling unit the Energy Management System system shall provide the necessary control signal for the unit. This control signal also provides an indication of the unit's status at the requesting thermostat."
+    ],
+    [
+        "PARA",
+        "This process shall recognize the values for the requested heating or cooling unit and the ON or OFF status that is being requested. The necessary signal to the heating or cooling unit will be generated. Since the interface to control the units has not been defined, the part of this process that will issue the signal is designated as to be determined.\n",
+        "Since the interface for controlling the units has not been defined, the part of this process that will issue the signal is designated as being determined."
+    ],
+    [
+        "PARA",
+        "In order to provide an indication of the status of the heating or cooling unit back to the requesting thermostat, this procedure shall output the status information of the heating or cooling unit.\n",
+        "To provide an indication of the status of the heating or cooling unit back to the requesting thermostat this procedure shall output the status information of the heating or cooling unit. "
+    ],
+    [
+        "PARA",
+        "In order to provide an indication of the status of the heating or cooling unit back to the requesting thermostat, this procedure shall output the status information of the heating or cooling unit.\n",
+        "In order to provide an indication of the status of the heating or cooling unit back to the requesting thermostat, this procedure shall output the status information of the heating or cooling unit."
+    ],
+    [
+        "PARA",
+        "In order to provide an indication of the status of the heating or cooling unit back to the requesting thermostat, this procedure shall output the status information of the heating or cooling unit.\n",
+        "In order to provide an indication of the status of the heating or cooling unit back to the requesting thermostat, this procedure shall output the status information of the heating or cooling unit. "
+    ],
+    [
+        "PARA",
+        "In order to provide an indication of the status of the heating or cooling unit back to the requesting thermostat, this procedure shall output the status information of the heating or cooling unit.\n",
+        "In order to provide an indication of the status of the heating or cooling unit back to the requesting thermostat this procedure shall output the status information of the heating or cooling unit. -"
+    ],
+    [
+        "PARA",
+        "In order to provide an indication of the status of the heating or cooling unit back to the requesting thermostat, this procedure shall output the status information of the heating or cooling unit.\n",
+        "In order to provide an indication of the status of the heating or cooling unit back to the requesting thermostat this procedure shall output the status information of the heating or cooling unit."
+    ],
+    [
+        "PARA",
+        "In order to provide an indication of the status of the heating or cooling unit back to the requesting thermostat, this procedure shall output the status information of the heating or cooling unit.\n",
+        "To provide an indication of the status of the heating or cooling unit back to the requesting thermostat this procedure shall output the status information of the heating or cooling unit."
+    ],
+    [
+        "PARA",
+        "In order to provide an indication of the status of the heating or cooling unit back to the requesting thermostat, this procedure shall output the status information of the heating or cooling unit.\n",
+        "In order to provide an indication of the status of the heating or cooling unit back to the requesting thermostat this procedure shall output the status information of the heating or cooling unit. "
+    ],
+    [
+        "PARA",
+        "In order to provide an operational history and statistical reports, this process shall generate an event each time a change is made to the status of a heating or cooling unit. This event shall contain the identification of the heating or cooling unit whose status is being changed.\n",
+        "Each time a change is made to the status of a heating or cooling unit this event shall contain the identification of the heating or cooling unit whose status is being changed. -"
+    ],
+    [
+        "PARA",
+        "In order to provide an operational history and statistical reports, this process shall generate an event each time a change is made to the status of a heating or cooling unit. This event shall contain the identification of the heating or cooling unit whose status is being changed.\n",
+        "Each time a change is made to the status of a heating or cooling unit this event shall contain the identification of the heating or cooling unit whose status is changed."
+    ],
+    [
+        "PARA",
+        "In order to provide an operational history and statistical reports, this process shall generate an event each time a change is made to the status of a heating or cooling unit. This event shall contain the identification of the heating or cooling unit whose status is being changed.\n",
+        "Each time a change is made to the status of a heating or cooling unit this event shall contain the identification of the heating or cooling unit whose status is being changed. "
+    ],
+    [
+        "PARA",
+        "In order to provide an operational history and statistical reports, this process shall generate an event each time a change is made to the status of a heating or cooling unit. This event shall contain the identification of the heating or cooling unit whose status is being changed.\n",
+        "Each time a change is made to the status of a heating or cooling unit this event shall contain the identification of the heating or cooling unit whose status is being changed. b"
+    ],
+    [
+        "PARA",
+        "In order to provide an operational history and statistical reports, this process shall generate an event each time a change is made to the status of a heating or cooling unit. This event shall contain the identification of the heating or cooling unit whose status is being changed.\n",
+        "Each time a change is made to the status of a heating or cooling unit this event shall contain the identification of the heating or cooling unit whose status is being changed. b."
+    ],
+    [
+        "PARA",
+        "In order to provide an operational history and statistical reports, this process shall generate an event each time a change is made to the status of a heating or cooling unit. This event shall contain the identification of the heating or cooling unit whose status is being changed.\n",
+        "Each time a change is made to the status of a heating or cooling unit this event shall contain the identification of the heating or cooling unit whose status is being changed."
+    ],
+    [
+        "PARA",
+        "In order to provide an operational history and statistical reports, this process shall generate an event each time a change is made to the status of a heating or cooling unit. This event shall contain the identification of the heating or cooling unit whose status is being changed.\n",
+        "Each time a change is made to the status of a heating or cooling unit this event shall contain the identification of the heating or cooling unit whose status is changed. "
+    ],
+    [
+        "PARA",
+        "In order to provide an operational history and statistical reports, this process shall generate an event each time a change is made to the status of a heating or cooling unit. This event shall contain the identification of the heating or cooling unit whose status is being changed.\n",
+        "Each time a change is made to the status of a heating or cooling unit this event shall contain the identification of the heating or cooling unit whose status is being changed. ii"
+    ],
+    [
+        "PARA",
+        "There are two events that shall result in an alarm condition: 1) an invalid temperature value is reported from a thermostat, or 2) the reported temperature has exceeded the defined limits. This process shall determine which alarm event is to be generated.\n",
+        "This process determines which alarm event is to be generated. ii) An invalid temperature value is reported from a thermostat or iii) the reported temperature has exceeded the defined limits."
+    ],
+    [
+        "PARA",
+        "There are two events that shall result in an alarm condition: 1) an invalid temperature value is reported from a thermostat, or 2) the reported temperature has exceeded the defined limits. This process shall determine which alarm event is to be generated.\n",
+        "This process determines which alarm event is to be generated. ii) An invalid temperature value is reported from a thermostat or iii) the reported temperature has exceeded the defined limits"
+    ],
+    [
+        "PARA",
+        "There are two events that shall result in an alarm condition: 1) an invalid temperature value is reported from a thermostat, or 2) the reported temperature has exceeded the defined limits. This process shall determine which alarm event is to be generated.\n",
+        "This process determines which alarm event is to be generated. ''"
+    ],
+    [
+        "PARA",
+        "There are two events that shall result in an alarm condition: 1) an invalid temperature value is reported from a thermostat, or 2) the reported temperature has exceeded the defined limits. This process shall determine which alarm event is to be generated.\n",
+        "This process determines which alarm event is to be generated. iii) an invalid temperature value is reported from a thermostat or iii"
+    ],
+    [
+        "PARA",
+        "There are two events that shall result in an alarm condition: 1) an invalid temperature value is reported from a thermostat, or 2) the reported temperature has exceeded the defined limits. This process shall determine which alarm event is to be generated.\n",
+        "This process determines which alarm event is to be generated. a) An invalid temperature value is reported from a thermostat or b) The reported temperature has exceeded the defined limits."
+    ],
+    [
+        "PARA",
+        "There are two events that shall result in an alarm condition: 1) an invalid temperature value is reported from a thermostat, or 2) the reported temperature has exceeded the defined limits. This process shall determine which alarm event is to be generated.\n",
+        "This process determines which alarm event is to be generated. ii) An invalid temperature value is reported from a thermostat."
+    ],
+    [
+        "PARA",
+        "There are two events that shall result in an alarm condition: 1) an invalid temperature value is reported from a thermostat, or 2) the reported temperature has exceeded the defined limits. This process shall determine which alarm event is to be generated.\n",
+        "This process determines which alarm event is to be generated. iii) an invalid temperature value is reported from a thermostat or iii) the reported temperature has exceeded the defined limits"
+    ],
+    [
+        "PARA",
+        "There are two events that shall result in an alarm condition: 1) an invalid temperature value is reported from a thermostat, or 2) the reported temperature has exceeded the defined limits. This process shall determine which alarm event is to be generated.\n",
+        "This process determines which alarm event is to be generated. iii) An invalid temperature value is reported from a thermostat or iii) the reported temperature has exceeded the defined limits"
+    ],
+    [
+        "PARA",
+        "There are two events that shall result in an alarm condition: 1) an invalid temperature value is reported from a thermostat, or 2) the reported temperature has exceeded the defined limits. This process shall determine which alarm event is to be generated.\n",
+        "This process determines which alarm event is to be generated. a) An invalid temperature value is reported from a thermostat or b) the reported temperature has exceeded the defined limits."
+    ],
+    [
+        "PARA",
+        "There are two events that shall result in an alarm condition: 1) an invalid temperature value is reported from a thermostat, or 2) the reported temperature has exceeded the defined limits. This process shall determine which alarm event is to be generated.\n",
+        "This process determines which alarm event is to be generated."
+    ],
+    [
+        "PARA",
+        "When the Energy Management System system detects a request for an alarm, this process shall detect which of the two alarms are being requested.\n",
+        "When the Energy Management System system detects a request for an alarm this process shall detect which of the two alarms are requested."
+    ],
+    [
+        "PARA",
+        "When the Energy Management System system detects a request for an alarm, this process shall detect which of the two alarms are being requested.\n",
+        "When energy management system detects a request for alarm this process shall detect which of the two alarms is being requested."
+    ],
+    [
+        "PARA",
+        "When the Energy Management System system detects a request for an alarm, this process shall detect which of the two alarms are being requested.\n",
+        "When energy management system detects a request for alarm this process shall detect which of the two alarms are being requested."
+    ],
+    [
+        "PARA",
+        "When the Energy Management System system detects a request for an alarm, this process shall detect which of the two alarms are being requested.\n",
+        "This process detects which of the two alarms is requested when the Energy Management System system detects a request for alarm."
+    ],
+    [
+        "PARA",
+        "When the Energy Management System system detects a request for an alarm, this process shall detect which of the two alarms are being requested.\n",
+        "When the Energy Management System system detects a request for an alarm this process shall detect which of the two alarms are being requested."
+    ],
+    [
+        "PARA",
+        "When the Energy Management System system detects a request for an alarm, this process shall detect which of the two alarms are being requested.\n",
+        "When the Energy Management System system detects a request for an alarm this process shall detect which of the two alarms is being requested."
+    ],
+    [
+        "PARA",
+        "When the Energy Management System system detects a request for an alarm, this process shall detect which of the two alarms are being requested.\n",
+        "When the Energy Management System system detects a request for an alarm this process shall detect which of the two alarms is requested."
+    ],
+    [
+        "PARA",
+        "If the system detects an invalid temperature, this process shall output a continuous series of alternating 500 Hz and 700 Hz beeps on the supervisorâ€™s computer. Each beep shall have a three - quarter second duration. This series of beeps shall continue until the supervisor manually resets the alarm through the supervisorâ€™s interface window.\n",
+        "If the system detects an invalid temperature this process shall output a continuous series of alternating 500 Hz and 700 Hz beeps on the supervisor's computer. Each beep shall have a duration of three quarter second. This series of beeps shall continue until the supervisor"
+    ],
+    [
+        "PARA",
+        "If the system detects an invalid temperature, this process shall output a continuous series of alternating 500 Hz and 700 Hz beeps on the supervisorâ€™s computer. Each beep shall have a three - quarter second duration. This series of beeps shall continue until the supervisor manually resets the alarm through the supervisorâ€™s interface window.\n",
+        "If the system detects an invalid temperature this process shall output a continuous series of alternating 500 Hz and 700 Hz beeps on the supervisor's computer each beep shall have a duration of three quarter seconds. This series of beeps shall continue until the supervisor manually"
+    ],
+    [
+        "PARA",
+        "If the system detects an invalid temperature, this process shall output a continuous series of alternating 500 Hz and 700 Hz beeps on the supervisorâ€™s computer. Each beep shall have a three - quarter second duration. This series of beeps shall continue until the supervisor manually resets the alarm through the supervisorâ€™s interface window.\n",
+        "If the system detects an invalid temperature this process shall output a continuous series of alternating 500 Hz and 700 Hz beeps on the supervisor's computer each beep shall have a three quarter second duration. This series of beeps shall continue until the supervisor manually reset"
+    ],
+    [
+        "PARA",
+        "If the system detects an invalid temperature, this process shall output a continuous series of alternating 500 Hz and 700 Hz beeps on the supervisorâ€™s computer. Each beep shall have a three - quarter second duration. This series of beeps shall continue until the supervisor manually resets the alarm through the supervisorâ€™s interface window.\n",
+        "In cases where the system detects an invalid temperature this process shall output a continuous series of alternating beeps of 500 Hz and 700 Hz on the supervisor's computer. Each beep shall have a three quarter second duration. This series of beeps shall continue"
+    ],
+    [
+        "PARA",
+        "If the system detects an invalid temperature, this process shall output a continuous series of alternating 500 Hz and 700 Hz beeps on the supervisorâ€™s computer. Each beep shall have a three - quarter second duration. This series of beeps shall continue until the supervisor manually resets the alarm through the supervisorâ€™s interface window.\n",
+        "If the system detects an invalid temperature this process shall output a continuous series of alternating 500 Hz and 700 Hz beeps on the supervisor's computer. Each beep shall have a duration of three quarter seconds. This series of beeps shall continue until the supervisor"
+    ],
+    [
+        "PARA",
+        "If the system detects an invalid temperature, this process shall output a continuous series of alternating 500 Hz and 700 Hz beeps on the supervisorâ€™s computer. Each beep shall have a three - quarter second duration. This series of beeps shall continue until the supervisor manually resets the alarm through the supervisorâ€™s interface window.\n",
+        "In cases where the system detects an invalid temperature this process shall output a continuous series of alternating beeps of 500 Hz and 700 Hz on the supervisor's computer. Each beep shall have a three-quarter second duration. This series of beeps shall continue"
+    ],
+    [
+        "PARA",
+        "If the system detects an invalid temperature, this process shall output a continuous series of alternating 500 Hz and 700 Hz beeps on the supervisorâ€™s computer. Each beep shall have a three - quarter second duration. This series of beeps shall continue until the supervisor manually resets the alarm through the supervisorâ€™s interface window.\n",
+        "In cases where the system detects an invalid temperature this process shall output a continuous series of alternating beeps of 500 Hz and 700 Hz on the supervisor's computer. Each beep shall have a duration of three quarter seconds. This series of beeps shall continue"
+    ],
+    [
+        "PARA",
+        "If the system detects an invalid temperature, this process shall output a continuous series of alternating 500 Hz and 700 Hz beeps on the supervisorâ€™s computer. Each beep shall have a three - quarter second duration. This series of beeps shall continue until the supervisor manually resets the alarm through the supervisorâ€™s interface window.\n",
+        "In cases where the system detects an invalid temperature this process shall output a continuous series of alternating beeps of 500 Hz and 700 Hz on the supervisor's computer. Each beep shall have a three quarter second duration. This series of beeps shall continue until"
+    ],
+    [
+        "PARA",
+        "If the system detects an invalid temperature, this process shall output a continuous series of alternating 500 Hz and 700 Hz beeps on the supervisorâ€™s computer. Each beep shall have a three - quarter second duration. This series of beeps shall continue until the supervisor manually resets the alarm through the supervisorâ€™s interface window.\n",
+        "In cases where the system detects an invalid temperature this process shall output a continuous series of alternating beeps of 500 Hz and 700 Hz on the supervisor's computer each beep shall have a duration of three quarter seconds. This series of beeps shall continue until"
+    ],
+    [
+        "PARA",
+        "If the system detects a temperature limit has been exceeded, this process shall output a continuous series of alternating 1000 Hz and 1500 Hz beeps on the supervisorâ€™s computer. Each beep shall have a one-half second duration. This series of beeps shall continue until the supervisor manually resets the alarm through the supervisorâ€™s interface window.\n",
+        "If the system detects a temperature limit has been exceeded this process shall output a continuous series of alternating 1000 Hz and 1500 Hz beeps on the supervisor's computer each beep shall have a one-half second duration. This series of beeps shall continue"
+    ],
+    [
+        "PARA",
+        "If the system detects a temperature limit has been exceeded, this process shall output a continuous series of alternating 1000 Hz and 1500 Hz beeps on the supervisorâ€™s computer. Each beep shall have a one-half second duration. This series of beeps shall continue until the supervisor manually resets the alarm through the supervisorâ€™s interface window.\n",
+        "If the system detects that a temperature limit has been exceeded this process shall output a continuous series of alternating 1000 Hz and 1500 Hz beeps on the supervisor's computer. Each beep shall have a half second duration. This series of beeps shall continue"
+    ],
+    [
+        "PARA",
+        "Each time an alarm is requested, an alarm event shall be recorded. This event shall be used to provide operational and statistical reports about the system.\n",
+        "Each time an alarm is requested an alarm event shall be recorded which will be used to provide operational and statistical reports about the system."
+    ],
+    [
+        "PARA",
+        "Each time an alarm is requested, an alarm event shall be recorded. This event shall be used to provide operational and statistical reports about the system.\n",
+        "Each time an alarm is requested an alarm event shall be recorded. This event shall be used to provide operational and statistical reports about the system. "
+    ],
+    [
+        "PARA",
+        "Each time an alarm is requested, an alarm event shall be recorded. This event shall be used to provide operational and statistical reports about the system.\n",
+        "Each time an alarm is requested an alarm event shall be recorded which is used to provide operational and statistical reports about the system. ''"
+    ],
+    [
+        "PARA",
+        "Each time an alarm is requested, an alarm event shall be recorded. This event shall be used to provide operational and statistical reports about the system.\n",
+        "Each time an alarm is requested an alarm event shall be recorded which will be used to provide operational and statistical reports about the system. ''"
+    ],
+    [
+        "PARA",
+        "Each time an alarm is requested, an alarm event shall be recorded. This event shall be used to provide operational and statistical reports about the system.\n",
+        "Each time an alarm is requested an alarm event shall be recorded which shall be used to provide operational and statistical reports about the system. ''"
+    ],
+    [
+        "PARA",
+        "Each time an alarm is requested, an alarm event shall be recorded. This event shall be used to provide operational and statistical reports about the system.\n",
+        "Each time an alarm is requested an alarm event shall be recorded which is used to provide operational and statistical reports about the system."
+    ],
+    [
+        "PARA",
+        "Each time an alarm is requested, an alarm event shall be recorded. This event shall be used to provide operational and statistical reports about the system.\n",
+        "Each time an alarm is requested an alarm event shall be recorded which shall be used to provide operational and statistical reports about the system."
+    ],
+    [
+        "PARA",
+        "Each time an alarm is requested, an alarm event shall be recorded. This event shall be used to provide operational and statistical reports about the system.\n",
+        "Each time an alarm is requested an alarm event is recorded which is used to provide operational and statistical reports about the system. ''"
+    ],
+    [
+        "PARA",
+        "Each time an alarm is requested, an alarm event shall be recorded. This event shall be used to provide operational and statistical reports about the system.\n",
+        "Each time an alarm is requested an alarm event shall be recorded. This event shall be used to provide operational and statistical reports about the system."
+    ],
+    [
+        "PARA",
+        "For each event that is generated, the Energy Management System system shall identify each event and generate the appropriate event data.\n",
+        "For each event generated the energy management system shall identify each event and generate the appropriate event data. ''"
+    ],
+    [
+        "PARA",
+        "For each event that is generated, the Energy Management System system shall identify each event and generate the appropriate event data.\n",
+        "For each event generated the energy management system shall identify each event and generate the appropriate event data."
+    ],
+    [
+        "PARA",
+        "For each event that is generated, the Energy Management System system shall identify each event and generate the appropriate event data.\n",
+        "For each event that is generated the Energy Management System system shall identify each event and generate the appropriate event data. "
+    ],
+    [
+        "PARA",
+        "For each event that is generated, the Energy Management System system shall identify each event and generate the appropriate event data.\n",
+        "For each event generated the Energy Management System system shall identify each event and generate the appropriate event data. ''"
+    ],
+    [
+        "PARA",
+        "For each event that is generated, the Energy Management System system shall identify each event and generate the appropriate event data.\n",
+        "For each event generated the Energy Management System system shall identify each event and generate the appropriate event data."
+    ],
+    [
+        "PARA",
+        "For each event that is generated, the Energy Management System system shall identify each event and generate the appropriate event data.\n",
+        "For each event that is generated the Energy Management System system shall identify each event and generate the appropriate event data."
+    ],
+    [
+        "PARA",
+        "For each event that is generated, the Energy Management System system shall identify each event and generate the appropriate event data.\n",
+        "Every time a new event is generated the energy management system shall identify each event and generate the appropriate event data."
+    ],
+    [
+        "PARA",
+        "For each event that is generated, the Energy Management System system shall identify each event and generate the appropriate event data.\n",
+        "For each event that is generated the energy management system shall identify each event and generate the appropriate event data."
+    ],
+    [
+        "PARA",
+        "For each event that is generated, the Energy Management System system shall identify each event and generate the appropriate event data.\n",
+        "For each event generated the energy management system system shall identify each event and generate the appropriate event data. ''"
+    ],
+    [
+        "PARA",
+        "When an event occurs, the Energy Management System system shall identify the event type and format an appropriate event message. The Energy Management System system shall record each event by a description and the current system time for that event. This information shall be recorded in a MicrosoftÂ® AccessÂ® database that shall reside on the supervisorâ€™s computer.\n",
+        "When an event occurs the Energy Management System system shall identify the event type and format an appropriate event message. The Energy Management System system shall record each event by a description and the current system time for that event. This information shall be recorded in a Microsoft Access database which shall reside on the supervisor"
+    ],
+    [
+        "PARA",
+        "When an event occurs, the Energy Management System system shall identify the event type and format an appropriate event message. The Energy Management System system shall record each event by a description and the current system time for that event. This information shall be recorded in a MicrosoftÂ® AccessÂ® database that shall reside on the supervisorâ€™s computer.\n",
+        "When an event occurs the Energy Management System system shall identify the event type and format an appropriate event message. The Energy Management System system shall record each event by a description and the current system time for that event. This information shall be recorded in a Microsoft Access database that shall reside on the"
+    ],
+    [
+        "PARA",
+        "When an event occurs, the Energy Management System system shall identify the event type and format an appropriate event message. The Energy Management System system shall record each event by a description and the current system time for that event. This information shall be recorded in a MicrosoftÂ® AccessÂ® database that shall reside on the supervisorâ€™s computer.\n",
+        "In the case of an event the Energy Management System system shall identify the type of event and format an appropriate event message. The Energy Management System system shall record each event by a description and the current system time for that event. This information shall be recorded in a Microsoft Access database that shall reside"
+    ],
+    [
+        "PARA",
+        "When an event occurs, the Energy Management System system shall identify the event type and format an appropriate event message. The Energy Management System system shall record each event by a description and the current system time for that event. This information shall be recorded in a MicrosoftÂ® AccessÂ® database that shall reside on the supervisorâ€™s computer.\n",
+        "When an event occurs the Energy Management System system shall identify the event type and format an appropriate event message. The Energy Management System system shall record each event by a description and the current system time for that event. This information shall be recorded in a Microsoft Access database that shall reside on the supervisor"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall provide the supervisor a mechanism to change the temperature setting of any of the thermostats in the system.\n",
+        "The energy management system shall provide the supervisor with a mechanism to change the temperature setting of any of the thermostats in the system."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall provide the supervisor a mechanism to change the temperature setting of any of the thermostats in the system.\n",
+        "The energy management system shall provide the supervisor a mechanism to change the temperature setting of any of the thermostats in the system."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall provide the supervisor a mechanism to change the temperature setting of any of the thermostats in the system.\n",
+        "The Energy Management System system shall provide the supervisor a mechanism to change the temperature setting of any of the thermostats in the system."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall provide the supervisor a mechanism to change the temperature setting of any of the thermostats in the system.\n",
+        "It shall provide supervisors with a mechanism to change the temperature setting of any thermostat in the system. ''"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall provide the supervisor a mechanism to change the temperature setting of any of the thermostats in the system.\n",
+        "It shall provide supervisors with a mechanism to change the temperature setting of any thermostat in the system."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall provide the supervisor a mechanism to change the temperature setting of any of the thermostats in the system.\n",
+        "It shall provide to the supervisor a mechanism to change the temperature setting of any thermostat in the system. ''"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall provide the supervisor a mechanism to change the temperature setting of any of the thermostats in the system.\n",
+        "It shall provide to the supervisor a mechanism to change the temperature setting of any of the thermostats in the system."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall provide the supervisor a mechanism to change the temperature setting of any of the thermostats in the system.\n",
+        "It shall provide to the supervisor a mechanism to change the temperature setting of any thermostat in the system."
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall provide the supervisor a mechanism to change the temperature setting of any of the thermostats in the system.\n",
+        "It shall provide to the supervisor a mechanism to change the temperature setting of any of the thermostats in the system. -"
+    ],
+    [
+        "PARA",
+        "The Energy Management System system shall provide the supervisor a mechanism to change the temperature setting of any of the thermostats in the system.\n",
+        "It shall provide to the supervisor a mechanism to change the temperature setting of any of the thermostats in the system. "
+    ],
+    [
+        "PARA",
+        "The supervisorâ€™s interface shall display the available thermostats and their individual current temperature settings.\n",
+        "The supervisor's interface shall display the available thermostats and their individual current temperature settings. -"
+    ],
+    [
+        "PARA",
+        "The supervisorâ€™s interface shall display the available thermostats and their individual current temperature settings.\n",
+        "The supervisor's interface shall display the available thermostats and their current individual temperature settings."
+    ],
+    [
+        "PARA",
+        "The supervisorâ€™s interface shall display the available thermostats and their individual current temperature settings.\n",
+        "The supervisor's interface shall display the available thermostats and their individual current temperature settings. "
+    ],
+    [
+        "PARA",
+        "The supervisorâ€™s interface shall display the available thermostats and their individual current temperature settings.\n",
+        "The supervisorâ€TMs interface shall display the available thermostats and their individual current temperature settings."
+    ],
+    [
+        "PARA",
+        "The supervisorâ€™s interface shall display the available thermostats and their individual current temperature settings.\n",
+        "It shall display the available thermostats and their individual current temperature settings on the supervisor's interface."
+    ],
+    [
+        "PARA",
+        "The supervisorâ€™s interface shall display the available thermostats and their individual current temperature settings.\n",
+        "It shall display the available thermostats and their individual current temperature settings."
+    ],
+    [
+        "PARA",
+        "The supervisorâ€™s interface shall display the available thermostats and their individual current temperature settings.\n",
+        "The supervisor's interface shall display the available thermostats and their current temperature settings."
+    ],
+    [
+        "PARA",
+        "The supervisorâ€™s interface shall display the available thermostats and their individual current temperature settings.\n",
+        "The supervisor's interface shall display the available thermostats and their individual current temperature settings."
+    ],
+    [
+        "PARA",
+        "The supervisorâ€™s interface shall display the available thermostats and their individual current temperature settings.\n",
+        "It shall display the available thermostats and their individual current temperature settings in the supervisor's interface."
+    ],
+    [
+        "PARA",
+        "The supervisor shall be able to select one of the thermostats and select a value for the current temperature from a list of valid temperatures.\n",
+        "The supervisor shall be able to select one of the thermostats and select a value for the current temperature from a list of valid temperatures. "
+    ],
+    [
+        "PARA",
+        "The supervisor shall be able to select one of the thermostats and select a value for the current temperature from a list of valid temperatures.\n",
+        "The supervisor shall be able to select one of the thermostats and select a value for current temperature from a list of valid temperatures."
+    ],
+    [
+        "PARA",
+        "The supervisor shall be able to select one of the thermostats and select a value for the current temperature from a list of valid temperatures.\n",
+        "The supervisor shall be able to select one of the thermostats and select a current temperature from a list of valid temperatures."
+    ],
+    [
+        "PARA",
+        "The supervisor shall be able to select one of the thermostats and select a value for the current temperature from a list of valid temperatures.\n",
+        "The supervisor shall be able to select one of the thermostats and select a value for the current temperature from a list of valid temperatures. -"
+    ],
+    [
+        "PARA",
+        "The supervisor shall be able to select one of the thermostats and select a value for the current temperature from a list of valid temperatures.\n",
+        "The supervisor shall be able to select one of the thermostats and choose a value for the current temperature from a list of valid temperatures. "
+    ],
+    [
+        "PARA",
+        "The supervisor shall be able to select one of the thermostats and select a value for the current temperature from a list of valid temperatures.\n",
+        "The supervisor shall be able to select one of the thermostats and choose a value for the current temperature from a list of valid temperatures."
+    ],
+    [
+        "PARA",
+        "The supervisor shall be able to select one of the thermostats and select a value for the current temperature from a list of valid temperatures.\n",
+        "The supervisor shall be able to select one of the thermostats and select a value for current temperature from a list of valid temperatures. ''"
+    ],
+    [
+        "PARA",
+        "The supervisor shall be able to select one of the thermostats and select a value for the current temperature from a list of valid temperatures.\n",
+        "The supervisor shall be able to select one of the thermostats and select a value for the current temperature from a list of valid temperatures."
+    ],
+    [
+        "PARA",
+        "The Energy Management System shall provide the ability for the supervisor to select between two different types of reports: 1) the operational history of the Energy Management System system for the past twelve months; 2) a statistical summary for any selected month.\n",
+        "The Energy Management System shall provide the ability for the supervisor to select between two different types of reports: 1) the operational history of the Energy Management System system for the past 12 months; 2) a statistical summary for any selected month."
+    ],
+    [
+        "PARA",
+        "The Energy Management System shall provide the ability for the supervisor to select between two different types of reports: 1) the operational history of the Energy Management System system for the past twelve months; 2) a statistical summary for any selected month.\n",
+        "It shall provide the ability for a supervisor to select between two different types of reports: 1) the operational history of the energy management system system for the past twelve months; 2) a statistical summary for any selected month."
+    ],
+    [
+        "PARA",
+        "The Energy Management System shall provide the ability for the supervisor to select between two different types of reports: 1) the operational history of the Energy Management System system for the past twelve months; 2) a statistical summary for any selected month.\n",
+        "The Energy Management System shall provide the ability for the supervisor to select between two different types of reports: 1) the operational history of the Energy Management System system for the past twelve months; 2) a statistical summary for any selected month."
+    ],
+    [
+        "PARA",
+        "The Energy Management System shall provide the ability for the supervisor to select between two different types of reports: 1) the operational history of the Energy Management System system for the past twelve months; 2) a statistical summary for any selected month.\n",
+        "The Energy Management System shall provide the ability for the supervisor to select between two different types of reports: 1) the operational history of the energy management system system for the past twelve months; 2) a statistical summary for any selected month."
+    ],
+    [
+        "PARA",
+        "The Energy Management System shall provide the ability for the supervisor to select between two different types of reports: 1) the operational history of the Energy Management System system for the past twelve months; 2) a statistical summary for any selected month.\n",
+        "It shall provide the ability for a supervisor to select between two different types of reports: 1) the operational history of the Energy Management System system for the past twelve months; 2) a statistical summary for any selected month. "
+    ],
+    [
+        "PARA",
+        "The Energy Management System shall provide the ability for the supervisor to select between two different types of reports: 1) the operational history of the Energy Management System system for the past twelve months; 2) a statistical summary for any selected month.\n",
+        "It shall provide the ability for a supervisor to select between two different types of reports: 1) the operational history of the Energy Management System system for the past twelve months; 2) a statistical summary for a selected month."
+    ],
+    [
+        "PARA",
+        "The Energy Management System shall provide the ability for the supervisor to select between two different types of reports: 1) the operational history of the Energy Management System system for the past twelve months; 2) a statistical summary for any selected month.\n",
+        "The Energy Management System shall provide the ability for the supervisor to choose between two different types of reports: 1) the operational history of the Energy Management System system for the past twelve months; 2) a statistical summary for any selected month."
+    ],
+    [
+        "PARA",
+        "The Energy Management System shall provide the ability for the supervisor to select between two different types of reports: 1) the operational history of the Energy Management System system for the past twelve months; 2) a statistical summary for any selected month.\n",
+        "For the supervisor to select between two different types of reports: 1) the operational history of the Energy Management System system for the past twelve months; 2) a statistical summary for any selected month."
+    ],
+    [
+        "PARA",
+        "The Energy Management System shall provide the ability for the supervisor to select between two different types of reports: 1) the operational history of the Energy Management System system for the past twelve months; 2) a statistical summary for any selected month.\n",
+        "The Energy Management System shall provide the ability for the supervisor to select between two different types of reports: 1) the operational history of the Energy Management System system for the last twelve months; 2) a statistical summary for any selected month."
+    ],
+    [
+        "PARA",
+        "The Energy Management System shall provide the ability for the supervisor to select between two different types of reports: 1) the operational history of the Energy Management System system for the past twelve months; 2) a statistical summary for any selected month.\n",
+        "It shall provide the ability for a supervisor to select between two different types of reports: 1) the operational history of the Energy Management System system for the past twelve months; 2) a statistical summary for any selected month."
+    ],
+    [
+        "PARA",
+        "The supervisorâ€™s interface to the Energy Management System system shall provide a mechanism to select between an operational history report or a statistical summary report. Either report shall consist of an ASCII file whose location and name shall be selectable by the operator.\n",
+        "Either report shall consist of an ASCII file whose location and name shall be selected by the operator. '' The supervisor's interface to the energy management system shall provide a mechanism to select"
+    ],
+    [
+        "PARA",
+        "If the operational history report is selected, the Energy Management System system shall select all the events from the event database, sort the events by date and time, and create the ASCII report file.\n",
+        "If the operational history report is selected the Energy Management System system shall select all events from the event database sort the events by date and time and create the ASCII report file."
+    ],
+    [
+        "PARA",
+        "If the statistical report is selected, the Energy Management System system shall present the operator with a list of available months from which to make a selection. After selecting one of the months, the system shall generate the ASCII report file. The statistical reports shall consist of the following statistics: 1) The percentage of time each heating and cooling unit was on for each day of that month; 2) For each thermometer, the ratio of the number of requests for a heating and cooling unit that was granted to the number of requests for a heating or cooling unit that was denied.\n",
+        "If the statistical report is selected, the Energy Management System system shall present the operator with a list of available months from which to make a selection. After selecting one of the months, the system shall generate the ASCII report file. The statistical reports shall consist of the following statistics: 1) The percentage of time each heating and cooling unit was on for each day of that month; 2) For each thermometer, the ratio of the number of requests for a heating and cooling unit that was granted to the number of requests for a heating or cooling unit that was denied.\n"
+    ]
+]

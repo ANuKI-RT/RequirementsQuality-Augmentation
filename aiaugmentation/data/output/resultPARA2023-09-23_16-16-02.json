@@ -1,0 +1,777 @@
+[
+    [
+        "PARA",
+        "KeePass must be downloaded and installed.\n",
+        "KeePass must be downloaded and installed. "
+    ],
+    [
+        "PARA",
+        "KeePass must be downloaded and installed.\n",
+        "You need to download and install KeePass."
+    ],
+    [
+        "PARA",
+        "KeePass must be downloaded and installed.\n",
+        "You have to download and install KeePass."
+    ],
+    [
+        "PARA",
+        "Master Password has no limits in length. A whole sentence can be used with more than 100 characters.\n",
+        "A sentence can be used with more than 100 characters. "
+    ],
+    [
+        "PARA",
+        "Master Password has no limits in length. A whole sentence can be used with more than 100 characters.\n",
+        "A sentence can be used with more than 100 characters."
+    ],
+    [
+        "PARA",
+        "Master Password has no limits in length. A whole sentence can be used with more than 100 characters.\n",
+        "It has no limit in length. A sentence can be used with more than 100 characters. "
+    ],
+    [
+        "PARA",
+        "Master Password has no limits in length. A whole sentence can be used with more than 100 characters.\n",
+        "It has no limit in length. A sentence can be used with more than 100 characters."
+    ],
+    [
+        "PARA",
+        "Folder selected must be of type the database can read and that is “name”.kdb.\n",
+        "The selected folder must be of the type the database can read and that is “name.kdb."
+    ],
+    [
+        "PARA",
+        "Databases must have different names or else the previews one will be replace if selected.\n",
+        "Databases must have different names or else the previews one will be replace if selected.\n"
+    ],
+    [
+        "PARA",
+        "There must be entries in the database in order for them to be printed.\n",
+        "There must be entries in the database for printing."
+    ],
+    [
+        "PARA",
+        "There must be entries in the database in order for them to be printed.\n",
+        "There must be entries in the database to be printed."
+    ],
+    [
+        "PARA",
+        "All data related to the word must be shown. For example if user types “abc” and abc is part of a password and of a username, both entries must be shown.\n",
+        "When a user typed “abc” and abc is part of a password and of a username, both entries must be shown."
+    ],
+    [
+        "PARA",
+        "All data related to the word must be shown. For example if user types “abc” and abc is part of a password and of a username, both entries must be shown.\n",
+        "When a user typed “abc” and abc is part of a password and a username, both entries must be shown. "
+    ],
+    [
+        "PARA",
+        "All data related to the word must be shown. For example if user types “abc” and abc is part of a password and of a username, both entries must be shown.\n",
+        "When a user typed “abc” and abc is part of a password and a username, both entries must be shown."
+    ],
+    [
+        "PARA",
+        "A name is required in order for the new group\/subgroup to be created.\n",
+        "A name is required for the creation of the new group\/subgroup."
+    ],
+    [
+        "PARA",
+        "A name is required in order for the new group\/subgroup to be created.\n",
+        "To create a new group\/subgroup a name is required."
+    ],
+    [
+        "PARA",
+        "A name is required in order for the new group\/subgroup to be created.\n",
+        "To create a new group\/subgroup a name must be provided."
+    ],
+    [
+        "PARA",
+        "A name is required in order for the new group\/subgroup to be created.\n",
+        "A name is required for the creation of the new group\/subgroup. "
+    ],
+    [
+        "PARA",
+        "A name is required in order for the new group\/subgroup to be created.\n",
+        "A name is required to create a new group\/subgroup."
+    ],
+    [
+        "PARA",
+        "A name is required in order for the new group\/subgroup to be created.\n",
+        "A name is required in order to create the new group\/subgroup."
+    ],
+    [
+        "PARA",
+        "A name is required in order for the new group\/subgroup to be created.\n",
+        "A name is required for the creation of a new group\/subgroup."
+    ],
+    [
+        "PARA",
+        "A name is required in order for the new group\/subgroup to be created.\n",
+        "To create a new group\/subgroup a new name is required."
+    ],
+    [
+        "PARA",
+        "A name is required in order for the new group\/subgroup to be created.\n",
+        "A name is required to create the new group\/subgroup. ''"
+    ],
+    [
+        "PARA",
+        "A name is required in order for the new group\/subgroup to be created.\n",
+        "A name is required to create the new group\/subgroup."
+    ],
+    [
+        "PARA",
+        "A subgroup cannot be created when no group is selected.\n",
+        "A subgroup cannot be created if no group is selected."
+    ],
+    [
+        "PARA",
+        "A subgroup cannot be created when no group is selected.\n",
+        "A subgroup cannot be created when no group is selected. ''"
+    ],
+    [
+        "PARA",
+        "A subgroup cannot be created when no group is selected.\n",
+        "A subgroup cannot be created when no group is selected."
+    ],
+    [
+        "PARA",
+        "A subgroup cannot be created when no group is selected.\n",
+        "A subgroup can't be created when no group is selected."
+    ],
+    [
+        "PARA",
+        "A subgroup cannot be created when no group is selected.\n",
+        "A subgroup can't be created if no group is selected. "
+    ],
+    [
+        "PARA",
+        "A subgroup cannot be created when no group is selected.\n",
+        "A subgroup can't be created if no group is selected."
+    ],
+    [
+        "PARA",
+        "A subgroup cannot be created when no group is selected.\n",
+        "A subgroup can not be created when no group is selected. ''"
+    ],
+    [
+        "PARA",
+        "A subgroup cannot be created when no group is selected.\n",
+        "In cases where no group is selected a subgroup cannot be created."
+    ],
+    [
+        "PARA",
+        "A subgroup cannot be created when no group is selected.\n",
+        "A subgroup cannot be created if no group is selected. ''"
+    ],
+    [
+        "PARA",
+        "A subgroup cannot be created when no group is selected.\n",
+        "A subgroup can not be created when no group is selected."
+    ],
+    [
+        "PARA",
+        "A name is required in order for the group\/subgroup to be renamed.\n",
+        "To rename the group\/subgroup a name is required. "
+    ],
+    [
+        "PARA",
+        "A name is required in order for the group\/subgroup to be renamed.\n",
+        "To be renamed the group\/subgroup must have a name."
+    ],
+    [
+        "PARA",
+        "A name is required in order for the group\/subgroup to be renamed.\n",
+        "A name is required to rename the group\/subgroup. "
+    ],
+    [
+        "PARA",
+        "A name is required in order for the group\/subgroup to be renamed.\n",
+        "To rename the group\/subgroup a name is required."
+    ],
+    [
+        "PARA",
+        "A name is required in order for the group\/subgroup to be renamed.\n",
+        "A name is required for the group\/subgroup to be renamed."
+    ],
+    [
+        "PARA",
+        "A name is required in order for the group\/subgroup to be renamed.\n",
+        "A name is required to rename the group\/subgroup."
+    ],
+    [
+        "PARA",
+        "A name is required in order for the group\/subgroup to be renamed.\n",
+        "A name is required in order to rename the group\/subgroup."
+    ],
+    [
+        "PARA",
+        "In order to find something in a group a word must be placed in the find field.\n",
+        "In order to find something in a group a word must be placed in the find field.\n"
+    ],
+    [
+        "PARA",
+        "An entry must belong to a group to be created.\n",
+        "An entry must belong to a group."
+    ],
+    [
+        "PARA",
+        "An entry must belong to a group to be created.\n",
+        "The entry must belong to a group to be created."
+    ],
+    [
+        "PARA",
+        "An entry must belong to a group to be created.\n",
+        "An entry must belong to the group to be created."
+    ],
+    [
+        "PARA",
+        "An entry must belong to a group to be created.\n",
+        "A new entry must belong to a group."
+    ],
+    [
+        "PARA",
+        "An entry must belong to a group to be created.\n",
+        "A new entry must belong to a group to be created."
+    ],
+    [
+        "PARA",
+        "An entry must belong to a group to be created.\n",
+        "An entry must belong to a group to be created. "
+    ],
+    [
+        "PARA",
+        "An entry must belong to a group to be created.\n",
+        "An entry must belong to a group to be created."
+    ],
+    [
+        "PARA",
+        "When the password field is completed the repeat password field must be completed.\n",
+        "When the password field is completed the repeat password field must be completed."
+    ],
+    [
+        "PARA",
+        "When the password field is completed the repeat password field must be completed.\n",
+        "When the password field is completed the repeat password field must be completed.."
+    ],
+    [
+        "PARA",
+        "When the password field is completed the repeat password field must be completed.\n",
+        "When the password field is completed the repeat password field has to be completed."
+    ],
+    [
+        "PARA",
+        "When the password field is completed the repeat password field must be completed.\n",
+        "When the password field is completed the repeat password field must be completed. "
+    ],
+    [
+        "PARA",
+        "When the password field is completed the repeat password field must be completed.\n",
+        "When the password field is completed the repeat password field must be filled."
+    ],
+    [
+        "PARA",
+        "When the password field is completed the repeat password field must be completed.\n",
+        "When the password field is complete the repeat password field must be completed."
+    ],
+    [
+        "PARA",
+        "When the password field is completed the repeat password field must be completed.\n",
+        "When the password field is completed the Repeat password field must be completed."
+    ],
+    [
+        "PARA",
+        "Password field and repeat password field must be identical.\n",
+        "The password field and the repeat password field must be identical. "
+    ],
+    [
+        "PARA",
+        "Password field and repeat password field must be identical.\n",
+        "The password and the repeat password fields must be identical."
+    ],
+    [
+        "PARA",
+        "Password field and repeat password field must be identical.\n",
+        "The password field and the repeat password field must be identical."
+    ],
+    [
+        "PARA",
+        "An entry must be selected to be viewed or modified.\n",
+        "An entry must be selected to be seen or modified."
+    ],
+    [
+        "PARA",
+        "An entry must be selected to be viewed or modified.\n",
+        "An entry must be selected to view or modify."
+    ],
+    [
+        "PARA",
+        "An entry must be selected to be viewed or modified.\n",
+        "An entry must be selected to be viewed or changed."
+    ],
+    [
+        "PARA",
+        "An entry must be selected to be viewed or modified.\n",
+        "It must be selected to view or modify an entry."
+    ],
+    [
+        "PARA",
+        "An entry must be selected to be viewed or modified.\n",
+        "It must be selected for viewing or modification."
+    ],
+    [
+        "PARA",
+        "An entry must be selected to be viewed or modified.\n",
+        "It must be selected to view or modify the entry."
+    ],
+    [
+        "PARA",
+        "An entry must be selected to be viewed or modified.\n",
+        "An entry must be selected to be viewed or modified."
+    ],
+    [
+        "PARA",
+        "An entry must be selected to be viewed or modified.\n",
+        "The entry must be selected to be viewed or modified."
+    ],
+    [
+        "PARA",
+        "An entry must be selected to be viewed or modified.\n",
+        "It must be selected to be viewed or modified."
+    ],
+    [
+        "PARA",
+        "An entry must be selected to be viewed or modified.\n",
+        "An entry must be selected for viewing or modification."
+    ],
+    [
+        "PARA",
+        "When the password field is changed the repeat password field must be changed and be identical with password field.\n",
+        "The Repeat Password Field field must be changed when the password field is changed."
+    ],
+    [
+        "PARA",
+        "When the password field is changed the repeat password field must be changed and be identical with password field.\n",
+        "When the password field is changed the repeat password field must be changed and must be identical with the password field."
+    ],
+    [
+        "PARA",
+        "An entry must be selected before it is duplicated.\n",
+        "An entry must be selected before it is duplicated. -"
+    ],
+    [
+        "PARA",
+        "An entry must be selected before it is duplicated.\n",
+        "- An entry must be selected before it is duplicated."
+    ],
+    [
+        "PARA",
+        "An internet connection and a browser are required in order to download new language translations.\n",
+        "An Internet connection and a browser are required to download new language translations. "
+    ],
+    [
+        "PARA",
+        "An internet connection and a browser are required in order to download new language translations.\n",
+        "An internet connection and a browser are required to download new language translations. "
+    ],
+    [
+        "PARA",
+        "An internet connection and a browser are required in order to download new language translations.\n",
+        "An Internet connection and a browser are required to download new language translations."
+    ],
+    [
+        "PARA",
+        "An internet connection and a browser are required in order to download new language translations.\n",
+        "An internet connection and a browser are required to download new translations."
+    ],
+    [
+        "PARA",
+        "An internet connection and a browser are required in order to download new language translations.\n",
+        "An internet connection and a browser are required in order to download new language translations."
+    ],
+    [
+        "PARA",
+        "An internet connection and a browser are required in order to download new language translations.\n",
+        "An internet connection and a browser are required to download new language translations."
+    ],
+    [
+        "PARA",
+        "An internet connection and a browser are required in order to download new language translations.\n",
+        "An internet connection and a browser are required in order to download new translations."
+    ],
+    [
+        "PARA",
+        "An internet connection and a browser are required in order to download new language translations.\n",
+        "An Internet connection and a browser are required to download new language translations. ''"
+    ],
+    [
+        "PARA",
+        "An internet connection and a browser are required in order to download new language translations.\n",
+        "An internet connection and a browser are required to download new language translations. ''"
+    ],
+    [
+        "PARA",
+        "An internet connection and a browser are required in order to download new language translations.\n",
+        "An internet connection and a browser are required in order to download new language translations. "
+    ],
+    [
+        "PARA",
+        "The prefix “Auto-Type:” is required in front of each sequence.\n",
+        "The prefix \"Auto-Type:\" is required in front of each sequence."
+    ],
+    [
+        "PARA",
+        "Sequence’s length must not be more than a line (59 characters).\n",
+        "The length of a sequence must not exceed a line (59 characters). "
+    ],
+    [
+        "PARA",
+        "Sequence’s length must not be more than a line (59 characters).\n",
+        "The sequence length must not exceed a line (59 characters)."
+    ],
+    [
+        "PARA",
+        "Sequence’s length must not be more than a line (59 characters).\n",
+        "The length of a sequence must not exceed a line (59 characters)."
+    ],
+    [
+        "PARA",
+        "Sequence’s length must not be more than a line (59 characters).\n",
+        "The length of a sequence should not exceed a line (59 characters). "
+    ],
+    [
+        "PARA",
+        "Sequence’s length must not be more than a line (59 characters).\n",
+        "The length of the sequence must not exceed a line (59 characters). "
+    ],
+    [
+        "PARA",
+        "Sequence’s length must not be more than a line (59 characters).\n",
+        "The length of a sequence must not be more than a line (59 characters)."
+    ],
+    [
+        "PARA",
+        "Sequence’s length must not be more than a line (59 characters).\n",
+        "The length of a sequence should not exceed a line (59 characters)."
+    ],
+    [
+        "PARA",
+        "Sequence’s length must not be more than a line (59 characters).\n",
+        "The length of the sequence must not exceed a line (59 characters)."
+    ],
+    [
+        "PARA",
+        "If two auto-types are referred in one note field, only the first is used.\n",
+        "If two auto-types are referred to in one note field only the first is used."
+    ],
+    [
+        "PARA",
+        "If two auto-types are referred in one note field, only the first is used.\n",
+        "If two auto-types are referred to in a note field only the first is used."
+    ],
+    [
+        "PARA",
+        "If two auto-types are referred in one note field, only the first is used.\n",
+        "If two auto-types are referred in a note field only the first is used."
+    ],
+    [
+        "PARA",
+        "If two auto-types are referred in one note field, only the first is used.\n",
+        "If there are two autotypes in one note field only the first is used."
+    ],
+    [
+        "PARA",
+        "If two auto-types are referred in one note field, only the first is used.\n",
+        "If two auto-types are referred in one note field only the first is used."
+    ],
+    [
+        "PARA",
+        "If two auto-types are referred in one note field, only the first is used.\n",
+        "If two auto-types are referred to in a note field only the first is used. "
+    ],
+    [
+        "PARA",
+        "If two auto-types are referred in one note field, only the first is used.\n",
+        "Only the first auto-type is used if two auto-types are referred in one field."
+    ],
+    [
+        "PARA",
+        "If two auto-types are referred in one note field, only the first is used.\n",
+        "If two autotypes are referred in one note field only the first is used."
+    ],
+    [
+        "PARA",
+        "Only one database file is allowed in command line options.\n",
+        "There is only one database file per option in the command line."
+    ],
+    [
+        "PARA",
+        "Only one database file is allowed in command line options.\n",
+        "There is only one database file allowed in the command line options."
+    ],
+    [
+        "PARA",
+        "Only one database file is allowed in command line options.\n",
+        "In command line options only one database file is allowed."
+    ],
+    [
+        "PARA",
+        "Only one database file is allowed in command line options.\n",
+        "There is only one database file per option on the command line."
+    ],
+    [
+        "PARA",
+        "Only one database file is allowed in command line options.\n",
+        "There is only one database file per option."
+    ],
+    [
+        "PARA",
+        "Only one database file is allowed in command line options.\n",
+        "There is only one database file per option in command line options."
+    ],
+    [
+        "PARA",
+        "In case a space is found in the path, it must be enclosed into quotes.\n",
+        "In the case that a space is found in the path it must be enclosed in quotes."
+    ],
+    [
+        "PARA",
+        "In case a space is found in the path, it must be enclosed into quotes.\n",
+        "If a space is found in the path it must be enclosed in quotes."
+    ],
+    [
+        "PARA",
+        "In case a space is found in the path, it must be enclosed into quotes.\n",
+        "In case a space is found in the path, it must be enclosed in quotes."
+    ],
+    [
+        "PARA",
+        "In case a space is found in the path, it must be enclosed into quotes.\n",
+        "If the space is found in the path it must be enclosed in quotes."
+    ],
+    [
+        "PARA",
+        "If a master password is required to unlock the database, the database doesn’topen unless the password is entered.\n",
+        "If a master password is required to unlock the database the database does not topen until the password is entered."
+    ],
+    [
+        "PARA",
+        "If a master password is required to unlock the database, the database doesn’topen unless the password is entered.\n",
+        "In case of a master password the database will not open unless the password is entered. "
+    ],
+    [
+        "PARA",
+        "If a master password is required to unlock the database, the database doesn’topen unless the password is entered.\n",
+        "If a master password is required to unlock the database the database does not start unless the password is entered."
+    ],
+    [
+        "PARA",
+        "If a master password is required to unlock the database, the database doesn’topen unless the password is entered.\n",
+        "If a master password is required to unlock the database the database stops unless the password is entered."
+    ],
+    [
+        "PARA",
+        "If a master password is required to unlock the database, the database doesn’topen unless the password is entered.\n",
+        "If a master password is required to unlock the database the database does not topen unless the password is entered."
+    ],
+    [
+        "PARA",
+        "If a master password is required to unlock the database, the database doesn’topen unless the password is entered.\n",
+        "In case of a master password the database will not open unless the password is entered."
+    ],
+    [
+        "PARA",
+        "If a master password is required to unlock the database, the database doesn’topen unless the password is entered.\n",
+        "If a master password is required to unlock the database the database does not topen until the password is entered. "
+    ],
+    [
+        "PARA",
+        "If a master password is required to unlock the database, the database doesn’topen unless the password is entered.\n",
+        "If a master password is required to unlock the database the database stops unless the password is entered. "
+    ],
+    [
+        "PARA",
+        "If a master password is required to unlock the database, the database doesn’topen unless the password is entered.\n",
+        "If a master password is required to unlock the database the database stops unless the password is entered. ''"
+    ],
+    [
+        "PARA",
+        "If a key file is required to unlock the database, the database doesn’t open unless the key file is present.\n",
+        "If a key file is required to unlock the database the database won't open unless the key file is present. "
+    ],
+    [
+        "PARA",
+        "If a key file is required to unlock the database, the database doesn’t open unless the key file is present.\n",
+        "If a key file is required to unlock the database the database does not open unless the key file is present."
+    ],
+    [
+        "PARA",
+        "If a key file is required to unlock the database, the database doesn’t open unless the key file is present.\n",
+        "If a key file is required to unlock the database the database won't open unless the key file is present."
+    ],
+    [
+        "PARA",
+        "If a key file is required to unlock the database, the database doesn’t open unless the key file is present.\n",
+        "If a key file is required to unlock the database the database will not open unless the key file is present."
+    ],
+    [
+        "PARA",
+        "If a key file is required to unlock the database, the database doesn’t open unless the key file is present.\n",
+        "If a key file is required to unlock the database the database doesn't open until the key file is present."
+    ],
+    [
+        "PARA",
+        "If a key file is required to unlock the database, the database doesn’t open unless the key file is present.\n",
+        "To unlock a database a key file is required. If the key file is not present then the database will not open."
+    ],
+    [
+        "PARA",
+        "If a key file is required to unlock the database, the database doesn’t open unless the key file is present.\n",
+        "If a key file is required to unlock the database the database does not open unless the key file is present. "
+    ],
+    [
+        "PARA",
+        "If there is a composite key, both master password and key file are required.\n",
+        "If there is a composite key, both master password and key file are required.\n"
+    ],
+    [
+        "PARA",
+        "In case of lost master password or key file, the database never unlocks again. There is no recovery.\n",
+        "In case of lost master password or key file, the database never unlocks again. There is no recovery.\n"
+    ],
+    [
+        "PARA",
+        "There is no backdoor or key that unlocks all databases.\n",
+        "There is no backdoor or key to unlock all databases."
+    ],
+    [
+        "PARA",
+        "File formats are not specialized password database formats.\n",
+        "File Formats are not specialized password database formats."
+    ],
+    [
+        "PARA",
+        "File formats are not specialized password database formats.\n",
+        "File formats are not special password database formats."
+    ],
+    [
+        "PARA",
+        "File formats are not specialized password database formats.\n",
+        "File formats are not specialized password database formats. "
+    ],
+    [
+        "PARA",
+        "File formats are not specialized password database formats.\n",
+        "File formats are not specialized database password formats."
+    ],
+    [
+        "PARA",
+        "File formats are not specialized password database formats.\n",
+        "File formats are not specialized password database formats."
+    ],
+    [
+        "PARA",
+        "File formats only specify a low-level layout of stored data.\n",
+        "File formats specify only a low-level layout of stored data."
+    ],
+    [
+        "PARA",
+        "File formats only specify a low-level layout of stored data.\n",
+        "File formats specify a low-level layout of stored data. ''"
+    ],
+    [
+        "PARA",
+        "File formats only specify a low-level layout of stored data.\n",
+        "File formats only specify a low level layout of stored data. ''"
+    ],
+    [
+        "PARA",
+        "File formats only specify a low-level layout of stored data.\n",
+        "File formats specify only a low-level layout of stored data. "
+    ],
+    [
+        "PARA",
+        "File formats only specify a low-level layout of stored data.\n",
+        "File Formats specify only a low-level layout of stored data."
+    ],
+    [
+        "PARA",
+        "File formats only specify a low-level layout of stored data.\n",
+        "File formats specify a low-level layout of stored data."
+    ],
+    [
+        "PARA",
+        "File formats only specify a low-level layout of stored data.\n",
+        "File formats only specify a low-level layout of stored data. "
+    ],
+    [
+        "PARA",
+        "File formats only specify a low-level layout of stored data.\n",
+        "File formats only specify a low level layout of stored data."
+    ],
+    [
+        "PARA",
+        "File formats only specify a low-level layout of stored data.\n",
+        "File formats only specify a low-level layout of stored data."
+    ],
+    [
+        "PARA",
+        "File formats only specify a low-level layout of stored data.\n",
+        "File formats specify a low-level layout of stored data only."
+    ],
+    [
+        "PARA",
+        "Global hot key cannot be changed.\n",
+        "It is impossible to change the global hot key."
+    ],
+    [
+        "PARA",
+        "Global hot key cannot be changed.\n",
+        "The Global Hot Key can't be changed."
+    ],
+    [
+        "PARA",
+        "Global hot key cannot be changed.\n",
+        "Global hot keys can't be changed."
+    ],
+    [
+        "PARA",
+        "Title, username or URL cannot be changed in a TAN entry.\n",
+        "TAN entries cannot be changed by username or URL."
+    ],
+    [
+        "PARA",
+        "When a TAN is used, it expires automatically and can never be used again.\n",
+        "When a TAN is used it expires automatically and can't be used again. "
+    ],
+    [
+        "PARA",
+        "When a TAN is used, it expires automatically and can never be used again.\n",
+        "When TAN is used it expires automatically and can never be used again."
+    ],
+    [
+        "PARA",
+        "When a TAN is used, it expires automatically and can never be used again.\n",
+        "When a TAN is used it expires automatically and can never be used again. "
+    ],
+    [
+        "PARA",
+        "When a TAN is used, it expires automatically and can never be used again.\n",
+        "When a TAN is used it expires automatically and can't be used again."
+    ],
+    [
+        "PARA",
+        "When a TAN is used, it expires automatically and can never be used again.\n",
+        "When a TAN is used it expires automatically and cannot be used again."
+    ],
+    [
+        "PARA",
+        "When a TAN is used, it expires automatically and can never be used again.\n",
+        "When a TAN is used it automatically expires and can never be used again."
+    ],
+    [
+        "PARA",
+        "When a TAN is used, it expires automatically and can never be used again.\n",
+        "When a TAN is used it expires automatically and can never be used again."
+    ]
+]
