@@ -13,6 +13,10 @@
 /rtt/wmt19.ru-en.ensemble
 /rtt/wmt19.en-ru
 /rtt/wmt19.ru-en
+/rtt/wmt19.en-de.ensemble
+/rtt/wmt19.de-en.ensemble
+/rtt/wmt19.en-de
+/rtt/wmt19.de-en
 
 /gptV1/model_save
 
