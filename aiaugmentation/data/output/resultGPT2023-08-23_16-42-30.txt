@@ -1,4 +1,0 @@
-
-MicroPython
-The system shall
-The system shall process the function as follows

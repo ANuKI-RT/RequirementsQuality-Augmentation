@@ -104,24 +104,69 @@ def delete_duplicates_json(data: list):
     processed_data = 0
     results = []
 
-    for d in data:
+    for req in data:
         clear_data = []
         prompt = ""
         classifier = ""
-        total_data += len(d)
-        for i in d:
+        for i in req:
             classifier = i[0]
             prompt = i[1]
-            clear_data.append(i[2])
+            if i[2].lower() != prompt.lower():
+                clear_data.append(i[2])
         clear_data = set(clear_data)
-        processed_data += len(clear_data)
         for c in clear_data:
             results.append([classifier, prompt, c])
+
+        total_data += len(req)
+        processed_data += len(clear_data)
 
     print("|I| Total data: ", total_data)
     print("|I| Total final data: ", processed_data)
     print("|I| Total removed duplicates: ", total_data - processed_data)
     return results
+
+def delete_duplicates_json2(data: list):
+    results = []
+    temp = []
+    for req in data:
+        augmented_reqs = []
+        classifier = "",
+        prompt = ""
+        standardized_augmented_req = " ".join(req[2].split()).lower().rstrip(".").rstrip("-").rstrip("''")
+        if standardized_augmented_req != " ".join(req[1].split()).lower().rstrip(".").rstrip("-").rstrip("''"):
+            if standardized_augmented_req not in temp:
+                temp.append(standardized_augmented_req)
+                augmented_reqs.append(req[2])
+                classifier = req[0]
+                prompt = req[1]
+        for _ in augmented_reqs:
+            results.append([classifier, prompt, _])
+    return results
+
+def test(data: list):
+    i = 0
+    temp2 = []
+    for req in data:
+        print("-"*200)
+        print("-"*200)
+        print("-"*200)
+        temp = []
+        standardized_augmented_req = " ".join(req[2].split()).lower().rstrip(".").rstrip("-").rstrip("''")
+
+        print("/")
+        print(standardized_augmented_req)
+        print(" ".join(req[1].split()).lower())
+        print("/")
+
+        if standardized_augmented_req != " ".join(req[1].split()).lower().rstrip(".").rstrip("-").rstrip("''"):
+            if standardized_augmented_req not in temp2:
+                temp.append(standardized_augmented_req)
+                temp2.append(standardized_augmented_req)
+                i += 1
+        
+        print(temp)
+        print(i)
+    print(len(temp2))
 
 # This method compares the augmentation results with their corresponding prompts. If it is strictily the same, it will be removed.
 def delete_duplicates_experiment(data: list, classifier:str, number:int):

@@ -78,7 +78,7 @@ class Parrot():
         else:
             return [(save_phrase,0)]
 
-  def augment(self, input_phrase, use_gpu=False, diversity_ranker="levenshtein", do_diverse=False, max_return_phrases = 10, max_length=32, adequacy_threshold = 0.90, fluency_threshold = 0.90):
+  def augment(self, input_phrase, use_gpu=False, diversity_ranker="levenshtein", do_diverse=False, max_return_phrases = 10, max_length=64, adequacy_threshold = 0.90, fluency_threshold = 0.90):
       if use_gpu:
         device= "cuda:0"
       else:
