@@ -18,20 +18,18 @@ nltk.download('punkt')
 '''NB. If you publish work that uses NLTK, please cite the NLTK book as follows:
     Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O'Reilly Media Inc.'''
 
-TRAINING_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),"input")
-RESULT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),"output")
-
-def get_output_filenames():
+def get_output_filenames(RESULT_DIR: str):
     if os.path.exists(RESULT_DIR):
         return [os.path.join(RESULT_DIR,f) for f in os.listdir(RESULT_DIR) if os.path.isfile(os.path.join(RESULT_DIR, f))]
     else:
         raise ValueError("|X| result directory is missing")
 
-def get_input_filenames():
+def get_input_filenames(TRAINING_DIR: str):
     if os.path.exists(TRAINING_DIR):
         return [os.path.join(TRAINING_DIR,f) for f in os.listdir(TRAINING_DIR) if os.path.isfile(os.path.join(TRAINING_DIR, f))]
     else:
         raise ValueError("|X| input directory is missing")
+    
 
 def get_random_raw_data(files: list, total_amount: int = 100):
     results = []
@@ -142,31 +140,6 @@ def delete_duplicates_json2(data: list):
         for _ in augmented_reqs:
             results.append([classifier, prompt, _])
     return results
-
-def test(data: list):
-    i = 0
-    temp2 = []
-    for req in data:
-        print("-"*200)
-        print("-"*200)
-        print("-"*200)
-        temp = []
-        standardized_augmented_req = " ".join(req[2].split()).lower().rstrip(".").rstrip("-").rstrip("''")
-
-        print("/")
-        print(standardized_augmented_req)
-        print(" ".join(req[1].split()).lower())
-        print("/")
-
-        if standardized_augmented_req != " ".join(req[1].split()).lower().rstrip(".").rstrip("-").rstrip("''"):
-            if standardized_augmented_req not in temp2:
-                temp.append(standardized_augmented_req)
-                temp2.append(standardized_augmented_req)
-                i += 1
-        
-        print(temp)
-        print(i)
-    print(len(temp2))
 
 # This method compares the augmentation results with their corresponding prompts. If it is strictily the same, it will be removed.
 def delete_duplicates_experiment(data: list, classifier:str, number:int):

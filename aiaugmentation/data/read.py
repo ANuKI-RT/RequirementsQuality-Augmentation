@@ -16,14 +16,47 @@ def read_raw_data(files: list):
 #   files is a list containing string names of files, without dir-prefix  
     data = []   
     for d in files: 
-        with io.open(os.path.join(TRAINING_DIR,d), mode="r", encoding="cp1252") as data_file:
-            for line in data_file:
-                if line.strip():
-                    if re.search("\[SEP\]", line) is None:
-                        txt = re.sub("\[END\]", "", line)
-                    else:
-                        txt = re.sub("\[SEP\].*?\[END\]", "", line)
-                    data.append(txt)
+        if TRAINING_DIR in d:
+            try:
+                data_file = io.open(d, mode="r", encoding="utf-8")
+                for line in data_file:
+                    if line.strip():
+                        if re.search("\[SEP\]", line) is None:
+                            txt = re.sub("\[END\]", "", line.replace("\n", ""))
+                        else:
+                            txt = re.sub("\[SEP\].*?\[END\]", "", line.replace("\n", ""))
+                        data.append(txt)
+                data_file.close()
+            except UnicodeDecodeError:
+                data_file = io.open(d, mode="r", encoding="cp1252")
+                for line in data_file:
+                    if line.strip():
+                        if re.search("\[SEP\]", line) is None:
+                            txt = re.sub("\[END\]", "", line.replace("\n", ""))
+                        else:
+                            txt = re.sub("\[SEP\].*?\[END\]", "", line.replace("\n", ""))
+                        data.append(txt)
+                data_file.close()
+        else:
+            try:
+                data_file = io.open(d, mode="r", encoding="utf-8")
+                for line in data_file:
+                    if line.strip():
+                        if re.search("\[SEP\]", line) is None:
+                            txt = re.sub("\[END\]", "", line.replace("\n", ""))
+                        else:
+                            txt = re.sub("\[SEP\].*?\[END\]", "", line.replace("\n", ""))
+                        data.append(txt)
+            except UnicodeDecodeError:
+                data_file = io.open(d, mode="r", encoding="cp1252")
+                for line in data_file:
+                    if line.strip():
+                        if re.search("\[SEP\]", line) is None:
+                            txt = re.sub("\[END\]", "", line.replace("\n", ""))
+                        else:
+                            txt = re.sub("\[SEP\].*?\[END\]", "", line.replace("\n", ""))
+                        data.append(txt)
+                data_file.close()
     return data
 
 def read_txt_data(files: list):
