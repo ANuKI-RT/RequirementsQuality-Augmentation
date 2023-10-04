@@ -13,7 +13,7 @@ The main.py already has a lot of functions that only have to be uncommented to e
 Generally, an input first has to be read by the system by using the read_raw_data() method. The output can then be parsed to one of the chosen models.
 The generated results can be passed to a optional function for removal of duplicates before being exported as a new created file either as .json or .txt
 
-As an input, a .txt file is expected, were each requirement is one line. [END]-Tokens will be removed, content enclosed between [SEP]-Tokens will be ignored
+As an input, a .txt file is expected, were each requirement is one line. [END]-Tokens will be removed, content enclosed between [SEP]-Tokens will be ignored.
 
 ## Folder structure
 The folders 
