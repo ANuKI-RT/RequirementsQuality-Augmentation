@@ -6,7 +6,7 @@ import data.write as write
 import data.read as read
 import eda.eda as eda
 # import rtt.rttru as rttru
-# import rtt.rttde as rttde
+import rtt.rttde as rttde
 import para.paraphrase as pa
 # import experiment as ex
 import evaluate
