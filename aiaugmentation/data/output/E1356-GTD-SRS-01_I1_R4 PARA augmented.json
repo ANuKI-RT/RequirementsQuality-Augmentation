@@ -1,0 +1,2927 @@
+[
+    [
+        "PARA",
+        "The Basic Library shall implement the following procedures of the ISO C99 standard [RD03] :sin Procedure returning the trigonometric sineasin Procedure returning the trigonometric arcsinecos Procedure returning the trigonometric cosineacos Procedure returning the trigonometric arccosinetan Procedure returning the trigonometric tangentatan Procedure returning the trigonometric arctangentsqrt Procedure returning the square rootatan2 Procedure returning the trigonometric arctangentofy\/xexp Procedure returning the base Eexponential of xpow Procedure returning xraised to the power of ylog Procedure returning the natural logarithmlog10 Procedure returning the base 10 logarithmfabs Procedure returning the absolute value     round Procedure for rounding to the nearest integer(Halfway values rounded away from 0)floor Procedure for rounding downwards to the nearestintegertrunc Procedure for rounding towards 0 to the nearestintegerceil Procedure for rounding upwards to the nearestintegerfmod Procedure returning the floating-point remainderofx\/ymodf Procedure breaking xin its integral and fractionalpartfmin Procedure returning the smaller of two valuesfmax Procedure returning the larger of two valueshypot Procedure returning the square root of x2+y2isfinite Procedure returning whether the value of theargument is finite or not (not ±Infand not Not a Number)isinf Procedure returning whether the value of theargument is positive or negative Infinity or notisnan Procedure returning whether the argument is anot-a-number (Not a Number) floating-point value or notsignbit Procedure returning whether the argument isnegative or notcopysign Procedure returning a floating-point number withthe magnitude ofxand the sign of y",
+        "It shall implement the following procedures of the ISO C99 standard [RD03] :sin Procedure returns the trigonometric sineasin Procedure returns the trigonometric cosineacos Procedure returns the trigonometric arccosinetan Procedure returns the trigonometric tangentatan Procedure returns the square rootatan2 Procedure returns the natural logarithm"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall implement the following procedures of the ISO C99 standard [RD03] :sin Procedure returning the trigonometric sineasin Procedure returning the trigonometric arcsinecos Procedure returning the trigonometric cosineacos Procedure returning the trigonometric arccosinetan Procedure returning the trigonometric tangentatan Procedure returning the trigonometric arctangentsqrt Procedure returning the square rootatan2 Procedure returning the trigonometric arctangentofy\/xexp Procedure returning the base Eexponential of xpow Procedure returning xraised to the power of ylog Procedure returning the natural logarithmlog10 Procedure returning the base 10 logarithmfabs Procedure returning the absolute value     round Procedure for rounding to the nearest integer(Halfway values rounded away from 0)floor Procedure for rounding downwards to the nearestintegertrunc Procedure for rounding towards 0 to the nearestintegerceil Procedure for rounding upwards to the nearestintegerfmod Procedure returning the floating-point remainderofx\/ymodf Procedure breaking xin its integral and fractionalpartfmin Procedure returning the smaller of two valuesfmax Procedure returning the larger of two valueshypot Procedure returning the square root of x2+y2isfinite Procedure returning whether the value of theargument is finite or not (not ±Infand not Not a Number)isinf Procedure returning whether the value of theargument is positive or negative Infinity or notisnan Procedure returning whether the argument is anot-a-number (Not a Number) floating-point value or notsignbit Procedure returning whether the argument isnegative or notcopysign Procedure returning a floating-point number withthe magnitude ofxand the sign of y",
+        "It shall implement the following procedures of the ISO C99 standard [RD03] :sin Procedure returning the trigonometric sineasin Procedure returning the trigonometric cosineacos Procedure returning the trigonometric arccosinetan Procedure returning the trigonometric tangentatan Procedure returning the square rootatan2 Procedure returning the natural logarith"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall implement the following procedures of the ISO C99 standard [RD03] :sin Procedure returning the trigonometric sineasin Procedure returning the trigonometric arcsinecos Procedure returning the trigonometric cosineacos Procedure returning the trigonometric arccosinetan Procedure returning the trigonometric tangentatan Procedure returning the trigonometric arctangentsqrt Procedure returning the square rootatan2 Procedure returning the trigonometric arctangentofy\/xexp Procedure returning the base Eexponential of xpow Procedure returning xraised to the power of ylog Procedure returning the natural logarithmlog10 Procedure returning the base 10 logarithmfabs Procedure returning the absolute value     round Procedure for rounding to the nearest integer(Halfway values rounded away from 0)floor Procedure for rounding downwards to the nearestintegertrunc Procedure for rounding towards 0 to the nearestintegerceil Procedure for rounding upwards to the nearestintegerfmod Procedure returning the floating-point remainderofx\/ymodf Procedure breaking xin its integral and fractionalpartfmin Procedure returning the smaller of two valuesfmax Procedure returning the larger of two valueshypot Procedure returning the square root of x2+y2isfinite Procedure returning whether the value of theargument is finite or not (not ±Infand not Not a Number)isinf Procedure returning whether the value of theargument is positive or negative Infinity or notisnan Procedure returning whether the argument is anot-a-number (Not a Number) floating-point value or notsignbit Procedure returning whether the argument isnegative or notcopysign Procedure returning a floating-point number withthe magnitude ofxand the sign of y",
+        "It shall implement the following procedures of the ISO C99 standard [RD03] :sin Procedure returning the trigonometric sineasin Procedure returning the trigonometric cosineacos Procedure returning the trigonometric arccosinetan Procedure returning the trigonometric tangentatan Procedure returning the square rootatan2 Procedure returning the natural logarithm log"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall implement the following procedures of the ISO C99 standard [RD03] :sin Procedure returning the trigonometric sineasin Procedure returning the trigonometric arcsinecos Procedure returning the trigonometric cosineacos Procedure returning the trigonometric arccosinetan Procedure returning the trigonometric tangentatan Procedure returning the trigonometric arctangentsqrt Procedure returning the square rootatan2 Procedure returning the trigonometric arctangentofy\/xexp Procedure returning the base Eexponential of xpow Procedure returning xraised to the power of ylog Procedure returning the natural logarithmlog10 Procedure returning the base 10 logarithmfabs Procedure returning the absolute value     round Procedure for rounding to the nearest integer(Halfway values rounded away from 0)floor Procedure for rounding downwards to the nearestintegertrunc Procedure for rounding towards 0 to the nearestintegerceil Procedure for rounding upwards to the nearestintegerfmod Procedure returning the floating-point remainderofx\/ymodf Procedure breaking xin its integral and fractionalpartfmin Procedure returning the smaller of two valuesfmax Procedure returning the larger of two valueshypot Procedure returning the square root of x2+y2isfinite Procedure returning whether the value of theargument is finite or not (not ±Infand not Not a Number)isinf Procedure returning whether the value of theargument is positive or negative Infinity or notisnan Procedure returning whether the argument is anot-a-number (Not a Number) floating-point value or notsignbit Procedure returning whether the argument isnegative or notcopysign Procedure returning a floating-point number withthe magnitude ofxand the sign of y",
+        "It shall implement the following procedures of the ISO C99 standard [RD03] :sin Procedure returning the trigonometric sineasin Procedure returning the trigonometric cosineacos Procedure returning the trigonometric arccosinetan Procedure returning the trigonometric tangentatan Procedure returning the square root atan2 Procedure returning the natural logarithm"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall implement the following procedures of the ISO C99 standard [RD03] :sin Procedure returning the trigonometric sineasin Procedure returning the trigonometric arcsinecos Procedure returning the trigonometric cosineacos Procedure returning the trigonometric arccosinetan Procedure returning the trigonometric tangentatan Procedure returning the trigonometric arctangentsqrt Procedure returning the square rootatan2 Procedure returning the trigonometric arctangentofy\/xexp Procedure returning the base Eexponential of xpow Procedure returning xraised to the power of ylog Procedure returning the natural logarithmlog10 Procedure returning the base 10 logarithmfabs Procedure returning the absolute value     round Procedure for rounding to the nearest integer(Halfway values rounded away from 0)floor Procedure for rounding downwards to the nearestintegertrunc Procedure for rounding towards 0 to the nearestintegerceil Procedure for rounding upwards to the nearestintegerfmod Procedure returning the floating-point remainderofx\/ymodf Procedure breaking xin its integral and fractionalpartfmin Procedure returning the smaller of two valuesfmax Procedure returning the larger of two valueshypot Procedure returning the square root of x2+y2isfinite Procedure returning whether the value of theargument is finite or not (not ±Infand not Not a Number)isinf Procedure returning whether the value of theargument is positive or negative Infinity or notisnan Procedure returning whether the argument is anot-a-number (Not a Number) floating-point value or notsignbit Procedure returning whether the argument isnegative or notcopysign Procedure returning a floating-point number withthe magnitude ofxand the sign of y",
+        "It shall implement the following procedures of the ISO C99 standard [RD03] :sin procedure returning the trigonometric sineasin procedure returning the trigonometric cosineacos procedure returning the trigonometric arccosinetan procedure returning the trigonometric tangentatan procedure returning the square rootatan2 procedure returning the natural logarithm"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall implement the following procedures of the ISO C99 standard [RD03] :sin Procedure returning the trigonometric sineasin Procedure returning the trigonometric arcsinecos Procedure returning the trigonometric cosineacos Procedure returning the trigonometric arccosinetan Procedure returning the trigonometric tangentatan Procedure returning the trigonometric arctangentsqrt Procedure returning the square rootatan2 Procedure returning the trigonometric arctangentofy\/xexp Procedure returning the base Eexponential of xpow Procedure returning xraised to the power of ylog Procedure returning the natural logarithmlog10 Procedure returning the base 10 logarithmfabs Procedure returning the absolute value     round Procedure for rounding to the nearest integer(Halfway values rounded away from 0)floor Procedure for rounding downwards to the nearestintegertrunc Procedure for rounding towards 0 to the nearestintegerceil Procedure for rounding upwards to the nearestintegerfmod Procedure returning the floating-point remainderofx\/ymodf Procedure breaking xin its integral and fractionalpartfmin Procedure returning the smaller of two valuesfmax Procedure returning the larger of two valueshypot Procedure returning the square root of x2+y2isfinite Procedure returning whether the value of theargument is finite or not (not ±Infand not Not a Number)isinf Procedure returning whether the value of theargument is positive or negative Infinity or notisnan Procedure returning whether the argument is anot-a-number (Not a Number) floating-point value or notsignbit Procedure returning whether the argument isnegative or notcopysign Procedure returning a floating-point number withthe magnitude ofxand the sign of y",
+        "The Basic Library shall implement the following procedures of ISO C99 standard [RD03] :sin Procedure returning the trigonometric sineasin Procedure returning the trigonometric cosineacos Procedure returning the trigonometric arccosinetan Procedure returning the trigonometric tangentatan Procedure returning the square rootatan2 Procedure returning the natural logarithm"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall implement the following procedures of the ISO C99 standard [RD03] :sin Procedure returning the trigonometric sineasin Procedure returning the trigonometric arcsinecos Procedure returning the trigonometric cosineacos Procedure returning the trigonometric arccosinetan Procedure returning the trigonometric tangentatan Procedure returning the trigonometric arctangentsqrt Procedure returning the square rootatan2 Procedure returning the trigonometric arctangentofy\/xexp Procedure returning the base Eexponential of xpow Procedure returning xraised to the power of ylog Procedure returning the natural logarithmlog10 Procedure returning the base 10 logarithmfabs Procedure returning the absolute value     round Procedure for rounding to the nearest integer(Halfway values rounded away from 0)floor Procedure for rounding downwards to the nearestintegertrunc Procedure for rounding towards 0 to the nearestintegerceil Procedure for rounding upwards to the nearestintegerfmod Procedure returning the floating-point remainderofx\/ymodf Procedure breaking xin its integral and fractionalpartfmin Procedure returning the smaller of two valuesfmax Procedure returning the larger of two valueshypot Procedure returning the square root of x2+y2isfinite Procedure returning whether the value of theargument is finite or not (not ±Infand not Not a Number)isinf Procedure returning whether the value of theargument is positive or negative Infinity or notisnan Procedure returning whether the argument is anot-a-number (Not a Number) floating-point value or notsignbit Procedure returning whether the argument isnegative or notcopysign Procedure returning a floating-point number withthe magnitude ofxand the sign of y",
+        "It shall implement the following procedures of the ISO C99 standard [RD03] :sin Procedure returning the trigonometric sineasin Procedure returning the trigonometric cosineacos Procedure returning the trigonometric arccosinetan Procedure returning the trigonometric tangentatan Procedure returning the square rootatan2 Procedure returning the natural logarithm"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall implement the following procedures of the ISO C99 standard [RD03] :sin Procedure returning the trigonometric sineasin Procedure returning the trigonometric arcsinecos Procedure returning the trigonometric cosineacos Procedure returning the trigonometric arccosinetan Procedure returning the trigonometric tangentatan Procedure returning the trigonometric arctangentsqrt Procedure returning the square rootatan2 Procedure returning the trigonometric arctangentofy\/xexp Procedure returning the base Eexponential of xpow Procedure returning xraised to the power of ylog Procedure returning the natural logarithmlog10 Procedure returning the base 10 logarithmfabs Procedure returning the absolute value     round Procedure for rounding to the nearest integer(Halfway values rounded away from 0)floor Procedure for rounding downwards to the nearestintegertrunc Procedure for rounding towards 0 to the nearestintegerceil Procedure for rounding upwards to the nearestintegerfmod Procedure returning the floating-point remainderofx\/ymodf Procedure breaking xin its integral and fractionalpartfmin Procedure returning the smaller of two valuesfmax Procedure returning the larger of two valueshypot Procedure returning the square root of x2+y2isfinite Procedure returning whether the value of theargument is finite or not (not ±Infand not Not a Number)isinf Procedure returning whether the value of theargument is positive or negative Infinity or notisnan Procedure returning whether the argument is anot-a-number (Not a Number) floating-point value or notsignbit Procedure returning whether the argument isnegative or notcopysign Procedure returning a floating-point number withthe magnitude ofxand the sign of y",
+        "It shall implement the following procedures of the ISO C99 standard [RD03] :sin Procedure returning the trigonometric sineasin Procedure returning the trigonometric cosineacos Procedure returning the trigonometric arccosinetan Procedure returning the trigonometric tangentatan Procedure returning the square rootatan2 Procedure"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating-point datums.",
+        "It shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating point datums."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating-point datums.",
+        "The Basic Library shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating-point data sets."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating-point datums.",
+        "It shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating-point data."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating-point datums.",
+        "It shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating-point dates."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating-point datums.",
+        "The Basic Library shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating-point dates."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating-point datums.",
+        "The Basic Library shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating-point datum."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating-point datums.",
+        "It shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating point data."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating-point datums.",
+        "The Basic Library shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating point datums."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating-point datums.",
+        "The Basic Library shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating-point data."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating-point datums.",
+        "The Basic Library shall provide procedures for 32 bit (binary32) and 64 bit (binary64) precision floating point data."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall consider all arguments and return values that represent an angle to be in radians unless otherwise specified. ",
+        "The Basic Library shall consider all arguments and return values that represent an angle in radians unless otherwise specified. ''"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall consider all arguments and return values that represent an angle to be in radians unless otherwise specified. ",
+        "In addition the Basic Library shall consider all arguments and return values representing an angle to be in radians unless otherwise specified."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall consider all arguments and return values that represent an angle to be in radians unless otherwise specified. ",
+        "The Basic Library shall consider all arguments and return values that represent an angle as being in radians unless otherwise specified."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall consider all arguments and return values that represent an angle to be in radians unless otherwise specified. ",
+        "The Basic Library shall consider all arguments and return values that represent an angle in radians unless otherwise specified."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall consider all arguments and return values that represent an angle to be in radians unless otherwise specified. ",
+        "The Basic Library shall consider all arguments and return values that represent an angle to be in radians unless otherwise specified."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall consider all arguments and return values that represent an angle to be in radians unless otherwise specified. ",
+        "The Basic Library shall consider all arguments and return values representing an angle to be in radians unless otherwise specified."
+    ],
+    [
+        "PARA",
+        "Thedeg2rad and deg2radf procedures shall return the radians value equal to the argument x given in degrees. ",
+        "The procedures deg2rad and deg2radf return radians equal to the argument x given in degrees."
+    ],
+    [
+        "PARA",
+        "Thedeg2rad and deg2radf procedures shall return the radians value equal to the argument x given in degrees. ",
+        "deg2rad and deg2radf procedures return radians equal to the argument x in degrees."
+    ],
+    [
+        "PARA",
+        "Thedeg2rad and deg2radf procedures shall return the radians value equal to the argument x given in degrees. ",
+        "The procedures deg2rad and deg2radf return the radians equal to the argument x given in degrees."
+    ],
+    [
+        "PARA",
+        "Thedeg2rad and deg2radf procedures shall return the radians value equal to the argument x given in degrees. ",
+        "deg2rad and deg2radf procedures return radians equal to x given in degrees."
+    ],
+    [
+        "PARA",
+        "Thedeg2rad and deg2radf procedures shall return the radians value equal to the argument x given in degrees. ",
+        "deg2rad and deg2radf procedures return radians equal to the argument x given in degrees. "
+    ],
+    [
+        "PARA",
+        "Thedeg2rad and deg2radf procedures shall return the radians value equal to the argument x given in degrees. ",
+        "deg2rad and deg2radf procedures return radians equal to argument x given in degrees."
+    ],
+    [
+        "PARA",
+        "Thedeg2rad and deg2radf procedures shall return the radians value equal to the argument x given in degrees. ",
+        "deg2rad and deg2radf procedures return radians equal to the argument x given in degrees."
+    ],
+    [
+        "PARA",
+        "Thedeg2rad and deg2radf procedures shall return Not a Number if the argument is Not a Number.",
+        "The procedures deg2rad and deg2radf return not a number if the argument is not a number."
+    ],
+    [
+        "PARA",
+        "Thedeg2rad and deg2radf procedures shall return Not a Number if the argument is Not a Number.",
+        "The procedures deg2rad and deg2radf return Not a number if the argument is not a number."
+    ],
+    [
+        "PARA",
+        "Thedeg2rad and deg2radf procedures shall return the value of the argument if the argument is ±0or±Inf.",
+        "Thedeg2rad and deg2radf procedures return the value of the argument if the argument is 0 or Inf."
+    ],
+    [
+        "PARA",
+        "Thedeg2rad and deg2radf procedures shall return the value of the argument if the argument is ±0or±Inf.",
+        "The procedures dg2rad and dg2radf return the value of the argument if the argument is 0 or "
+    ],
+    [
+        "PARA",
+        "Thedeg2rad and deg2radf procedures shall return the value of the argument if the argument is ±0or±Inf.",
+        "The procedures deg2rad and deg2radf return the value of the argument if the argument is 0 or Inf."
+    ],
+    [
+        "PARA",
+        "Thedeg2rad and deg2radf procedures shall return the value of the argument if the argument is ±0or±Inf.",
+        "The procedures deg2rad and deg2radf return the value of the argument if the argument is 0 or Inf"
+    ],
+    [
+        "PARA",
+        "Thedeg2rad and deg2radf procedures shall return the value of the argument if the argument is ±0or±Inf.",
+        "The procedures of deg2rad and deg2radf return the value of the argument if the argument is 0 or Inf"
+    ],
+    [
+        "PARA",
+        "The rem2pi and rem2pif procedures shall return Not a Numberif the argument is Not a Number.",
+        "The procedures rem2pi and rem2pif return Not a number if the argument is not a number."
+    ],
+    [
+        "PARA",
+        "The rem2pi and rem2pif procedures shall return Not a Numberif the argument is Not a Number.",
+        "The procedures rem2pi and rem2pif return not a number if the argument is not a number."
+    ],
+    [
+        "PARA",
+        "The sin and sinf procedures shall use a minimax polynomial for the calculation. ",
+        "The sin and sinf procedures shall use a minimax polynomial for the calculation."
+    ],
+    [
+        "PARA",
+        "The sin and sinf procedures shall use a minimax polynomial for the calculation. ",
+        "The sin and sinf procedures shall use a minimax polynomial for calculation."
+    ],
+    [
+        "PARA",
+        "The sin and sinf procedures shall use a minimax polynomial for the calculation. ",
+        "The san and sinf procedures shall use a minimax polynomial for calculation."
+    ],
+    [
+        "PARA",
+        "The sin and sinf procedures shall use a minimax polynomial for the calculation. ",
+        "The methods of sin and sinf shall use a minimax polynomial for the calculation."
+    ],
+    [
+        "PARA",
+        "The sin and sinf procedures shall use a minimax polynomial for the calculation. ",
+        "The san and sinf procedures use a minimax polynomial for the calculation."
+    ],
+    [
+        "PARA",
+        "The sin and sinf procedures shall use a minimax polynomial for the calculation. ",
+        "The procedures sin and sinf shall use a minimax polynomial for the calculation."
+    ],
+    [
+        "PARA",
+        "The sin and sinf procedures shall use a minimax polynomial for the calculation. ",
+        "Sin and Sinf procedures use a polynomial minimax for the calculation."
+    ],
+    [
+        "PARA",
+        "The asin and asinf procedures shall evaluate the arcsine of their argument xin the outputrange [-π2,π2] radians. ",
+        "The asin and asinf procedures shall evaluate the arcsine of their argument x in the output range [-2,2] radians."
+    ],
+    [
+        "PARA",
+        "The asin and asinf procedures shall use a rational approximation for the calculation. ",
+        "The methods of asin and asinf shall use a rational approximation for the computation."
+    ],
+    [
+        "PARA",
+        "The asin and asinf procedures shall use a rational approximation for the calculation. ",
+        "The methods of asin and asinf must use a rational approximation for the calculation."
+    ],
+    [
+        "PARA",
+        "The asin and asinf procedures shall use a rational approximation for the calculation. ",
+        "The asin and asinf procedures shall use a rational approximation for the calculation."
+    ],
+    [
+        "PARA",
+        "The asin and asinf procedures shall use a rational approximation for the calculation. ",
+        "The methods of asin and asinf shall use a rational approximation for the calculation."
+    ],
+    [
+        "PARA",
+        "The asin and asinf procedures shall use a rational approximation for the calculation. ",
+        "The procedures asin and asinf shall use a rational approximation for the calculation. "
+    ],
+    [
+        "PARA",
+        "The asin and asinf procedures shall use a rational approximation for the calculation. ",
+        "The procedures asin and asinf shall use a rational approximation for the calculation."
+    ],
+    [
+        "PARA",
+        "The asin and asinf procedures shall use a rational approximation for the calculation. ",
+        "The asin and asinf procedures shall use a rational approximation for calculation."
+    ],
+    [
+        "PARA",
+        "The asin and asinf procedures shall return Not a Numberif the argument is Not a Number.",
+        "The procedures asin and asinf return not a number if the argument is not a number."
+    ],
+    [
+        "PARA",
+        "The asin and asinf procedures shall return Not a Numberif the argument is Not a Number.",
+        "The procedures asin and asinf return Not a number if the argument is not a number."
+    ],
+    [
+        "PARA",
+        "The cos and cosf procedures shall use a minimax polynomial for the calculation. ",
+        "The cos and cosf procedures shall use a minimax polynomial for calculation. ''"
+    ],
+    [
+        "PARA",
+        "The cos and cosf procedures shall use a minimax polynomial for the calculation. ",
+        "The cos and cosf procedures shall use a minimax polynomial for the calculation."
+    ],
+    [
+        "PARA",
+        "The cos and cosf procedures shall use a minimax polynomial for the calculation. ",
+        "The cos and cosf procedures shall use a minimax polynomial for calculation."
+    ],
+    [
+        "PARA",
+        "The cos and cosf procedures shall use a minimax polynomial for the calculation. ",
+        "The cos and cosf procedures shall use a minimax polynomial for the calculation. -"
+    ],
+    [
+        "PARA",
+        "The cos and cosf procedures shall use a minimax polynomial for the calculation. ",
+        "The procedure of cos and cosf shall use a minimax polynomial for the calculation."
+    ],
+    [
+        "PARA",
+        "The acos and acosf procedures shall use a rational approximation for the calculation. ",
+        "for the calculation the acos and the acosf procedures shall use a rational approximation."
+    ],
+    [
+        "PARA",
+        "The acos and acosf procedures shall use a rational approximation for the calculation. ",
+        "The acos and acosf procedures shall use a rational approximation for the calculation. b"
+    ],
+    [
+        "PARA",
+        "The acos and acosf procedures shall use a rational approximation for the calculation. ",
+        "The procedures acos and acosf shall use a rational approximation for the calculation."
+    ],
+    [
+        "PARA",
+        "The acos and acosf procedures shall use a rational approximation for the calculation. ",
+        "The acos and acosf procedures shall use a rational approximation for the calculation."
+    ],
+    [
+        "PARA",
+        "The acos and acosf procedures shall use a rational approximation for the calculation. ",
+        "The acos and acosf procedures shall use a rational approximation for the calculation. -"
+    ],
+    [
+        "PARA",
+        "The acos and acosf procedures shall use a rational approximation for the calculation. ",
+        "The acos and acosf procedures shall use a rational approximation for calculation."
+    ],
+    [
+        "PARA",
+        "The acos and acosf procedures shall return Not a Number, if the argument x is not in the range [-1,1]. ",
+        "The procedures acos and acosf return Not a number if the argument x is not in the range [-1,1]."
+    ],
+    [
+        "PARA",
+        "The acos and acosf procedures shall return Not a Number, if the argument x is not in the range [-1,1]. ",
+        "The procedures acos and acosf return not a number if the argument x is not in the range [-1,1]. "
+    ],
+    [
+        "PARA",
+        "The acos and acosf procedures shall return Not a Number, if the argument x is not in the range [-1,1]. ",
+        "The procedures acos and acosf return not a number if the argument x is not in the range [-1,1]."
+    ],
+    [
+        "PARA",
+        "The acos and acosf procedures shall return Not a Numberif the argument is Not a Number.",
+        "The acos and acosf procedures return Not a number if the argument is not a number."
+    ],
+    [
+        "PARA",
+        "The acos and acosf procedures shall return Not a Numberif the argument is Not a Number.",
+        "The acos and acosf procedures shall return not a number if the argument is not a number. b"
+    ],
+    [
+        "PARA",
+        "The acos and acosf procedures shall return Not a Numberif the argument is Not a Number.",
+        "The acos and acosf procedures shall return Not a number if the argument is not a number."
+    ],
+    [
+        "PARA",
+        "The acos and acosf procedures shall return Not a Numberif the argument is Not a Number.",
+        "The procedures acos and acosf return not a number if the argument is not a number."
+    ],
+    [
+        "PARA",
+        "The acos and acosf procedures shall return Not a Numberif the argument is Not a Number.",
+        "The acos and acosf procedures shall return not a number if the argument is not a number."
+    ],
+    [
+        "PARA",
+        "The acos and acosf procedures shall return Not a Numberif the argument is Not a Number.",
+        "The procedures acos and acosf return Not a number if the argument is not a number."
+    ],
+    [
+        "PARA",
+        "The acos and acosf procedures shall return +0if the argument is +1.",
+        "The acos and acosf procedures return +0 if the argument is +1."
+    ],
+    [
+        "PARA",
+        "The acos and acosf procedures shall return +0if the argument is +1.",
+        "The acos and acosf procedures shall return +0 if the argument is +1."
+    ],
+    [
+        "PARA",
+        "The acos and acosf procedures shall return +0if the argument is +1.",
+        "The procedures acos and acosf shall return +0 if the argument is +1."
+    ],
+    [
+        "PARA",
+        "The acos and acosf procedures shall return +0if the argument is +1.",
+        "if the argument is +1 the procedures acos and acosf return +0."
+    ],
+    [
+        "PARA",
+        "The acos and acosf procedures shall return +0if the argument is +1.",
+        "The procedures acos and acosf return +0 if the argument is +1."
+    ],
+    [
+        "PARA",
+        "The tan and tanf procedures shall use a minimax polynomial for the calculation. ",
+        "Tan and Tanf procedures shall use a minimax polynomial for calculation."
+    ],
+    [
+        "PARA",
+        "The tan and tanf procedures shall use a minimax polynomial for the calculation. ",
+        "Tan and Tanf procedures shall use a minimax polynomial for the calculation. "
+    ],
+    [
+        "PARA",
+        "The tan and tanf procedures shall use a minimax polynomial for the calculation. ",
+        "Tan and Tanf procedures shall use a minimax polynomial for calculations."
+    ],
+    [
+        "PARA",
+        "The tan and tanf procedures shall use a minimax polynomial for the calculation. ",
+        "Tan and Tanf procedures shall use a minimax polynomial for the calculation."
+    ],
+    [
+        "PARA",
+        "The tan and tanf procedures shall use a minimax polynomial for the calculation. ",
+        "To calculate Tan and Tanf procedures shall use a minimax polynomial."
+    ],
+    [
+        "PARA",
+        "The tan and tanf procedures shall use a minimax polynomial for the calculation. ",
+        "Tan and Tanf procedures shall use a minimax polynomial for calculation. "
+    ],
+    [
+        "PARA",
+        "The tan and tanf procedures shall use a minimax polynomial for the calculation. ",
+        "Tan and Tanf procedures shall use a minimax polynomial for the calculation. b"
+    ],
+    [
+        "PARA",
+        "The atan and atanf procedures shall calculate the arctangent of their argument x in the output range [-π2,π2] radians. ",
+        "The arctangent of their argument x in the output range [-2,2] radians shall be calculated by the atan and atanf procedures"
+    ],
+    [
+        "PARA",
+        "The atan and atanf procedures shall calculate the arctangent of their argument x in the output range [-π2,π2] radians. ",
+        "The arctangent of their argument x in the output range [-2,2] radians shall be calculated by the procedures atan and atanf"
+    ],
+    [
+        "PARA",
+        "The atan and atanf procedures shall calculate the arctangent of their argument x in the output range [-π2,π2] radians. ",
+        "The atan and atanf procedures shall calculate the arctangent of their argument x in the output range [-2,2] radians."
+    ],
+    [
+        "PARA",
+        "The atan and atanf procedures shall calculate the arctangent of their argument x in the output range [-π2,π2] radians. ",
+        "The atan and atanf procedures shall calculate the arctangent of their argument x in the output range of radians [-2,2]."
+    ],
+    [
+        "PARA",
+        "The atan and atanf procedures shall use a minimax polynomial for the calculation. ",
+        "The procedures of atan and atanf shall use a minimax polynomial for the calculation."
+    ],
+    [
+        "PARA",
+        "The atan and atanf procedures shall use a minimax polynomial for the calculation. ",
+        "The atan and atanf procedures shall use a minimax polynomial for the calculation."
+    ],
+    [
+        "PARA",
+        "The atan and atanf procedures shall use a minimax polynomial for the calculation. ",
+        "The methods of atan and atanf shall use a minimax polynomial for the calculation."
+    ],
+    [
+        "PARA",
+        "The atan and atanf procedures shall use a minimax polynomial for the calculation. ",
+        "The methods of atan and atanf shall use a minimax polynomial for the calculations."
+    ],
+    [
+        "PARA",
+        "The atan and atanf procedures shall use a minimax polynomial for the calculation. ",
+        "For the calculations atan and atanf procedures use a minimax polynomial."
+    ],
+    [
+        "PARA",
+        "The atan and atanf procedures shall use a minimax polynomial for the calculation. ",
+        "The procedures atan and atanf shall use a minimax polynomial for the calculation."
+    ],
+    [
+        "PARA",
+        "The atan and atanf procedures shall use a minimax polynomial for the calculation. ",
+        "The atan and atanf procedures shall use a minimax polynomial for calculation."
+    ],
+    [
+        "PARA",
+        "The atan2 and atan2f procedures shall calculate the arctangent of the division y\/xof their arguments x and y in the output range [- π,π] radians. ",
+        "The arctangent of the division y\/x of their arguments x and y shall be calculated in the output range of radians [-,]."
+    ],
+    [
+        "PARA",
+        "The atan2 and atan2f procedures shall calculate the arctangent of the division y\/xof their arguments x and y in the output range [- π,π] radians. ",
+        "The arctangent of the division y\/x of the arguments x and y shall be calculated in the output range of radians [-, ]."
+    ],
+    [
+        "PARA",
+        "The atan2 and atan2f procedures shall calculate the arctangent of the division y\/xof their arguments x and y in the output range [- π,π] radians. ",
+        "The arctangent of the division y\/x of their arguments x and y shall be calculated in the output range of radians [-, ]."
+    ],
+    [
+        "PARA",
+        "The atan2 and atan2f procedures shall use atan and atanf procedures. ",
+        "The atan2 and atan2f procedures shall use atan and atanf procedures."
+    ],
+    [
+        "PARA",
+        "The atan2 and atan2f procedures shall use atan and atanf procedures. ",
+        "The atan2 and atan2f procedures shall use the atan and atanf procedures."
+    ],
+    [
+        "PARA",
+        "The atan2 and atan2f procedures shall return ±0, if the argument y is ±0and the argument x> 0.",
+        "The atan2 and atan2f procedures return 0 if the argument y is 0 and the argument x> 0."
+    ],
+    [
+        "PARA",
+        "The atan2 and atan2f procedures shall return ±0, if the argument y is ±0and the argument x> 0.",
+        "The procedures atan2 and atan2f return 0 if the argument y is 0 and the argument x> 0."
+    ],
+    [
+        "PARA",
+        "The atan2 and atan2f procedures shall return ±0, if the argument y is ±0and the argument x> 0.",
+        "The procedures of atan2 and atan2f shall return 0 if the argument y is 0 and the argument x> 0."
+    ],
+    [
+        "PARA",
+        "The atan2 and atan2f procedures shall return ±0, if the argument y is ±0and the argument x> 0.",
+        "The procedures of atan2 and atan2f shall return 0 if the argument y is 0 and the argument x>"
+    ],
+    [
+        "PARA",
+        "The atan2 and atan2f procedures shall return ±0, if the argument y is ±0and the argument x> 0.",
+        "The procedures atan2 and atan2f shall return 0 if the argument y is 0 and the argument x> 0."
+    ],
+    [
+        "PARA",
+        "The sqrt and sqrtf procedures shall calculate the square root of their argument x.",
+        "The sqrt and sqrtf procedures will calculate the square root of their argument x."
+    ],
+    [
+        "PARA",
+        "The sqrt and sqrtf procedures shall calculate the square root of their argument x.",
+        "Each of the sqrt and sqrtf procedures calculates the square root of their argument x."
+    ],
+    [
+        "PARA",
+        "The sqrt and sqrtf procedures shall calculate the square root of their argument x.",
+        "The sqrt and sqrtf procedures must calculate the square root of their argument x."
+    ],
+    [
+        "PARA",
+        "The sqrt and sqrtf procedures shall calculate the square root of their argument x.",
+        "The sqrt and sqrtf procedures calculate the square root of the argument x."
+    ],
+    [
+        "PARA",
+        "The sqrt and sqrtf procedures shall calculate the square root of their argument x.",
+        "The sqrt and sqrtf procedures shall calculate the square root of their argument x.."
+    ],
+    [
+        "PARA",
+        "The sqrt and sqrtf procedures shall calculate the square root of their argument x.",
+        "The sqrt and sqrtf procedures calculate the square root of their argument x. ''"
+    ],
+    [
+        "PARA",
+        "The sqrt and sqrtf procedures shall return Not a Number if the argument x is Not a Number.",
+        "The sqrt and sqrtf procedures return not a number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The exp and expf procedures are to calculate the base eexponential value of the argument x."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The exp and expf procedures calculate the eexponential base value of their argument x."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The procedures exp and expf calculate the base eexponential value of their argument x."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The exp and expf procedures are to calculate the base eexponential value of their argument x."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The exp and expf procedures shall calculate the eexponential base value of their argument x."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The exp and expf procedures are to calculate the base eexponential value of their argument x"
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall use a minimax polynomial for the calculation. ",
+        "The procedures exp and expf shall use a minimax polynomial for the calculation."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall use a minimax polynomial for the calculation. ",
+        "The exp and expf procedures shall use a minimax polynomial for calculation."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall use a minimax polynomial for the calculation. ",
+        "The exp and expf procedures shall use a minimax polynomial for the calculation."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall use a minimax polynomial for the calculation. ",
+        "The procedures exp and expf shall use a minimax polynomial for the calculation. "
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall use a minimax polynomial for the calculation. ",
+        "The exp and expf procedures shall use a minimax polynomial for calculation. ''"
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall return Not a Number if the argument x is Not a Number.",
+        "The exp and expf procedures return Not a number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall return Not a Number if the argument x is Not a Number.",
+        "The exp and expf procedures return not a number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall return Not a Number if the argument x is Not a Number.",
+        "The exp and expf procedures return Not a Number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall return +0 if the argument x is -Inf.",
+        "The exp and expf procedures return +0 if the argument x is -Inf."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall return +0 if the argument x is -Inf.",
+        "The exp and expf procedures return +0 if argument x is -Inf."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall return +0 if the argument x is -Inf.",
+        "The procedures exp and expf shall return +0 if the argument x is -Inf."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall return +0 if the argument x is -Inf.",
+        "The procedures exp and expf return +0 if the argument x is -Inf."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall return +0 if the argument x is -Inf.",
+        "The exp - and expf procedures return +0 if the argument x is - Inf."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall return +0 if the argument x is -Inf.",
+        "The exp - and expf procedures return +0 if the argument x is -inf."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall return +0 if the argument x is -Inf.",
+        "The exp - and expf procedures return +0 if the argument x is -Inf."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall return the argument if the argument x is +Inf.",
+        "When argument x is +Inf then the exp and expf procedures return the argument."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall return the argument if the argument x is +Inf.",
+        "The exp and expf procedures return an argument if the argument x is +Inf."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall return the argument if the argument x is +Inf.",
+        "When argument x is +Inf then the procedures exp and expf return the argument."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall return the argument if the argument x is +Inf.",
+        "When argument x is +Inf the exp and expf procedures return the argument."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall return the argument if the argument x is +Inf.",
+        "The exp and expf procedures return the argument if the argument x is + Inf."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall return the argument if the argument x is +Inf.",
+        "The exp and expf procedures return the argument if the argument x is +Inf."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall return the argument if the argument x is +Inf.",
+        "The procedures exp and expf return the argument if the argument x is +Inf."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall calculate the value of their argument x raised to the power of y.",
+        "The pow and powf procedures determine the value of their argument x raised to the power of y."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall calculate the value of their argument x raised to the power of y.",
+        "The pow and powf procedures compute the value of their argument x raised to the power of y."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall calculate the value of their argument x raised to the power of y.",
+        "The pow and powf procedures shall calculate the value of their argument x raised to the power of y. "
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall use a binary logarithm for the calculation. ",
+        "The procedures for the calculation of the pow and powf shall use a binary logarithm."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall use a binary logarithm for the calculation. ",
+        "Procedures for the calculation of the pow and powf shall use a binary logarithm."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall use a binary logarithm for the calculation. ",
+        "The pow and powf procedures shall use a binary logarithm for the calculation."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall use a binary logarithm for the calculation. ",
+        "The Pow and Powf procedures shall use a binary logarithm for the calculation."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return Not a Number if the argument y is Not a Number and x is not 1, or the argument x is Not a Number and y is not ±0.",
+        "The pow and powf procedures shall return not a number if the argument y is not a number and x is not 1, or if the argument x is not a number and y is not  0."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return Not a Number if the argument y is Not a Number and x is not 1, or the argument x is Not a Number and y is not ±0.",
+        "The pow and powf procedures shall return not a number if the argument y is not a number and x is not 1, or if the argument x is not a number and y is not 0"
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return 1.0 if the argument x is +1.",
+        "If the argument x is +1 the pow and powf procedures return 1.0."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return 1.0 if the argument x is +1.",
+        "If the argument x is +1 the pow and powf procedures will return 1."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return 1.0 if the argument x is +1.",
+        "The pow and powf procedures return 1.0 if the argument x is +1."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return 1.0 if the argument x is +1.",
+        "The pow and powf procedures return 1.0 if argument x is +1."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return 1.0 if the argument x is +1.",
+        "If the argument x is +1 then the pow and powf procedures return 1."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return 1.0 if the argument x is +1.",
+        "The procedures pow and powf return 1.0 if the argument x is +1."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return 1.0 if the argument x is +1.",
+        "If the argument x is +1 the pow and powf procedures shall return 1."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return 1.0 if the argument x is +1.",
+        "If the argument x is +1 the pow and powf procedures return 1."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +0, if |x|>1 and the argument y is-Inf.",
+        "The pow and powf procedures shall return +0 if |x|>1 and the argument y is-Inf. "
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +0, if |x|>1 and the argument y is-Inf.",
+        "The pow and powf procedures shall return +0 if |x|>1 and the argument y is Inf."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +0, if |x|>1 and the argument y is-Inf.",
+        "The pow and powf procedures shall return +0 if |x|>1 and the argument y is-Inf."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +Inf, if |x|>1 and the argument y is +Inf.",
+        "The pow and powf procedures shall return +Inf if |x|>1 and the argument y is +Inf. "
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +Inf, if |x|>1 and the argument y is +Inf.",
+        "The pow and powf procedures shall return +Inf if |x|>1 and the argument y is +Inf."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +Inf, if |x|>1 and the argument y is +Inf.",
+        "The pow and powf procedures return +Inf if |x|>1 and the argument y is +Inf."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +Inf, if |x|>1 and the argument y is +Inf.",
+        "The procedures pow and powf return +Inf if |x|>1 and the argument y is +Inf."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +Inf, if |x|>1 and the argument y is +Inf.",
+        "The pow and powf procedures will return +Inf if |x|>1 and the argument y is +Inf."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +0, if the argument x is -Inf and the argument y is <0 and not an odd integer. ",
+        "The pow and powf procedures return +0 if the argument x is -Inf and the argument y is 0 and not an odd integer."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +0, if the argument x is -Inf and the argument y is <0 and not an odd integer. ",
+        "The procedures pow and powf shall return +0 if the argument x is -Inf and the argument y is 0 and not an odd integer."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +0, if the argument x is -Inf and the argument y is <0 and not an odd integer. ",
+        "The pow and powf procedures will return +0 if the argument x is -Inf and the argument y is 0 and not an odd integer."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +0, if the argument x is -Inf and the argument y is <0 and not an odd integer. ",
+        "The procedures pow and powf return +0 if the argument x is -Inf and the argument y is 0 and not an odd integer."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return -Inf, if the argument x is -Inf and the argument y is an odd integer > 0. ",
+        "The pow and powf procedures return -Inf if the argument x is -Inf and the argument y is an odd integer > 0."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return -Inf, if the argument x is -Inf and the argument y is an odd integer > 0. ",
+        "When the argument x is -Inf and y is an odd integer > 0, the pow and powf procedures shall return -Inf."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return -Inf, if the argument x is -Inf and the argument y is an odd integer > 0. ",
+        "When the argument x is -Inf and y is an odd integer > 0, the pow and powf procedures shall return -Inf. "
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return -Inf, if the argument x is -Inf and the argument y is an odd integer > 0. ",
+        "When the argument x is -Inf and argument y is an odd integer > 0, the pow and powf procedures return -Inf."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return -Inf, if the argument x is -Inf and the argument y is an odd integer > 0. ",
+        "When the argument x is -Inf and argument y is an odd integer > 0, the pow and powf procedures return -Inf. "
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return -Inf, if the argument x is -Inf and the argument y is an odd integer > 0. ",
+        "The procedures pow and powf return -Inf if the argument x is -Inf and the argument y is an odd integer > 0."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return -Inf, if the argument x is -Inf and the argument y is an odd integer > 0. ",
+        "When the argument x is -Inf and argument y is an odd integer > 0, the pow and powf procedures shall return -Inf."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +Inf, if the argument x is -Inf and the argument y is> 0 and not an odd integer. ",
+        "When the argument x is -Inf and y is> 0 and not an odd integer, the pow and powf procedures return +Inf."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +Inf, if the argument x is -Inf and the argument y is> 0 and not an odd integer. ",
+        "When the argument x is -Inf and y is> 0 and not an odd integer, the pow and powf procedures return +Inf. "
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +0, if the argument x is +Inf and the argument y<0.",
+        "The pow and powf procedures return +0 if the argument x is +Inf and the argument y is 0."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +0, if the argument x is +Inf and the argument y<0.",
+        "When the argument x is +Inf and y is 0 the pow and powf procedures return +0."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +Inf, if the argument x is+ Inf and the argument y>0.",
+        "The pow and powf procedures return +Inf if the argument x is+ Inf and the argument y>0."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +Inf, if the argument x is+ Inf and the argument y>0.",
+        "The pow and powf procedures shall return +Inf if the argument x is + Inf and the argument y>0."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +Inf, if the argument x is+ Inf and the argument y>0.",
+        "The pow and powf procedures return +Inf if the argument x is + Inf and the argument y>0."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +Inf, if the argument x is+ Inf and the argument y>0.",
+        "When the argument x is + Inf and y is > 0 then the pow and powf procedures return +Inf."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +Inf, if the argument x is+ Inf and the argument y>0.",
+        "When the argument x is + Inf and y is > 0 the procedures pow and powf return +Inf."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +Inf, if the argument x is+ Inf and the argument y>0.",
+        "The pow and powf procedures return +Inf if the argument x is+Inf and the argument y>0."
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +Inf, if the argument x is+ Inf and the argument y>0.",
+        "When the argument x is + Inf and y is > 0 then the pow and powf procedures return +Inf"
+    ],
+    [
+        "PARA",
+        "The pow and powf procedures shall return +Inf, if the argument x is+ Inf and the argument y>0.",
+        "The pow and powf procedures shall return +Inf if the argument x is+ Inf and the argument y>0."
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall calculate the natural logarithm of their argument x.",
+        "The log and logf procedures are to calculate the natural logarithm of their argument x."
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall calculate the natural logarithm of their argument x.",
+        "The log and logf procedures shall calculate the natural logarithm of their argument x. ''"
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall calculate the natural logarithm of their argument x.",
+        "The log and logf procedures shall calculate the natural logarithm of their argument x.."
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall calculate the natural logarithm of their argument x.",
+        "The log and logf procedures compute the natural logarithm of their argument x."
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log and logf procedures return Not a number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log and logf procedures return not a number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log and logf procedures shall return Not a Number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log and logf procedures shall return Not a number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log and logf procedures shall return not a number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall return +0, if the argument x is 1.",
+        "The log and logf procedures should return +0 if the argument x is 1."
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall return +0, if the argument x is 1.",
+        "When the argument x is 1 the log and logf procedures return +0."
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall return +0, if the argument x is 1.",
+        "When the argument x is 1, the log and logf procedures return +0."
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall return +0, if the argument x is 1.",
+        "The log and logf procedures return +0 if the argument x is 1."
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall return +0, if the argument x is 1.",
+        "The log and logf procedures shall return +0 if the argument x is 1."
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall return +0, if the argument x is 1.",
+        "The log and logf procedures shall return +0 if the argument x is 1"
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall return +0, if the argument x is 1.",
+        "The log and logf procedures return +0 if the argument x is 1"
+    ],
+    [
+        "PARA",
+        "The logand logf procedures shall return +Inf, if the argument x is +Inf.",
+        "The logand logf procedures will return +Inf if the argument x is +Inf."
+    ],
+    [
+        "PARA",
+        "The logand logf procedures shall return +Inf, if the argument x is +Inf.",
+        "The logand logf procedures shall return +Inf if the argument x is +Inf. "
+    ],
+    [
+        "PARA",
+        "The logand logf procedures shall return +Inf, if the argument x is +Inf.",
+        "The logand logf procedures return +Inf if the argument x is +Inf."
+    ],
+    [
+        "PARA",
+        "The logand logf procedures shall return +Inf, if the argument x is +Inf.",
+        "The logand logf procedures return +Inf, if the argument x is +Inf."
+    ],
+    [
+        "PARA",
+        "The logand logf procedures shall return +Inf, if the argument x is +Inf.",
+        "The logand logf procedures shall return +Inf if the argument x is +Inf."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall calculate the base 10 logarithm of their argument x.",
+        "The log10 and log10f procedures shall calculate the logarithm of the argument x from the base 10."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall calculate the base 10 logarithm of their argument x.",
+        "The log10 and log10f procedures shall calculate the logarithm of the argument x."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall calculate the base 10 logarithm of their argument x.",
+        "The log10 and log10f procedures calculate the logarithm of the argument x."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall calculate the base 10 logarithm of their argument x.",
+        "The log10 and log10f procedures calculate the logarithm of their argument x."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall calculate the base 10 logarithm of their argument x.",
+        "The log10 and log10f procedures shall calculate the logarithm of the argument x at the base 10."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return -Inf if the argument x is ±0.",
+        "In case the argument x is 0 the log10 and log10f procedures shall return -Inf."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return -Inf if the argument x is ±0.",
+        "In case the argument x is 0 the log10 and log10f procedures will return -Inf."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log10 and log10f procedures return Not a number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log10 and log10f procedures shall return Not a number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log10 and log10f procedures shall return Not a Number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log10 and log10f procedures return not a number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log10 and log10f procedures shall return not a number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return +0, if the argument x is 1.",
+        "In case the argument x is 1 the log10 and log10f procedures return +0."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return +0, if the argument x is 1.",
+        "The log10 and log10f procedures return +0 if argument x is 1."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return +0, if the argument x is 1.",
+        "The log10 and log10f procedures return +0 if the argument x is 1"
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return +0, if the argument x is 1.",
+        "The log10 and log10f procedures will return +0 if the argument x is 1."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return +0, if the argument x is 1.",
+        "The log10 and log10f procedures return +0 if the argument x is 1."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return +0, if the argument x is 1.",
+        "The log10 and log10f procedures should return +0 if the argument x is 1."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return +0, if the argument x is 1.",
+        "The log10 and log10f procedures shall return +0 if the argument x is 1."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return +0, if the argument x is 1.",
+        "The log10 and log10f procedures shall return +0 if the argument x is 1"
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return +Inf, if the argument x is +Inf.",
+        "In case the argument x is +Inf the log10 and log10f procedures return a +Inf."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return +Inf, if the argument x is +Inf.",
+        "The log10 and log10f procedures shall return +Inf if the argument x is +Inf. "
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return +Inf, if the argument x is +Inf.",
+        "The log10 and log10f procedures shall return +Inf if the argument x is +Inf."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return +Inf, if the argument x is +Inf.",
+        "The log10 and log10f procedures will return +Inf if the argument x is +Inf."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return +Inf, if the argument x is +Inf.",
+        "In case the argument x is +Inf the log10 and log10f procedures return."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return +Inf, if the argument x is +Inf.",
+        "The log10 and log10f procedures return +Inf if the argument x is +Inf."
+    ],
+    [
+        "PARA",
+        "The log10 and log10f procedures shall return +Inf, if the argument x is +Inf.",
+        "The log10 and log10f procedures return +Inf, if the argument x is +Inf."
+    ],
+    [
+        "PARA",
+        "The fabs and fabsf procedures shall calculate the absolute values of their argument x.",
+        "The procedures fabs and fabsf calculate the absolute values of their argument x."
+    ],
+    [
+        "PARA",
+        "The fabs and fabsf procedures shall calculate the absolute values of their argument x.",
+        "The procedures fabs and fabsf must calculate the absolute values of their argument x."
+    ],
+    [
+        "PARA",
+        "The fabs and fabsf procedures shall calculate the absolute values of their argument x.",
+        "The procedures of fabs and fabsf shall calculate the absolute values of their argument x."
+    ],
+    [
+        "PARA",
+        "The fabs and fabsf procedures shall calculate the absolute values of their argument x.",
+        "The procedures fabs and fabsf shall calculate the absolute values of their argument x."
+    ],
+    [
+        "PARA",
+        "The fabs and fabsf procedures shall calculate the absolute values of their argument x.",
+        "The fabs and fabsf procedures shall calculate the absolute values of their argument x. "
+    ],
+    [
+        "PARA",
+        "The fabs and fabsf procedures shall calculate the absolute values of their argument x.",
+        "The procedures for fabs and fabsf shall calculate the absolute values of their argument x."
+    ],
+    [
+        "PARA",
+        "The roundand roundf procedures shall round their argument x to the nearest integer value, rounding halfway cases away from zero. ",
+        "The round and roundf procedures round their argument x to the nearest integer value rounding halfway cases away from zero."
+    ],
+    [
+        "PARA",
+        "The roundand roundf procedures shall round their argument x to the nearest integer value, rounding halfway cases away from zero. ",
+        "The round and roundf procedures round their argument x to the nearest integer value, rounding halfway cases away from zero."
+    ],
+    [
+        "PARA",
+        "The floor and floorf procedures shall calculate the largest integral value not greater than their argument x.",
+        "The floorf procedure shall calculate the largest integral value not greater than their argument x."
+    ],
+    [
+        "PARA",
+        "The floor and floorf procedures shall calculate the largest integral value not greater than their argument x.",
+        "The floor and floorf procedures shall calculate the largest integral value not greater than the argument x."
+    ],
+    [
+        "PARA",
+        "The floor and floorf procedures shall calculate the largest integral value not greater than their argument x.",
+        "The floorf procedures shall calculate the largest integral value not greater than their argument x."
+    ],
+    [
+        "PARA",
+        "The trunc and truncf procedures shall round their argument x to the integer value nearest to but no larger in magnitude than the argument. ",
+        "The trunc and truncf procedures shall round their argument x to the integer value nearest but not larger in magnitude than the argument."
+    ],
+    [
+        "PARA",
+        "The trunc and truncf procedures shall round their argument x to the integer value nearest to but no larger in magnitude than the argument. ",
+        "The trunc and truncf procedures round their argument x to the integer value nearest but not larger in magnitude than the argument."
+    ],
+    [
+        "PARA",
+        "The trunc and truncf procedures shall round their argument x to the integer value nearest to but no larger in magnitude than the argument. ",
+        "The trunc and truncf procedures round their argument x to the integer value closest to but not larger in magnitude than the argument."
+    ],
+    [
+        "PARA",
+        "The trunc and truncf procedures shall round their argument x to the integer value nearest to but no larger in magnitude than the argument. ",
+        "The trunc and truncf procedures round their argument x to the integer value closest but not larger in magnitude than the argument."
+    ],
+    [
+        "PARA",
+        "The trunc and truncf procedures shall round their argument x to the integer value nearest to but no larger in magnitude than the argument. ",
+        "The trunc and truncf procedures round their argument x to the integer value nearest but not larger in magnitude than the argument. "
+    ],
+    [
+        "PARA",
+        "The trunc and truncf procedures shall return the argument, if the argument x is ±0 or ±Inf.",
+        "if the argument x is either 0 or Inf the procedures trunc and truncf return the argument"
+    ],
+    [
+        "PARA",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x. "
+    ],
+    [
+        "PARA",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The procedures cil and cilf compute the smallest integral value not less than argument x."
+    ],
+    [
+        "PARA",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The procedures ceil and ceilf compute the smallest integral value not less than argument x."
+    ],
+    [
+        "PARA",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The procedures of ceil and ceilf shall compute the smallest integral value not less than argument x."
+    ],
+    [
+        "PARA",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The methods of ceil and ceilf shall compute the smallest integral value not less than argument x."
+    ],
+    [
+        "PARA",
+        "The ceil and ceilf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The ceil and ceilf procedures return Not a number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The ceil and ceilf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The ceil and ceilf procedures return not a number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The ceil and ceilf procedures shall return the argument, if the argument x is ±0 or ±Inf.",
+        "The procedures ceil and ceilf return the argument if the argument x is 0 or Inf."
+    ],
+    [
+        "PARA",
+        "The ceil and ceilf procedures shall return the argument, if the argument x is ±0 or ±Inf.",
+        "The Ceil and Ceilf procedures return the argument if the argument x is 0 or Inf."
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall calculate the floating-point remainder of the division of the argument x by the argument y.",
+        "The procedures fmod and fmodf calculate the floating-point remainder of the division of the argument x by the argument y."
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall calculate the floating-point remainder of the division of the argument x by the argument y.",
+        "The procedures fmod and fmodf calculate the floating-point remainder of the division of argument x by argument y."
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall calculate the floating-point remainder of the division of the argument x by the argument y.",
+        "The fmod and fmodf procedures calculate the floating-point remainder of the division of the argument x by the argument y. '"
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall calculate the floating-point remainder of the division of the argument x by the argument y.",
+        "The procedures for fmod and fmodf shall calculate the floating-point remainder of the division of the argument x by the argument y."
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall calculate the floating-point remainder of the division of the argument x by the argument y.",
+        "The procedures of fmod and fmodf shall calculate the floating-point rest of the division of the argument x by the argument y."
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall calculate the floating-point remainder of the division of the argument x by the argument y.",
+        "The procedures of fmod and fmodf shall calculate the floating-point remainder of the division of the argument x by the argument y."
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall calculate the floating-point remainder of the division of the argument x by the argument y.",
+        "The fmod and fmodf procedures calculate the floating-point remainder of the division of the argument x by the argument y."
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall calculate the floating-point remainder of the division of the argument x by the argument y.",
+        "The procedures fmod and fmodf shall calculate the floating-point remainder of the division of the argument x by the argument y."
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall return Not a Number, if any argument is Not a Number.",
+        "The fmod and fmodf procedures shall return Not a Number if any argument is not a number."
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall return Not a Number, if any argument is Not a Number.",
+        "The procedures fmod and fmodf return Not a number if any argument is not a number."
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall return Not a Number, if any argument is Not a Number.",
+        "The fmod and fmodf procedures shall return Not a number if any argument is not a number."
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall return Not a Number, if the argument y is 0.",
+        "The procedures fmod and fmodf return not a number if the argument y is 0."
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall return Not a Number, if the argument y is 0.",
+        "The procedures fmod and fmodf return Not a number if the argument y is 0."
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall return ±0, if the argument x is ±0 and the argument y is not zero. ",
+        "The fmod and fmodf procedures return 0 if the argument x is 0 and the argument y is not zero."
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall return ±0, if the argument x is ±0 and the argument y is not zero. ",
+        "The fmod and fmodf procedures shall return 0 if the argument x is 0 and the argument y is not zero."
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall return ±0, if the argument x is ±0 and the argument y is not zero. ",
+        "The fmod and fmodf procedures return 0 if the argument x is 0 and the argument y is not zero. "
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall return ±0, if the argument x is ±0 and the argument y is not zero. ",
+        "The procedures fmod and fmodf return 0 if the argument x is 0 and the argument y is not zero. "
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall return ±0, if the argument x is ±0 and the argument y is not zero. ",
+        "The procedures fmod and fmodf return 0 if the argument x is 0 and the argument y is not zero."
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall return ±0, if the argument x is ±0 and the argument y is not zero. ",
+        "The procedures fmod and fmodf shall return 0 if the argument x is 0 and the argument y is not zero."
+    ],
+    [
+        "PARA",
+        "The fmod and fmodf procedures shall return the argument x, if the argument x is not ± Inf and the argument y is ±Inf.",
+        "The procedures fmod and fmodf return the argument x if the argument x is not  Inf and the argument y is"
+    ],
+    [
+        "PARA",
+        "The modf and modff procedures shall compute the integral and fractional part of the argument x.",
+        "The procedures modf and modff compute the integral and fractional part of argument x."
+    ],
+    [
+        "PARA",
+        "The modf and modff procedures shall compute the integral and fractional part of the argument x.",
+        "The procedures modf and modff compute the integral and fractional part of the argument x."
+    ],
+    [
+        "PARA",
+        "The modf and modff procedures shall return the fractional part of the argument x and write the integral part of the argument x to the pointer provided by the argument ∗iptr.",
+        "The procedure of modf and modff shall return the fractional part of the argument x and write the integral part of the argument x to the pointer provided by the argument"
+    ],
+    [
+        "PARA",
+        "The fmin and fminfproceduresshalldeterminetheminimumnumericvalueoftheargument xand y.",
+        "The processes of fmin and fminf determine the minimumnumericvalue of the argument x and y."
+    ],
+    [
+        "PARA",
+        "The fmin and fminfproceduresshalldeterminetheminimumnumericvalueoftheargument xand y.",
+        "The methods of fmin and fminf determine the minimumnumericvalue of the argument x and y."
+    ],
+    [
+        "PARA",
+        "The fmin and fminfproceduresshalldeterminetheminimumnumericvalueoftheargument xand y.",
+        "The steps of fmin and fminf determine the minimumnumericvalue of the argument x and y."
+    ],
+    [
+        "PARA",
+        "The fmin and fminf procedures shall return the one argument if only the other argument is Not a Number.",
+        "The procedures fmin and fminf return the one argument if the other argument is not a number."
+    ],
+    [
+        "PARA",
+        "The fmin and fminf procedures shall return the one argument if only the other argument is Not a Number.",
+        "The fmin and fminf procedures return one argument if only the other argument is not a number."
+    ],
+    [
+        "PARA",
+        "The fmin and fminf procedures shall return the one argument if only the other argument is Not a Number.",
+        "The procedures fmin and fminf return one argument if only the other argument is not a number."
+    ],
+    [
+        "PARA",
+        "The fmin and fminf procedures shall return the one argument if only the other argument is Not a Number.",
+        "The fmin and fminf procedures return the one argument if only the other argument is not a number."
+    ],
+    [
+        "PARA",
+        "The fmin and fminf procedures shall return the y argument if both arguments are zero. ",
+        "The procedures fmin and fminf return the y argument if both arguments are zero. "
+    ],
+    [
+        "PARA",
+        "The fmin and fminf procedures shall return the y argument if both arguments are zero. ",
+        "The procedures fmin and fminf return y if both arguments are zero."
+    ],
+    [
+        "PARA",
+        "The fmin and fminf procedures shall return the y argument if both arguments are zero. ",
+        "The procedures fmin and fminf return the y argument if both arguments are zero."
+    ],
+    [
+        "PARA",
+        "The fmin and fminf procedures shall return the y argument if both arguments are zero. ",
+        "The fmin and fminf procedures return the y argument if both arguments are zero."
+    ],
+    [
+        "PARA",
+        "The fmin and fminf procedures shall return the y argument if both arguments are zero. ",
+        "The fmin and fminf procedures shall return the y argument if both arguments are zero."
+    ],
+    [
+        "PARA",
+        "The fmin and fminf procedures shall return the y argument if both arguments are zero. ",
+        "The procedures fmin and fminf return the argument y if both arguments are zero."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures of fmax and fmaxf shall determine the maximum numeric value of arguments x and y."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf determine the maximum numeric value of arguments x and y."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf determine the maximum numeric value of the arguments x and y. b"
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf determine the maximum numeric value of the arguments x and y.."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf determine the maximum numeric value of the argument x and y."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf determine the maximum numeric value of the arguments x and y."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf determine the maximum numeric value of the arguments x and y respectively."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The fmax and fmaxf procedures determine the maximum numeric value of the arguments x and y."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf determine the maximum numeric value of argument x and y."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return Not a Number, if the arguments x and y are Not a Number.",
+        "The procedures fmax and fmaxf return not a number if the arguments x and y are not numbers."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return Not a Number, if the arguments x and y are Not a Number.",
+        "The procedures fmax and fmaxf return Not a number if the arguments x and y are Not a number."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return Not a Number, if the arguments x and y are Not a Number.",
+        "The procedures fmax and fmaxf return not a number if the arguments x and y are not a number"
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return Not a Number, if the arguments x and y are Not a Number.",
+        "The procedures fmax and fmaxf return not a number if the arguments x and y are not a number."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return Not a Number, if the arguments x and y are Not a Number.",
+        "The procedures fmax and fmaxf return Not a number if the arguments x and y are not a number."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return Not a Number, if the arguments x and y are Not a Number.",
+        "The procedures fmax and fmaxf return Not a number if the arguments x and y are Not a Number."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return Not a Number, if the arguments x and y are Not a Number.",
+        "The procedures fmax and fmaxf shall return not a number if the arguments x and y are not a number."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return Not a Number, if the arguments x and y are Not a Number.",
+        "The procedures fmax and fmaxf shall return not a number if the arguments x and y are not a number. "
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return Not a Number, if the arguments x and y are Not a Number.",
+        "The procedures fmax and fmaxf return not a number if the arguments x and y are not a number. "
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return the one argument if only the other argument is Not a Number.",
+        "The procedures fmax and fmaxf return the one argument if the other argument is not a number."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return the one argument if only the other argument is Not a Number.",
+        "The procedures for fmax and fmaxf shall return the one argument if only the other argument is not a number."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return the one argument if only the other argument is Not a Number.",
+        "The procedures fmax and fmaxf return one argument if only the other argument is not a number."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return the one argument if only the other argument is Not a Number.",
+        "The fmax and fmaxf procedures return the one argument if only the other argument is not a number."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return the one argument if only the other argument is Not a Number.",
+        "The procedures fmax and fmaxf return the one argument if only the other argument is not a number. b"
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return the one argument if only the other argument is Not a Number.",
+        "The procedures of fmax and fmaxf shall return the one argument if only the other argument is not a number."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return the y argument if both arguments are zero. ",
+        "The procedures fmax and fmaxf shall return the y argument if both arguments are zero. "
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return the y argument if both arguments are zero. ",
+        "The procedures fmax and fmaxf return y if both arguments are zero."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return the y argument if both arguments are zero. ",
+        "The procedures fmax and fmaxf return the y argument if both arguments are zero."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return the y argument if both arguments are zero. ",
+        "The procedures fmax and fmaxf return the y argument if both arguments are zero. "
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return the y argument if both arguments are zero. ",
+        "The fmax and fmaxf procedures return the y argument if both arguments are zero. ''"
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return the y argument if both arguments are zero. ",
+        "The procedures fmax and fmaxf shall return the y argument if both arguments are zero."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return the y argument if both arguments are zero. ",
+        "The fmax and fmaxf procedures return the y argument if both arguments are zero."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return the y argument if both arguments are zero. ",
+        "The procedures fmax and fmaxf return the argument y if both arguments are zero."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return the y argument if both arguments are zero. ",
+        "The procedures fmax and fmaxf return the argument y if both arguments are zero. ''"
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall return the y argument if both arguments are zero. ",
+        "The procedures fmax and fmaxf return the y argument if both arguments are zero. ''"
+    ],
+    [
+        "PARA",
+        "The hypot and hypotf procedures shall compute the length of the hypotenuse of a right angled triangle with sides of length x and y.",
+        "A right angled triangle with sides of length x and y shall be computed using hypot and hypotf procedures."
+    ],
+    [
+        "PARA",
+        "The hypot and hypotf procedures shall compute the length of the hypotenuse of a right angled triangle with sides of length x and y.",
+        "The hypot and hypotf procedures compute the length of the hypotenuse of a right angled triangle with sides of length x and y."
+    ],
+    [
+        "PARA",
+        "The hypot and hypotf procedures shall compute the length of the hypotenuse of a right angled triangle with sides of length x and y.",
+        "The hypot and hypotf procedures compute the length of the hypotenuse of a right-angled triangle with sides of length x and y."
+    ],
+    [
+        "PARA",
+        "The hypot and hypotf procedures shall compute the length of the hypotenuse of a right angled triangle with sides of length x and y.",
+        "A right angled triangle with sides of length x and y shall be computed using the hypot and hypotf procedures."
+    ],
+    [
+        "PARA",
+        "The isfinite procedure shall return a non-zero value if the argument x has a finite value and is neither Not a Number nor ±Inf.",
+        "The isfinite procedure returns a non-zero value if the argument x has a finite value and is neither Not a Number nor Inf."
+    ],
+    [
+        "PARA",
+        "The isfinite procedure shall return a non-zero value if the argument x has a finite value and is neither Not a Number nor ±Inf.",
+        "The isfinite procedure shall return a non-zero value if the argument x has a finite value and is neither Not a Number nor Inf"
+    ],
+    [
+        "PARA",
+        "The isfinite procedure shall return a non-zero value if the argument x has a finite value and is neither Not a Number nor ±Inf.",
+        "The isfinite procedure shall return a non-zero value if the argument x has a finite value and is neither Not a number nor Inf."
+    ],
+    [
+        "PARA",
+        "The isfinite procedure shall return a non-zero value if the argument x has a finite value and is neither Not a Number nor ±Inf.",
+        "The isfinite procedure shall return a non-zero value if the argument x has a finite value and is neither Not a Number nor Inf."
+    ],
+    [
+        "PARA",
+        "The isnan procedure shall return a non-zero value if and only if the argument x is Not a Number.",
+        "It returns a non-zero value if and only when the argument x is not number."
+    ],
+    [
+        "PARA",
+        "The isnan procedure shall return a non-zero value if and only if the argument x is Not a Number.",
+        "The isnan procedure shall return a non-zero value if and only if x is not a number."
+    ],
+    [
+        "PARA",
+        "The isnan procedure shall return a non-zero value if and only if the argument x is Not a Number.",
+        "It returns a non-zero value if and only when the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The isnan procedure shall return a non-zero value if and only if the argument x is Not a Number.",
+        "It returns a non-zero value if and only if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The isnan procedure shall return a non-zero value if and only if the argument x is Not a Number.",
+        "It returns a non-zero value if and only if the argument x is not number."
+    ],
+    [
+        "PARA",
+        "The isnan procedure shall return a non-zero value if and only if the argument x is Not a Number.",
+        "The isnan procedure returns a non-zero value if and only if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The isnan procedure shall return a non-zero value if and only if the argument x is Not a Number.",
+        "The isnan procedure shall return a non-zero value if and only if the argument x is not a number"
+    ],
+    [
+        "PARA",
+        "The isnan procedure shall return a non-zero value if and only if the argument x is Not a Number.",
+        "It returns a non-zero value if and only if the argument x is not a Number."
+    ],
+    [
+        "PARA",
+        "The isnan procedure shall return a non-zero value if and only if the argument x is Not a Number.",
+        "The isnan procedure shall return a non zero value if and only if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The signbit procedure shall return a non-zero value if and only if the argument x is negative.",
+        "The signbit procedure shall return a non-zero value if and only if x is negative."
+    ],
+    [
+        "PARA",
+        "The signbit procedure shall return a non-zero value if and only if the argument x is negative.",
+        "if and only if the argument x is negative the signbit procedure shall return a non-zero value"
+    ],
+    [
+        "PARA",
+        "The signbit procedure shall return a non-zero value if and only if the argument x is negative.",
+        "The signbit procedure returns a non-zero value if and only if the argument x is negative."
+    ],
+    [
+        "PARA",
+        "The signbit procedure shall return a non-zero value if and only if the argument x is negative.",
+        "The signbit procedure shall return a non-zero value if and only if the argument x is negative"
+    ],
+    [
+        "PARA",
+        "The signbit procedure shall return a non-zero value if and only if the argument x is negative.",
+        "The signbit procedure shall return a non zero value if and only if the argument x is negative."
+    ],
+    [
+        "PARA",
+        "The signbit procedure shall return a non-zero value if and only if the argument x is negative.",
+        "The signbit procedure will return a non-zero value if and only if the argument x is negative."
+    ],
+    [
+        "PARA",
+        "The signbit procedure shall return a non-zero value if and only if the argument x is negative.",
+        "if and only if the argument x is negative the signbit procedure shall return a nonzero value."
+    ],
+    [
+        "PARA",
+        "The signbit procedure shall return a non-zero value if and only if the argument x is negative.",
+        "if the argument x is negative the signbit procedure shall return a non-zero value."
+    ],
+    [
+        "PARA",
+        "The copysign and copysignf procedures shall compute a new number with the magnitude of the argument xand the the sign of y.",
+        "The procedures copysign and copysignf compute a new number with the magnitude of the argument x and the sign of y."
+    ],
+    [
+        "PARA",
+        "The copysign and copysignf procedures shall compute a new number with the magnitude of the argument xand the the sign of y.",
+        "The copysign and copysignf procedures shall compute a new number with the magnitude of the argument x and the sign of y."
+    ],
+    [
+        "PARA",
+        "The copysign and copysignf procedures shall compute a new number with the magnitude of the argument xand the the sign of y.",
+        "A new number shall be computed with the magnitude of the argument x and the sign y of copysign and copysignf procedures."
+    ],
+    [
+        "PARA",
+        "The copysign and copysignf procedures shall compute a new number with the magnitude of the argument xand the the sign of y.",
+        "The procedures copysign and copysignf compute a new number with the magnitude of the argument xand the sign of y."
+    ],
+    [
+        "PARA",
+        "The copysign and copysignf procedures shall compute a new number with the magnitude of the argument xand the the sign of y.",
+        "A new number shall be computed with the magnitude of the argument x and the sign of y."
+    ],
+    [
+        "PARA",
+        "The copysign and copysignf procedures shall compute a new number with the magnitude of the argument xand the the sign of y.",
+        "A new number shall be computed with the magnitude of the argument x and the sign y of the copysign and copysignf procedures"
+    ],
+    [
+        "PARA",
+        "The copysign and copysignf procedures shall compute a new number with the magnitude of the argument xand the the sign of y.",
+        "A new number shall be computed with the magnitude of the argument x and the sign y."
+    ],
+    [
+        "PARA",
+        "The copysign and copysignf procedures shall return Not a Number if the argument x is Not a Number.",
+        "When the argument x is not a number the copysign and copysignf procedures return not a number."
+    ],
+    [
+        "PARA",
+        "The copysign and copysignf procedures shall return Not a Number if the argument x is Not a Number.",
+        "When the argument x is not a number the copysign and copysignf procedures return Not a Number."
+    ],
+    [
+        "PARA",
+        "The copysign and copysignf procedures shall return Not a Number if the argument x is Not a Number.",
+        "When the argument x is not a number the copysign and copysignf procedures return Not a number."
+    ],
+    [
+        "PARA",
+        "The copysign and copysignf procedures shall return Not a Number if the argument x is Not a Number.",
+        "The copysign and copysignf procedures return Not a number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The copysign and copysignf procedures shall return Not a Number if the argument x is Not a Number.",
+        "The copysign and copysignf procedures return not a number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The execution time of all procedures shall be bounded. ",
+        "The time of execution of all procedures shall be bounded."
+    ],
+    [
+        "PARA",
+        "The execution time of all procedures shall be bounded. ",
+        "The time of execution of all procedures shall be limited. ''"
+    ],
+    [
+        "PARA",
+        "The execution time of all procedures shall be bounded. ",
+        "It shall be limited to the time of execution of all procedures."
+    ],
+    [
+        "PARA",
+        "The execution time of all procedures shall be bounded. ",
+        "The time for the execution of all procedures shall be bounded."
+    ],
+    [
+        "PARA",
+        "The execution time of all procedures shall be bounded. ",
+        "The time of execution of all procedures shall be bounded. "
+    ],
+    [
+        "PARA",
+        "The execution time of all procedures shall be bounded. ",
+        "The time of execution of all procedures shall be limited."
+    ],
+    [
+        "PARA",
+        "The execution time of all procedures shall be bounded. ",
+        "The execution time of all procedures shall be limited. ''"
+    ],
+    [
+        "PARA",
+        "The execution time of all procedures shall be bounded. ",
+        "The execution time of all procedures shall be bounded."
+    ],
+    [
+        "PARA",
+        "The execution time of all procedures shall be bounded. ",
+        "The execution time of all procedures shall be limited."
+    ],
+    [
+        "PARA",
+        "The execution time of all procedures shall be characterizable within subdomains which cover the complete domain of the procedure.",
+        "The execution time of all procedures shall be characterizable within subdomains which cover the whole domain of the procedure."
+    ],
+    [
+        "PARA",
+        "The execution time of all procedures shall be characterizable within subdomains which cover the complete domain of the procedure.",
+        "The execution time of all procedures shall be characterizable within subdomains which cover the entire domain of the procedure."
+    ],
+    [
+        "PARA",
+        "The execution time of all procedures shall be characterizable within subdomains which cover the complete domain of the procedure.",
+        "The execution time of all procedures shall be characterizable within subdomains that cover the entire domain of the procedure."
+    ],
+    [
+        "PARA",
+        "The Worst Case Execution Time of the procedures shall not deviate by more than 30% from the median execution times of the characterized ranges.",
+        "The worst case execution time of the procedures shall not deviate by more than 30% from the median execution time of the characterized ranges."
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library procedure results shall differ from theoretical results by less than 0.5 Units in the Last Place.",
+        "The results of Basic mathematical library procedure shall differ in the last place from the theoretical results by less than 0.5 Units."
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library procedure results shall differ from theoretical results by less than 0.5 Units in the Last Place.",
+        "The results of Basic mathematical library procedure shall differ in the last place from the theoretical results by less than 0.5 units."
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library procedure results shall differ from theoretical results by less than 0.5 Units in the Last Place.",
+        "The results of Basic mathematical library procedure shall differ from the theoretical results in the last place by less than 0.5 Units."
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library procedure results shall differ from theoretical results by less than 0.5 Units in the Last Place.",
+        "The Basic mathematical library procedure results shall differ from the theoretical results in the last place by less than 0.5 units."
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library procedure results shall differ from theoretical results by less than 0.5 Units in the Last Place.",
+        "The results of Basic mathematical library procedure shall differ from the theoretical results in the last place by less than 0.5 units."
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library procedure results shall differ from theoretical results by less than 0.5 Units in the Last Place.",
+        "The basic mathematical library procedure results shall differ from the theoretical results in the last place by less than 0.5 units."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compliant to IEEE 754-2008. ",
+        "The Basic Library shall be compliant with IEEE 754-2008.."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compliant to IEEE 754-2008. ",
+        "The Basic Library shall be compliant with IEEE 754-2008."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compliant to IEEE 754-2008. ",
+        "The Basic Library shall be compliant with IEEE 754-2008. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compliant to IEEE 754-2008. ",
+        "The Basic Library shall comply with IEEE 754-2008."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compliant to IEEE 754-2008. ",
+        "The basic library shall comply with IEEE 754-2008."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compliant to IEEE 754-2008. ",
+        "The basic library shall be compliant with IEEE 754-2008."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compatible with code auto-generated with Matlab R2016a SimulinkCoder.",
+        "The Basic Library shall be compatible with code automatically generated with Matlab R2016a SimulinkCoder."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compatible with code auto-generated with Matlab R2016a SimulinkCoder.",
+        "In addition the Basic Library shall be compatible with code automatically generated with Matlab R2016a SimulinkCoder."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compatible with code auto-generated with Matlab R2016a SimulinkCoder.",
+        "In addition the basic library shall be compatible with code automatically generated with Matlab R2016a SimulinkCoder."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compatible with code auto-generated with Matlab R2016a SimulinkCoder.",
+        "The basic library shall be compatible with code automatically generated with Matlab R2016a SimulinkCoder."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compatible with code auto-generated with Matlab R2016a SimulinkCoder.",
+        "The Basic Library shall be compatible with code generated with Matlab R2016a SimulinkCoder."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce Ada wrappers to enable the use of the library from Ada83 and Ada95. ",
+        "It shall provide best practices in the Software User Manual to produce Ada wrappers to enable the use of the library from Ada83 and Ada95."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce Ada wrappers to enable the use of the library from Ada83 and Ada95. ",
+        "It shall provide best practices within the software user manual to produce Ada wrappers to enable the use of the library from Ada83 and Ada95."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce Ada wrappers to enable the use of the library from Ada83 and Ada95. ",
+        "It shall provide best practices within the Software User Manual to produce Ada wrappers to enable the use of the library from Ada83 and Ada95."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce Ada wrappers to enable the use of the library from Ada83 and Ada95. ",
+        "It shall provide best practices within the Software User Manual to produce Ada wrappers to enable the use of the library from Ada83 and Ada95. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce Ada wrappers to enable the use of the library from Ada83 and Ada95. ",
+        "It shall provide best practices within the Software User Manual to produce Ada wrappers to enable the use of the library of Ada83 and Ada95."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce C-MEX function wrappers, to enable the use of the Basic Library in Matlab and Simulink Matlab function blocks. ",
+        "It shall provide best practices within the Software User Manual to produce C-MEX function wrappers, to enable the use of the Basic Library in Matlab and Simulink Matlab function blocks."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce C-MEX function wrappers, to enable the use of the Basic Library in Matlab and Simulink Matlab function blocks. ",
+        "It shall provide best practices in the Software User Manual to produce C-MEX function wrappers to enable the use of the Basic Library in Matlab and Simulink Matlab function blocks. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce C-MEX function wrappers, to enable the use of the Basic Library in Matlab and Simulink Matlab function blocks. ",
+        "It shall provide best practices in the Software User Manual to produce C-MEX function wrappers to enable the use of the Basic Library in Matlab and Simulink Matlab function blocks."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce C-MEX function wrappers, to enable the use of the Basic Library in Matlab and Simulink Matlab function blocks. ",
+        "It shall provide best practices within the Software User Manual to produce C-MEX function wrappers to enable the use of the Basic Library in Matlab and Simulink Matlab function blocks. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce C-MEX function wrappers, to enable the use of the Basic Library in Matlab and Simulink Matlab function blocks. ",
+        "The Basic Library shall provide best practices in the Software User Manual to produce C-MEX function wrappers to enable the use of the Basic Library in Matlab and Simulink Matlab function blocks."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce C-MEX function wrappers, to enable the use of the Basic Library in Matlab and Simulink Matlab function blocks. ",
+        "It shall provide best practices within the Software User Manual to produce C-MEX function wrappers to enable the use of the Basic Library in Matlab and Simulink Matlab function blocks."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce C-MEX function wrappers, to enable the use of the Basic Library in Matlab and Simulink Matlab function blocks. ",
+        "The Basic Library shall provide best practices within the Software User Manual to produce C-MEX function wrappers to enable the use of the Basic Library in Matlab and Simulink Matlab function blocks."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce C-MEX function wrappers, to enable the use of the Basic Library in Matlab and Simulink Matlab function blocks. ",
+        "It shall provide best practices within the Software User Manual to produce C-MEX function wrappers, to enable the use of the Basic Library in Matlab and Simulink Matlab function blocks. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce S-function wrappers,to enable the use of the Basic Library in Simulink. ",
+        "The Basic Library shall provide best practices within the Software User Manual to produce S-function wrappers to enable the use of the Basic Library in Simulink. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce S-function wrappers,to enable the use of the Basic Library in Simulink. ",
+        "The Basic Library shall provide best practices in the Software User Manual to produce S-function wrappers to enable the use of the Basic Library in Simulink. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce S-function wrappers,to enable the use of the Basic Library in Simulink. ",
+        "It shall provide best practices in the Software User Manual to produce S-function wrappers to enable the use of the Basic Library in Simulink."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce S-function wrappers,to enable the use of the Basic Library in Simulink. ",
+        "The Basic Library shall provide best practices in the Software User Manual to produce S-function wrappers to enable the use of the Basic Library in Simulink."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce S-function wrappers,to enable the use of the Basic Library in Simulink. ",
+        "It shall provide best practices within the Software User Manual to produce S-function wrappers to enable the use of the Basic Library in Simulink."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce S-function wrappers,to enable the use of the Basic Library in Simulink. ",
+        "The Basic Library shall provide best practices within the Software User Manual to produce S-function wrappers to enable the use of the Basic Library in Simulink."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce S-function wrappers,to enable the use of the Basic Library in Simulink. ",
+        "It shall provide best practices in the Software User Manual to produce S-function wrappers to enable the use of the Basic Library in Simulink. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce S-function wrappers,to enable the use of the Basic Library in Simulink. ",
+        "It shall provide best practices within the Software User Manual to produce S-function wrappers to enable the use of the Basic Library in Simulink. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide best practices within the Software User Manual to produce S-function wrappers,to enable the use of the Basic Library in Simulink. ",
+        "The Basic Library shall provide best practices within the Software User Manual to produce S-function wrappers, to enable the use of the Basic Library in Simulink."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall run on x86-64 and SPARC V8 processor architectures. ",
+        "The basic library shall run on x86-64 and SPARC V8 processor architectures."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall run on x86-64 and SPARC V8 processor architectures. ",
+        "The Basic Library shall run on x86-64 and SPARC V8 processor architectures."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall run on x86-64 and SPARC V8 processor architectures. ",
+        "The Basic Library will run on x86-64 and SPARC V8 processor architectures."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall run on x86-64 and SPARC V8 processor architectures. ",
+        "The Basic Library shall run on x86-64 and SPARC V8 processors."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall contribute less than 100kB to the size of the final On-Board Software executable. ",
+        "The basic library shall contribute less than 100kB to the size of the final On-Board Software executable."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall contribute less than 100kB to the size of the final On-Board Software executable. ",
+        "The Basic Library shall contribute less than 100kB to the size of the final on-board software executable."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall contribute less than 100kB to the size of the final On-Board Software executable. ",
+        "The Basic Library shall contribute less than 100kB to the size of the final On-Board Software executable."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall contribute less than 100kB to the size of the final On-Board Software executable. ",
+        "The Basic Library shall contribute less than 100kB to the size of the final On Board Software executable."
+    ],
+    [
+        "PARA",
+        "For the Basic Library it shall be selectable for which processor architecture it will be compiled. ",
+        "The basic library shall be selectable for which processor architecture it is compiled."
+    ],
+    [
+        "PARA",
+        "For the Basic Library it shall be selectable for which processor architecture it will be compiled. ",
+        "For the Basic Library it shall be selectable for which processor architecture it will be compiled."
+    ],
+    [
+        "PARA",
+        "For the Basic Library it shall be selectable for which processor architecture it will be compiled. ",
+        "The basic library shall be selectable for which processor architecture it will be compiled."
+    ],
+    [
+        "PARA",
+        "For the Basic Library it shall be selectable for which processor architecture it will be compiled. ",
+        "For the basic library it shall be selectable for which processor architecture it will be compiled."
+    ],
+    [
+        "PARA",
+        "For the Basic Library it shall be selectable for which processor architecture it will be compiled. ",
+        "The basic library shall be selected for which processor architecture it will be compiled."
+    ],
+    [
+        "PARA",
+        "For the Basic Library it shall be selectable for which processor architecture it will be compiled. ",
+        "The basic library shall be selectable for which processor architecture it will be compiled. "
+    ],
+    [
+        "PARA",
+        "The Basic Library procedures shall be reentrant and thread-safe. ",
+        "The Basic Library Procedures shall be re-entry and thread-safe."
+    ],
+    [
+        "PARA",
+        "The Basic Library procedures shall be reentrant and thread-safe. ",
+        "The basic library procedures shall be reentrant and thread-safe. ''"
+    ],
+    [
+        "PARA",
+        "The Basic Library procedures shall be reentrant and thread-safe. ",
+        "The procedures of the Basic Library shall be reentrant and thread-safe."
+    ],
+    [
+        "PARA",
+        "The Basic Library procedures shall be reentrant and thread-safe. ",
+        "The basic library procedures shall be reentrant and thread-safe."
+    ],
+    [
+        "PARA",
+        "The Basic Library procedures shall be reentrant and thread-safe. ",
+        "The Basic Library procedures shall be reentrant and thread-safe."
+    ],
+    [
+        "PARA",
+        "The Basic Library procedures shall be reentrant and thread-safe. ",
+        "The Basic Library procedures shall be re-entrant and thread-safe."
+    ],
+    [
+        "PARA",
+        "The Basic Library procedures shall be reentrant and thread-safe. ",
+        "The Basic Library procedures shall be reentrant and thread-safe. ''"
+    ],
+    [
+        "PARA",
+        "The Basic Library design shall define the behavior of the procedures in a tabular format, presenting the parameter domain decomposition and the corresponding output. ",
+        "The library design shall define the behavior of the procedures in a tabular format presenting the parameter domain decomposition and corresponding output. c"
+    ],
+    [
+        "PARA",
+        "The Basic Library design shall define the behavior of the procedures in a tabular format, presenting the parameter domain decomposition and the corresponding output. ",
+        "The library design shall define the behavior of the procedures in a tabular format presenting the parameter domain decomposition and corresponding output. b"
+    ],
+    [
+        "PARA",
+        "The Basic Library design shall define the behavior of the procedures in a tabular format, presenting the parameter domain decomposition and the corresponding output. ",
+        "The Basic Library design shall define the behavior of the procedures in a tabular format presenting the parameter domain decomposition and corresponding output."
+    ],
+    [
+        "PARA",
+        "The Basic Library design shall define the behavior of the procedures in a tabular format, presenting the parameter domain decomposition and the corresponding output. ",
+        "The Basic Library design shall define the behavior of the procedures in a tabular format presenting the parameter domain decomposition and the corresponding output."
+    ],
+    [
+        "PARA",
+        "The Basic Library design shall define the behavior of the procedures in a tabular format, presenting the parameter domain decomposition and the corresponding output. ",
+        "The library design shall define the behavior of the procedures in a tabular format presenting the parameter domain decomposition and corresponding output. -"
+    ],
+    [
+        "PARA",
+        "The Basic Library design shall define the behavior of the procedures in a tabular format, presenting the parameter domain decomposition and the corresponding output. ",
+        "The library design shall define the behavior of the procedures in a tabular format presenting the parameter domain decomposition and the output."
+    ],
+    [
+        "PARA",
+        "The Basic Library design shall define the behavior of the procedures in a tabular format, presenting the parameter domain decomposition and the corresponding output. ",
+        "The library design shall define the behavior of the procedures in a tabular format presenting the parameter domain decomposition and corresponding output."
+    ],
+    [
+        "PARA",
+        "The Basic Library design shall define the behavior of the procedures in a tabular format, presenting the parameter domain decomposition and the corresponding output. ",
+        "The library design shall define the behavior of the procedures in a tabular format presenting the parameter domain decomposition and corresponding output. "
+    ],
+    [
+        "PARA",
+        "The Basic Library design shall define the behavior of the procedures in a tabular format, presenting the parameter domain decomposition and the corresponding output. ",
+        "The basic library design shall define the behavior of the procedures in a tabular format presenting the parameter domain decomposition and the corresponding output."
+    ],
+    [
+        "PARA",
+        "The Basic Library design shall justify every modification to be carried out on the reused library.",
+        "The basic library design shall justify every modification carried out on the reused library."
+    ],
+    [
+        "PARA",
+        "The Basic Library design shall justify every modification to be carried out on the reused library.",
+        "Basic Library design shall justify every modification carried out on the reused library."
+    ],
+    [
+        "PARA",
+        "The Basic Library design shall justify every modification to be carried out on the reused library.",
+        "The design of the basic library shall justify every modification to be carried out on the reused library."
+    ],
+    [
+        "PARA",
+        "The Basic Library design shall justify every modification to be carried out on the reused library.",
+        "The basic library design shall justify each modification to be carried out on the reused library."
+    ],
+    [
+        "PARA",
+        "The Basic Library design shall justify every modification to be carried out on the reused library.",
+        "The design of the basic library shall justify every modification to be carried out on the reused library"
+    ],
+    [
+        "PARA",
+        "The Basic Library design shall justify every modification to be carried out on the reused library.",
+        "Basic Library design shall justify every modification to be carried out on the reused library."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be implemented in ISO C99. ",
+        "The bibliographical base shall be implemented in ISO C99."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be implemented in ISO C99. ",
+        "The basic library shall be implemented in ISO C99. -"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be implemented in ISO C99. ",
+        "The Basic Library shall be implemented in ISO C99."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be implemented in ISO C99. ",
+        "The Basic Library shall be implemented in ISO C99.."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be implemented in ISO C99. ",
+        "The Basic Library shall be implemented in ISO C99. -"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be implemented in ISO C99. ",
+        "The basic library shall be implemented in ISO C99."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compliant to the math.h definitions as per ISO C99 standard [RD03].",
+        "The Basic Library shall be compliant with the math.h definitions as per ISO C99 standard [RD03]."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compliant to the math.h definitions as per ISO C99 standard [RD03].",
+        "The Basic Library shall be compliant with the definitions of math.h as per ISO C99 standard [RD03]"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compliant to the math.h definitions as per ISO C99 standard [RD03].",
+        "The Basic Library shall be compliant with the definitions of math.h as per ISO C99 standard [RD03]."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compliant to the math.h definitions as per ISO C99 standard [RD03].",
+        "The basic library shall comply with the math.h definitions as per ISO C99 standard [RD03]."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compliant to the math.h definitions as per ISO C99 standard [RD03].",
+        "The standard Basic Library shall comply with the math.h definitions as per ISO C99 standard RD03."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compliant to the math.h definitions as per ISO C99 standard [RD03].",
+        "The basic library shall be compliant with the math.h definitions as per ISO C99 standard [RD03]."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compliant to the math.h definitions as per ISO C99 standard [RD03].",
+        "The Basic Library shall comply with the math.h definitions as per ISO C99 standard [RD03]."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not provide error handling with the errnoglobal variable.",
+        "The Basic Library shall not provide error handling with the variable errnoglobal."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not provide error handling with the errnoglobal variable.",
+        "The Basic Library shall not provide error handling with the variable errnoglobal.."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not provide error handling with the errnoglobal variable.",
+        "The basic library shall not provide error handling with the variable errnoglobal."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not provide error handling with the errnoglobal variable.",
+        "It shall not provide error handling with the errnoglobal variable."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compileable with GNU C Compiler version 4.2.1 with Binutils version 2.18. ",
+        "The Basic Library shall be compilable with GNU C compiler version 4.2.1 with Binutils version 2.18."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compileable with GNU C Compiler version 4.2.1 with Binutils version 2.18. ",
+        "The Basic Library shall be compileable with the GNU C compiler version 4.2.1 with Binutils version 2.18."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compileable with GNU C Compiler version 4.2.1 with Binutils version 2.18. ",
+        "The Basic Library shall be compileable with GNU C compiler version 4.2.1 with Binutils version 2.18."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compatible to Real-Time Executive for Multiprocessor Systems Operating System version 4.8 distributed by Edisoft. ",
+        "The Basic Library shall be compatible with Real-Time Executive for Multiprocessor Systems Operating System version 4.8 distributed by Edisoft. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compatible to Real-Time Executive for Multiprocessor Systems Operating System version 4.8 distributed by Edisoft. ",
+        "The Basic Library shall be compatible with Real-Time Executive for Multiprocessor Systems Operating System 4.8 distributed by Edisoft."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compatible to Real-Time Executive for Multiprocessor Systems Operating System version 4.8 distributed by Edisoft. ",
+        "The basic library shall be compatible with Real-Time Executive for Multiprocessor Systems Operating System version 4.8 distributed by Edisoft."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compatible to Real-Time Executive for Multiprocessor Systems Operating System version 4.8 distributed by Edisoft. ",
+        "The Basic Library shall be compatible with the Real-Time Executive for Multiprocessor Systems Operating System version 4.8 distributed by Edisoft."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compatible to Real-Time Executive for Multiprocessor Systems Operating System version 4.8 distributed by Edisoft. ",
+        "The Basic Library shall be compatible with Real-Time Executive for Multiprocessor Systems operating system version 4.8 distributed by Edisoft. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compatible to Real-Time Executive for Multiprocessor Systems Operating System version 4.8 distributed by Edisoft. ",
+        "The Basic Library shall be compatible with Real-Time Executive for Multiprocessor Systems operating system version 4.8 distributed by Edisoft."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compatible to Real-Time Executive for Multiprocessor Systems Operating System version 4.8 distributed by Edisoft. ",
+        "The Basic Library shall be compatible with the Real-Time Executive for Multiprocessor Systems Operating System version 4.8 distributed by Edisoft. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be compatible to Real-Time Executive for Multiprocessor Systems Operating System version 4.8 distributed by Edisoft. ",
+        "The Basic Library shall be compatible with Real-Time Executive for Multiprocessor Systems Operating System version 4.8 distributed by Edisoft."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. ",
+        "It shall not use built-in Floating Point Unit ) functions for elementary math function evaluation."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. ",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. ",
+        "The Basic Library shall not use Floating Point Unit ) built-in functions for elementary math function evaluation."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. ",
+        "The Basic Library shall not use built-in Floating Point Unit ) functions for elementary math function evaluation."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. ",
+        "It shall not use built-in Floating Point Unit functions for elementary math function evaluation. ''"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. ",
+        "It shall not use built-in Floating Point Unit functions for elementary math function evaluation."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. ",
+        "It shall not use Floating Point Unit (built-in functions) for elementary math function evaluation."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. ",
+        "It shall not use built-in Floating Point Unit ) functions for elementary math function evaluation. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not use Floating Point Unit )builtin functions for elementary math function evaluation. ",
+        "The Basic Library shall not use Floating Point Unit )built-in functions for elementary math function evaluation."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation foralgorithm optimization. ",
+        "The Basic Library shall not rely on the presence of Fused Multiply-Add (Fused Multiply-Add) operation for algorithm optimization."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation foralgorithm optimization. ",
+        "It shall not rely on the presence of Fused Multiply Add (Fused Multiply Add) operation for algorithm optimization."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation foralgorithm optimization. ",
+        "It shall not rely on the presence of Fused Multiply-Add (Fused Multiply-Add) for algorithm optimization."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation foralgorithm optimization. ",
+        "It shall not rely on the presence of Fused Multiply-Add (Fused Multiply-Add) operation for algorithm optimization. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation foralgorithm optimization. ",
+        "The Basic Library shall not rely on the presence of the Fused Multiply Add (Fused Multiply Add) operation for algorithm optimization."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation foralgorithm optimization. ",
+        "It shall not rely on the presence of Fused Multiply-Add (Fused Multiply-Add) operation for algorithm optimization."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normalnumbers.",
+        "The Basic Library shall be able to convert to a modus that mirrors the behaviour of the Floating Point Unit regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normal numbers."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normalnumbers.",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normal numbers."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normalnumbers.",
+        "The Basic Library shall be able to convert to a modus that mirrors the behaviour of the floating point unit regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normalnumbers."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normalnumbers.",
+        "The Basic Library shall be able to convert to a modus that mirrors the behaviour of the floating point unit regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normal numbers."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normalnumbers.",
+        "It shall be possible for the Basic Library to convert to a modus that mirrors the behaviour of the floating point unit regarding subnormal numbers in case the floating point unit does not handle subnormal numbers the same as normalnumbers"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normalnumbers.",
+        "It shall be possible for the Basic Library to convert to a modus that mirrors the behaviour of the floating point unit regarding subnormal numbers in case the floating point unit does not handle subnormal numbers the same as normalnumbers."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normalnumbers.",
+        "It shall be possible for the Basic Library to convert to a modus that mirrors the behaviour of the floating point unit regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normal numbers."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normalnumbers.",
+        "It shall be possible for the Basic Library to convert to a modus that mirrors the behaviour of the floating point unit regarding subnormal numbers in case the floating point unit does not handle subnormal numbers the same as normal numbers."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normalnumbers.",
+        "The Basic Library shall be able to convert to a modus that mirrors the behaviour of the floating point unit regarding subnormal numbers in case the floating point unit does not handle subnormal numbers the same as normalnumbers."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be able to convert to a modus that mirrors the Floating Point Unit’s behaviour regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normalnumbers.",
+        "The Basic Library shall be able to convert to a modus that mirrors the behaviour of the floating point unit regarding subnormal numbers in case the Floating Point Unit does not handle subnormal numbers the same as normalnumbers"
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. ",
+        "It shall comply with the mandatory and required rules depicted in MISRA C:2012 [RD06]."
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. ",
+        "It shall be compliant with the mandatory and required rules described in MISRA C:2012 [RD06]."
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. ",
+        "It shall be compliant with the mandatory and required rules depicted in MISRA C:2012 [RD06]."
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. ",
+        "The Basic Library source shall be compliant with the mandatory and required rules described in MISRA C:2012 [RD06]. "
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. ",
+        "It shall comply with the mandatory and required rules described in MISRA C:2012 [RD06]."
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. ",
+        "The Basic Library source shall be compliant with the mandatory and required rules described in MISRA C:2012 [RD06]."
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. ",
+        "The Basic Library source shall comply with the mandatory and required rules depicted in MISRA C:2012 [RD06]."
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. ",
+        "It shall be compliant with the mandatory and required rules depicted in MISRA C:2012 [RD06]. "
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be compliant to the mandatory and required rules depicted in MISRA C:2012 [RD06]. ",
+        "The Basic Library source shall comply with the mandatory and required rules depicted in MISRA C:2012 [RD06]. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide a justification for not respected required rules in MISRA C:2012[RD06]. ",
+        "The Basic Library shall provide a justification for not respecting required rules in MISRA C:2012[RD06]."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide a justification for not respected required rules in MISRA C:2012[RD06]. ",
+        "The Basic Library shall provide a justification for not respecting required rules in MISRA C: 2012[RD06]."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall provide a justification for not respected required rules in MISRA C:2012[RD06]. ",
+        "The basic library shall provide a justification for not respecting required rules in MISRA C:2012[RD06]."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall comply to the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. ",
+        "The Basic Library shall comply with the mandatory metrics provided by the European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall comply to the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. ",
+        "The Basic Library shall comply with the mandatory metrics provided by European Cooperation for Space Standardization HB-Q-80 [RD05] with their proposed targets. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall comply to the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. ",
+        "In its proposed targets the Basic Library shall comply with the mandatory metrics provided by the European Cooperation for Space Standardization-HB-Q-80 [RD05]."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall comply to the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. ",
+        "In its proposed targets the Basic Library shall comply with the mandatory metrics provided by the European Cooperation for Space Standardization HB-Q-80 [RD05]."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall comply to the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. ",
+        "In its proposed targets the Basic Library shall comply with the mandatory metrics provided by European Cooperation for Space Standardization HB-Q-80 [RD05]."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall comply to the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. ",
+        "The basic library shall comply with the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall comply to the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. ",
+        "The Basic Library shall comply with the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall comply to the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. ",
+        "The Basic Library shall comply with the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall comply to the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. ",
+        "In its proposed targets the Basic Library shall comply with the mandatory metrics provided by European Cooperation for Space Standardization HB - Q - 80 [RD05]."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall comply to the mandatory metrics provided by European Cooperation for Space Standardization-HB-Q-80 [RD05] with their proposed targets. ",
+        "In its proposed targets the Basic Library shall comply with the mandatory metrics provided by European Cooperation for Space Standardization - HB-Q-80 [RD05]."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). ",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). ",
+        "The Basic Library shall return the exact same value when a procedure is called multiple times with the same argument(s)."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). ",
+        "It shall return the exact same value whenever a procedure is called with the same argument multiple times."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). ",
+        "It shall return the exact same value whenever a procedure is called with the same argument(s) more than once."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). ",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument. ''"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). ",
+        "It shall return the exact same value whenever a procedure is called with the same argument(s) multiple times."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). ",
+        "The Basic Library shall return the exact same value whenever a procedure is called with the same argument(s) multiple times."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). ",
+        "It shall return the exact same value whenever a procedure is called with the same argument multiple times. ''"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s). ",
+        "The Basic Library shall return the exact same value whenever a procedure is called multiple times with the same argument(s)."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop. ",
+        "The Basic Library shall never cause CPU or floating point unit to stop."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop. ",
+        "In the Basic Library no CPU or floating point unit shall stop."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop. ",
+        "The Basic Library shall never cause a CPU or floating point unit to stop."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop. ",
+        "In the Basic Library the CPU or Floating Point Unit shall not stop."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop. ",
+        "In the Basic Library no CPU or floating point unit shall stop. ''"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop. ",
+        "The Basic Library shall never cause any CPU or floating point unit to stop."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop. ",
+        "The Basic Library shall never cause the CPU or floating point unit to stop."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall never cause either CPU or Floating Point Unit to stop. ",
+        "In the Basic Library no CPU or floating point unit shall be stopped."
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be delivered as a collection of C source files.",
+        "The source of the Basic Library shall be delivered as a collection of C source files."
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be delivered as a collection of C source files.",
+        "The main source of the Basic Library shall be delivered as a collection of C source files."
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be delivered as a collection of C source files.",
+        "The source of the Basic Library shall be delivered as a collection of C source files. "
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be delivered as a collection of C source files.",
+        "The source of the Basic Library shall be delivered as a collection of C source file."
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be delivered as a collection of C source files.",
+        "The Basic Library source shall be delivered as a collection of C source files. ''"
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be delivered as a collection of C source files.",
+        "The Basic Library source shall be provided as a collection of C source files."
+    ],
+    [
+        "PARA",
+        "The Basic Library source shall be delivered as a collection of C source files.",
+        "The Basic Library source shall be delivered as a collection of source files in C."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be delivered with a GNU Make makefile and associated scripts to confi-gure, build and install the Basic Library. ",
+        "The Basic Library shall be delivered with a GNU Make makefile and associated scripts to configure, build and install the Basic Library."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be delivered with a GNU Make makefile and associated scripts to confi-gure, build and install the Basic Library. ",
+        "The Basic Library shall be delivered with a GNU Make Makefile and associated scripts to configure, build and install the Basic Library."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be delivered with a GNU Make makefile and associated scripts to confi-gure, build and install the Basic Library. ",
+        "The Basic Library shall be supplied with a GNU Make makefile and associated scripts to configure, build and install the Basic Library. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be delivered with a GNU Make makefile and associated scripts to confi-gure, build and install the Basic Library. ",
+        "The Basic Library shall be delivered with a GNU Make Makefile and associated scripts to configure, build and install the Basic Library. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be delivered with a GNU Make makefile and associated scripts to confi-gure, build and install the Basic Library. ",
+        "The Basic Library shall be delivered with a GNU Make makefile and associated scripts to confi-gure, build and install the Basic Library."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall be delivered with a GNU Make makefile and associated scripts to confi-gure, build and install the Basic Library. ",
+        "The Basic Library shall be delivered with a GNU Make makefile and associated scripts to configure, build and install the Basic Library. "
+    ],
+    [
+        "PARA",
+        "Each modified or newly created file, be it source or documentation, of the Basic Library shall contain a header including the European Space Agency copyright notice: 20xx",
+        "Each modified or newly created file of the Basic Library, whether source or documentation, shall contain a header including the European Space Agency copyright notice: 20xx"
+    ],
+    [
+        "PARA",
+        "Each modified or newly created file, be it source or documentation, of the Basic Library shall contain a header including the European Space Agency copyright notice: 20xx",
+        "Each modified or newly created file of the Basic Library, whether source or documentation, shall contain a header including the European Space Agency copyright notice: 20xx."
+    ],
+    [
+        "PARA",
+        "Each modified or newly created file, be it source or documentation, of the Basic Library shall contain a header including the European Space Agency copyright notice: 20xx",
+        "Each modified or newly created file, whether source or documentation, of the Basic Library shall contain a header including the European Space Agency copyright notice: 20xx."
+    ],
+    [
+        "PARA",
+        "Each modified or newly created file, be it source or documentation, of the Basic Library shall contain a header including the European Space Agency copyright notice: 20xx",
+        "Each modified or newly created file, whether source or documentation, of the Basic Library shall contain a header including the European Space Agency copyright notice: 20xx"
+    ],
+    [
+        "PARA",
+        "Each modified or newly created file, be it source or documentation, of the Basic Library shall contain a header including the European Space Agency copyright notice: 20xx",
+        "Each modified or newly created file of the Basic Library, be it source or documentation, shall contain a header including the European Space Agency copyright notice: 20xx"
+    ],
+    [
+        "PARA",
+        "Each modified or newly created file, be it source or documentation, of the Basic Library shall contain a header including the European Space Agency copyright notice: 20xx",
+        "Each modified or newly created file of the Basic Library shall contain a header including the European Space Agency copyright notice: 20xx."
+    ],
+    [
+        "PARA",
+        "Each modified or newly created file, be it source or documentation, of the Basic Library shall contain a header including the European Space Agency copyright notice: 20xx",
+        "Each modified or newly created file of the Basic Library, whether source or documentation shall contain a header including the European Space Agency copyright notice: 20xx"
+    ],
+    [
+        "PARA",
+        "Each modified or newly created file, be it source or documentation, of the Basic Library shall contain a header including the European Space Agency copyright notice: 20xx",
+        "Each modified or newly created file of the Basic Library, be it source or documentation, shall contain a header including the European Space Agency copyright notice: 20xx."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall use 32bit and 64bit IEEE 754 [RD01] floating-point datums as well as 32bit integers to exchange data. ",
+        "The Basic Library shall use 32bit and 64bit IEEE 754 [RD01] floating point data as well as 32bit integers to exchange data."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall use 32bit and 64bit IEEE 754 [RD01] floating-point datums as well as 32bit integers to exchange data. ",
+        "The Basic Library shall use 32bit and 64bit IEEE 754 [RD01] floating point datums as well as 32bit integers to exchange data."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall use 32bit and 64bit IEEE 754 [RD01] floating-point datums as well as 32bit integers to exchange data. ",
+        "The Basic Library shall use 32bit and 64bit IEEE 754 [RD01] floating point data as well as 32bit integers to exchange data. ''"
+    ],
+    [
+        "PARA",
+        "The Basic Library shall use 32bit and 64bit IEEE 754 [RD01] floating-point datums as well as 32bit integers to exchange data. ",
+        "The Basic Library shall use 32bit and 64bit IEEE 754 [RD01] floating-point data as well as 32bit integers to exchange data. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall use 32bit and 64bit IEEE 754 [RD01] floating-point datums as well as 32bit integers to exchange data. ",
+        "In order to exchange data the Basic Library shall use 32bit and 64bit IEEE 754 [RD01] floating-point data as well 32bit integers."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall use 32bit and 64bit IEEE 754 [RD01] floating-point datums as well as 32bit integers to exchange data. ",
+        "The Basic Library shall use 32bit and 64bit IEEE 754 [RD01] floating point datums as well as 32bit integers to exchange data. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall use 32bit and 64bit IEEE 754 [RD01] floating-point datums as well as 32bit integers to exchange data. ",
+        "The basic library shall use 32bit and 64bit IEEE 754 [RD01] floating-point data as well as 32bit integers to exchange data. "
+    ],
+    [
+        "PARA",
+        "The Basic Library shall use 32bit and 64bit IEEE 754 [RD01] floating-point datums as well as 32bit integers to exchange data. ",
+        "The Basic Library shall use 32bit and 64bit IEEE 754 [RD01] floating-point data as well as 32bit integers to exchange data."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall use 32bit and 64bit IEEE 754 [RD01] floating-point datums as well as 32bit integers to exchange data. ",
+        "The Basic Library shall use 32bit and 64bit IEEE 754 [RD01] floating-point datums as well as 32bit integers to exchange data."
+    ],
+    [
+        "PARA",
+        "The Basic Library shall use 32bit and 64bit IEEE 754 [RD01] floating-point datums as well as 32bit integers to exchange data. ",
+        "The basic library shall use 32bit and 64bit IEEE 754 [RD01] floating-point data as well as 32bit integers to exchange data."
+    ]
+]

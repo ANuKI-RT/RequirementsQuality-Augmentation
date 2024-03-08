@@ -1,0 +1,1197 @@
+[
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be implemented in ISO C99 \/ C++11.",
+        "Basic mathematical library test suite shall be implemented in ISO C99 \/ C++ 11."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be implemented in ISO C99 \/ C++11.",
+        "The basic mathematical library test suite shall be implemented in ISO C99 \/ C++11"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be implemented in ISO C99 \/ C++11.",
+        "The basic mathematical library test suite shall be implemented in ISO C99 \/ C++11."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be implemented in ISO C99 \/ C++11.",
+        "The basic mathematical library test suite shall be implemented in ISO C99 \/ C++ 11."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be reusable and shall not make use of commercial third party software.",
+        "Basic Mathematical Library Test Suite shall be reusable and shall not use commercial third party software."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be reusable and shall not make use of commercial third party software.",
+        "Basic mathematical library test suite shall be reusable and shall not make use of commercial third party software"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be reusable and shall not make use of commercial third party software.",
+        "Basic mathematical Library Test Suite shall be reusable and shall not use commercial third party software."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be reusable and shall not make use of commercial third party software.",
+        "The basic mathematical library test suite shall be reusable and shall not use commercial third party software."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be reusable and shall not make use of commercial third party software.",
+        "Basic mathematical library test suite shall be reusable and shall not use commercial third party software."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be reusable and shall not make use of commercial third party software.",
+        "Basic mathematical library test suite shall be reusable and shall not make use of commercial third party software. b"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall work on both host platforms: on Windows and Linux.",
+        "The basic mathematical library test suite shall work on both host platforms: on Windows and Linux."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall work on both host platforms: on Windows and Linux.",
+        "The basic mathematical library test suite shall work on both host platforms: on Windows and on Linux."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall work on both host platforms: on Windows and Linux.",
+        "The basic mathematical library test suite shall work on both host platforms: on Windows and Linux. -"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall support tests for all functions and macros of Basic mathematical Library in single (32bit) and double (64bit) floating point precision.",
+        "Basic mathematical library test suite shall support tests for all functions and macros of the Basic mathematical library in single (32bit) and double (64bit) floating point precision."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall support tests for all functions and macros of Basic mathematical Library in single (32bit) and double (64bit) floating point precision.",
+        "Basic mathematical library test suite shall support tests for all functions and macros of Basic mathematical library in single (32 bit) and double (64 bit) floating point precision."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall support tests for all functions and macros of Basic mathematical Library in single (32bit) and double (64bit) floating point precision.",
+        "Basic mathematical library test suite shall support tests for all functions and macros of the Basic mathematical library in single (32bit) and double (64bit) floating point precision. "
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall support tests for all functions and macros of Basic mathematical Library in single (32bit) and double (64bit) floating point precision.",
+        "Basic mathematical library test suite shall support tests for all functions and macros of the Basic mathematical library in single (32bit) and double (64bit) floating point precisions."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be designed to work as a stand-alone application.",
+        "Basic mathematical library test suite shall be designed to work as a stand-alone program."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be designed to work as a stand-alone application.",
+        "Basic mathematical Library Test Suite shall be designed to work as a standalone application."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be designed to work as a stand-alone application.",
+        "Basic Mathematical Library Test Suite is designed to work as a stand-alone application."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be designed to work as a stand-alone application.",
+        "Basic mathematical library test suite shall be designed to work as a stand-alone application. b"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be designed to work as a stand-alone application.",
+        "Basic mathematical library test suite shall be designed to work as a standalone application."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be designed to work as a stand-alone application.",
+        "Basic mathematical library test suite shall be designed to work as a stand-alone app."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be designed to work as a stand-alone application.",
+        "The basic mathematical library test suite shall be designed to work as a stand-alone application."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be expand able, allowing the integration of new mathematical functions  by configuration means and dedicated code source files.",
+        "Basic mathematical library test suite shall be expandable allowing integration of new mathematical functions by configuration means and dedicated code source files."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be expand able, allowing the integration of new mathematical functions  by configuration means and dedicated code source files.",
+        "Basic mathematical library test suite shall be expandable allowing the integration of new mathematical functions by configuration means and dedicated code source files. b"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be expand able, allowing the integration of new mathematical functions  by configuration means and dedicated code source files.",
+        "Basic mathematical library test suite shall be expandable, allowing the integration of new mathematical functions by configuration means and dedicated code source files."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be expand able, allowing the integration of new mathematical functions  by configuration means and dedicated code source files.",
+        "Basic mathematical library test suite shall be expandable allowing the integration of new mathematical functions by configuration means and dedicated code source files."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be expand able, allowing the integration of new mathematical functions  by configuration means and dedicated code source files.",
+        "Basic mathematical library test suite shall be expandable allowing the integration of new mathematical functions through configuration means and dedicated code source files."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow user to sele ct one or more functions for running a test.",
+        "Basic mathematical library test suite shall allow user to select one or more functions for running a test."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow user to sele ct one or more functions for running a test.",
+        "Basic mathematical Library Test Suite shall allow user to select one or more functions for running a test."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow user to sele ct one or more functions for running a test.",
+        "Basic mathematical library test suite shall allow the user to select one or more functions for running a test."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow user to sele ct one or more functions for running a test.",
+        "Basic mathematical Library Test Suite shall allow the user to select one or more functions for running a test."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the user to select one of the predefined test types before a test run.",
+        "Basic mathematical library test suite shall allow the user to select one of the predefined test types before a test run. ''"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the user to select one of the predefined test types before a test run.",
+        "Basic mathematical Library Test Suite shall allow the user to select one of the predefined test types before a test run. "
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the user to select one of the predefined test types before a test run.",
+        "Basic mathematical Library Test Suite shall allow the user to select one of the predefined test types before a test run. ''"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the user to select one of the predefined test types before a test run.",
+        "The basic mathematical library test suite shall allow the user to select one of the predefined test types before a test run."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the user to select one of the predefined test types before a test run.",
+        "Basic mathematical library test suite shall permit the user to select one of the predefined test types before a test run."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the user to select one of the predefined test types before a test run.",
+        "Basic mathematical Library Test Suite shall permit the user to select one of the predefined test types before a test run."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the user to select one of the predefined test types before a test run.",
+        "Basic mathematical Library Test Suite shall permit the user to select one of the predefined test types before a test run. ''"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the user to select one of the configured targets before a test run.",
+        "Basic mathematical library test suite shall permit the user to select one of the configured targets before a test run."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the user to select one of the configured targets before a test run.",
+        "Basic mathematical library test suite shall allow the user to select one of the configured targets before a test run. ''"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the user to select one of the configured targets before a test run.",
+        "Basic mathematical Library Test Suite shall allow the user to select one of the configured targets before a test run. ''"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the user to select one of the configured targets before a test run.",
+        "Basic mathematical Library Test Suite shall permit the user to select one of the configured targets before a test run."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the user to select one of the configured targets before a test run.",
+        "The basic mathematical library test suite shall allow the user to select one of the configured targets before a test run."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the user to select one of the configured targets before a test run.",
+        "Basic mathematical library test suite shall allow the user to select one of the configured targets before a test run. b"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall support the automatically build of the target-native binaries on the host machine for the functions selected for test, based on a user adapted build script for specific target.",
+        "Basic mathematical Library Test Suite shall support the automatic build of target-native binaries on the host machine for the functions selected for test based on a user-adapted build script for specific target. "
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall support the automatically build of the target-native binaries on the host machine for the functions selected for test, based on a user adapted build script for specific target.",
+        "Basic mathematical library test suite shall support the automatic build of target-native binaries on the host machine for the functions selected for test based on a user-adapted build script for specific target. "
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall support the automatically build of the target-native binaries on the host machine for the functions selected for test, based on a user adapted build script for specific target.",
+        "Basic mathematical Library Test Suite shall support the automatic build of target-native binaries on the host machine for the functions selected for test based on a user-adapted build script for specific target."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall support the automatically build of the target-native binaries on the host machine for the functions selected for test, based on a user adapted build script for specific target.",
+        "Basic mathematical library test suite shall support the automatic build of target-native binaries on the host machine for the functions selected for testing based on a user-adapted build script for specific target."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall support the automatically build of the target-native binaries on the host machine for the functions selected for test, based on a user adapted build script for specific target.",
+        "Basic mathematical library test suite shall support the automatic build of target-native binaries on the host machine for the functions selected for test based on a user-adapted build script for specific target."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall support the automatically build of the target-native binaries on the host machine for the functions selected for test, based on a user adapted build script for specific target.",
+        "Basic mathematical library test suite shall support the automatic build of target-native binaries on the host machine for the functions selected for testing based on a user-adapted build script for specific target. "
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall support the automatically build of the target-native binaries on the host machine for the functions selected for test, based on a user adapted build script for specific target.",
+        "Basic mathematical Library Test Suite shall support the automatic build of target-native binaries on the host machine for the functions selected for testing based on a user-adapted build script for specific target."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall support the automatically build of the target-native binaries on the host machine for the functions selected for test, based on a user adapted build script for specific target.",
+        "Basic mathematical Library Test Suite shall support the automatic build of target-native binaries on the host machine for the functions selected for testing based on a user-adapted build script for specific target. "
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall execute the test on host and target using GDB as a common interface.",
+        "The basic mathematical library test suite shall execute the test on host and target using GDB as a common interface."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall automatically export all results of the Test Suite Executable execution on a target into documents in order to provide the qualification evidence of the Basic mathematical Library.",
+        "All results of the execution of the Test Suite Executable execution on a target shall be automatically exported to documents in order to provide the qualification evidence of the Basic mathematical library."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall automatically export all results of the Test Suite Executable execution on a target into documents in order to provide the qualification evidence of the Basic mathematical Library.",
+        "All results of the execution of the Test Suite Executable execution on a target shall be automatically exported into documents in order to provide the qualification evidence of the Basic mathematical library."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall automatically export all results of the Test Suite Executable execution on a target into documents in order to provide the qualification evidence of the Basic mathematical Library.",
+        "The Basic mathematical library test suite shall automatically export all results of the Test Suite Executable execution on a target into documents in order to provide the qualification evidence of the Basic mathematical library."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall automatically export all results of the Test Suite Executable execution on a target into documents in order to provide the qualification evidence of the Basic mathematical Library.",
+        "All results of the execution of the Test Suite Executable execution on a target shall be automatically exported into documents in order to provide the qualification evidence of the Basic mathematical Library."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall automatically export all results of the Test Suite Executable execution on a target into documents in order to provide the qualification evidence of the Basic mathematical Library.",
+        "All results of the execution of the Test Suite Executable execution on a target shall be automatically exported into documents in order to provide the qualification evidence for the Basic mathematical library."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall automatically export all results of the Test Suite Executable execution on a target into documents in order to provide the qualification evidence of the Basic mathematical Library.",
+        "The Basic mathematical library Test Suite shall automatically export all results of the Test Suite Executable execution on a target into documents in order to provide the qualification evidence of the Basic mathematical library."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall not loose results from previous runs. Basic mathematical Library Test Suite shall archive the obtained test report along with platform information as a performed run results.",
+        "Basic mathematical library test suite shall not lose results from previous runs. Basic mathematical library test suite shall archive the obtained test report along with platform information as a result of the performed run"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall not loose results from previous runs. Basic mathematical Library Test Suite shall archive the obtained test report along with platform information as a performed run results.",
+        "Basic mathematical library test suite shall not lose results from previous runs. Basic mathematical library test suite shall archive the obtained test report along with platform information as a result of the performed runs"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the execution of functional unit tests. Remark:  Unit tests are written in order to verify tested function requirements, domain limits, corner cases, etc.",
+        "Basic mathematical Library Test Suite shall allow the execution of functional unit tests. Remark: Unit tests are written in order to verify tested function requirements, domain limits, corner cases etc. Unit tests are"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the execution of functional unit tests. Remark:  Unit tests are written in order to verify tested function requirements, domain limits, corner cases, etc.",
+        "Basic mathematical library test suite shall allow the execution of functional unit tests. Remark: Unit tests are written in order to verify tested function requirements, domain limits, corner cases, etc."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the execution of functional unit tests. Remark:  Unit tests are written in order to verify tested function requirements, domain limits, corner cases, etc.",
+        "Basic mathematic library test suite shall allow the execution of functional unit tests. Remark: Unit tests are written in order to verify tested function requirements, domain limits, corner cases"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the execution of functional unit tests. Remark:  Unit tests are written in order to verify tested function requirements, domain limits, corner cases, etc.",
+        "Basic mathematical Library Test Suite shall allow the execution of functional unit tests. Remark: Unit tests are written in order to verify tested function requirements, domain limits, corner cases, etc."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the execution of functional unit tests. Remark:  Unit tests are written in order to verify tested function requirements, domain limits, corner cases, etc.",
+        "Basic mathematic library test suite shall allow the execution of functional unit tests. Remark: Unit tests are written in order to verify tested function requirements, domain limits, corner cases etc."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the execution of functional unit tests. Remark:  Unit tests are written in order to verify tested function requirements, domain limits, corner cases, etc.",
+        "Basic mathematical library test suite shall allow the execution of functional unit tests. Remark: Unit tests are written in order to verify tested function requirements, domain limits, corner cases etc."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the execution of functional unit tests. Remark:  Unit tests are written in order to verify tested function requirements, domain limits, corner cases, etc.",
+        "Basic mathematical Library Test Suite shall allow the execution of functional unit tests. Remark: Unit tests are written in order to verify tested function requirements, domain limits, corner cases etc."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the execution of functional unit tests. Remark:  Unit tests are written in order to verify tested function requirements, domain limits, corner cases, etc.",
+        "Basic mathematical Library Test Suite shall permit the execution of functional unit tests. Remark: Unit tests are written in order to verify tested function requirements, domain limits, corner cases, etc."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the execution of functional unit tests. Remark:  Unit tests are written in order to verify tested function requirements, domain limits, corner cases, etc.",
+        "Basic mathematical library test suite shall allow the execution of functional unit tests. Remark: Unit tests are written in order to verify tested function requirements, domain limits, corner cases etc. Unit tests are"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow the execution of functional unit tests. Remark:  Unit tests are written in order to verify tested function requirements, domain limits, corner cases, etc.",
+        "Basic mathematical Library Test Suite shall allow the execution of functional unit tests. Remark: Unit tests are written in order to verify tested function requirements, domain limits, corner cases, etc. Re"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow tests that adjust the value of the functions parameters by sweeping the parameter values through a user defined range.",
+        "Basic mathematical library test suite shall allow tests to adjust the value of functions parameters by sweeping the parameter values through a user defined range."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow tests that adjust the value of the functions parameters by sweeping the parameter values through a user defined range.",
+        "Basic mathematical Library Test Suite shall allow tests that adjust the value of functions parameters by sweeping the parameter values through a user defined range."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow tests that adjust the value of the functions parameters by sweeping the parameter values through a user defined range.",
+        "Basic mathematical library test suite shall allow tests that adjust the value of functions parameters by sweeping the parameter values through a user defined range."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow tests that adjust the value of the functions parameters by sweeping the parameter values through a user defined range.",
+        "Basic mathematical library test suite shall allow tests that adjust the value of the functions parameters by sweeping the parameter values through a user defined range. ''"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow tests that adjust the value of the functions parameters by sweeping the parameter values through a user defined range.",
+        "Basic mathematical Library Test Suite shall allow tests that adjust the value of the functions parameters by sweeping the parameter values through a user defined range. ''"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow tests that adjust the value of the functions parameters by sweeping the parameter values through a user defined range.",
+        "Basic mathematical Library Test Suite shall allow tests that adjust the value of the functions parameters by sweeping the parameter values through a user defined range of values."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow tests that adjust the value of the functions parameters by sweeping the parameter values through a user defined range.",
+        "Basic mathematical library test suite shall allow tests that adjust the value of the functions parameters by sweeping the parameter values through a user defined range of values."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow tests that adjust the value of the functions parameters by sweeping the parameter values through a user defined range.",
+        "Basic mathematical library test suite shall allow tests that adjust the value of functions parameters by sweeping the parameter values through a user defined range. ''"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow tests that check mathematical properties of tested functions.",
+        "Basic mathematical library test suite shall allow tests that check the mathematical properties of tested functions."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow tests that check mathematical properties of tested functions.",
+        "Basic mathematical library test suite shall permit tests that check mathematical properties of tested functions."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow tests that check mathematical properties of tested functions.",
+        "Basic mathematical library test suite shall allow tests to check mathematical properties of tested functions."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow tests that check mathematical properties of tested functions.",
+        "The basic mathematical library test suite shall allow tests that check mathematical properties of tested functions."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow comparison of tests to help assessing numerical reproducibility of the results produced by the mathematical library, from one run to the next, either on the same or different machines for the same input data set.",
+        "Basic mathematical library tests shall allow comparison of tests to help assess numerical reproducibility of the results produced by mathematical library from one run to the next either on the same or different machines for the same input data."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow comparison of tests to help assessing numerical reproducibility of the results produced by the mathematical library, from one run to the next, either on the same or different machines for the same input data set.",
+        "Basic mathematical library tests shall allow comparison of tests to help assess numerical reproducibility of results produced by the mathematical library from one run to the next either on the same or different machines for the same input data set."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow comparison of tests to help assessing numerical reproducibility of the results produced by the mathematical library, from one run to the next, either on the same or different machines for the same input data set.",
+        "Basic mathematical library tests shall allow comparison of tests to help assess numerical reproducibility of the results produced by mathematical libraries from one run to the next either on the same or different machines for the same input data set."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow comparison of tests to help assessing numerical reproducibility of the results produced by the mathematical library, from one run to the next, either on the same or different machines for the same input data set.",
+        "Basic mathematical library tests shall allow comparison of tests to help assess numerical reproducibility of the results produced by mathematical library from one run to the next either on the same or different machines for the same input data"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow comparison of tests to help assessing numerical reproducibility of the results produced by the mathematical library, from one run to the next, either on the same or different machines for the same input data set.",
+        "Basic mathematical library tests shall allow comparison of tests to help assess numerical reproducibility of results produced by the mathematical library from one run to the next either on the same or different machines for the same input data"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow comparison of tests to help assessing numerical reproducibility of the results produced by the mathematical library, from one run to the next, either on the same or different machines for the same input data set.",
+        "Basic mathematical library tests shall allow comparison of tests to help assess numerical reproducibility of results produced by the mathematical library from one run to the next either on the same or different machines for the same input data."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow comparison of tests to help assessing numerical reproducibility of the results produced by the mathematical library, from one run to the next, either on the same or different machines for the same input data set.",
+        "Basic mathematical library tests shall allow comparison of tests to help assess numerical reproducibility of results produced by the mathematical library from one run to the next either on the same or different machines for the same input data set. "
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow comparison of tests to help assessing numerical reproducibility of the results produced by the mathematical library, from one run to the next, either on the same or different machines for the same input data set.",
+        "Basic mathematical library tests shall allow comparison of tests to help assess numerical reproducibility of the results produced by mathematical library from one run to the next either on the same or different machines for the same input data set."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow comparison of tests to help assessing numerical reproducibility of the results produced by the mathematical library, from one run to the next, either on the same or different machines for the same input data set.",
+        "Basic mathematical library test suite shall allow comparison of tests to help assess numerical reproducibility of the results produced by the mathematical library from one run to the next on the same or different machines for the same input data set."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow comparison of tests to help assessing numerical reproducibility of the results produced by the mathematical library, from one run to the next, either on the same or different machines for the same input data set.",
+        "Basic mathematical library tests shall allow comparison of tests to help assess numerical reproducibility of the results produced by mathematical library from one run to the next either on the same or different machines for the same input data set. "
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall provide execution time measurements for each tested function.",
+        "For each tested function the basic mathematical library test suite shall provide execution time measurements."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall provide execution time measurements for each tested function.",
+        "Basic mathematical Library Test Suite shall provide execution time measurements for each test function."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall provide execution time measurements for each tested function.",
+        "The basic mathematical library test suite shall provide execution time measurements for each tested function."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall provide execution time measurements for each tested function.",
+        "Basic mathematical library test suite shall provide execution time measurements for each test function."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow tests that check for accuracy (e.g. ULP error, absolute error and relative error).",
+        "Basic mathematical library test suite shall permit tests that check for accuracy (e.g. ULP error absolute error and relative error)."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow tests that check for accuracy (e.g. ULP error, absolute error and relative error).",
+        "Basic mathematical library test suite shall allow tests that check for accuracy (e.g. ULP error absolute error and relative error)."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow tests that check for accuracy (e.g. ULP error, absolute error and relative error).",
+        "Basic mathematical library test suite shall allow tests that check for accuracy (e.g. ULP error, absolute error and relative error)"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow tests that check for accuracy (e.g. ULP error, absolute error and relative error).",
+        "Basic mathematical Library Test Suite shall allow tests that check for accuracy (e.g. ULP error absolute error and relative error)."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow tests that check for accuracy (e.g. ULP error, absolute error and relative error).",
+        "Basic mathematical library test suite shall allow tests that check for accuracy (e.g. ULP error, absolute error and relative error.)"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow tests that check for accuracy (e.g. ULP error, absolute error and relative error).",
+        "Basic mathematical Library Test Suite shall allow tests that check for accuracy (e.g. ULP error, absolute error and relative error."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow tests that check for accuracy (e.g. ULP error, absolute error and relative error).",
+        "Basic mathematical library test suite shall allow tests that check for accuracy (e.g. ULP error, absolute error and relative error."
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library Test Suite shall evaluate the accuracy of the tested library against a bit accurate reference library.",
+        "The Basic mathematical library test suite shall evaluate the accuracy of the tested library against a bit-accurate reference library."
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library Test Suite shall evaluate the accuracy of the tested library against a bit accurate reference library.",
+        "The Basic mathematical library test suite shall evaluate the accuracy of the tested library against a bit-accurate reference library"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite application shall run on a standard x86_64 PC with Windows \/ Linux operating system, with a minimum of 4 GB RAM and at least an Intel i3 (or equivalent) processor.",
+        "The library test suite application shall run on a standard x86_64 computer with a minimum of 4 GB RAM and at least an Intel i3 (or equivalent) processor."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite application shall run on a standard x86_64 PC with Windows \/ Linux operating system, with a minimum of 4 GB RAM and at least an Intel i3 (or equivalent) processor.",
+        "The library test suite application shall run on a standard x86_64 PC with a minimum of 4 GB RAM and at least an Intel processor."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite application shall run on a standard x86_64 PC with Windows \/ Linux operating system, with a minimum of 4 GB RAM and at least an Intel i3 (or equivalent) processor.",
+        "The library test suite application shall run on a standard x86_64 PC with a minimum of 4 GB RAM and at least an Intel i3 (or equivalent) processor and"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite application shall run on a standard x86_64 PC with Windows \/ Linux operating system, with a minimum of 4 GB RAM and at least an Intel i3 (or equivalent) processor.",
+        "The library test suite application shall run on a standard x86_64 PC with a minimum of 4 GB RAM and at least an i3 (or equivalent) processor."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite application shall run on a standard x86_64 PC with Windows \/ Linux operating system, with a minimum of 4 GB RAM and at least an Intel i3 (or equivalent) processor.",
+        "The library test suite application shall run on a standard x86_64 PC with a minimum of 4 GB RAM and at least an Intel i3 (or equivalent) processor."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite application shall run on a standard x86_64 PC with Windows \/ Linux operating system, with a minimum of 4 GB RAM and at least an Intel i3 (or equivalent) processor.",
+        "The library test suite application shall run on a standard x86_64 PC with a minimum of 4 GB RAM and at least an i3 (or equivalent) CPU."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite application shall run on a standard x86_64 PC with Windows \/ Linux operating system, with a minimum of 4 GB RAM and at least an Intel i3 (or equivalent) processor.",
+        "The library test suite application shall run on a standard x86_64 PC with a minimum of 4 GB RAM and at least an Intel i3 (or equivalent) CPU."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite application shall run on a standard x86_64 PC with Windows \/ Linux operating system, with a minimum of 4 GB RAM and at least an Intel i3 (or equivalent) processor.",
+        "The library test suite application shall run on a standard x86_64 PC with a minimum of 4 GB RAM and at least an Intel i3 processor."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite application shall run on a standard x86_64 PC with Windows \/ Linux operating system, with a minimum of 4 GB RAM and at least an Intel i3 (or equivalent) processor.",
+        "The library test suite application shall run on a standard x86_64 computer with a minimum of 4 GB RAM and at least an Intel i3 processor."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite application shall run on a standard x86_64 PC with Windows \/ Linux operating system, with a minimum of 4 GB RAM and at least an Intel i3 (or equivalent) processor.",
+        "The library test suite application shall run on a standard x86_64 PC with a minimum of 4 GB RAM and at least an Intel i3 (or equivalent) processor. The"
+    ],
+    [
+        "PARA",
+        "Test Suite Executable executable size shall not exceed 1024 kB.",
+        "Test Suite The executable executable size shall not exceed 1024 kB."
+    ],
+    [
+        "PARA",
+        "Test Suite Executable executable size shall not exceed 1024 kB.",
+        "Test Suite Executable executable size shall not exceed 1024 kB. Test Suite"
+    ],
+    [
+        "PARA",
+        "Test Suite Executable executable size shall not exceed 1024 kB.",
+        "Test Suite Executable executable size should not exceed 1024 kB."
+    ],
+    [
+        "PARA",
+        "Test Suite Executable executable size shall not exceed 1024 kB.",
+        "The test suite's executed executable size shall not exceed 1024 kB."
+    ],
+    [
+        "PARA",
+        "Test Suite Executable executable size shall not exceed 1024 kB.",
+        "The test suite's execution executable size shall not exceed 1024 kB."
+    ],
+    [
+        "PARA",
+        "Test Suite Executable executable size shall not exceed 1024 kB.",
+        "- Test Suite The execution executable size shall not exceed 1024 kB."
+    ],
+    [
+        "PARA",
+        "During tests execution, Basic mathematical Library Test Suite shall inform the user about the progress of the test being executed.",
+        "During the execution of tests Basic mathematical library test suite shall inform the user about the progress of the test being performed."
+    ],
+    [
+        "PARA",
+        "During tests execution, Basic mathematical Library Test Suite shall inform the user about the progress of the test being executed.",
+        "Basic mathematical library test suite shall inform the user during the execution of tests about the progress of the test."
+    ],
+    [
+        "PARA",
+        "During tests execution, Basic mathematical Library Test Suite shall inform the user about the progress of the test being executed.",
+        "Basic mathematical library test suite shall inform the user during the execution of tests of the progress of the test being executed."
+    ],
+    [
+        "PARA",
+        "During tests execution, Basic mathematical Library Test Suite shall inform the user about the progress of the test being executed.",
+        "During tests execution Basic mathematical library test suite shall inform the user about the progress of the test being executed."
+    ],
+    [
+        "PARA",
+        "During tests execution, Basic mathematical Library Test Suite shall inform the user about the progress of the test being executed.",
+        "Basic mathematical library test suite shall inform the user during the execution of tests about the progress of the tests being executed."
+    ],
+    [
+        "PARA",
+        "During tests execution, Basic mathematical Library Test Suite shall inform the user about the progress of the test being executed.",
+        "During the execution of tests Basic mathematical library test suite shall inform the user about the progress of the test being executed."
+    ],
+    [
+        "PARA",
+        "During tests execution, Basic mathematical Library Test Suite shall inform the user about the progress of the test being executed.",
+        "Basic mathematical library test suite shall inform the user during the execution of tests about the progress of the test being executed."
+    ],
+    [
+        "PARA",
+        "During tests execution, Basic mathematical Library Test Suite shall inform the user about the progress of the test being executed.",
+        "During the execution of tests Basic mathematical library test suite shall inform the user of the progress of the test being executed."
+    ],
+    [
+        "PARA",
+        "During tests execution, Basic mathematical Library Test Suite shall inform the user about the progress of the test being executed.",
+        "During the execution of tests Basic mathematical Library Test Suite shall inform the user about the progress of the test being executed."
+    ],
+    [
+        "PARA",
+        "During tests execution, Basic mathematical Library Test Suite shall inform the user about the progress of the test being executed.",
+        "Basic mathematical library test suite shall inform the user during the execution of tests about the progress of the test being performed."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall use the following type of input files:  - configuration files in XML format  - test cases written in in XML format.",
+        "- configuration files in XML format - test cases written in XML format Basic mathematical library test suite shall use the following types of input files:"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall use the following type of input files:  - configuration files in XML format  - test cases written in in XML format.",
+        "- configuration files in XML format - test cases written in XML format Basic mathematical library test suite shall use the following type of input files:"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall use the following type of input files:  - configuration files in XML format  - test cases written in in XML format.",
+        "- configuration files in XML format - test cases written in XML format Basic mathematical library test suite shall use the following type of input files."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall use the following type of input files:  - configuration files in XML format  - test cases written in in XML format.",
+        "- configuration files in XML format - test cases written in XML format."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall use the following type of input files:  - configuration files in XML format  - test cases written in in XML format.",
+        "- configuration files in XML format - test cases written in XML format. - test cases written in XML format."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall use the following type of input files:  - configuration files in XML format  - test cases written in in XML format.",
+        "- configuration files in XML format - test cases written in XML format. ''"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall use the following type of input files:  - configuration files in XML format  - test cases written in in XML format.",
+        "Basic mathematical library test suite shall use the following types of input files: - configuration files in XML format - test cases written in XML format"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall use the following type of input files:  - configuration files in XML format  - test cases written in in XML format.",
+        "- configuration files in XML format - test cases written in XML format Basic mathematical library test suite shall use the following types of input files."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall use the following type of input files:  - configuration files in XML format  - test cases written in in XML format.",
+        "- configuration files in XML format - test cases written in XML format. - test cases written in XML format"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall use the following type of input files:  - configuration files in XML format  - test cases written in in XML format.",
+        "Basic mathematical library test suite shall use the following input files: - configuration files in XML format - test cases written in XML format."
+    ],
+    [
+        "PARA",
+        "For each test execution, the Basic mathematical Library TS shall use as input a test configuration file which contains at least this information: - Name of the function(s) to be tested - Type of the test  - Tested values and expected values for single value tests - Range of parameter values for the tests that need sweeping the function parameter values  - Any other configuration parameter needed to run the tests.",
+        "As input the Basic mathematical library TS shall use a test configuration file which contains at least this information: - Name of the function to be tested - Type of test - Tested values and expected values for single value tests - Range of parameter values for the tests that need sweeping function parameter values "
+    ],
+    [
+        "PARA",
+        "gdb shall be the software interface between Basic mathematical Library Test Suite and the target platforms. It will be used to execute the Test Suite Executable on the target.",
+        "It shall be the software interface between the Basic mathematical library test suite and the target platforms and be used to execute the test suite executable on the target."
+    ],
+    [
+        "PARA",
+        "gdb shall be the software interface between Basic mathematical Library Test Suite and the target platforms. It will be used to execute the Test Suite Executable on the target.",
+        "It shall be the software interface between the Basic mathematical library test suite and the target platforms and be used to execute the Test Suite Executable on the target."
+    ],
+    [
+        "PARA",
+        "gdb shall be the software interface between Basic mathematical Library Test Suite and the target platforms. It will be used to execute the Test Suite Executable on the target.",
+        "It shall be the software interface between the Basic mathematical library test suite and the target platforms. It will be used to execute the Test Suite Executable on the target"
+    ],
+    [
+        "PARA",
+        "gdb shall be the software interface between Basic mathematical Library Test Suite and the target platforms. It will be used to execute the Test Suite Executable on the target.",
+        "It shall be the software interface between Basic mathematical library test suite and the target platforms. It will be used to execute the Test Suite Executable on the target."
+    ],
+    [
+        "PARA",
+        "gdb shall be the software interface between Basic mathematical Library Test Suite and the target platforms. It will be used to execute the Test Suite Executable on the target.",
+        "gdb shall be the software interface between the Basic mathematical library test suite and the target platforms and be used to execute the Test Suite Executable on the target."
+    ],
+    [
+        "PARA",
+        "gdb shall be the software interface between Basic mathematical Library Test Suite and the target platforms. It will be used to execute the Test Suite Executable on the target.",
+        "It shall be the software interface between Basic mathematical library test suite and the target platforms. It will be used to execute the Test Suite Executable on the target platform."
+    ],
+    [
+        "PARA",
+        "gdb shall be the software interface between Basic mathematical Library Test Suite and the target platforms. It will be used to execute the Test Suite Executable on the target.",
+        "It shall be the software interface between the Basic mathematical library test suite and the target platforms and will be used to execute the Test Suite Executable on the target."
+    ],
+    [
+        "PARA",
+        "gdb shall be the software interface between Basic mathematical Library Test Suite and the target platforms. It will be used to execute the Test Suite Executable on the target.",
+        "It shall be the software interface between the Basic mathematical library test suite and the target platforms and will be used to execute the Test Suite Executable on the target platform."
+    ],
+    [
+        "PARA",
+        "gdb shall be the software interface between Basic mathematical Library Test Suite and the target platforms. It will be used to execute the Test Suite Executable on the target.",
+        "It shall be the software interface between the Basic mathematical library test suite and the target platforms. It will be used to execute the Test Suite Executable on the target."
+    ],
+    [
+        "PARA",
+        "gdb shall be the software interface between Basic mathematical Library Test Suite and the target platforms. It will be used to execute the Test Suite Executable on the target.",
+        "It shall be the software interface between the Basic mathematical library test suite and the target platforms. It will be used to execute the Test Suite Executable on the target platform."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow running the tests in batch mode.",
+        "Basic mathematical Library Test Suite shall allow the running of tests in batch mode."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow running the tests in batch mode.",
+        "Basic mathematical library test suite shall allow the running of tests in batch mode"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow running the tests in batch mode.",
+        "Basic mathematical test suite shall allow running tests in batch mode."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow running the tests in batch mode.",
+        "Basic mathematical Library Test Suite shall allow the running of tests in batch mode"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow running the tests in batch mode.",
+        "Basic mathematical library test suite shall allow the running of tests in batch mode."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow running the tests in batch mode.",
+        "Basic mathematical library test suite shall allow running tests in batch mode."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow running the tests in batch mode.",
+        "Basic mathematical Library Test Suite shall allow running tests in batch mode."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow running the tests manually.",
+        "Basic mathematical library test suite shall allow the running of the tests manually.."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow running the tests manually.",
+        "Basic mathematical library test suite shall allow running tests manually."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow running the tests manually.",
+        "Basic mathematical library test suite shall allow the running of the tests manually."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow running the tests manually.",
+        "Basic mathematical library test suite shall allow the running of the tests by hand."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow running the tests manually.",
+        "Basic mathematical library test suite shall allow the running of the test manually."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow running the tests manually.",
+        "Basic mathematical library test suite shall allow the running of the tests manual."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall allow running the tests manually.",
+        "Basic mathematical library test suite shall allow the running of tests manually."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall not make use or depend on commercial third party software. If necessary, free and open source tools may be used integrated in the testing framework.",
+        "Basic mathematical library test suite shall not make use of or depend on commercial third party software. If necessary free and open source tools may be integrated in the testing framework"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall not make use or depend on commercial third party software. If necessary, free and open source tools may be used integrated in the testing framework.",
+        "Basic mathematical library test suite shall not make use of or depend on commercial third party software. If necessary free and open source tools may be integrated in the testing framework."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall not make use or depend on commercial third party software. If necessary, free and open source tools may be used integrated in the testing framework.",
+        "Basic mathematical library test suite shall not use or depend on commercial third party software. If necessary free and open source tools may be used integrated in the testing framework."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall not make use or depend on commercial third party software. If necessary, free and open source tools may be used integrated in the testing framework.",
+        "Basic mathematical library test suite shall not make use of or depend on commercial third party software. If necessary free and open source tools may be used integrated in the testing framework. "
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall not make use or depend on commercial third party software. If necessary, free and open source tools may be used integrated in the testing framework.",
+        "Basic mathematical library test suite shall not use or depend on commercial third party software. If necessary free and open source tools may be integrated into the testing framework."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall not make use or depend on commercial third party software. If necessary, free and open source tools may be used integrated in the testing framework.",
+        "Basic mathematical library test suite shall not make use of or depend on commercial third party software. If necessary free and open source tools may be used integrated in the test framework."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall not make use or depend on commercial third party software. If necessary, free and open source tools may be used integrated in the testing framework.",
+        "Basic mathematical library test suite shall not use or depend on commercial third party software. If necessary free and open source tools may be integrated in the testing framework."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall not make use or depend on commercial third party software. If necessary, free and open source tools may be used integrated in the testing framework.",
+        "Basic mathematical library test suite shall not make use of or depend on commercial third party software. If necessary free and open source tools may be used integrated in the testing framework"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall not make use or depend on commercial third party software. If necessary, free and open source tools may be used integrated in the testing framework.",
+        "Basic mathematical library test suite shall not make use of or depend on commercial third party software. If necessary free and open source tools may be used integrated in the testing framework."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite development shall be compliant to the software standard European Cooperation for Space Standardization -EST-40C [AD 2] criticality category D and the necessary documentation shall be produced.",
+        "The basic mathematical library test suite development shall be compliant with the software standard European Cooperation for Space Standardization -EST-40C [AD 2] criticality category D and the necessary documentation shall be produced."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite development shall be compliant to the software standard European Cooperation for Space Standardization -EST-40C [AD 2] criticality category D and the necessary documentation shall be produced.",
+        "The basic mathematical library test suite development shall be compliant with the software standard European Cooperation for Space Standardization -EST-40C [AD 2] criticality category D and the necessary documentation shall be produced. "
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite development shall be compliant to the software standard European Cooperation for Space Standardization -EST-40C [AD 2] criticality category D and the necessary documentation shall be produced.",
+        "Basic mathematical library test suite development shall be compliant with the software standard European Cooperation for Space Standardization -EST-40C [AD 2] criticality category D and the necessary documentation shall be produced. "
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite development shall be compliant to the software standard European Cooperation for Space Standardization -EST-40C [AD 2] criticality category D and the necessary documentation shall be produced.",
+        "Basic mathematical library test suite development shall be compliant with the software standard European Cooperation for Space Standardization -EST-40C [AD 2] criticality category D and the necessary documentation shall be produced."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite development shall be compliant to the software standard European Cooperation for Space Standardization -EST-40C [AD 2] criticality category D and the necessary documentation shall be produced.",
+        "Basic mathematical Library Test Suite development shall be compliant with the software standard European Cooperation for Space Standardization -EST-40C [AD 2] criticality category D and the necessary documentation shall be produced."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite development shall be compliant to the software standard European Cooperation for Space Standardization -EST-40C [AD 2] criticality category D and the necessary documentation shall be produced.",
+        "Basic mathematical Library Test Suite development shall be compliant with the software standard European Cooperation for Space Standardization -EST-40C [AD 2] criticality category D and the necessary documentation shall be produced. "
+    ],
+    [
+        "PARA",
+        "Test Suite Executable shall be portable on different platforms, at least between Intel, AMD, Sparc V8 based processors.",
+        "It shall be portable on different platforms at least between Intel AMD Sparc V8 processors."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be developed compliant to the (tailored) software standard  European Cooperation for Space Standardization-Q-ST-80C [AD 3] criticality category D and the necessary documentation shall be produced.",
+        "Basic mathematical library test suite shall be developed compliant with the (tailored) software standard European Cooperation for Space Standardization-Q-ST-80C [AD 3] criticality category D and the necessary documentation shall be produced. "
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be developed compliant to the (tailored) software standard  European Cooperation for Space Standardization-Q-ST-80C [AD 3] criticality category D and the necessary documentation shall be produced.",
+        "The basic mathematical library test suite shall be developed compliant with the (tailored) software standard European Cooperation for Space Standardization-Q-ST-80C [AD 3] criticality category D and the necessary documentation shall be produced"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be developed compliant to the (tailored) software standard  European Cooperation for Space Standardization-Q-ST-80C [AD 3] criticality category D and the necessary documentation shall be produced.",
+        "The basic mathematical library test suite shall be developed compliant with the (tailored) software standard European Cooperation for Space Standardization-Q-ST-80C [AD 3] criticality category D and the necessary documentation shall be produced. "
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be developed compliant to the (tailored) software standard  European Cooperation for Space Standardization-Q-ST-80C [AD 3] criticality category D and the necessary documentation shall be produced.",
+        "Basic mathematical library test suite shall be developed compliant with the (tailored) software standard European Cooperation for Space Standardization-Q-ST-80C [AD 3] criticality category D and the necessary documentation shall be produced."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be developed compliant to the (tailored) software standard  European Cooperation for Space Standardization-Q-ST-80C [AD 3] criticality category D and the necessary documentation shall be produced.",
+        "Basic mathematical library test suite shall be developed compliant to the (tailored) software standard European Cooperation for Space Standardization-Q-ST-80C [AD 3] criticality category D and the necessary documentation shall be produced."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be developed compliant to the (tailored) software standard  European Cooperation for Space Standardization-Q-ST-80C [AD 3] criticality category D and the necessary documentation shall be produced.",
+        "The basic mathematical library test suite shall be developed compliant with the (tailored) software standard European Cooperation for Space Standardization-Q-ST-80C [AD 3] criticality category D and the necessary documentation shall be provided."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be developed compliant to the (tailored) software standard  European Cooperation for Space Standardization-Q-ST-80C [AD 3] criticality category D and the necessary documentation shall be produced.",
+        "Basic mathematical Library Test Suite shall be developed compliant with the (tailored) software standard European Cooperation for Space Standardization-Q-ST-80C [AD 3] criticality category D and the necessary documentation shall be produced."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be developed compliant to the (tailored) software standard  European Cooperation for Space Standardization-Q-ST-80C [AD 3] criticality category D and the necessary documentation shall be produced.",
+        "The basic mathematical library test suite shall be developed compliant with the (tailored) software standard European Cooperation for Space Standardization-Q-ST-80C [AD 3] criticality category D and the necessary documentation shall be produced."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall be developed compliant to the (tailored) software standard  European Cooperation for Space Standardization-Q-ST-80C [AD 3] criticality category D and the necessary documentation shall be produced.",
+        "Basic mathematical library test suite shall be developed compliant with the (customized) software standard European Cooperation for Space Standardization-Q-ST-80C [AD 3] criticality category D and the necessary documentation shall be produced."
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library Test Suite statement coverage (source code) metric achieved by validation\/integration\/unit tests shall be at least 70%.",
+        "In the basic mathematical library test suite statement coverage (source code) metric achieved by validation\/integration\/unit tests shall be at least 70%."
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library Test Suite statement coverage (source code) metric achieved by validation\/integration\/unit tests shall be at least 70%.",
+        "The Basic mathematical Library Test Suite statement coverage (source code) metric achieved by validation\/integration\/unit tests shall be at least 70."
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library Test Suite statement coverage (source code) metric achieved by validation\/integration\/unit tests shall be at least 70%.",
+        "The basic mathematical library test suite statement coverage (source code) metric achieved by validation\/integration\/unit tests shall be at least 70."
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library Test Suite statement coverage (source code) metric achieved by validation\/integration\/unit tests shall be at least 70%.",
+        "In the Basic mathematical Library Test Suite statement coverage (source code) metric achieved by validation\/integration\/unit tests shall be at least 70%"
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library Test Suite statement coverage (source code) metric achieved by validation\/integration\/unit tests shall be at least 70%.",
+        "The Basic mathematical Library Test Suite statement coverage metric achieved by validation\/integration\/unit tests shall be at least 70%."
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library Test Suite statement coverage (source code) metric achieved by validation\/integration\/unit tests shall be at least 70%.",
+        "In the Basic mathematical Library Test Suite statement coverage (source code) metric achieved by validation\/integration\/unit tests shall be at least 70%."
+    ],
+    [
+        "PARA",
+        "The Basic mathematical Library Test Suite statement coverage (source code) metric achieved by validation\/integration\/unit tests shall be at least 70%.",
+        "The basic mathematical library test suite statement coverage metric achieved by validation\/integration\/unit tests shall be at least 70%."
+    ],
+    [
+        "PARA",
+        "The coding rules used for C++ development in Basic mathematical Library Test Suite shall follow the “Google C++ Style Guide ” defined at: https:\/\/google.github.io\/styleguide\/cppguide.html",
+        "C++ development in Basic mathematical library test suite shall follow the “Google C++ style guide ” defined at: https:\/\/google.github."
+    ],
+    [
+        "PARA",
+        "The coding rules used for C++ development in Basic mathematical Library Test Suite shall follow the “Google C++ Style Guide ” defined at: https:\/\/google.github.io\/styleguide\/cppguide.html",
+        "The coding rules used for C++ development in Basic mathematical library test suite shall follow the “Google C++ Style Guide ” defined at: https:\/\/google.github.io"
+    ],
+    [
+        "PARA",
+        "The coding rules used for C++ development in Basic mathematical Library Test Suite shall follow the “Google C++ Style Guide ” defined at: https:\/\/google.github.io\/styleguide\/cppguide.html",
+        "C++ development in Basic mathematical library test suite shall follow the “Google C++ Style Guide ” defined at: https:\/\/google.github."
+    ],
+    [
+        "PARA",
+        "The coding rules used for C development in Basic mathematical Library Test Suite shall follow the “The Power of Ten - Rules for Developing Safety Critical Cod ” defined at: http:\/\/spinroot.com\/gerard\/pdf\/P10.pdf    ",
+        "The codes used for C development in Basic mathematical library test suite shall follow the \"The Power of Ten Rules for Developing Safety Critical Cod '' defined at: http:\/\/spinroot.com\/gerard"
+    ],
+    [
+        "PARA",
+        "The coding rules used for C development in Basic mathematical Library Test Suite shall follow the “The Power of Ten - Rules for Developing Safety Critical Cod ” defined at: http:\/\/spinroot.com\/gerard\/pdf\/P10.pdf    ",
+        "The codes used for C development in Basic mathematical library test suite shall follow the \"The Power of Ten Rules for Developing Safety Critical Cod\" defined at: http:\/\/spinroot.com\/gerard"
+    ],
+    [
+        "PARA",
+        "The coding rules used for C development in Basic mathematical Library Test Suite shall follow the “The Power of Ten - Rules for Developing Safety Critical Cod ” defined at: http:\/\/spinroot.com\/gerard\/pdf\/P10.pdf    ",
+        "The codes used for C development in Basic mathematical library test suite shall follow the \"The Power of Ten Rules for Developing Safety Critical Cod '' defined at: http:\/\/spinroot.com\/gerard\/pdf\/P10."
+    ],
+    [
+        "PARA",
+        "The coding rules used for C development in Basic mathematical Library Test Suite shall follow the “The Power of Ten - Rules for Developing Safety Critical Cod ” defined at: http:\/\/spinroot.com\/gerard\/pdf\/P10.pdf    ",
+        "The codes used for C development in Basic mathematical library test suite shall follow the \"The Power of Ten Rules for Developing Safety Critical Cod\" defined at: http:\/\/spinroot.com\/gerard\/pdf"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "The Basic Mathematics Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and implement retry management"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "The Basic Mathematics Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and implement retry management."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "The Basic Mathematics Library Test Suite shall verify the communication with the target (through GDB) by using checksums on transferred packets and implement retry management."
+    ],
+    [
+        "PARA",
+        "Two logical repositories will be used for the configuration management activities:  x the development repository: this repository will contain and handle the version control of the complete project data as it is been developed x the master repository: this repository will contain and handle the baselines of the Configuration Item as listed in the Configuration Item List.",
+        "This repository will contain and handle the version control of the complete project data as it is developed. x the master repository: this repository will contain and handle the baselines of the Configuration Item as listed in the Configuration Item List."
+    ],
+    [
+        "PARA",
+        "Two logical repositories will be used for the configuration management activities:  x the development repository: this repository will contain and handle the version control of the complete project data as it is been developed x the master repository: this repository will contain and handle the baselines of the Configuration Item as listed in the Configuration Item List.",
+        "This repository will contain and handle the version control of the complete project data as it is developed. x the master repository: this repository will contain and handle the baselines of the Configuration Item as listed in the Configuration Item list."
+    ],
+    [
+        "PARA",
+        "The following data formats will be used for the Configuration Item produced for distribution and archiving:  x PDF for documents x ZIP for source code files.     ",
+        "The following data formats will be used for the configuration item produced for distribution and archiving: x PDF for documents x ZIP for source code files. ''"
+    ],
+    [
+        "PARA",
+        "The following data formats will be used for the Configuration Item produced for distribution and archiving:  x PDF for documents x ZIP for source code files.     ",
+        "The following data formats will be used for the Configuration Item produced for distribution and archiving: x PDF for documents x ZIP for source code files."
+    ],
+    [
+        "PARA",
+        "The following data formats will be used for the Configuration Item produced for distribution and archiving:  x PDF for documents x ZIP for source code files.     ",
+        "The following data formats will be used for the Configuration Item produced for distribution and archiving: x PDF for documents x ZIP for source code files. "
+    ],
+    [
+        "PARA",
+        "The following data formats will be used for the Configuration Item produced for distribution and archiving:  x PDF for documents x ZIP for source code files.     ",
+        "The following data formats will be used for the configuration item produced for distribution and archiving: x PDF for documents x ZIP for source code files. "
+    ],
+    [
+        "PARA",
+        "The following data formats will be used for the Configuration Item produced for distribution and archiving:  x PDF for documents x ZIP for source code files.     ",
+        "The following data formats will be used for the Configuration item produced for distribution and archiving: x PDF for documents x ZIP for source code files."
+    ],
+    [
+        "PARA",
+        "The following data formats will be used for the Configuration Item produced for distribution and archiving:  x PDF for documents x ZIP for source code files.     ",
+        "The following data formats will be used for the configuration item produced for distribution and archiving: x PDF for documents x ZIP for source code files. x"
+    ],
+    [
+        "PARA",
+        "The following data formats will be used for the Configuration Item produced for distribution and archiving:  x PDF for documents x ZIP for source code files.     ",
+        "The following data formats will be used for the configuration item produced for distribution and archiving: x PDF for documents x ZIP for source code files."
+    ],
+    [
+        "PARA",
+        "The following data formats will be used for the Configuration Item produced for distribution and archiving:  x PDF for documents x ZIP for source code files.     ",
+        "The following data formats will be used for the Configuration item produced for distribution and archiving: x PDF for documents x ZIP for source code files. "
+    ],
+    [
+        "PARA",
+        "The following data formats will be used for the Configuration Item produced for distribution and archiving:  x PDF for documents x ZIP for source code files.     ",
+        "The following data formats will be used for the configuration item for distribution and archiving: x PDF for documents x ZIP for source code files."
+    ],
+    [
+        "PARA",
+        "The BTLS source files shall be accompanied by a makefile.",
+        "A makefile shall accompany the BTLS source file."
+    ],
+    [
+        "PARA",
+        "The BTLS source files shall be accompanied by a makefile.",
+        "The source files for BTLS shall be accompanied by a makefile."
+    ],
+    [
+        "PARA",
+        "The BTLS source files shall be accompanied by a makefile.",
+        "A makefile shall accompany the BTLS source files."
+    ],
+    [
+        "PARA",
+        "The BTLS source files shall be accompanied by a makefile.",
+        "BTLS source files shall be accompanied by a makefile."
+    ],
+    [
+        "PARA",
+        "The BTLS source files shall be accompanied by a makefile.",
+        "A makefile must accompany the BTLS source file."
+    ],
+    [
+        "PARA",
+        "The BTLS source files shall be accompanied by a makefile.",
+        "The source files of BTLS shall be accompanied by a makefile."
+    ],
+    [
+        "PARA",
+        "The BTLS source files shall be accompanied by a makefile.",
+        "A makefile must accompany the BTLS source files."
+    ],
+    [
+        "PARA",
+        "The BTLS shall provide or generate a makefile for each binary it intends to cross -compile for target execution.",
+        "It shall provide or generate a makefile for each binary it intends to cross-compile for target executions."
+    ],
+    [
+        "PARA",
+        "The BTLS shall provide or generate a makefile for each binary it intends to cross -compile for target execution.",
+        "It shall provide or generate a makefile for each binary that it intends to cross-compile for target execution."
+    ],
+    [
+        "PARA",
+        "The BTLS shall provide or generate a makefile for each binary it intends to cross -compile for target execution.",
+        "It shall provide or generate a makefile for each binary it intends to cross compile for target execution."
+    ],
+    [
+        "PARA",
+        "The BTLS shall provide or generate a makefile for each binary it intends to cross -compile for target execution.",
+        "It shall provide or generate a makefile for every binary it intends to cross-compile for target execution."
+    ],
+    [
+        "PARA",
+        "The BTLS shall provide or generate a makefile for each binary it intends to cross -compile for target execution.",
+        "The BTLS shall provide or generate a makefile for every binary it intends to cross-compile for target execution."
+    ],
+    [
+        "PARA",
+        "The BTLS shall provide or generate a makefile for each binary it intends to cross -compile for target execution.",
+        "The BTLS shall provide or generate a makefile for each binary it intends to cross-compile for target execution."
+    ],
+    [
+        "PARA",
+        "The BTLS shall provide or generate a makefile for each binary it intends to cross -compile for target execution.",
+        "It shall provide or generate a makefile for each binary it intends to cross-compile for target execution."
+    ],
+    [
+        "PARA",
+        "The BTLS shall provide or generate a makefile for each binary it intends to cross -compile for target execution.",
+        "The BTLS shall provide or generate a makefile for each binary it intends to cross compile for target execution."
+    ],
+    [
+        "PARA",
+        "The BTLS shall provide or generate a makefile for each binary it intends to cross -compile for target execution.",
+        "BTLS shall provide or generate a makefile for each binary it intends to cross-compile for target execution."
+    ],
+    [
+        "PARA",
+        "The BTLS shall provide or generate a makefile for each binary it intends to cross -compile for target execution.",
+        "It shall provide or generate a makefile for each binary it intends to cross-compile for the target execution."
+    ]
+]

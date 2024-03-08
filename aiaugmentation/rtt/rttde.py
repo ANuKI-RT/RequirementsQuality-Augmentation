@@ -24,6 +24,8 @@ def execute_rtt(data:list, gen_json:bool = False):
         bpe_codes = os.path.join(EN_DE_PATH, "bpecodes")
     )
 
+
+
     de2en = TransformerModel.from_pretrained(
         model_name_or_path=DE_EN_PATH,
         checkpoint_file='model1.pt:model2.pt:model3.pt:model4.pt',

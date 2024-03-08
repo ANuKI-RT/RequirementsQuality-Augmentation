@@ -1,0 +1,582 @@
+[
+    [
+        "PARA",
+        "The software product shall provide an Application Programming Interface.",
+        "The software product shall have an application programming interface."
+    ],
+    [
+        "PARA",
+        "The software product shall provide an Application Programming Interface.",
+        "An application programming interface shall be provided in the software product."
+    ],
+    [
+        "PARA",
+        "The software product shall provide an Application Programming Interface.",
+        "The software product shall provide an application program interface."
+    ],
+    [
+        "PARA",
+        "The software product shall provide an Application Programming Interface.",
+        "An application programming interface shall be provided for the software product."
+    ],
+    [
+        "PARA",
+        "The software product shall provide an Application Programming Interface.",
+        "An application programming interface shall be provided to the software product."
+    ],
+    [
+        "PARA",
+        "The software product shall provide an Application Programming Interface.",
+        "An application programming interface shall be provided."
+    ],
+    [
+        "PARA",
+        "The software product shall provide an Application Programming Interface.",
+        "The software product shall provide an application-programming interface."
+    ],
+    [
+        "PARA",
+        "The system shall provide conﬁguration options to the application to set conﬁgurable systemparameters at link time.",
+        "The system shall provide configuration options to the application to set configurable system parameters at link time."
+    ],
+    [
+        "PARA",
+        "The system shall provide conﬁguration options to the application to set conﬁgurable systemparameters at link time.",
+        "To set configurable systemparameters at link time the system shall provide configuration options for the application."
+    ],
+    [
+        "PARA",
+        "The system shall provide conﬁguration options to the application to set conﬁgurable systemparameters at link time.",
+        "To set configurable systemparameters at link time the system shall provide configuration options to application."
+    ],
+    [
+        "PARA",
+        "The system shall provide conﬁguration options to the application to set conﬁgurable systemparameters at link time.",
+        "To set configurable systemparameters at link time the system shall provide configuration options to the application."
+    ],
+    [
+        "PARA",
+        "The system shall provide conﬁguration options to the application to set conﬁgurable systemparameters at link time.",
+        "The system shall provide configuration options to the application to set configurable systemparameters at link times."
+    ],
+    [
+        "PARA",
+        "The system shall provide conﬁguration options to the application to set conﬁgurable systemparameters at link time.",
+        "The system shall provide configuration options to the application to set configurable systemparameters at link time."
+    ],
+    [
+        "PARA",
+        "The system shall provide conﬁguration options to the application to set conﬁgurable systemparameters at link time.",
+        "The system shall provide configuration options to the application to set configurable systemparameters at link time"
+    ],
+    [
+        "PARA",
+        "The system shall provide conﬁguration options to the application to set conﬁgurable systemparameters at link time.",
+        "The system shall provide configuration options for the application to set configurable system parameters at link time."
+    ],
+    [
+        "PARA",
+        "The system shall provide conﬁguration options to the application to set conﬁgurable systemparameters at link time.",
+        "The system shall provide the application with configuration options to set configurable system parameters at link time."
+    ],
+    [
+        "PARA",
+        "The system shall provide conﬁguration options to the application to set conﬁgurable systemparameters at link time.",
+        "The system shall provide configuration options to the application for setting configurable system parameters at link time."
+    ],
+    [
+        "PARA",
+        "Each non-default directive attribute constant shall be a power of two representable as aninteger of type rtems_attribute.",
+        "Each non-default directive attribute constant shall be a power of two representable as aninteger of type rtems_attribute. "
+    ],
+    [
+        "PARA",
+        "Each non-default directive attribute constant shall be a power of two representable as aninteger of type rtems_attribute.",
+        "Each non-default directive attribute constant shall be a power of two representable as an integer of type rtems_attribute. ''"
+    ],
+    [
+        "PARA",
+        "Each non-default directive attribute constant shall be a power of two representable as aninteger of type rtems_attribute.",
+        "Each non-default directive attribute constant shall be a power of two represented as an integer of type rtems_attribute."
+    ],
+    [
+        "PARA",
+        "Each non-default directive attribute constant shall be a power of two representable as aninteger of type rtems_attribute.",
+        "Each non-default directive attribute constant shall be a power of two represented by aninteger of type rtems_attribute."
+    ],
+    [
+        "PARA",
+        "Each non-default directive attribute constant shall be a power of two representable as aninteger of type rtems_attribute.",
+        "Each non-default directive attribute constant shall be a power of two representable as an integer of type rtems_attribute."
+    ],
+    [
+        "PARA",
+        "Each non-default directive attribute constant shall be a power of two representable as aninteger of type rtems_attribute.",
+        "Each non-default directive attribute constant shall be a power of two represented as aninteger of type rtems_attribute."
+    ],
+    [
+        "PARA",
+        "Each default directive attribute constant shall have a value of zero.",
+        "For each default directive attribute constant the value of zero shall be specified."
+    ],
+    [
+        "PARA",
+        "Each default directive attribute constant shall have a value of zero.",
+        "For each default directive attribute constant the value of zero shall be zero."
+    ],
+    [
+        "PARA",
+        "Each default directive attribute constant shall have a value of zero.",
+        "Each default directive attribute constant shall have a value of 0."
+    ],
+    [
+        "PARA",
+        "Each default directive attribute constant shall have a value of zero.",
+        "Each default directive attribute constant shall have a value zero."
+    ],
+    [
+        "PARA",
+        "Each default directive attribute constant shall have a value of zero.",
+        "Each default directive attribute constant shall have a zero value."
+    ],
+    [
+        "PARA",
+        "Each default directive attribute constant shall have a value of zero.",
+        "Each default directive attribute constant should have a value of zero."
+    ],
+    [
+        "PARA",
+        "The Real-Time Executive for Multiprocessor Systems_SEMAPHORE_CLASS constant shall be equal to the bitwiseor of Real-Time Executive for Multiprocessor Systems_BINARY_SEMAPHORE, Real-Time Executive for Multiprocessor Systems_COUNTING_SEMAPHORE, andReal-Time Executive for Multiprocessor Systems_SIMPLE_BINARY_SEMAPHORE.",
+        "The Real-Time Executive for Multiprocessor Systems_SEMAPHORE_CLASS constant shall be equal to the bitwiseor of Real-Time Executive for Multiprocessor Systems_BINARY_SEMAPHORE Real-Time Executive for Multiprocessor Systems"
+    ],
+    [
+        "PARA",
+        "The Real-Time Executive for Multiprocessor Systems_SEMAPHORE_CLASS constant shall be equal to the bitwiseor of Real-Time Executive for Multiprocessor Systems_BINARY_SEMAPHORE, Real-Time Executive for Multiprocessor Systems_COUNTING_SEMAPHORE, andReal-Time Executive for Multiprocessor Systems_SIMPLE_BINARY_SEMAPHORE.",
+        "The constant of the Real-Time Executive for Multiprocessor Systems_SEMAPHORE_CLASS shall be equal to the bitwiseor of the Real-Time Executive for Multiprocessor Systems_BINARY_SEMAPHORE Real-Time Executive for Multiprocessor Systems"
+    ],
+    [
+        "PARA",
+        "The non-default directive attribute constants shall have unique values.",
+        "The non-default directive attribute constants should have unique values."
+    ],
+    [
+        "PARA",
+        "The non-default directive attribute constants shall have unique values.",
+        "The non-default directive attribute constants shall have unique value."
+    ],
+    [
+        "PARA",
+        "The non-default directive attribute constants shall have unique values.",
+        "Each of the non-default directive attribute constants shall have unique values."
+    ],
+    [
+        "PARA",
+        "The non-default directive attribute constants shall have unique values.",
+        "The non-default directive attribute constants shall have distinct values."
+    ],
+    [
+        "PARA",
+        "The non-default directive attribute constants shall have unique values.",
+        "The non-default directive attribute constants shall have unique values. ''"
+    ],
+    [
+        "PARA",
+        "When the argument _index evaluates to an value o f a C one-dimensional array type, and theevaluation of that argument has no side effects, the macro Real-Time Executive for Multiprocessor Systems_ARRAY_SIZE shall resultin the number of elements with which that array has been deﬁned.",
+        "The Real-Time Executive for Multiprocessor Systems_ARRAY_SIZE macro is used to determine the number of elements with which the array has been defined when the argument _index evaluates to"
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_PACKED_ATTRIBUTE shall have exactly the same effect asthe macro Real-Time Executive for Multiprocessor Systems_PACKED.",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_PACKED_ATTRIBUTE shall have the same effect as the macro Real-Time Executive for Multiprocessor Systems_PACKED."
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_PACKED_ATTRIBUTE shall have exactly the same effect asthe macro Real-Time Executive for Multiprocessor Systems_PACKED.",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_PACKED_ATTRIBUTE shall have exactly the same effect as the macro Real-Time Executive for Multiprocessor Systems_PACKED"
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_PACKED_ATTRIBUTE shall have exactly the same effect asthe macro Real-Time Executive for Multiprocessor Systems_PACKED.",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_PACKED_ATTRIBUTE shall have exactly the same effect as the macro Real-Time Executive for Multiprocessor Systems"
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_PACKED_ATTRIBUTE shall have exactly the same effect asthe macro Real-Time Executive for Multiprocessor Systems_PACKED.",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_PACKED_ATTRIBUTE shall have exactly the same effect as the macro Real-Time Executive for Multiprocessor Systems_PACKED "
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_PACKED_ATTRIBUTE shall have exactly the same effect asthe macro Real-Time Executive for Multiprocessor Systems_PACKED.",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_PACKED_ATTRIBUTE shall have the same effect as the macro Real-Time Executive for Multiprocessor Systems"
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_PACKED_ATTRIBUTE shall have exactly the same effect asthe macro Real-Time Executive for Multiprocessor Systems_PACKED.",
+        "The macro Real Time Executive for Multiprocessor Systems_COMPILER_PACKED_ATTRIBUTE shall have exactly the same effect as the macro Real Time Executive for Multiprocessor Systems_PACKED."
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_PACKED_ATTRIBUTE shall have exactly the same effect asthe macro Real-Time Executive for Multiprocessor Systems_PACKED.",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_Packed_ATTRIBUTE shall have exactly the same effect as the macro Real-Time Executive for Multiprocessor Systems_Packed."
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_PACKED_ATTRIBUTE shall have exactly the same effect asthe macro Real-Time Executive for Multiprocessor Systems_PACKED.",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_PACKED_ATTRIBUTE has exactly the same effect as the macro Real-Time Executive for Multiprocessor Systems_PACKED."
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_PACKED_ATTRIBUTE shall have exactly the same effect asthe macro Real-Time Executive for Multiprocessor Systems_PACKED.",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_PACKED_ATTRIBUTE shall have exactly the same effect as the macro Real-Time Executive for Multiprocessor Systems_PACKED."
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_PURE_ATTRIBUTE shall have exactly the same effect as themacro Real-Time Executive for Multiprocessor Systems_PURE.",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_PURE_ATTRIBUTE shall have the same effect as the macro Real-Time Executive for Multiprocessor Systems_PURE."
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_UNUSED_ATTRIBUTE shall have exactly the same effect asthe macro Real-Time Executive for Multiprocessor Systems_UNUSED.",
+        "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_UNUSED_ATTRIBUTE shall have exactly the same effect as the macro Real-Time Executive for Multiprocessor Systems"
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_CONCAT shall result in only those characters which also appear in itsargument values.",
+        "The macro Real-Time Executive for Multiprocessor Systems_CONCAT shall result in only those characters which also appear in its arguments."
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_CONCAT shall result in only those characters which also appear in itsargument values.",
+        "The macro Real-Time Executive for Multiprocessor Systems_CONCAT shall result in only those characters which also appear in its argument values."
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_CONCAT shall result in only those characters which also appear in itsargument values.",
+        "The macro Real-Time Executive for Multiprocessor Systems_CONCAT shall result in only those characters that also appear in its argument values."
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_CONCAT shall make its result subject to C pre-processor operations.",
+        "The macro Real-Time Executive for Multiprocessor Systems_CONCAT shall make its result subject to pre-processor C operations."
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_CONCAT shall make its result subject to C pre-processor operations.",
+        "The macro Real-Time Executive for Multiprocessor Systems_CONCAT shall make its result subject to C preprocessor operations."
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_DEFINE_GLOBAL_SYMBOL shall deﬁne a global symbol of void pointertype with the value being an address.",
+        "Multiprocessor Systems_DEFINE_GLOBAL_SYMBOL macro shall define a global symbol of the void pointer type with the value being an address."
+    ],
+    [
+        "PARA",
+        "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_DEPRECATED macrois used as last part of a function declaration or type declaration or variable declaration orvariable deﬁnition, the macro shall cause the compiler to issue a warning message when itencounters a use of the function, type or variable.",
+        "The macro shall cause the compiler to issue a warning message when it encounters a use of the function type or variable when the macro is used as the last part of a function declaration or type declaration or variable declaration"
+    ],
+    [
+        "PARA",
+        "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_DEPRECATED macrois used as last part of a function declaration or type declaration or variable declaration orvariable deﬁnition, the macro shall cause the compiler to issue a warning message when itencounters a use of the function, type or variable.",
+        "The macro shall cause the compiler to issue a warning message when it encounters a use of the function, type or variable."
+    ],
+    [
+        "PARA",
+        "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_DEPRECATED macrois used as last part of a function declaration or type declaration or variable declaration orvariable deﬁnition, the macro shall cause the compiler to issue a warning message when itencounters a use of the function, type or variable.",
+        "The macro shall cause the compiler to issue a warning message when it encounters a use of a function, type or variable."
+    ],
+    [
+        "PARA",
+        "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_DEPRECATED macrois used as last part of a function declaration or type declaration or variable declaration orvariable deﬁnition, the macro shall cause the compiler to issue a warning message when itencounters a use of the function, type or variable.",
+        "The macro shall cause the compiler to issue a warning message when it encounters a use of the function, type or variable in the code when the macro is compiled with the GNU C compiler."
+    ],
+    [
+        "PARA",
+        "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_DEPRECATED macrois used as last part of a function declaration or type declaration or variable declaration orvariable deﬁnition, the macro shall cause the compiler to issue a warning message when itencounters a use of the function, type or variable.",
+        "The macro shall cause the compiler to issue a warning message when it encounters a use of the function type or variable when the macro is used as the last part of a function declaration or type declaration"
+    ],
+    [
+        "PARA",
+        "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_DEPRECATED macrois used as last part of a function declaration or type declaration or variable declaration orvariable deﬁnition, the macro shall cause the compiler to issue a warning message when itencounters a use of the function, type or variable.",
+        "The macro shall cause the compiler to issue a warning message when it encounters a use of the function type or variable."
+    ],
+    [
+        "PARA",
+        "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_DEPRECATED macrois used as last part of a function declaration or type declaration or variable declaration orvariable deﬁnition, the macro shall cause the compiler to issue a warning message when itencounters a use of the function, type or variable.",
+        "The macro shall cause the compiler to issue a warning message when it encounters a use of the function type or variable when the macro is used as the last part of a function declaration or type declaration or"
+    ],
+    [
+        "PARA",
+        "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_DEPRECATED macrois used as last part of a function declaration or type declaration or variable declaration orvariable deﬁnition, the macro shall cause the compiler to issue a warning message when itencounters a use of the function, type or variable.",
+        "The macro shall cause the compiler to issue a warning message when it encounters a use of the function, type or variable in the code when the macro is compiled with the GNU C compiler"
+    ],
+    [
+        "PARA",
+        "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_DEPRECATED macrois used as last part of a function declaration or type declaration or variable declaration orvariable deﬁnition, the macro shall cause the compiler to issue a warning message when itencounters a use of the function, type or variable.",
+        "The macro shall cause the compiler to issue a warning message when it encounters a use of the function, type or variable in the code compiled with GNU C compiler."
+    ],
+    [
+        "PARA",
+        "When the code is compiled with the GNU C compiler, the Real-Time Executive for Multiprocessor Systems_RETURN_ADDRESS macroshall evaluate to the code __builtin_return_address( 0 ) .",
+        "The macro Real-Time Executive for Multiprocessor Systems_RETURN_ADDRESS will evaluate the code __built-in_return_address( 0 ) when the code is compiled with the GNU C compiler."
+    ],
+    [
+        "PARA",
+        "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_UNUSED macro isattached to a function deﬁnition, the Real-Time Executive for Multiprocessor Systems_UNUSED macro shall prevent the compilerfrom emitting a warning if this function is not used.",
+        "The Real-Time Executive for Multiprocessor Systems_UNUSED macro shall prevent the compiler from emitting a warning if this function is not used when the code is compiled with the GNU C compiler"
+    ],
+    [
+        "PARA",
+        "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_UNUSED macro isattached to a function deﬁnition, the Real-Time Executive for Multiprocessor Systems_UNUSED macro shall prevent the compilerfrom emitting a warning if this function is not used.",
+        "The Real-Time Executive for Multiprocessor Systems_UNUSED macro shall prevent the compiler from emitting a warning if this function is not used when the code is compiled with the GNU C compiler "
+    ],
+    [
+        "PARA",
+        "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_UNUSED macro isattached to a function deﬁnition, the Real-Time Executive for Multiprocessor Systems_UNUSED macro shall prevent the compilerfrom emitting a warning if this function is not used.",
+        "The Real-Time Executive for Multiprocessor Systems_UNUSED macro shall prevent the compiler from emitting a warning if this function is not used when the code is compiled with the GNU compiler"
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall apply all possible C pre-processor substitutions to its ar-gument values before it concatenates the resulting values.",
+        "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall apply all possible C pre-processor substitutions to its ar-gument values before it concatenates the resulting values"
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall apply all possible C pre-processor substitutions to its ar-gument values before it concatenates the resulting values.",
+        "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall apply all possible C pre-processor substitutions to its argument values before it concatenates the resulting values."
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall result in only those characters which also appear in itsargument values after applying all possible C pre-processor substitutions to them.",
+        "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall result in only those characters that also appear in its argument values after applying all possible C pre-processor substitutions to them. "
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall result in only those characters which also appear in itsargument values after applying all possible C pre-processor substitutions to them.",
+        "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall result in only those characters which also appear in its argument values after applying all possible C preprocessor substitutions to them."
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall result in only those characters which also appear in itsargument values after applying all possible C pre-processor substitutions to them.",
+        "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall result in only those characters that also appear in its argument values after applying all possible C pre-processor substitutions to them."
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall make its result subject to C pre-processor substitutions.",
+        "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall make its result subject to pre-processor substitutions in C."
+    ],
+    [
+        "PARA",
+        "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall make its result subject to C pre-processor substitutions.",
+        "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall make its result subject to C preprocessor substitutions."
+    ],
+    [
+        "PARA",
+        "The rtems_clock_get_ticks_per_second function shall return the number of clock ticks persecond which is deﬁned indirectly by the CONFIGURE_MICROSECONDS_PER_TICK conﬁgu-ration option..",
+        "It shall return the number of clock ticks per second which is indirectly defined by the CONFIGURE_MICROSECONDS_PER_TICK configuration option."
+    ],
+    [
+        "PARA",
+        "The rtems_clock_get_ticks_per_second function shall return the number of clock ticks persecond which is deﬁned indirectly by the CONFIGURE_MICROSECONDS_PER_TICK conﬁgu-ration option..",
+        "It returns the number of clock ticks per second which is indirectly defined by the CONFIGURE_MICROSECONDS_PER_TICK configu-ration option.."
+    ],
+    [
+        "PARA",
+        "The rtems_clock_get_ticks_per_second function shall return the number of clock ticks persecond which is deﬁned indirectly by the CONFIGURE_MICROSECONDS_PER_TICK conﬁgu-ration option..",
+        "It returns the number of clock ticks per second which is indirectly defined by the CONFIGURE_MICROSECONDS_PER_TICK configu-ration option."
+    ],
+    [
+        "PARA",
+        "The rtems_clock_get_ticks_per_second function shall return the number of clock ticks persecond which is deﬁned indirectly by the CONFIGURE_MICROSECONDS_PER_TICK conﬁgu-ration option..",
+        "Returns the number of clock ticks per second which is indirectly defined by the CONFIGURE_MICROSECONDS_PER_TICK configuration option."
+    ],
+    [
+        "PARA",
+        "The rtems_clock_get_ticks_per_second function shall return the number of clock ticks persecond which is deﬁned indirectly by the CONFIGURE_MICROSECONDS_PER_TICK conﬁgu-ration option..",
+        "It shall return the number of clock ticks per second which is indirectly defined by the CONFIGURE_MICROSECONDS_PER_TICK configuration option.."
+    ],
+    [
+        "PARA",
+        "The rtems_clock_get_ticks_per_second function shall return the number of clock ticks persecond which is deﬁned indirectly by the CONFIGURE_MICROSECONDS_PER_TICK conﬁgu-ration option..",
+        "Returns the number of clock ticks per second which is indirectly defined by the CONFIGURE_MICROSECONDS_PER_TICK configu-ration option."
+    ],
+    [
+        "PARA",
+        "The rtems_clock_get_ticks_per_second function shall return the number of clock ticks persecond which is deﬁned indirectly by the CONFIGURE_MICROSECONDS_PER_TICK conﬁgu-ration option..",
+        "Returns the number of clock ticks per second which is indirectly defined by the CONFIGURE_MICROSECONDS_PER_TICK configu-ration function."
+    ],
+    [
+        "PARA",
+        "The rtems_clock_get_ticks_per_second function shall return the number of clock ticks persecond which is deﬁned indirectly by the CONFIGURE_MICROSECONDS_PER_TICK conﬁgu-ration option..",
+        "It shall return the number of clock ticks per second which is indirectly defined by the CONFIGURE_MICROSECONDS_PER_TICK configu-ration option."
+    ],
+    [
+        "PARA",
+        "Each non-default task mode constant shall be a power of two representable as an integer oftype rtems_mode.",
+        "Each non-default task mode constant shall be a power of two represented as an integer of type rtems_mode. ''"
+    ],
+    [
+        "PARA",
+        "Each non-default task mode constant shall be a power of two representable as an integer oftype rtems_mode.",
+        "Each non-default task mode constant shall have a power of two represented as an integer of type rtems_mode."
+    ],
+    [
+        "PARA",
+        "Each non-default task mode constant shall be a power of two representable as an integer oftype rtems_mode.",
+        "Each non-default task mode constant shall have a power of two representable as an integer of type rtems_mode."
+    ],
+    [
+        "PARA",
+        "Each non-default task mode constant shall be a power of two representable as an integer oftype rtems_mode.",
+        "Each non-default task mode constant shall be a power of two represented by an integer of type rtems_mode."
+    ],
+    [
+        "PARA",
+        "Each non-default task mode constant shall be a power of two representable as an integer oftype rtems_mode.",
+        "Each non-default task mode constant shall be a power of two representable as an integer of type rtems_mode. -"
+    ],
+    [
+        "PARA",
+        "Each non-default task mode constant shall be a power of two representable as an integer oftype rtems_mode.",
+        "Each non-default task mode constant shall be a power of two representable as an integer of type rtems_mode."
+    ],
+    [
+        "PARA",
+        "Each non-default task mode constant shall be a power of two representable as an integer oftype rtems_mode.",
+        "Each non-default task mode constant shall be a power of two representable as an integer of type rtems_mode.."
+    ],
+    [
+        "PARA",
+        "Each non-default task mode constant shall be a power of two representable as an integer oftype rtems_mode.",
+        "Each non-default task mode constant shall be a power of two represented as an integer of type rtems_mode."
+    ],
+    [
+        "PARA",
+        "Each default task mode constant shall have a value of zero.",
+        "Each default task mode constant shall have a zero value."
+    ],
+    [
+        "PARA",
+        "Each default task mode constant shall have a value of zero.",
+        "Each default task mode constant should have a value of zero."
+    ],
+    [
+        "PARA",
+        "Each default task mode constant shall have a value of zero.",
+        "For each default task mode constant there shall be a value of zero."
+    ],
+    [
+        "PARA",
+        "Each default task mode constant shall have a value of zero.",
+        "For each default task mode constant the value of 0 shall be zero."
+    ],
+    [
+        "PARA",
+        "Each default task mode constant shall have a value of zero.",
+        "In the default task mode each constant shall have a value of zero."
+    ],
+    [
+        "PARA",
+        "The task mode mask constants and 0xff shall have unique values.",
+        "The mask constants of task mode and 0xff shall have unique values."
+    ],
+    [
+        "PARA",
+        "The non-default task mode constants shall have unique values.",
+        "Non-default task mode constants shall have unique values."
+    ],
+    [
+        "PARA",
+        "The non-default task mode constants shall have unique values.",
+        "In the non-default task mode the constants shall have unique values."
+    ],
+    [
+        "PARA",
+        "The non-default task mode constants shall have unique values.",
+        "The non-default task mode constants should have unique values."
+    ],
+    [
+        "PARA",
+        "The non-default task mode constants shall have unique values.",
+        "In the non-default task mode constants there shall be unique values."
+    ],
+    [
+        "PARA",
+        "Each non-default directive option constant shall be a power of two representable as an integerof type rtems_option.",
+        "Each non-default directive option constant shall be a power of two represented as an integer of type rtems_option."
+    ],
+    [
+        "PARA",
+        "Each non-default directive option constant shall be a power of two representable as an integerof type rtems_option.",
+        "Each non-default directive option constant shall be a power of two represented by an integer of type rtems_option."
+    ],
+    [
+        "PARA",
+        "Each non-default directive option constant shall be a power of two representable as an integerof type rtems_option.",
+        "Each non-default directive option constant shall be a power of two represented as an integer of type rtems_option. ''"
+    ],
+    [
+        "PARA",
+        "Each non-default directive option constant shall be a power of two representable as an integerof type rtems_option.",
+        "Each non-default directive option constant shall be a power of two representable as an integer of type rtems_option.."
+    ],
+    [
+        "PARA",
+        "Each non-default directive option constant shall be a power of two representable as an integerof type rtems_option.",
+        "Each non-default directive option constant shall be a power of two representable as an integer of type rtems_option."
+    ],
+    [
+        "PARA",
+        "Each non-default directive option constant shall be a power of two representable as an integerof type rtems_option.",
+        "Each non-default directive option constant shall have a power of two representable as an integer of type rtems_option."
+    ],
+    [
+        "PARA",
+        "Each non-default directive option constant shall be a power of two representable as an integerof type rtems_option.",
+        "Each non-default directive option constant shall be a power of two representable as an integer of type rtems_option. -"
+    ],
+    [
+        "PARA",
+        "Each non-default directive option constant shall be a power of two representable as an integerof type rtems_option.",
+        "Each non-default directive option constant shall have a power of two represented as an integer of type rtems_option."
+    ],
+    [
+        "PARA",
+        "Each default directive option constant shall have a value of zero.",
+        "For each default directive option a constant shall have a value zero."
+    ],
+    [
+        "PARA",
+        "Each default directive option constant shall have a value of zero.",
+        "Each default directive option constant should have a value of zero."
+    ],
+    [
+        "PARA",
+        "Each default directive option constant shall have a value of zero.",
+        "For each default directive option a constant must have a value zero."
+    ],
+    [
+        "PARA",
+        "The value of macro Real-Time Executive for Multiprocessor Systems_DEFAULT_OPTIONS shall be equal to the value of expressionReal-Time Executive for Multiprocessor Systems_WAIT .",
+        "The macro Real Time Executive for Multiprocessor Systems_DEFAULT_OPTIONS shall be equal to the expression Real Time Executive for Multiprocessor Systems_WAIT."
+    ],
+    [
+        "PARA",
+        "The value of macro Real-Time Executive for Multiprocessor Systems_DEFAULT_OPTIONS shall be equal to the value of expressionReal-Time Executive for Multiprocessor Systems_WAIT .",
+        "The macro Real Time Executive for Multiprocessor Systems_DEFAULT_OPTIONS shall be equal to the expression Real-Time Executive for Multiprocessor Systems_WAIT."
+    ],
+    [
+        "PARA",
+        "The non-default directive option constants shall have unique values.",
+        "The non-default directive option constants should have unique values."
+    ],
+    [
+        "PARA",
+        "The non-default directive option constants shall have unique values.",
+        "The non-default directive options constants shall have unique values."
+    ],
+    [
+        "PARA",
+        "The non-default directive option constants shall have unique values.",
+        "The variable options in the non-default directive shall have unique values."
+    ]
+]

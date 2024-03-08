@@ -1,0 +1,2017 @@
+[
+    [
+        "PARA",
+        "The Boot software shall support the following modes: -Nominal Sequence Mode, where the Processor Module function loads an Application Software image. -Standby Mode. -Monitor Mode, where the Processor Module function is controlled from a dedicated Electrical Ground Support Equipment I\/F.",
+        "It shall support the following modes: -Nominal Sequence Mode where the Processor Module function loads an Application Software image. -Standby Mode. -Monitor Mode where the Processor Module function is controlled from a dedicated Electrical Ground Support Equipment I."
+    ],
+    [
+        "PARA",
+        "The Boot software shall support the following modes: -Nominal Sequence Mode, where the Processor Module function loads an Application Software image. -Standby Mode. -Monitor Mode, where the Processor Module function is controlled from a dedicated Electrical Ground Support Equipment I\/F.",
+        "It shall support the following modes: -Nominal Sequence Mode where the Processor Module function loads an Application Software image. -Standby Mode. -Monitor Mode where the Processor Module function is controlled from a dedicated Electrical Ground Support Equipment"
+    ],
+    [
+        "PARA",
+        "The Boot software shall support the following modes: -Nominal Sequence Mode, where the Processor Module function loads an Application Software image. -Standby Mode. -Monitor Mode, where the Processor Module function is controlled from a dedicated Electrical Ground Support Equipment I\/F.",
+        "It shall support the following modes: -Nominal Sequence Mode where the Processor Module function loads an Application Software image. -Standby Mode. -Monitor Mode where the Processor Module function is controlled from a dedicated Electrical Ground Support"
+    ],
+    [
+        "PARA",
+        "The Boot software shall support the following modes: -Nominal Sequence Mode, where the Processor Module function loads an Application Software image. -Standby Mode. -Monitor Mode, where the Processor Module function is controlled from a dedicated Electrical Ground Support Equipment I\/F.",
+        "It shall support the following modes: -Nominal Sequence Mode where the Processor Module function loads an Application Software image. -Standby Mode. -Monitor Mode where the Processor Module function is controlled from a dedicated Electrical Ground"
+    ],
+    [
+        "PARA",
+        "The Boot software shall support the following modes: -Nominal Sequence Mode, where the Processor Module function loads an Application Software image. -Standby Mode. -Monitor Mode, where the Processor Module function is controlled from a dedicated Electrical Ground Support Equipment I\/F.",
+        "-Nominal Sequence Mode where the Processor Module function loads an Application Software image. -Standby Mode. -Monitor Mode where the Processor Module function is controlled from a dedicated Electrical Ground Support Equipment I\/F."
+    ],
+    [
+        "PARA",
+        "The Boot software shall support the following modes: -Nominal Sequence Mode, where the Processor Module function loads an Application Software image. -Standby Mode. -Monitor Mode, where the Processor Module function is controlled from a dedicated Electrical Ground Support Equipment I\/F.",
+        "It shall support the following modes: -Nominal Sequence Mode where the Processor Module function loads an Application Software image. -Standby Mode. -Monitor Mode where the Processor Module function is controlled from a dedicated Electrical Ground Support Equipment I\/"
+    ],
+    [
+        "PARA",
+        "The Boot software shall support the following modes: -Nominal Sequence Mode, where the Processor Module function loads an Application Software image. -Standby Mode. -Monitor Mode, where the Processor Module function is controlled from a dedicated Electrical Ground Support Equipment I\/F.",
+        "-Nominal Sequence Mode where the Processor Module function loads an Application Software image. -Standby Mode. -Monitor Mode where the Processor Module function is controlled from a dedicated electrical ground support equipment I\/F."
+    ],
+    [
+        "PARA",
+        "The Boot software shall support the following modes: -Nominal Sequence Mode, where the Processor Module function loads an Application Software image. -Standby Mode. -Monitor Mode, where the Processor Module function is controlled from a dedicated Electrical Ground Support Equipment I\/F.",
+        "-Nominal Sequence Mode where the Processor Module function loads an Application Software image. -Standby Mode. -Monitor Mode where the Processor Module function is controlled by a dedicated electrical ground support equipment I\/F."
+    ],
+    [
+        "PARA",
+        "The Boot software shall support the following modes: -Nominal Sequence Mode, where the Processor Module function loads an Application Software image. -Standby Mode. -Monitor Mode, where the Processor Module function is controlled from a dedicated Electrical Ground Support Equipment I\/F.",
+        "-Nominal Sequence Mode where the Processor Module function loads an Application Software image. -Standby Mode. -Monitor Mode where the Processor Module function is controlled by a dedicated Electrical Ground Support Equipment I\/F."
+    ],
+    [
+        "PARA",
+        "The Boot software shall support the following modes: -Nominal Sequence Mode, where the Processor Module function loads an Application Software image. -Standby Mode. -Monitor Mode, where the Processor Module function is controlled from a dedicated Electrical Ground Support Equipment I\/F.",
+        "It shall support the following modes: -Nominal Sequence Mode where the Processor Module function loads an Application Software image. -Standby Mode. -Monitor Mode where the Processor Module function is controlled from a dedicated Electrical Ground Support Equipment I"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be executed on processor reset (power-o n reset, Software reset, error reset, watchdog reset).",
+        "The boot software shall be executed on the reset of the processor (power-o n reset, software reset, error reset, watchdog reset)."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be executed on processor reset (power-o n reset, Software reset, error reset, watchdog reset).",
+        "The boot software shall be executed on the reset of the processor (power-o n reset, software reset, error reset, watchdog reset)"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be executed on processor reset (power-o n reset, Software reset, error reset, watchdog reset).",
+        "The boot software shall be executed on the reset of the processor (power-o n reset, software reset, error reset, watchdog reset) and"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be executed on processor reset (power-o n reset, Software reset, error reset, watchdog reset).",
+        "The boot software shall be executed on the reset of the processor (power-o n reset, software reset, error reset, watchdog reset."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be executed on processor reset (power-o n reset, Software reset, error reset, watchdog reset).",
+        "The boot software shall be executed on the reset of the processor (power-o n reset, software reset, error reset and watchdog reset)."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be executed on processor reset (power-o n reset, Software reset, error reset, watchdog reset).",
+        "The boot software shall be executed on reset of the processor (power-o n reset, software reset, error reset, watchdog reset)."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be executed on processor reset (power-o n reset, Software reset, error reset, watchdog reset).",
+        "The booting software shall be executed on a reset of the processor (power-o n reset, software reset, error reset, monitor reset)."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be executed on processor reset (power-o n reset, Software reset, error reset, watchdog reset).",
+        "The boot software shall be executed on the reset of the processor (power-o n reset, software reset, error reset, watchdog reset). "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be executed on processor reset (power-o n reset, Software reset, error reset, watchdog reset).",
+        "The Boot Software shall be executed on the reset of the processor (power-o n reset, software reset, error reset, watchdog reset)."
+    ],
+    [
+        "PARA",
+        "The Fast Boot Path selection sh all be based on configuration data that are set prior to the Processor Module reset\/Processor Module power-on. ",
+        "The Fast Boot Path selection will all be based on configuration data that are set before the processor module reset\/processor module power-on."
+    ],
+    [
+        "PARA",
+        "The Fast Boot Path selection sh all be based on configuration data that are set prior to the Processor Module reset\/Processor Module power-on. ",
+        "The Fast Boot Path selection will all be based on configuration data that are set before the Processor Module reset\/Processor Module power-on."
+    ],
+    [
+        "PARA",
+        "The Fast Boot Path selection sh all be based on configuration data that are set prior to the Processor Module reset\/Processor Module power-on. ",
+        "The Fast Boot Path selection will all be based on configuration data that are set before the processor module reset\/processor module power-on. "
+    ],
+    [
+        "PARA",
+        "The Fast Boot Path selection sh all be based on configuration data that are set prior to the Processor Module reset\/Processor Module power-on. ",
+        "The Fast Boot Path selection will all be based on configuration data that are set prior to the processor module reset\/processor module power-on."
+    ],
+    [
+        "PARA",
+        "The Fast Boot Path selection sh all be based on configuration data that are set prior to the Processor Module reset\/Processor Module power-on. ",
+        "The Fast Boot Path selection will all be based on configuration data that are set before the Processor Module reset\/Processor Module power-on. "
+    ],
+    [
+        "PARA",
+        "The Fast Boot Path selection sh all be based on configuration data that are set prior to the Processor Module reset\/Processor Module power-on. ",
+        "All the Fast Boot Path selections will be based on configuration data that are set prior to the Processor Module reset\/Processor Module power on."
+    ],
+    [
+        "PARA",
+        "The Fast Boot Path selection sh all be based on configuration data that are set prior to the Processor Module reset\/Processor Module power-on. ",
+        "The Fast Boot Path selection will all be based on configuration data that are set prior to the processor module reset\/processor module power-on. "
+    ],
+    [
+        "PARA",
+        "When Fast Boot Path is select ed, the Boot Software Fast Sequence  shall execute a subset of the step of the nominal sequence. ",
+        "When the Fast Boot Path is selected the Boot Software Fast Sequence shall execute a subset of the step of the nominal sequence."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be able to  select the active Application Software Image based on configuration data that are set prior to the processor module reset\/power-on. ",
+        "The boot software shall be able to select the active application software image based on configuration data that are set before the processor module reset\/power-on."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be able to  select the active Application Software Image based on configuration data that are set prior to the processor module reset\/power-on. ",
+        "The Boot Software shall be able to select the active Application Software Image based on configuration data that are set before the processor module reset\/power-on."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be able to  select the active Application Software Image based on configuration data that are set prior to the processor module reset\/power-on. ",
+        "The boot software shall be able to select the active Application Software Image based on configuration data that are set before the processor module reset\/power-on."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall execute the steps of the Nominal Sequence also in case of failure in the Self-Tests. ",
+        "The boot software shall also execute the steps of the Nominal Sequence in case of failure in the Self-Tests."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall execute the steps of the Nominal Sequence also in case of failure in the Self-Tests. ",
+        "The boot software shall also execute the steps of the nominal sequence in case of failure in the self-tests."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall execute the steps of the Nominal Sequence also in case of failure in the Self-Tests. ",
+        "The Boot Software shall also execute the steps of the Nominal Sequence in case of failure in the Self-Tests."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall execute the steps of the Nominal Sequence also in case of failure in the Self-Tests. ",
+        "The boot software shall also execute the steps of the nominal sequence in case of failure in the self-tests. "
+    ],
+    [
+        "PARA",
+        "The Boot Software Standby function shall access only resources local to the processor module without interfering with the nominal spacecraft operations managed by the active Processor Module. ",
+        "It shall access only the resources local to the processor module without interfering with the nominal spacecraft operations managed by the active processor module."
+    ],
+    [
+        "PARA",
+        "The Boot Software Standby function shall access only resources local to the processor module without interfering with the nominal spacecraft operations managed by the active Processor Module. ",
+        "The Boot Software Standby function shall access only resources local to the processor module without interfering with nominal spacecraft operations managed by the active processor module."
+    ],
+    [
+        "PARA",
+        "The Boot Software Standby function shall access only resources local to the processor module without interfering with the nominal spacecraft operations managed by the active Processor Module. ",
+        "The Boot Software Standby function shall access only resources local to the processor module without interrupting the nominal spacecraft operations managed by the active processor module. "
+    ],
+    [
+        "PARA",
+        "The Boot Software Standby function shall access only resources local to the processor module without interfering with the nominal spacecraft operations managed by the active Processor Module. ",
+        "It shall access only resources local to the processor module without interfering with the nominal spacecraft operations managed by the active processor module."
+    ],
+    [
+        "PARA",
+        "The Boot Software Standby function shall access only resources local to the processor module without interfering with the nominal spacecraft operations managed by the active Processor Module. ",
+        "The Boot Software Standby function shall access only resources local to the processor module without interrupting the nominal spacecraft operations managed by the active processor module."
+    ],
+    [
+        "PARA",
+        "The Boot Software Standby function shall access only resources local to the processor module without interfering with the nominal spacecraft operations managed by the active Processor Module. ",
+        "It shall access only resources local to the processor module without interfering with nominal spacecraft operations managed by the active processor module."
+    ],
+    [
+        "PARA",
+        "The Boot Software Standby function shall access only resources local to the processor module without interfering with the nominal spacecraft operations managed by the active Processor Module. ",
+        "It shall access only resources local to the processor module without interfering with the nominal spacecraft operations managed by the active processor module. "
+    ],
+    [
+        "PARA",
+        "The Boot Software Standby function shall access only resources local to the processor module without interfering with the nominal spacecraft operations managed by the active Processor Module. ",
+        "It shall access only resources local to the processor module without interfering with the nominal spacecraft operations managed by the active processor module. b"
+    ],
+    [
+        "PARA",
+        "The Boot Software Standby  activation condition shall be checked within the Boot Software Nominal Sequence. ",
+        "The boot-software standby activation condition shall be checked within the boot-software nominal sequence."
+    ],
+    [
+        "PARA",
+        "The Boot Software Standby  activation condition shall be checked within the Boot Software Nominal Sequence. ",
+        "The Boot Software Standby activation condition shall be checked within the Boot Software Nominal Sequence. "
+    ],
+    [
+        "PARA",
+        "The Boot Software Standby  activation condition shall be checked within the Boot Software Nominal Sequence. ",
+        "The boot-software standby activation condition shall be checked within the boot-software nominal sequence. "
+    ],
+    [
+        "PARA",
+        "The Boot Software Standby  activation condition shall be checked within the Boot Software Nominal Sequence. ",
+        "The boot-software standby activation condition shall be checked in the boot-software nominal sequence."
+    ],
+    [
+        "PARA",
+        "The Boot Software Standby  activation condition shall be checked within the Boot Software Nominal Sequence. ",
+        "The boot-software-standby activation condition shall be checked within the boot-software nominal sequence."
+    ],
+    [
+        "PARA",
+        "The Boot Software Standby  activation condition shall be checked within the Boot Software Nominal Sequence. ",
+        "The Boot Software Standby activation condition shall be checked in the Boot Software Nominal Sequence."
+    ],
+    [
+        "PARA",
+        "The Boot Software Standby  activation condition shall be checked within the Boot Software Nominal Sequence. ",
+        "The Boot Software Standby activation condition shall be checked within the Nominal Sequence of the Boot Software."
+    ],
+    [
+        "PARA",
+        "The Boot Software Standby  activation condition shall be checked within the Boot Software Nominal Sequence. ",
+        "The boot software standby activation condition shall be checked within the boot software nominal sequence. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software Standby  activation condition shall be checked within the Boot Software Nominal Sequence. ",
+        "The boot software standby activation condition shall be checked within the boot software nominal sequence."
+    ],
+    [
+        "PARA",
+        "The Boot Software Standby  activation condition shall be checked within the Boot Software Nominal Sequence. ",
+        "The Boot Software Standby activation condition shall be checked within the Boot Software Nominal Sequence."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall activate the Standby function based on conditions controlled by Ground. ",
+        "The Boot Software shall activate the standby function based on conditions controlled by ground."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall activate the Standby function based on conditions controlled by Ground. ",
+        "The Boot Software shall activate the Standby function based on conditions controlled by ground."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall activate the Standby function based on conditions controlled by Ground. ",
+        "The boot software shall activate the standby function based on ground conditions."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall activate the Standby function based on conditions controlled by Ground. ",
+        "The boot software shall activate the standby function based on conditions controlled by ground."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall support the capability to load and dump memories and registers, start and halt software execution, and re set the Processor Module on Ground command ( Monitor ). ",
+        "The Boot Software shall support the capability to load and dump memory and registers, start and stop software execution and re set the processor module on ground command ( Monitor )."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall support the capability to load and dump memories and registers, start and halt software execution, and re set the Processor Module on Ground command ( Monitor ). ",
+        "The boot software shall support the capability to load and dump memory and registers, start and stop software execution and re set the processor module on ground command ( Monitor ). "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall support the capability to load and dump memories and registers, start and halt software execution, and re set the Processor Module on Ground command ( Monitor ). ",
+        "The boot software shall support the capability to load and dump memory and registers, start and halt software execution and re set the processor module on ground command ( Monitor ). "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall support the capability to load and dump memories and registers, start and halt software execution, and re set the Processor Module on Ground command ( Monitor ). ",
+        "The boot software shall support the capability to load and dump memory and registers, start and stop software execution and re-set the processor module on ground command ( Monitor )."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall support the capability to load and dump memories and registers, start and halt software execution, and re set the Processor Module on Ground command ( Monitor ). ",
+        "The boot software shall support the capability to load and dump memory and registers, start and stop software execution and re-set the processor module on ground command ( Monitor ). "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall support the capability to load and dump memories and registers, start and halt software execution, and re set the Processor Module on Ground command ( Monitor ). ",
+        "The boot software shall support the capability to load and dump memories and registers, start and stop software execution and re set the processor module on ground command ( Monitor )."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall support the capability to load and dump memories and registers, start and halt software execution, and re set the Processor Module on Ground command ( Monitor ). ",
+        "The boot software shall support the capability to load and dump memory and registers, start and stop software execution and re set the processor module on ground command ( Monitor )."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall support the capability to load and dump memories and registers, start and halt software execution, and re set the Processor Module on Ground command ( Monitor ). ",
+        "The boot software shall support the capability to load and dump memory and registers, start and halt software execution and re set the processor module on ground command ( Monitor )."
+    ],
+    [
+        "PARA",
+        "The Boot Software Monitor activation condition shall be ch ecked within the Boot Software Nominal Sequence. ",
+        "The Boot Software Monitor activation condition shall be checked within the Boot Software Nominal Sequence."
+    ],
+    [
+        "PARA",
+        "The Boot Software Monitor activation condition shall be ch ecked within the Boot Software Nominal Sequence. ",
+        "The boot software monitor activation condition shall be checked within the boot software nominal sequence."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall activate the Monitor  function based on conditions being true only in Ground configuration. ",
+        "The boot software shall activate the Monitor function based on conditions being true only in ground configuration."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall activate the Monitor  function based on conditions being true only in Ground configuration. ",
+        "The Boot Software shall activate the monitor function based on conditions being true only in ground configuration."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall activate the Monitor  function based on conditions being true only in Ground configuration. ",
+        "The Boot Software shall activate the Monitor function based on conditions being true only in ground configuration."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall activate the Monitor  function based on conditions being true only in Ground configuration. ",
+        "The Boot Software shall activate the Monitor function based on the conditions being true only in ground configuration."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall activate the Monitor  function based on conditions being true only in Ground configuration. ",
+        "The boot software shall activate the monitor function based on conditions being true only in ground configuration."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall initialise Floati ng Point Unit processor registers. ",
+        "The Boot Software shall initialise the Floati ng Point Unit processor registers."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall initialise Floati ng Point Unit processor registers. ",
+        "The Floati ng Point Unit processor registers shall be initialised by the boot software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall initialise Floati ng Point Unit processor registers. ",
+        "The boot software shall initialise the Floati ng Point Unit processor registers."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall initialise Floati ng Point Unit processor registers. ",
+        "The Floati ng Point Unit processor registers shall be initialized by the Boot Software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall initialise Floati ng Point Unit processor registers. ",
+        "The Floati ng Point Unit processor registers shall be initialised by the Boot Software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall initialise Floati ng Point Unit processor registers. ",
+        "The boot software shall initialise Floati ng Point Unit processor registers."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall initialise Floati ng Point Unit processor registers. ",
+        "The Boot Software shall initialise Floati ng Point Unit processor registers."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall initialise th e registers of the On-Chip device s that are used by the Boot Software. ",
+        "The Boot Software shall initialise the registers of the on-chip devices used by the Boot Software. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall initialise th e registers of the On-Chip device s that are used by the Boot Software. ",
+        "The Boot Software shall initialise th e registers of the On-Chip devices used by the Boot Software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall initialise th e registers of the On-Chip device s that are used by the Boot Software. ",
+        "The Boot Software shall initialise the registers of the On-Chip device used by the Boot Software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall initialise th e registers of the On-Chip device s that are used by the Boot Software. ",
+        "The Boot Software shall initialise th e registers of the On-Chip device used by the Boot Software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall initialise th e registers of the On-Chip device s that are used by the Boot Software. ",
+        "The Boot Software shall initialise the registers of the On-Chip device used by the Boot Software. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall initialise th e registers of the On-Chip device s that are used by the Boot Software. ",
+        "The Boot Software shall initialise the registers of the on-chip devices used by the Boot Software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall initialise th e registers of the On-Chip device s that are used by the Boot Software. ",
+        "The Boot Software shall initialise the registers of the On-Chip devices used by the Boot Software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall initialise th e registers of the On-Chip device s that are used by the Boot Software. ",
+        "The Boot Software shall initialise the registers of the On-Chip devices used by the Boot Software. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disable the On-Chip devi ces that are not used by the Boot Software. ",
+        "The Boot Software shall disable the on-chip devices that are not used by the Boot Software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disable the On-Chip devi ces that are not used by the Boot Software. ",
+        "The Boot Software shall disable the On-Chip devices that are not used by the Boot Software. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disable the On-Chip devi ces that are not used by the Boot Software. ",
+        "The Boot Software shall disable the On-Chip devices that are not used by the Boot Software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disable the On-Chip devi ces that are not used by the Boot Software. ",
+        "It shall disable the On-Chip devices that are not used by the Boot Software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disable the On-Chip devi ces that are not used by the Boot Software. ",
+        "The boot software shall disable the on-chip devices that are not used by the boot software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disable the On-Chip devi ces that are not used by the Boot Software. ",
+        "The boot software shall disable the On-Chip devices that are not used by the boot software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disable the On-Chip devi ces that are not used by the Boot Software. ",
+        "It shall disable the on-chip devices that are not used by the Boot Software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disable the On-Chip devi ces that are not used by the Boot Software. ",
+        "It shall disable the on-chip devices that are not used by the boot software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall init ialise Memory Management Unit registers. ",
+        "The boot software shall init ialise memory management unit registers."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall init ialise Memory Management Unit registers. ",
+        "The Boot Software shall init ialise memory management unit registers."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall register trap specific hand lers for each of the trap sources related to error conditions.  ",
+        "The Boot Software shall register trap specific handlers for each of the trap sources related to error conditions."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall register trap specific hand lers for each of the trap sources related to error conditions.  ",
+        "The Boot Software shall register trap specific handlers for each of the trap sources related to the error conditions."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall register trap specific hand lers for each of the trap sources related to error conditions.  ",
+        "The boot software shall register trap specific handlers for each of the trap sources related to error conditions."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall register trap specific hand lers for each of the trap sources related to error conditions.  ",
+        "The Boot Software shall register trap specific handlers for each of the trap sources related to the error conditions. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall register trap specific hand lers for each of the trap sources related to error conditions.  ",
+        "The boot software shall register trap specific handlers for each of the trap sources related to the error conditions."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall register de fault handlers for every trap source where a specific handler is not defined. ",
+        "The Boot Software shall register de fault handlers for every trap source where a specific handler is not defined."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall register de fault handlers for every trap source where a specific handler is not defined. ",
+        "The boot software shall register de fault handlers for every trap source where a specific handler is not defined."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall register de fault handlers for every trap source where a specific handler is not defined. ",
+        "The boot software shall register de fault handlers for each trap source where a specific handler is not defined."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall register de fault handlers for every trap source where a specific handler is not defined. ",
+        "The Boot Software shall register fault handlers for every trap source where a specific handler is not defined."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall register de fault handlers for every trap source where a specific handler is not defined. ",
+        "De fault handlers shall be registered for each trap source where a specific handler is not defined."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall register de fault handlers for every trap source where a specific handler is not defined. ",
+        "De fault handlers shall be registered for every trap source where a specific handler is not defined."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall register de fault handlers for every trap source where a specific handler is not defined. ",
+        "The Boot Software shall register de fault handlers for each trap source where a specific handler is not defined."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disable memory Error Detection And Correction at start-up. ",
+        "At start-up the Boot Software shall disable memory error detection and correction."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disable memory Error Detection And Correction at start-up. ",
+        "The boot software shall disable memory error detection and correction at startup."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disable memory Error Detection And Correction at start-up. ",
+        "At start-up the boot software shall disable memory errors detection and correction."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disable memory Error Detection And Correction at start-up. ",
+        "The Boot Software shall disable memory error detection and correction at startup. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disable memory Error Detection And Correction at start-up. ",
+        "The boot software shall disable memory error detection and correction at startup. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disable memory Error Detection And Correction at start-up. ",
+        "The Boot Software shall disable memory error detection and correction at startup."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disable memory Error Detection And Correction at start-up. ",
+        "The boot software shall disable memory error detection and correction at start-up."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disable memory Error Detection And Correction at start-up. ",
+        "When the boot software is started the memory error detection and correction shall be disabled."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disable memory Error Detection And Correction at start-up. ",
+        "At start-up the boot software shall disable memory error detection and correction."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disabl e interrupts at start-up. ",
+        "It shall disable interrupts at startup."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disabl e interrupts at start-up. ",
+        "The Boot Software shall disable interrupts at startup."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disabl e interrupts at start-up. ",
+        "The Boot Software shall disable interrupts at startup. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disabl e interrupts at start-up. ",
+        "The Boot Software shall disable interrupts at start-up."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disabl e interrupts at start-up. ",
+        "The boot software shall disable interrupts at startup. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disabl e interrupts at start-up. ",
+        "The boot software shall disable interrupts at start-up."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disabl e interrupts at start-up. ",
+        "The boot software shall disable interrupts at startup."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall disabl e interrupts at start-up. ",
+        "The boot software shall disable interrupts at start-up. "
+    ],
+    [
+        "PARA",
+        "In case of multi-core processors, only one co re must be responsible for the initialisation sequence. ",
+        "In case of multicore processors, only one co re must be responsible for the initialization sequence."
+    ],
+    [
+        "PARA",
+        "In case of multi-core processors, only one co re must be responsible for the initialisation sequence. ",
+        "In case of multicore processors, only one co re must be responsible for the initialisation sequence."
+    ],
+    [
+        "PARA",
+        "In case of multi-core processors, only one co re must be responsible for the initialisation sequence. ",
+        "In case of multicore processors only one co re must be responsible for the initialisation sequence."
+    ],
+    [
+        "PARA",
+        "In case of multi-core processors, secondary core(s) shall be disabl ed (i.e. powered-down) all time during the boot software execution. ",
+        "When using multicore processors secondary cores shall be disabled (i.e. powered down) all time during boot software execution."
+    ],
+    [
+        "PARA",
+        "In case of multi-core processors, secondary core(s) shall be disabl ed (i.e. powered-down) all time during the boot software execution. ",
+        "When using multicore processors secondary cores shall be disabled (i.e. powered-down) all time during the boot software execution. "
+    ],
+    [
+        "PARA",
+        "In case of multi-core processors, secondary core(s) shall be disabl ed (i.e. powered-down) all time during the boot software execution. ",
+        "When using multicore processors secondary cores shall be disabled (i.e. powered-down) all time during the boot software execution."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall set the pr ocessor module in a known and consistent configuration before executing the Application Software. ",
+        "The boot software shall set the processor module in a known and consistent configuration before executing the application software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall set the pr ocessor module in a known and consistent configuration before executing the Application Software. ",
+        "The software shall set the processor module in a known and consistent configuration before the application software is executed."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall set the pr ocessor module in a known and consistent configuration before executing the Application Software. ",
+        "The software shall set the processor module in a known and consistent configuration before executing the application software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall test the processor fun ctions supporting Self-Test capabilities. ",
+        "The operating system software shall test the processor functions supporting self-test capabilities."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall test the processor fun ctions supporting Self-Test capabilities. ",
+        "The boot software shall test the processor functions supporting self-test capabilities."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall test the processor fun ctions supporting Self-Test capabilities. ",
+        "The operating system software shall test the processor functions supporting self-test capabilities. "
+    ],
+    [
+        "PARA",
+        "If Hardware Built-In Test is available, the boot Software shall re port the built in test results in the boot report. ",
+        "If the hardware built-in test is available the boot software shall report the built-in test results in the boot report."
+    ],
+    [
+        "PARA",
+        "If Hardware Built-In Test is available, the boot Software shall re port the built in test results in the boot report. ",
+        "If an integrated hardware test is available the boot software shall report the built-in test results in the boot report. "
+    ],
+    [
+        "PARA",
+        "If Hardware Built-In Test is available, the boot Software shall re port the built in test results in the boot report. ",
+        "If an integrated hardware test is available the boot software shall report the built-in test results in the boot report."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test (checksum\/crc) on the Boot Software image (code and data) stored in processo r module read-only memory. ",
+        "The boot software shall perform an integrity test (checksum\/crc) on the Boot Software image (code and data) stored in processo r module read-only memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test (checksum\/crc) on the Boot Software image (code and data) stored in processo r module read-only memory. ",
+        "It shall perform an integrity test (checksum\/crc) on the Boot Software image (code and data) stored in the processo r module read-only memory. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test (checksum\/crc) on the Boot Software image (code and data) stored in processo r module read-only memory. ",
+        "The Boot Software shall perform an integrity test (checksum\/crc) on the Boot Software image (code and data) stored in the processo r module read-only memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test (checksum\/crc) on the Boot Software image (code and data) stored in processo r module read-only memory. ",
+        "It shall perform an integrity test (checksum\/crc) on the Boot Software image (code and data) stored in the processo r module read-only memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test (checksum\/crc) on the Boot Software image (code and data) stored in processo r module read-only memory. ",
+        "It shall perform an integrity test (checksum\/crc) on the Boot Software image (code and data) stored in the read-only processo r module memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test (checksum\/crc) on the Boot Software image (code and data) stored in processo r module read-only memory. ",
+        "It shall perform an integrity test (checksum\/crc) on the Boot Software image (code and data) stored in the read-only processo r module memory. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test (checksum\/crc) on the Boot Software image (code and data) stored in processo r module read-only memory. ",
+        "It shall perform an integrity test (checksum\/crc) on the Boot Software image (code and data) stored in the read-only processo r module."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test (checksum\/crc) on the Boot Software image (code and data) stored in processo r module read-only memory. ",
+        "The Boot Software shall perform an integrity test (checksum\/crc) on the Boot Software image (code and data) stored in processo r module read-only memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall test the processor module  volatile read\/write memories to detect functional and manufacturing problems. ",
+        "The Boot Software shall test the volatile read\/write memory of the processor module to detect functional and manufacturing problems."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall test the processor module  volatile read\/write memories to detect functional and manufacturing problems. ",
+        "The boot software shall test the volatile read\/write memory of the processor module to detect functional and manufacturing problems."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall test the processor module  volatile read\/write memories to detect functional and manufacturing problems. ",
+        "The boot software shall test the volatile read\/write memory of the processor module to detect functional and manufacturing problems. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall test the processor module  volatile read\/write memories to detect functional and manufacturing problems. ",
+        "The boot software shall test the processor module volatile read\/write memories to detect functional and manufacturing problems."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall test the processor module  volatile read\/write memories to detect functional and manufacturing problems. ",
+        "It shall test the volatile read\/write memory of the processor module for functional and manufacturing problems. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall test the processor module  volatile read\/write memories to detect functional and manufacturing problems. ",
+        "The Boot Software shall test the volatile read\/write memory of the processor module to detect functional and manufacturing problems. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall test the processor module  volatile read\/write memories to detect functional and manufacturing problems. ",
+        "The boot software shall test the processor module volatile read\/write memory to detect functional and manufacturing problems."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall test the processor module  volatile read\/write memories to detect functional and manufacturing problems. ",
+        "The boot software shall test the volatile read\/write memories of the processor module to detect functional and manufacturing problems."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall test the processor module  volatile read\/write memories to detect functional and manufacturing problems. ",
+        "It shall test the volatile read\/write memory of the processor module for functional and manufacturing problems."
+    ],
+    [
+        "PARA",
+        "It shall be possible to disable the selft est of the processor module volatile memory. ",
+        "In addition it shall be possible to disable the volatile memory of the processor module."
+    ],
+    [
+        "PARA",
+        "It shall be possible to disable the selft est of the processor module volatile memory. ",
+        "It shall be possible to disable the volatile memory of the processor module. ''"
+    ],
+    [
+        "PARA",
+        "It shall be possible to disable the selft est of the processor module volatile memory. ",
+        "It shall be possible to disable the selftest of the processor module volatile memory."
+    ],
+    [
+        "PARA",
+        "It shall be possible to disable the selft est of the processor module volatile memory. ",
+        "It shall be possible to disable the volatile memory of the processor module."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test  (checksum\/crc) on the Application Software image (code and data) to be copied from Ap plication storage memory to  processor working memory. ",
+        "An integrity test (checksum\/crc) on the Application Software image (code and data) to be copied from Application storage memory to processor working memory shall be performed. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test  (checksum\/crc) on the Application Software image (code and data) to be copied from Ap plication storage memory to  processor working memory. ",
+        "The boot software shall perform an integrity test (checksum\/crc) on the Application Software image (code and data) to be copied from the Application storage memory to the processor working memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test  (checksum\/crc) on the Application Software image (code and data) to be copied from Ap plication storage memory to  processor working memory. ",
+        "An integrity test (checksum\/crc) on the Application Software image (code and data) to be copied from Application storage memory to processor working memory shall be performed."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test  (checksum\/crc) on the Application Software image (code and data) to be copied from Ap plication storage memory to  processor working memory. ",
+        "The boot software shall perform an integrity test (checksum\/crc) on the application software image (code and data) to be copied from the application storage memory to the processor working memory. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test  (checksum\/crc) on the Application Software image (code and data) to be copied from Ap plication storage memory to  processor working memory. ",
+        "The boot software shall perform an integrity test (checksum\/crc) on the application software image (code and data) to be copied from the application storage memory to the processor working memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test  (checksum\/crc) on the Application Software image (code and data) to be copied from Ap plication storage memory to  processor working memory. ",
+        "The Boot Software shall perform an integrity test (checksum\/crc) on the Application Software image (code and data) to be copied from Application storage memory to the processor working memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test  (checksum\/crc) on the Application Software image (code and data) to be copied from Ap plication storage memory to  processor working memory. ",
+        "The Boot Software shall perform an integrity test (checksum\/crc) on the Application Software image (code and data) to be copied from the Application storage memory to the processor working memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test  (checksum\/crc) on the Application Software image (code and data) in processor working memory after the copy. ",
+        "The boot software shall perform an integrity test (checksum\/crc) on the Application Software image (code and data) in the processor working memory after the copy. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test  (checksum\/crc) on the Application Software image (code and data) in processor working memory after the copy. ",
+        "The bootstrap software shall perform an integrity test on the application software image (code and data) in processor working memory after the copy."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test  (checksum\/crc) on the Application Software image (code and data) in processor working memory after the copy. ",
+        "The Boot Software shall perform an integrity test (checksum\/crc) on the Application Software image (code and data) in the processor working memory after the copy."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test  (checksum\/crc) on the Application Software image (code and data) in processor working memory after the copy. ",
+        "The Boot Software shall perform an integrity test (checksum\/crc) on the application software image (code and data) in the processor working memory after the copy. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test  (checksum\/crc) on the Application Software image (code and data) in processor working memory after the copy. ",
+        "The boot software shall perform an integrity test (checksum\/crc) on the application software image (code and data) in the processor working memory after the copy."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test  (checksum\/crc) on the Application Software image (code and data) in processor working memory after the copy. ",
+        "The boot software shall perform an integrity test (checksum\/crc) on the application software image (code and data) in the processor working memory after the copy. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test  (checksum\/crc) on the Application Software image (code and data) in processor working memory after the copy. ",
+        "The boot software shall perform an integrity test (checksum\/crc) on the application software image (code and data) in processor working memory after the copy."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test  (checksum\/crc) on the Application Software image (code and data) in processor working memory after the copy. ",
+        "The Boot Software shall perform an integrity test (checksum\/crc) on the Application Software image (code and data) in the processor working memory after the copy. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test  (checksum\/crc) on the Application Software image (code and data) in processor working memory after the copy. ",
+        "The Boot Software shall perform an integrity test (checksum\/crc) on the application software image (code and data) in the processor working memory after the copy."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall perform an integrity test  (checksum\/crc) on the Application Software image (code and data) in processor working memory after the copy. ",
+        "The boot software shall perform an integrity test (checksum\/crc) on the Application Software image (code and data) in the processor working memory after the copy."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall use the same algorithm for all Software image integrity tests. ",
+        "The boot software shall use the same algorithm for all software image integrity tests."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall use the same algorithm for all Software image integrity tests. ",
+        "The Boot Software shall use the same algorithm for all software image integrity tests."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall use the same algorithm for all Software image integrity tests. ",
+        "The Boot Software shall use the same algorithm for all Software image integrity tests."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall use the same algorithm for all Software image integrity tests. ",
+        "The Boot Software shall use the same algorithm for all Software Image Integrity tests."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall use the same algorithm for all Software image integrity tests. ",
+        "It shall use the same algorithm for all software image integrity tests."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall use the same algorithm for all Software image integrity tests. ",
+        "It shall use the same algorithm for all Software image integrity tests."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall use the same algorithm for all Software image integrity tests. ",
+        "It shall use the same algorithm for all Software Image Integrity tests."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall reset to a fixed pre-defined value the co ntent of the processor module volatile read\/write memories after the related Self-Tests. ",
+        "Boot Software shall reset the volatile read\/write memory of the processor module after the related self-tests to a fixed pre-defined value."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall reset to a fixed pre-defined value the co ntent of the processor module volatile read\/write memories after the related Self-Tests. ",
+        "Boot Software shall reset the volatile read\/write memory of the processor module after the related self-tests to a fixed pre-defined value. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall reset to a fixed pre-defined value the co ntent of the processor module volatile read\/write memories after the related Self-Tests. ",
+        "Boot Software shall reset the volatile read\/write memory of the processor module after the related self-tests to a fixed pre-defined value. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall enable and use critical pr ocessor module function s independently from the result of the related Self-Tests. ",
+        "The Boot Software shall enable and use critical processor module functions independently of the result of the related self-tests."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall enable and use critical pr ocessor module function s independently from the result of the related Self-Tests. ",
+        "The boot software shall enable and use critical processor module functions independently of the result of the related self-tests. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall enable and use critical pr ocessor module function s independently from the result of the related Self-Tests. ",
+        "The boot software shall enable and use critical processor module functions independently of the result of the related self-tests."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall enable and use critical pr ocessor module function s independently from the result of the related Self-Tests. ",
+        "The boot software shall enable and use critical processor module functions independently from the result of the related self-tests. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall enable and use critical pr ocessor module function s independently from the result of the related Self-Tests. ",
+        "The boot software shall enable and use critical processor module functions independently of the result of the related self-tests. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall enable and use critical pr ocessor module function s independently from the result of the related Self-Tests. ",
+        "The Boot Software shall enable and use critical processor module functions independently of the result of the related self-tests. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall provide the result of each test in the Boot Report . ",
+        "The boot software shall provide the results of each test in the boot report. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall provide the result of each test in the Boot Report . ",
+        "The Boot Software shall provide the results of each test in the Boot Report. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall provide the result of each test in the Boot Report . ",
+        "The Boot Software shall provide the result of each test in the Boot Report. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall provide the result of each test in the Boot Report . ",
+        "The Boot Software shall provide the results of each test in the Boot Report. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall provide the result of each test in the Boot Report . ",
+        "The boot software shall provide the result of each test in the boot report. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall provide the result of each test in the Boot Report . ",
+        "The Boot Software shall provide the results of each test in the Boot Report."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall provide the result of each test in the Boot Report . ",
+        "The Boot Software shall provide the result of each test in the Boot Report."
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be made available in Telemetry. ",
+        "The results of the tests (Boot Report) shall be available in Telemetry."
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be made available in Telemetry. ",
+        "The result of the tests (Boot Report) shall be made available in Telemetry."
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be made available in Telemetry. ",
+        "The results of the tests (Boot Report) shall be made available in Telemetry."
+    ],
+    [
+        "PARA",
+        "As a minimum, the summary shall include the fast boot path se lection (enabledot enabled), the Application Software image selection, and any type  of error detected during Processor Module self-tests. ",
+        "As a minimum, the summary shall include the fast boot path se lection (enabled\/not enabled), the Application Software image selection, and any type  of error detected during Processor Module self-tests. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall report its progress in  the Boot Report right after each test. ",
+        "The Boot Software shall report its progress in the Boot Report immediately after each test."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall report its progress in  the Boot Report right after each test. ",
+        "The boot software shall report its progress in the Boot Report right after each test."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall report its progress in  the Boot Report right after each test. ",
+        "It shall report its progress in the Boot Report right after each test."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall report its progress in  the Boot Report right after each test. ",
+        "It shall report its progress in the boot report right after each test."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall report its progress in  the Boot Report right after each test. ",
+        "The software shall report its progress in the Boot Report right after each test."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall report its progress in  the Boot Report right after each test. ",
+        "It shall report its progress in the Boot Report immediately after each test."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall report its progress in  the Boot Report right after each test. ",
+        "It shall report its progress in the Boot Report right after each test. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall report its progress in  the Boot Report right after each test. ",
+        "The Boot Software shall report its progress in the Boot Report right after each test."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall report its progress in  the Boot Report right after each test. ",
+        "The boot software shall report its progress in the boot report right after each test."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall report its progress in  the High Priority Telemetry Boot Summary after each test. ",
+        "The Boot Software shall report its progress in the High Priority Telemetry Boot Summary after each test."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall report its progress in  the High Priority Telemetry Boot Summary after each test. ",
+        "The boot software shall report its progress in the High Priority Telemetry Boot Summary after each test."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall report its progress in  the High Priority Telemetry Boot Summary after each test. ",
+        "The Boot Software shall report its progress after each test in the High Priority Telemetry Boot Summary."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall report its progress in  the High Priority Telemetry Boot Summary after each test. ",
+        "After each test the software shall report its progress in the High Priority Telemetry Boot Summary. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall report its progress in  the High Priority Telemetry Boot Summary after each test. ",
+        "The software shall report its progress in the High Priority Telemetry Boot Summary after each test."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall report its progress in  the High Priority Telemetry Boot Summary after each test. ",
+        "In the High Priority Telemetry Boot Summary after each test the software shall report its progress."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall report its progress in  the High Priority Telemetry Boot Summary after each test. ",
+        "The Boot Software shall report its progress in the High Priority Telemetry Boot Summary after each test. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall report its progress in  the High Priority Telemetry Boot Summary after each test. ",
+        "The boot software shall report its progress in the High Priority Telemetry Boot Summary after each test. "
+    ],
+    [
+        "PARA",
+        "In case copies of the same Boot Report are stored in different memory areas, the Boot Software shall keep these aligned during the progress updates. ",
+        "For instance if copies of the same Boot Report are stored in different memory areas the Boot Software shall keep these aligned during the progress updates."
+    ],
+    [
+        "PARA",
+        "In case copies of the same Boot Report are stored in different memory areas, the Boot Software shall keep these aligned during the progress updates. ",
+        "In case copies of the same boot report are stored in different memory areas the Boot Software shall keep these aligned during the progress updates."
+    ],
+    [
+        "PARA",
+        "In case copies of the same Boot Report are stored in different memory areas, the Boot Software shall keep these aligned during the progress updates. ",
+        "In case copies of the same Boot Report are stored in different memory areas, the Boot Software shall keep these aligned during the progress updates."
+    ],
+    [
+        "PARA",
+        "In case copies of the same Boot Report are stored in different memory areas, the Boot Software shall keep these aligned during the progress updates. ",
+        "In case copies of the same Boot Report are stored in different memory areas the Boot Software shall keep these aligned during the progress updates."
+    ],
+    [
+        "PARA",
+        "In case copies of the same Boot Report are stored in different memory areas, the Boot Software shall keep these aligned during the progress updates. ",
+        "In case copies of the same Boot Report are stored in different memory areas the Boot Software shall keep these aligned during progress updates."
+    ],
+    [
+        "PARA",
+        "In case copies of the same Boot Report are stored in different memory areas, the Boot Software shall keep these aligned during the progress updates. ",
+        "If copies of the same Boot Report are stored in different memory areas the Boot Software shall keep these aligned during the progress updates."
+    ],
+    [
+        "PARA",
+        "In case copies of the same Boot Report are stored in different memory areas, the Boot Software shall keep these aligned during the progress updates. ",
+        "If copies of the same Boot Report are stored in different memory areas the Boot Software shall keep these aligned during the progress updates. ''"
+    ],
+    [
+        "PARA",
+        "In case copies of the same Boot Report are stored in different memory areas, the Boot Software shall keep these aligned during the progress updates. ",
+        "In case copies of the same Boot Report are stored in different memory areas the Boot Software shall keep these aligned during progress updates. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall allow chec king the integrity of the Boot Report. ",
+        "The Boot Software shall allow the integrity of the Boot Report."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall allow chec king the integrity of the Boot Report. ",
+        "The boot software shall permit the integrity of the boot report."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall allow chec king the integrity of the Boot Report. ",
+        "The software shall permit the integrity of the Boot Report."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall allow chec king the integrity of the Boot Report. ",
+        "The software shall permit the integrity of the boot report."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall allow chec king the integrity of the Boot Report. ",
+        "The Boot Software shall permit the integrity of the Boot Report."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall allow to store in protected resource (e .g. Safeguard Memory) multiple Boot Report s in compliance with the number of autonomo us reconfiguration sequences foreseen at system level. ",
+        "It shall allow to store multiple Boot Reports in protected memory in compliance with the number of autonomous us reconfiguration sequences foreseen at system level."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall allow to store in protected resource (e .g. Safeguard Memory) multiple Boot Report s in compliance with the number of autonomo us reconfiguration sequences foreseen at system level. ",
+        "It shall allow to store multiple Boot Reports in protected memory in compliance with the number of autonomous reconfiguration sequences foreseen at system level. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall allow to store in protected resource (e .g. Safeguard Memory) multiple Boot Report s in compliance with the number of autonomo us reconfiguration sequences foreseen at system level. ",
+        "It shall allow to store multiple Boot Reports in protected memory in compliance with the number of autonomous reconfiguration sequences foreseen at system level."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall allow to store in protected resource (e .g. Safeguard Memory) multiple Boot Report s in compliance with the number of autonomo us reconfiguration sequences foreseen at system level. ",
+        "It shall allow to store multiple Boot Reports in protected memory in accordance with the number of autonomous us reconfiguration sequences foreseen at system level."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall allow to store in protected resource (e .g. Safeguard Memory) multiple Boot Report s in compliance with the number of autonomo us reconfiguration sequences foreseen at system level. ",
+        "It shall allow to store multiple Boot Reports in protected memory in compliance with the number of autonomous us reconfiguration sequences foreseen at system level. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall allow to store in protected resource (e .g. Safeguard Memory) multiple Boot Report s in compliance with the number of autonomo us reconfiguration sequences foreseen at system level. ",
+        "It shall allow to store multiple Boot Reports in protected memory in compliance with the number of autonomous us reconfiguration sequences foreseen at system level. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall allow to store in protected resource (e .g. Safeguard Memory) multiple Boot Report s in compliance with the number of autonomo us reconfiguration sequences foreseen at system level. ",
+        "It shall allow to store multiple Boot Reports in protected memory in accordance with the number of autonomous reconfiguration sequences foreseen at system level. ''"
+    ],
+    [
+        "PARA",
+        "Boot Software worst case execution time shall be compatible with reconfiguration time system requirements. ",
+        "Boot Software worst case execution time shall be compatible with the system reconfiguration time requirements."
+    ],
+    [
+        "PARA",
+        "Boot Software worst case execution time shall be compatible with reconfiguration time system requirements. ",
+        "Boot Software worst case execution time shall be compatible with system reconfiguration time requirements."
+    ],
+    [
+        "PARA",
+        "Boot Software worst case execution time shall be compatible with reconfiguration time system requirements. ",
+        "Boot Software's worst case execution time shall be compatible with system requirements for reconfiguration time."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an execution reporting subservice provider. ",
+        "The boot software shall host a subservice provider for execution reporting."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an execution reporting subservice provider. ",
+        "An execution reporting subservice provider shall be hosted by Boot Software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an execution reporting subservice provider. ",
+        "An execution reporting subservice provider shall be hosted by the Boot Software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an execution reporting subservice provider. ",
+        "The boot software shall host an execution reporting subservice provider."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an execution reporting subservice provider. ",
+        "In addition the Boot Software shall host an execution reporting subservice provider."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an execution reporting subservice provider. ",
+        "The Boot Software shall host a subservice provider for execution reporting."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an execution reporting subservice provider. ",
+        "The Boot Software shall host an execution reporting subservice provider."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an execution reporting subservice provider. ",
+        "The software shall host an execution reporting subservice provider."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an execution reporting subservice provider. ",
+        "An execution reporting subservice provider shall be hosted by Boot Software. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an housek eeping reporting subservice provider. ",
+        "The boot software shall host a housek eeping reporting subservice provider."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an housek eeping reporting subservice provider. ",
+        "The Boot Software shall host a housek eeping reporting sub-service provider."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an housek eeping reporting subservice provider. ",
+        "The Boot Software shall host a housek eeping reporting subservice provider."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an housek eeping reporting subservice provider. ",
+        "The Boot Software shall host an eeping reporting subservice provider."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an event reporting subservice provider. ",
+        "The Boot Software shall host an event reporting sub-service provider."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an event reporting subservice provider. ",
+        "In addition the Boot Software shall host an event reporting subservice provider."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an event reporting subservice provider. ",
+        "The boot software shall host an event reporting subservice provider."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an event reporting subservice provider. ",
+        "The Boot Software shall host an event reporting subservice provider."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an event reporting subservice provider. ",
+        "An event reporting subservice provider shall be provided by the Boot Software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an event reporting subservice provider. ",
+        "Boot Software shall host an event reporting subservice provider."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an event reporting subservice provider. ",
+        "An event reporting subservice provider shall be hosted by the Boot Software."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host an event reporting subservice provider. ",
+        "The Boot Software shall host an event reporting sub-service provider. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host a memory management service provider. ",
+        "The software shall host a memory management service provider. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host a memory management service provider. ",
+        "The Boot Software shall host a memory management service provider."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host a memory management service provider. ",
+        "The software shall host a memory management service provider."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host a memory management service provider. ",
+        "The boot software shall host a memory management service provider."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host a memory management service provider. ",
+        "The Boot software shall host a memory management service provider."
+    ],
+    [
+        "PARA",
+        "The Boot Software related memory management service shall contain a raw data memory management subservice. ",
+        "The boot software related memory management service shall contain a raw data memory management subservice."
+    ],
+    [
+        "PARA",
+        "The Boot Software related memory management service shall contain a raw data memory management subservice. ",
+        "The corresponding memory management service for Boot Software shall contain a raw data memory management subservice."
+    ],
+    [
+        "PARA",
+        "The Boot Software related memory management service shall contain a raw data memory management subservice. ",
+        "The corresponding memory management service of Boot Software shall contain a raw data memory management subservice."
+    ],
+    [
+        "PARA",
+        "The Boot Software related memory management service shall contain a raw data memory management subservice. ",
+        "The Boot Software related memory management service shall contain a raw data memory management subservice."
+    ],
+    [
+        "PARA",
+        "The Boot Software related memory management service shall contain a raw data memory management subservice. ",
+        "The Boot Software related memory management service shall contain a subservice for the storage of raw data."
+    ],
+    [
+        "PARA",
+        "The Boot Software related memory management service shall contain a raw data memory management subservice. ",
+        "The memory management service related to Boot Software shall contain a raw data memory management subservice."
+    ],
+    [
+        "PARA",
+        "The raw data memory manageme nt subservice hosted by the Boot Software shall provide the capability to check raw memory data. ",
+        "The raw data memory management subservice hosted by Boot Software shall provide the capability to check raw memory data."
+    ],
+    [
+        "PARA",
+        "The raw data memory manageme nt subservice hosted by the Boot Software shall provide the capability to check raw memory data. ",
+        "The raw data memory manageme nt subservice hosted by the Boot Software shall provide the capability to check the raw memory data."
+    ],
+    [
+        "PARA",
+        "The raw data memory manageme nt subservice hosted by the Boot Software shall provide the capability to check raw memory data. ",
+        "The raw data memory manageme nt subservice hosted by the boot software shall provide the capability to check raw memory data."
+    ],
+    [
+        "PARA",
+        "The raw data memory manageme nt subservice hosted by the Boot Software shall provide the capability to check raw memory data. ",
+        "The raw data memory management subservice hosted by the Boot Software shall provide the capability to check raw memory data."
+    ],
+    [
+        "PARA",
+        "The raw data memory manageme nt subservice hosted by the Boot Software shall provide the capability to check raw memory data. ",
+        "The raw data memory manageme nt subservice hosted by Boot Software shall provide the capability to check raw memory data."
+    ],
+    [
+        "PARA",
+        "The raw data memory manageme nt subservice hosted by the Boot Software shall provide the capability to check raw memory data. ",
+        "The raw data memory manageme nt subservice hosted by the Boot Software shall provide the capability to check raw memory data."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host a test subservice. ",
+        "The Boot Software shall host a test subservice."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host a test subservice. ",
+        "The boot software shall host a testing subservice."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host a test subservice. ",
+        "The boot software shall host a subservice for testing."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host a test subservice. ",
+        "The boot software shall host a test subservice. -"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host a test subservice. ",
+        "The boot software shall host a test subservice."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host a test subservice. ",
+        "The booting software shall host a test subservice."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host a test subservice. ",
+        "The boot-software shall host a test subservice."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host a paramete r management subservice provider. ",
+        "The Boot Software shall host a management subservice provider.."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host a paramete r management subservice provider. ",
+        "The Boot Software shall host a management subservice provider. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host a paramete r management subservice provider. ",
+        "The Boot Software shall host a management subservice provider."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall host a paramete r management subservice provider. ",
+        "The boot software shall host a management subservice provider."
+    ],
+    [
+        "PARA",
+        "The parameter management subservice of the B oot Software shall provide the capability to set parameter values. ",
+        "The B Oot Software parameter management subservice shall provide the ability to set parameter values."
+    ],
+    [
+        "PARA",
+        "The parameter management subservice of the B oot Software shall provide the capability to set parameter values. ",
+        "The B Oot Software parameter management subservice shall provide the capability to set parameter values. b"
+    ],
+    [
+        "PARA",
+        "The parameter management subservice of the B oot Software shall provide the capability to set parameter values. ",
+        "The parameter management subservice of B oot Software shall provide the ability to set parameter values."
+    ],
+    [
+        "PARA",
+        "The parameter management subservice of the B oot Software shall provide the capability to set parameter values. ",
+        "The parameter management subservice of the B oot Software shall provide the capability to set parameter values."
+    ],
+    [
+        "PARA",
+        "The parameter management subservice of the B oot Software shall provide the capability to set parameter values. ",
+        "The B Oot Software parameter management subservice shall provide the capability to set parameters values."
+    ],
+    [
+        "PARA",
+        "The parameter management subservice of the B oot Software shall provide the capability to set parameter values. ",
+        "The B Oot Software parameter management subservice shall provide the capability to set parameter values. ''"
+    ],
+    [
+        "PARA",
+        "The parameter management subservice of the B oot Software shall provide the capability to set parameter values. ",
+        "The parameter management subservice of B oot Software shall provide the capability to set parameter values."
+    ],
+    [
+        "PARA",
+        "The parameter management subservice of the B oot Software shall provide the capability to set parameter values. ",
+        "The B Oot Software parameter management subservice shall provide the ability to set parameter values. ''"
+    ],
+    [
+        "PARA",
+        "The parameter management subservice of the B oot Software shall provide the capability to set parameter values. ",
+        "The parameter management subservice of the B oot Software shall provide the ability to set parameter values."
+    ],
+    [
+        "PARA",
+        "The parameter management subservice of the B oot Software shall provide the capability to set parameter values. ",
+        "The B Oot Software parameter management subservice shall provide the capability to set parameter values."
+    ],
+    [
+        "PARA",
+        "The Boot Software code and read-only data related to  processor initialisation shall be stored in the processor Boot Memory. ",
+        "Data related to initialisation of the processor shall be stored in the processor's boot memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software code and read-only data related to  processor initialisation shall be stored in the processor Boot Memory. ",
+        "The Boot Software code and read-only data related to processor initialisation shall be stored in the processor's boot memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software code and read-only data related to  processor initialisation shall be stored in the processor Boot Memory. ",
+        "Data related to processor initialisation shall be stored in the boot memory of the processor. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software code and read-only data related to  processor initialisation shall be stored in the processor Boot Memory. ",
+        "The Boot Software code and read-only data related to the initialisation of the processor shall be stored in the processor's boot memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software code and read-only data related to  processor initialisation shall be stored in the processor Boot Memory. ",
+        "Data related to initialisation of the processor shall be stored in the boot memory of the processor."
+    ],
+    [
+        "PARA",
+        "The Boot Software code and read-only data related to  processor initialisation shall be stored in the processor Boot Memory. ",
+        "The boot software code and read-only data related to the initialisation of the processor shall be stored in the processor's boot memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software code and read-only data related to  processor initialisation shall be stored in the processor Boot Memory. ",
+        "The Boot Software code and read-only data related to the initialisation of the processor shall be stored in the processor's Boot Memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software code and read-only data related to  processor initialisation shall be stored in the processor Boot Memory. ",
+        "The boot software code and read-only data related to processor initialisation shall be stored in the processor's boot memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software code and read-only data related to  processor initialisation shall be stored in the processor Boot Memory. ",
+        "Data related to the initialisation of the processor shall be stored in the processor's boot memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software code and read-only data related to  processor initialisation shall be stored in the processor Boot Memory. ",
+        "The Boot Software code and read-only data related to processor initialisation shall be stored in the processor's Boot Memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be indepe ndent from the actual values of the Application Software image parameters. ",
+        "The boot software shall be independent of the actual values of the application software image parameters."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be indepe ndent from the actual values of the Application Software image parameters. ",
+        "The Boot Software shall be independent of the actual values of the Application Software image parameters."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be indepe ndent from the actual values of the Application Software image parameters. ",
+        "It shall be independent from the actual values of the application software image parameters."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be indepe ndent from the actual values of the Application Software image parameters. ",
+        "The Boot Software shall be independent of the actual values of the application software image parameters."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be indepe ndent from the actual values of the Application Software image parameters. ",
+        "The Boot Software shall be independent of the actual values of the image parameters of the Application Software."
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of processor working memory. ",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of the processor working memory. "
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of processor working memory. ",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of processor working memory. ''"
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of processor working memory. ",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of the processor's working memory."
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of processor working memory. ",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of processor working memory."
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of processor working memory. ",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of the processor working memory."
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of processor working memory. ",
+        "It shall be stored in a predefined area of the processor's working memory. ''"
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of processor working memory. ",
+        "The results of the tests (Boot Report) shall be stored in a predefined area of the processor working memory."
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of processor working memory. ",
+        "It shall be stored in a predefined area of the processor's working memory the result of the tests."
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of nominal protected resource (e.g . Safeguard Memory). ",
+        "The results of the tests (Boot Report) shall be stored in a predefined area of nominal protected resource (e.g. Safeguard Memory)."
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of nominal protected resource (e.g . Safeguard Memory). ",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of the nominal protected resource (e.g. Safeguard Memory)."
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of nominal protected resource (e.g . Safeguard Memory). ",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of the nominal protected resource (e.g. Safeguard Memory). "
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of nominal protected resource (e.g . Safeguard Memory). ",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of nominal protected resource (e.g. Safeguard Memory)."
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of nominal protected resource (e.g . Safeguard Memory). ",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of nominal protected resource (e.g. Safeguard Memory). "
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of nominal protected resource (e.g . Safeguard Memory). ",
+        "The results of the tests (Boot Report) shall be stored in a predefined area of the nominal protected resource (e.g. Safeguard Memory)."
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of redundant protected resource (e.g . Safeguard Memory). ",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of redundant protected resource (e.g. Safeguard Memory)."
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of redundant protected resource (e.g . Safeguard Memory). ",
+        "The result of the tests (Boot Report) shall be stored in a predefined protected area (e.g. Safeguard Memory)."
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of redundant protected resource (e.g . Safeguard Memory). ",
+        "The results of the tests (Boot Report) shall be stored in a predefined area of redundant protected resource (e.g. Safeguard Memory)."
+    ],
+    [
+        "PARA",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of redundant protected resource (e.g . Safeguard Memory). ",
+        "The result of the tests (Boot Report) shall be stored in a predefined area of redundant protected resource (e.g. Safeguard Memory). "
+    ],
+    [
+        "PARA",
+        "Boot Reports generated by nominal and redundant processors shall not interfere with each other in the protec ted resource (e.g. Safeguard Memory). ",
+        "In the protected resource (e.g. Safeguard Memory) boot reports generated by nominal and redundant processors shall not interfere with each other."
+    ],
+    [
+        "PARA",
+        "Boot Reports generated by nominal and redundant processors shall not interfere with each other in the protec ted resource (e.g. Safeguard Memory). ",
+        "Boot Reports generated by nominal and redundant processors shall not interfere with each other in the protec ted resource (e.g. Safeguard Memory)."
+    ],
+    [
+        "PARA",
+        "Boot Reports generated by nominal and redundant processors shall not interfere with each other in the protec ted resource (e.g. Safeguard Memory). ",
+        "Boot Reports generated by nominal and redundant processors shall not interfere with each other in the protected resource (e.g. Safeguard Memory). "
+    ],
+    [
+        "PARA",
+        "Boot Reports generated by nominal and redundant processors shall not interfere with each other in the protec ted resource (e.g. Safeguard Memory). ",
+        "Boot Reports generated by nominal and redundant processors shall not interfere with each other in the protected resource (e.g. Safeguard Memory). ''"
+    ],
+    [
+        "PARA",
+        "Boot Reports generated by nominal and redundant processors shall not interfere with each other in the protec ted resource (e.g. Safeguard Memory). ",
+        "In the protec ted resource (e.g. Safeguard Memory) boot reports generated by nominal and redundant processors shall not interfere with each other."
+    ],
+    [
+        "PARA",
+        "Boot Reports generated by nominal and redundant processors shall not interfere with each other in the protec ted resource (e.g. Safeguard Memory). ",
+        "Boot Reports generated by nominal and redundant processors shall not interfere with each other in the protected resource (e.g. Safeguard Memory)."
+    ],
+    [
+        "PARA",
+        "Boot Reports generated by nominal and redundant processors shall not interfere with each other in the protec ted resource (e.g. Safeguard Memory). ",
+        "Boot Reports generated by nominal and redundant processors shall not interfere with each other in the protected resource (e.g. Safeguard memory)."
+    ],
+    [
+        "PARA",
+        "Boot Reports generated by nominal and redundant processors shall not interfere with each other in the protec ted resource (e.g. Safeguard Memory). ",
+        "Boot reports generated by nominal and redundant processors shall not interfere with each other in the protected resource (e.g. Safeguard Memory)."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall use a predefined area of working memory and Application storage memory. ",
+        "It shall use a predefined area of working memory and application storage memory. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall use a predefined area of working memory and Application storage memory. ",
+        "It shall use a predefined area of working memory and Application storage memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall use a predefined area of working memory and Application storage memory. ",
+        "The Boot Software shall use a predefined area of working memory and application storage memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall use a predefined area of working memory and Application storage memory. ",
+        "It shall use a predefined area of work memory and application storage memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall use a predefined area of working memory and Application storage memory. ",
+        "The boot software shall use a predefined area of working memory and Application storage memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall use a predefined area of working memory and Application storage memory. ",
+        "The boot software shall use a predefined area of working memory and application storage memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall use a predefined area of working memory and Application storage memory. ",
+        "The software shall use a predefined area of working memory and application storage memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall use a predefined area of working memory and Application storage memory. ",
+        "It shall use a predefined area of working memory and application storage memory."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be independent of an Operating System or run-time system. ",
+        "Boot Software shall be independent of an operating system or runtime system. -"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be independent of an Operating System or run-time system. ",
+        "Boot Software shall be independent of an operating system or a run-time system."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be independent of an Operating System or run-time system. ",
+        "Boot Software shall be independent of an operating system or runtime system."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be independent of an Operating System or run-time system. ",
+        "The boot software shall be independent of an operating system or run-time system."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be independent of an Operating System or run-time system. ",
+        "The boot software shall be independent of an operating system or runtime system."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be independent of an Operating System or run-time system. ",
+        "Boot Software shall be independent of an operating system or runtime system. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be independent of an Operating System or run-time system. ",
+        "The boot software shall be independent of an operating system or a runtime system."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be independent of an Operating System or run-time system. ",
+        "The Boot Software shall be independent of an operating system or run-time system."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be designed to use the minimal processor module resources necessary to fulfil the requirements. ",
+        "The software to boot shall be designed to use the minimum processor module resources necessary to meet the requirements."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be designed to use the minimal processor module resources necessary to fulfil the requirements. ",
+        "The Boot Software shall be designed to use the minimal processor module resources necessary to fulfil the requirements."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be designed to use the minimal processor module resources necessary to fulfil the requirements. ",
+        "The boot software shall be designed to use the minimal processor module resources necessary to fulfil the requirements."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be designed to use the minimal processor module resources necessary to fulfil the requirements. ",
+        "The software to boot shall be designed to use the minimal processor module resources necessary to meet the requirements."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be designed to use the minimal processor module resources necessary to fulfil the requirements. ",
+        "The boot software shall be designed to use the minimum processor module resources necessary to fulfil the requirements."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be designed to use the minimal processor module resources necessary to fulfil the requirements. ",
+        "The boot software shall be designed to use the minimal processor module resources necessary to meet the requirements."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be designed to use the minimal processor module resources necessary to fulfil the requirements. ",
+        "The software to boot shall be designed to use the minimal processor module resources necessary to fulfil the requirements."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be designed to use the minimal processor module resources necessary to fulfil the requirements. ",
+        "The software to boot shall be designed to use the minimum processor module resources necessary to fulfil the requirements."
+    ],
+    [
+        "PARA",
+        "The Boot Software (including any Software libraries) shall be compliant to the ECSS-E-ST-40C. ",
+        "The ECSS-E-ST-40C boot software (including any software libraries) shall be compliant. "
+    ],
+    [
+        "PARA",
+        "The Boot Software (including any Software libraries) shall be compliant to the ECSS-E-ST-40C. ",
+        "The ECSS-E-ST-40C Boot Software (including any Software Libraries) shall be compliant."
+    ],
+    [
+        "PARA",
+        "The Boot Software (including any Software libraries) shall be compliant to the ECSS-E-ST-40C. ",
+        "The Boot Software (including any Software Libraries) shall be compliant with ECSS-E-ST-40C. "
+    ],
+    [
+        "PARA",
+        "The Boot Software (including any Software libraries) shall be compliant to the ECSS-E-ST-40C. ",
+        "The Boot Software (including any Software Libraries) shall be compliant with ECSS-E-ST-40C."
+    ],
+    [
+        "PARA",
+        "The Boot Software (including any Software libraries) shall be compliant to the ECSS-E-ST-40C. ",
+        "The boot software (including any software libraries) shall comply with ECSS-E-ST-40C. "
+    ],
+    [
+        "PARA",
+        "The Boot Software (including any Software libraries) shall be compliant to the ECSS-E-ST-40C. ",
+        "The ECSS-E-ST-40C boot software (including any software libraries) shall be compliant."
+    ],
+    [
+        "PARA",
+        "The Boot Software (including any Software libraries) shall be compliant to the ECSS-E-ST-40C. ",
+        "The boot software (including any software libraries) shall be compliant with ECSS-E-ST-40C. "
+    ],
+    [
+        "PARA",
+        "The Boot Software (including any Software libraries) shall be compliant to the ECSS-E-ST-40C. ",
+        "The ECSS-E-ST-40C boot software (including any Software libraries) shall be compliant."
+    ],
+    [
+        "PARA",
+        "The Boot Software (including any Software libraries) shall be compliant to the ECSS-E-ST-40C. ",
+        "The boot software (including any software libraries) shall be compliant with ECSS-E-ST-40C."
+    ],
+    [
+        "PARA",
+        "The Boot Software (including any Software libraries) shall be compliant to the ECSS-E-ST-40C. ",
+        "The boot software (including any software libraries) shall be compliant with the ECSS-E-ST-40C."
+    ],
+    [
+        "PARA",
+        "The Boot Software (including any Software libraries) shall be compliant to the ECSS-Q-ST-80C. ",
+        "The ECSS-Q-ST-80C boot software (including any Software libraries) shall be compliant."
+    ],
+    [
+        "PARA",
+        "The Boot Software (including any Software libraries) shall be compliant to the ECSS-Q-ST-80C. ",
+        "The boot software (including any software libraries) shall comply with ECSS-Q-ST-80C. "
+    ],
+    [
+        "PARA",
+        "The Boot Software (including any Software libraries) shall be compliant to the ECSS-Q-ST-80C. ",
+        "The ECSS-Q-ST-80C Boot Software (including any Software Libraries) shall be compliant."
+    ],
+    [
+        "PARA",
+        "The Boot Software (including any Software libraries) shall be compliant to the ECSS-Q-ST-80C. ",
+        "The ECSS-Q-ST-80C boot software (including any software libraries) shall be compliant."
+    ],
+    [
+        "PARA",
+        "The Boot Software (including any Software libraries) shall be compliant to the ECSS-Q-ST-80C. ",
+        "The ECSS-Q-ST-80C boot software (including any software libraries) shall be compliant. "
+    ],
+    [
+        "PARA",
+        "The Boot Software (including any Software libraries) shall be compliant to the ECSS-Q-ST-80C. ",
+        "The boot software (including any software libraries) shall be compliant with ECSS-Q-ST-80C."
+    ],
+    [
+        "PARA",
+        "The Boot Software (including any Software libraries) shall be compliant to the ECSS-Q-ST-80C. ",
+        "The boot software (including any software libraries) shall be compliant with ECSS-Q-ST-80C. "
+    ],
+    [
+        "PARA",
+        "The Boot Software (including any Software libraries) shall be compliant to the ECSS-Q-ST-80C. ",
+        "The boot software (including any software libraries) shall be compliant with the ECSS-Q-ST-80C."
+    ],
+    [
+        "PARA",
+        "The Boot Software (including any Software libraries) shall be compliant to the ECSS-Q-ST-80C. ",
+        "The Boot Software (including any Software Libraries) shall be compliant with ECSS-Q-ST-80C. "
+    ],
+    [
+        "PARA",
+        "The Boot Software (including any Software libraries) shall be compliant to the ECSS-Q-ST-80C. ",
+        "The Boot Software (including any Software Libraries) shall be compliant with ECSS-Q-ST-80C."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be developed in complian ce with the applicable coding standards. ",
+        "The Boot Software shall be developed in compliance with the applicable coding standards. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be developed in complian ce with the applicable coding standards. ",
+        "The Boot Software shall be developed in compliant with the applicable coding standards."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be developed in complian ce with the applicable coding standards. ",
+        "The Boot Software shall be developed in compliance with the applicable coding standards."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be developed in complian ce with the applicable coding standards. ",
+        "The Boot Software shall be developed in accordance with the applicable coding standards."
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be developed in complian ce with the applicable coding standards. ",
+        "The Boot Software shall be developed in accordance with the applicable coding standards. "
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be developed in complian ce with the applicable coding standards. ",
+        "The boot software shall be developed in compliance with the applicable coding standards. ''"
+    ],
+    [
+        "PARA",
+        "The Boot Software shall be developed in complian ce with the applicable coding standards. ",
+        "The boot software shall be developed in compliance with the applicable coding standards."
+    ],
+    [
+        "PARA",
+        "The Boot Software (excepted the Monitor function) criticality shall be at least category B. ",
+        "For the boot software (except the monitor function) criticality shall be at least category B."
+    ],
+    [
+        "PARA",
+        "The Boot Software (excepted the Monitor function) criticality shall be at least category B. ",
+        "For the Boot Software (except the Monitor function) criticality shall be at least category B. "
+    ],
+    [
+        "PARA",
+        "The Boot Software (excepted the Monitor function) criticality shall be at least category B. ",
+        "For the boot software (except the monitor function) criticality shall be at least category B. "
+    ],
+    [
+        "PARA",
+        "The Boot Software (excepted the Monitor function) criticality shall be at least category B. ",
+        "For the Boot Software (except the Monitor function) criticality shall be at least category B."
+    ],
+    [
+        "PARA",
+        "The Boot Software (excepted the Monitor function) criticality shall be at least category B. ",
+        "The criticality of the boot software (except for the monitor function) shall be at least category B."
+    ],
+    [
+        "PARA",
+        "The Boot Software (excepted the Monitor function) criticality shall be at least category B. ",
+        "The criticality of the boot software (except the monitor function) shall be at least category B. "
+    ],
+    [
+        "PARA",
+        "The Boot Software (excepted the Monitor function) criticality shall be at least category B. ",
+        "The criticality of the boot software (except for the monitor function) shall be at least category B. "
+    ]
+]

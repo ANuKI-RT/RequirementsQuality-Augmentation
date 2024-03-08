@@ -1,0 +1,2082 @@
+[
+    [
+        "PARA",
+        "The Initialization State shall be characterised by the following: -The state is entered by Remote Terminal Unit power-on or by a reset signal. -One redundancy of the Remote Terminal Unit Core is activated. -No commands via the Remote Terminal Unit Remote Control Interface are processed. -All configurable settings of the Remote Terminal Unit are initialized to the default values. -All memory areas related to programmable command or actuation sequences are cleared. -No actuation of any interfaces -The overall (redundancy) configuration of the Remote Terminal Unit is set according to the default values. -The Remote Terminal Unit (optionally) executes a self-test as defined in 7.2.2.",
+        "The initialization state shall be characterised by the following: -The state is entered by Remote Terminal Unit power-on or by a reset signal. -One redundancy of the Remote Terminal Unit Core is activated. -No commands via the Remote Terminal Unit Remote Control Interface are processed. -All configurable settings of the Remote Terminal Unit are initial"
+    ],
+    [
+        "PARA",
+        "The Operational state shall be characterised by the following: -Either nominal or redundant Remote Terminal Unit Core is powered -Commands via the Remote Terminal Unit Remote Control Interface are processed, distributed and executed inside the Remote Terminal Unit -Remote Terminal Unit configuration can be monitored and changed via the Remote Terminal Unit Remote Control Interface.",
+        "-Either the nominal or redundant Remote Terminal Unit Core is powered -Commands via the Remote Terminal Unit Remote Control Interface are processed, distributed and executed inside the Remote Terminal Unit -Remote Terminal Unit configuration can be monitored and changed via the Remote Terminal Unit Remote Control Interface."
+    ],
+    [
+        "PARA",
+        "The Operational state shall be characterised by the following: -Either nominal or redundant Remote Terminal Unit Core is powered -Commands via the Remote Terminal Unit Remote Control Interface are processed, distributed and executed inside the Remote Terminal Unit -Remote Terminal Unit configuration can be monitored and changed via the Remote Terminal Unit Remote Control Interface.",
+        "-Either the nominal or redundant Remote Terminal Unit Core is powered -Commands via the Remote Terminal Unit Remote Control Interface are processed, distributed and executed inside the Remote Terminal Unit - Remote Terminal Unit configuration can be monitored and changed via the Remote Terminal Unit Remote Control Interface."
+    ],
+    [
+        "PARA",
+        "The Operational state shall be characterised by the following: -Either nominal or redundant Remote Terminal Unit Core is powered -Commands via the Remote Terminal Unit Remote Control Interface are processed, distributed and executed inside the Remote Terminal Unit -Remote Terminal Unit configuration can be monitored and changed via the Remote Terminal Unit Remote Control Interface.",
+        "-Either the nominal or redundant Remote Terminal Unit Core is powered -Commands via the Remote Terminal Unit Remote Control Interface are processed, distributed and executed inside the Remote Terminal Unit - Remote Terminal Unit configuration can be monitored and changed via the Remote Terminal Unit"
+    ],
+    [
+        "PARA",
+        "No spurious commands or spikes shall be generated on any output interfaces under the transient conditions of power-on, power-off or  by application or removal of primary power as well as during any state transitions.",
+        "No spurious commands or spikes shall be generated on any output interfaces under the transient conditions of power-on, power-off or by application or removal of primary power as well as during state transitions."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide a self-test capability that is started automatically at power-on.",
+        "The Remote Terminal Unit shall provide a self-test capability that is automatically started when power-on."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide a self-test capability that is started automatically at power-on.",
+        "The Remote Terminal Unit shall provide a self-test capability that is automatically started when power is turned on."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide a self-test capability that is started automatically at power-on.",
+        "The Remote Terminal Unit shall provide a self-test capability that is automatically started at power-on."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide a self-test capability that is started automatically at power-on.",
+        "The Remote Terminal Unit shall provide a self-test capability that is automatically started when the power is turned on."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide a self-test capability that is started automatically at power-on.",
+        "The Remote Terminal Unit shall provide a self-test capability which is automatically started when power-on."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide a self-test capability that is started automatically at power-on.",
+        "In addition the Remote Terminal Unit shall provide a self-test capability which is automatically started when power is turned on."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide a self-test capability that is started automatically at power-on.",
+        "In addition the Remote Terminal Unit shall provide a self-test capability that is automatically started when power is turned on."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide a Self-Test(s) that can be started by command and shall allow a  test of the entire Remote Terminal Unit, also including the tests run during Power-on Self-Test except for those that will prevent the Remote Terminal Unit functioning (e.g. complete memory test).",
+        "The remotely operated remote terminal unit shall provide a self-test that can be started by command and shall allow a test of the entire remote terminal unit, also including the tests run during Power-on Self-Test except for those that will prevent the remote terminal unit from functioning"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide a Self-Test(s) that can be started by command and shall allow a  test of the entire Remote Terminal Unit, also including the tests run during Power-on Self-Test except for those that will prevent the Remote Terminal Unit functioning (e.g. complete memory test).",
+        "The remotely operated remote terminal unit shall provide a self-test that can be started by command and shall allow a test of the entire remote terminal unit, also including the tests run during Power-On Self-Test except for those that will prevent the remote terminal unit from functioning (e"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide a Self-Test(s) that can be started by command and shall allow a  test of the entire Remote Terminal Unit, also including the tests run during Power-on Self-Test except for those that will prevent the Remote Terminal Unit functioning (e.g. complete memory test).",
+        "The remotely operated remote terminal unit shall provide a self-test that can be started by command and shall allow a test of the entire remote terminal unit, also including the tests run during Power-On Self-Test except for those that will prevent the remote terminal unit from functioning"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide a Self-Test(s) that can be started by command and shall allow a  test of the entire Remote Terminal Unit, also including the tests run during Power-on Self-Test except for those that will prevent the Remote Terminal Unit functioning (e.g. complete memory test).",
+        "The remotely operated remote terminal unit shall provide a self-test that can be started by command and shall allow a test of the entire remote terminal unit, also including the tests run during Power-on Self-Test except for those which will prevent the remote terminal unit from functioning"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide a Self-Test(s) that can be started by command and shall allow a  test of the entire Remote Terminal Unit, also including the tests run during Power-on Self-Test except for those that will prevent the Remote Terminal Unit functioning (e.g. complete memory test).",
+        "The Remote Terminal Unit shall provide a self-test that can be started by command and shall allow a test of the entire Remote Terminal Unit, also including the tests run during the Power-on Self-Test except for those that will prevent the Remote Terminal Unit from functioning"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide a Self-Test(s) that can be started by command and shall allow a  test of the entire Remote Terminal Unit, also including the tests run during Power-on Self-Test except for those that will prevent the Remote Terminal Unit functioning (e.g. complete memory test).",
+        "The remotely operated remote terminal unit shall provide a self-test that can be started by command and shall allow a test of the entire remote terminal unit, also including the tests run during Power-on Self-Test except for those that will prevent the remote terminal unit from functioning (e"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide a Self-Test(s) that can be started by command and shall allow a  test of the entire Remote Terminal Unit, also including the tests run during Power-on Self-Test except for those that will prevent the Remote Terminal Unit functioning (e.g. complete memory test).",
+        "The Remote Terminal Unit shall provide a self-test that can be started by command and shall allow a test of the entire Remote Terminal Unit, also including the tests run during Power-on Self-Test except for those that will prevent the Remote Terminal Unit from functioning"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide a Self-Test(s) that can be started by command and shall allow a  test of the entire Remote Terminal Unit, also including the tests run during Power-on Self-Test except for those that will prevent the Remote Terminal Unit functioning (e.g. complete memory test).",
+        "The Remote Terminal Unit shall provide a Self-Test that can be started by command and shall allow a test of the entire Remote Terminal Unit, also including the tests run during Power-On Self-Test except for those that will prevent the Remote Terminal Unit from functioning"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide a Self-Test(s) that can be started by command and shall allow a  test of the entire Remote Terminal Unit, also including the tests run during Power-on Self-Test except for those that will prevent the Remote Terminal Unit functioning (e.g. complete memory test).",
+        "The Remote Terminal Unit shall provide a self-test that can be started by command and shall allow a test of the entire Remote Terminal Unit, also including the tests run during Power-On Self-Test except for those that will prevent the Remote Terminal Unit from functioning"
+    ],
+    [
+        "PARA",
+        "Self-tests shall have no effects on Standard and Specific User Interfaces (input and output) and no disturbance on the nominal operation of Remote Terminal UnitSelf-Test",
+        "Self-tests shall have no effects on standard and specific user interfaces (input and output) and no disturbance on the nominal operation of the Remote Terminal Unit."
+    ],
+    [
+        "PARA",
+        "Self-tests shall have no effects on Standard and Specific User Interfaces (input and output) and no disturbance on the nominal operation of Remote Terminal UnitSelf-Test",
+        "The self-tests shall not have any effects on standard and specific user interfaces (input and output) and no disturbance on the nominal operation of remote terminal units."
+    ],
+    [
+        "PARA",
+        "Self-tests shall have no effects on Standard and Specific User Interfaces (input and output) and no disturbance on the nominal operation of Remote Terminal UnitSelf-Test",
+        "The self-tests shall not have any effects on standard and specific user interfaces (input and output) and no disturbance on the nominal operation of the remote terminal unit."
+    ],
+    [
+        "PARA",
+        "Self-tests shall have no effects on Standard and Specific User Interfaces (input and output) and no disturbance on the nominal operation of Remote Terminal UnitSelf-Test",
+        "The self-tests shall not have any effects on Standard and Specific User Interfaces (input and output) and no disturbance on the nominal operation of the Remote Terminal Unit."
+    ],
+    [
+        "PARA",
+        "Self-tests shall have no effects on Standard and Specific User Interfaces (input and output) and no disturbance on the nominal operation of Remote Terminal UnitSelf-Test",
+        "Self-tests shall have no effects on Standard and Specific User Interfaces (input and output) and no disturbance on the nominal operation of the Remote Terminal Unit."
+    ],
+    [
+        "PARA",
+        "Self-tests shall have no effects on Standard and Specific User Interfaces (input and output) and no disturbance on the nominal operation of Remote Terminal UnitSelf-Test",
+        "Self-tests shall have no effects on Standard and Specific User Interfaces (input and output) and no disturbance on the nominal operation of Remote Terminal Unit."
+    ],
+    [
+        "PARA",
+        "Self-tests shall have no effects on Standard and Specific User Interfaces (input and output) and no disturbance on the nominal operation of Remote Terminal UnitSelf-Test",
+        "The self-tests shall not have any effects on standard and specific user interfaces (input and output) and no disturbance on the nominal operation of the Remote Terminal Unit."
+    ],
+    [
+        "PARA",
+        "Self-tests shall have no effects on Standard and Specific User Interfaces (input and output) and no disturbance on the nominal operation of Remote Terminal UnitSelf-Test",
+        "The self-tests shall not affect Standard and Specific User Interfaces (input and output) and shall not affect the nominal operation of Remote Terminal Unit."
+    ],
+    [
+        "PARA",
+        "Self-tests shall have no effects on Standard and Specific User Interfaces (input and output) and no disturbance on the nominal operation of Remote Terminal UnitSelf-Test",
+        "Self-tests shall have no effects on Standard and Specific User Interfaces (input and output) and no disturbance on the nominal operation of Remote Terminal Units."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit supplier shall clearly identify and justify any parts of the Remote Terminal Unit that are not covered by the self-test.",
+        "The Remote Terminal Unit supplier shall clearly identify and justify any parts of the Remote Terminal Unit which are not covered by the self-test."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit supplier shall clearly identify and justify any parts of the Remote Terminal Unit that are not covered by the self-test.",
+        "It shall clearly identify and justify any parts of the Remote Terminal Unit that are not covered by the self-testing procedure."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit supplier shall clearly identify and justify any parts of the Remote Terminal Unit that are not covered by the self-test.",
+        "The remote terminal unit supplier shall clearly identify and justify any parts of the remote terminal unit which are not covered by the self-test."
+    ],
+    [
+        "PARA",
+        "Power-On Self-Test shall not block the transition to Operational State",
+        "It shall not block the transition to the Operational State."
+    ],
+    [
+        "PARA",
+        "Power-On Self-Test shall not block the transition to Operational State",
+        "It shall not block the transition to the operational state."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide sufficient telemetry to detect and isolate any internal operational malfunction as identified in the FMECA  ",
+        "The Remote Terminal Unit shall provide sufficient telemetry to detect and isolate any internal operational malfunction as identified in the FMECA telemetry report."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide the capability to perform cyclic acquisition of telemetry from Remote Terminal Unit internal housekeeping parameters and from the Standard and Specific User Interfaces",
+        "The Remote Terminal Unit shall provide the capability to perform cyclic acquisition of telemetry from the internal housekeeping parameters of the Remote Terminal Unit and from the Standard and Specific User Interfaces"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide the capability to perform cyclic acquisition of telemetry from Remote Terminal Unit internal housekeeping parameters and from the Standard and Specific User Interfaces",
+        "The Remote Terminal Unit shall provide the capability to perform cyclic acquisition of telemetry from Remote Terminal Unit internal housekeeping parameters and from the Standard and Specific User Interfaces."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide the capability to perform cyclic acquisition of telemetry from Remote Terminal Unit internal housekeeping parameters and from the Standard and Specific User Interfaces",
+        "In addition the Remote Terminal Unit shall provide the capability to perform cyclic acquisition of telemetry from Remote Terminal Unit internal housekeeping parameters and from standard and specific user interfaces."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide the capability to perform cyclic acquisition of telemetry from Remote Terminal Unit internal housekeeping parameters and from the Standard and Specific User Interfaces",
+        "The Remote Terminal Unit shall provide the capability to perform cyclic acquisition of telemetry from Remote Terminal Unit internal housekeeping parameters and from standard and specific user interfaces."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide the capability to perform cyclic acquisition of telemetry from Remote Terminal Unit internal housekeeping parameters and from the Standard and Specific User Interfaces",
+        "The Remote Terminal Unit shall provide the capability to perform cyclic acquisition of telemetry from Remote Terminal Unit internal housekeeping parameters and from the standard and specific user interfaces."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide the capability to perform cyclic acquisition of telemetry from Remote Terminal Unit internal housekeeping parameters and from the Standard and Specific User Interfaces",
+        "In addition the Remote Terminal Unit shall provide the capability to perform cyclic acquisition of telemetry from remote terminal unit internal housekeeping parameters and from standard and specific user interfaces."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide the capability to perform cyclic acquisition of telemetry from Remote Terminal Unit internal housekeeping parameters and from the Standard and Specific User Interfaces",
+        "The Remote Terminal Unit shall provide the capability to perform cyclic acquisition of telemetry from the internal housekeeping parameters of the Remote Terminal Unit and from the Standard and Specific User Interface"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide the capability to perform cyclic acquisition of telemetry from Remote Terminal Unit internal housekeeping parameters and from the Standard and Specific User Interfaces",
+        "In addition the Remote Terminal Unit shall provide the capability to perform cyclic acquisition of telemetry from Remote Terminal Unit internal housekeeping parameters and from Standard and Specific User Interfaces."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide the capability to perform cyclic acquisition of telemetry from Remote Terminal Unit internal housekeeping parameters and from the Standard and Specific User Interfaces",
+        "The Remote Terminal Unit shall provide the capability to perform cyclic acquisition of telemetry from Remote Terminal Unit internal housekeeping parameters and from Standard and Specific User Interfaces."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the Telemetry requirements as defined in Section 4.1.4 of [European Cooperation for Space Standards-E-20].  ",
+        "This unit shall comply with the Telemetry requirements as defined in Section 4.1.4 of [European Cooperation for Space Standards-E-20]. "
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the Telemetry requirements as defined in Section 4.1.4 of [European Cooperation for Space Standards-E-20].  ",
+        "Telemetry requirements as defined in Section 4.1.4 of the European Cooperation for Space Standards-E-20 shall apply to the Remote Terminal Unit."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the Telemetry requirements as defined in Section 4.1.4 of [European Cooperation for Space Standards-E-20].  ",
+        "The Remote Terminal Unit shall be compliant with Telemetry requirements as defined in Section 4.1.4 of [European Cooperation for Space Standards-E-20]."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the Telemetry requirements as defined in Section 4.1.4 of [European Cooperation for Space Standards-E-20].  ",
+        "Telemetry requirements as defined in Section 4.1.4 of [European Cooperation for Space Standards-E-20] shall apply to the Remote Terminal Unit."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the Telemetry requirements as defined in Section 4.1.4 of [European Cooperation for Space Standards-E-20].  ",
+        "This unit shall comply with the Telemetry requirements as defined in Section 4.1.4 of the European Cooperation for Space Standards-E-20. ''"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the Telemetry requirements as defined in Section 4.1.4 of [European Cooperation for Space Standards-E-20].  ",
+        "This unit shall comply with the Telemetry requirements as defined in Section 4.1.4 of [European Cooperation for Space Standards-E-20]."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the Telemetry requirements as defined in Section 4.1.4 of [European Cooperation for Space Standards-E-20].  ",
+        "The Remote Terminal Unit shall be compliant with Telemetry requirements as defined in Section 4.1.4 of the European Cooperation for Space Standards-E-20."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the Telemetry requirements as defined in Section 4.1.4 of [European Cooperation for Space Standards-E-20].  ",
+        "The Remote Terminal Unit shall comply with the Telemetry requirements as defined in Section 4.1.4 of [European Cooperation for Space Standards-E-20]."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the Telemetry requirements as defined in Section 4.1.4 of [European Cooperation for Space Standards-E-20].  ",
+        "The Remote Terminal Unit shall be compliant with the Telemetry requirements as defined in Section 4.1.4 of the European Cooperation for Space Standards-E-20."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the Telemetry requirements as defined in Section 4.1.4 of [European Cooperation for Space Standards-E-20].  ",
+        "This unit shall comply with the Telemetry requirements as defined in Section 4.1.4 of the European Cooperation for Space Standards-E-20."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall sequentially acquire telemetry according to pre-defined telemetry acquisition lists stored in the Remote Terminal Unit.",
+        "According to pre-defined telemetry acquisition lists stored in the Remote Terminal Unit the Remote Terminal Unit shall sequentially acquire telemetry"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall sequentially acquire telemetry according to pre-defined telemetry acquisition lists stored in the Remote Terminal Unit.",
+        "It shall acquire telemetry according to pre-defined telemetry acquisition lists stored in the Remote Terminal Unit."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall sequentially acquire telemetry according to pre-defined telemetry acquisition lists stored in the Remote Terminal Unit.",
+        "The Remote Terminal Unit shall acquire telemetry sequentially according to pre-defined telemetry acquisition lists stored in the Remote Terminal Unit."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall sequentially acquire telemetry according to pre-defined telemetry acquisition lists stored in the Remote Terminal Unit.",
+        "It shall sequentially acquire telemetry according to pre-defined telemetry acquisition lists stored in the Remote Terminal Unit."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall sequentially acquire telemetry according to pre-defined telemetry acquisition lists stored in the Remote Terminal Unit.",
+        "The Remote Terminal Unit shall acquire telemetry according to pre-defined telemetry acquisition lists stored in the Remote Terminal Unit."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall sequentially acquire telemetry according to pre-defined telemetry acquisition lists stored in the Remote Terminal Unit.",
+        "It shall acquire telemetry sequentially according to pre-defined telemetry acquisition lists stored in the Remote Terminal Unit."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall sequentially acquire telemetry according to pre-defined telemetry acquisition lists stored in the Remote Terminal Unit.",
+        "The Remote Terminal Unit shall acquire telemetry according to pre-defined telemetry acquisition lists stored in the Remote Terminal Unit sequentially."
+    ],
+    [
+        "PARA",
+        "The data resulting from the acquisition of a telemetry acquisition list shall be buffered in the Remote Terminal Unit and made available via the Remote Terminal Unit Remote Control Interface in a contiguous sequence.",
+        "The results of acquisition of telemetry acquisition lists shall be buffered in the Remote Terminal Unit and made available via the Remote Terminal Unit Remote Control Interface in a contiguous sequence."
+    ],
+    [
+        "PARA",
+        "The data resulting from the acquisition of a telemetry acquisition list shall be buffered in the Remote Terminal Unit and made available via the Remote Terminal Unit Remote Control Interface in a contiguous sequence.",
+        "The results of acquisition of telemetry acquisition lists shall be buffered in the Remote Terminal Unit and made available in a contiguous sequence via the Remote Terminal Unit Remote Control Interface. "
+    ],
+    [
+        "PARA",
+        "The data resulting from the acquisition of a telemetry acquisition list shall be buffered in the Remote Terminal Unit and made available via the Remote Terminal Unit Remote Control Interface in a contiguous sequence.",
+        "The results of acquisition of telemetry acquisition lists shall be buffered in the Remote Terminal Unit and made available in a contiguous sequence via the Remote Terminal Unit Remote Control Interface"
+    ],
+    [
+        "PARA",
+        "The data resulting from the acquisition of a telemetry acquisition list shall be buffered in the Remote Terminal Unit and made available via the Remote Terminal Unit Remote Control Interface in a contiguous sequence.",
+        "The results of acquisition of telemetry acquisition lists shall be buffered in the Remote Terminal Unit and made available in a contiguous sequence via the Remote Terminal Unit Remote Control Interface."
+    ],
+    [
+        "PARA",
+        "The data resulting from the acquisition of a telemetry acquisition list shall be buffered in the Remote Terminal Unit and made available via the Remote Terminal Unit Remote Control Interface in a contiguous sequence.",
+        "The results of acquisition of telemetry acquisition lists shall be buffered in the remote terminal unit and made available in a contiguous sequence via the remote terminal unit remote control interface."
+    ],
+    [
+        "PARA",
+        "The data resulting from the acquisition of a telemetry acquisition list shall be buffered in the Remote Terminal Unit and made available via the Remote Terminal Unit Remote Control Interface in a contiguous sequence.",
+        "The results of acquisition of telemetry acquisition lists shall be buffered in the Remote Terminal Unit and made available via the Remote Terminal Unit Remote Control Interface in a contiguous sequence. "
+    ],
+    [
+        "PARA",
+        "The data resulting from the acquisition of a telemetry acquisition list shall be buffered in the Remote Terminal Unit and made available via the Remote Terminal Unit Remote Control Interface in a contiguous sequence.",
+        "The results of acquisition of telemetry acquisition lists shall be buffered in the Remote Terminal Unit and made available in a contiguous sequence through the Remote Terminal Unit Remote Control Interface."
+    ],
+    [
+        "PARA",
+        "The data resulting from the acquisition of a telemetry acquisition list shall be buffered in the Remote Terminal Unit and made available via the Remote Terminal Unit Remote Control Interface in a contiguous sequence.",
+        "The results of acquisition of telemetry acquisition lists shall be buffered in the Remote Terminal Unit and made available in a contiguous sequence via the Remote Terminal Unit Remote Control interface."
+    ],
+    [
+        "PARA",
+        "The data resulting from the acquisition of a telemetry acquisition list shall be buffered in the Remote Terminal Unit and made available via the Remote Terminal Unit Remote Control Interface in a contiguous sequence.",
+        "The results of acquisition of telemetry acquisition lists shall be buffered in the remote terminal unit and made available in a contiguous sequence via the remote terminal unit remote control interface. "
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall start and maintain the cyclic acquisition of each specific telemetry acquisition list after a corresponding “Start Telemetry Acqu isition” event has been detected.",
+        "It shall start and maintain the cyclic acquisition of each specific telemetry acquisition list after a corresponding \"Start Telemetry Acquisition\" event has been detected."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall start and maintain the cyclic acquisition of each specific telemetry acquisition list after a corresponding “Start Telemetry Acqu isition” event has been detected.",
+        "The Remote Terminal Unit shall start and maintain the cyclic acquisition of each specific telemetry acquisition list after a corresponding \"Start Telemetry Acquisition\" event has been detected."
+    ],
+    [
+        "PARA",
+        "The telemetry acquisition lists shall be triggered in the same sequence as defined by the sequence of the corresponding “Start Telemetry Acquisition” events.",
+        "The telemetry acquisition lists shall be triggered in the same sequence as defined by the sequence of the corresponding start telemetry acquisition events."
+    ],
+    [
+        "PARA",
+        "The telemetry acquisition lists shall be triggered in the same sequence as defined by the sequence of the corresponding “Start Telemetry Acquisition” events.",
+        "In the same sequence as defined by the sequence of the corresponding \"Start Telemetry Acquisition\" events the telemetry acquisition lists are triggered."
+    ],
+    [
+        "PARA",
+        "The telemetry acquisition lists shall be triggered in the same sequence as defined by the sequence of the corresponding “Start Telemetry Acquisition” events.",
+        "The telemetry acquisition lists shall be triggered in the same sequence as defined by the sequence of the corresponding \"Start Telemetry Acquisition\" events."
+    ],
+    [
+        "PARA",
+        "The telemetry acquisition lists shall be triggered in the same sequence as defined by the sequence of the corresponding “Start Telemetry Acquisition” events.",
+        "The telemetry acquisition lists shall be triggered in the same sequence as defined by the sequence of the corresponding \"Start Telemetry Acquisition\" event."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as they are defined in the telemetry acquisition list . ",
+        "The Remote Terminal Unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as defined in the telemetry acquisition list. ''"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as they are defined in the telemetry acquisition list . ",
+        "The Remote Terminal Unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as are defined in the telemetry acquisition list. "
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as they are defined in the telemetry acquisition list . ",
+        "The Remote Terminal Unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as they are defined in the telemetry acquisition list."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as they are defined in the telemetry acquisition list . ",
+        "The Remote Terminal Unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as they are defined in the telemetry acquisition list. "
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as they are defined in the telemetry acquisition list . ",
+        "The remote terminal unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as defined in the telemetry acquisition list. "
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as they are defined in the telemetry acquisition list . ",
+        "The remote terminal unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as they are defined in the telemetry acquisition list. "
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as they are defined in the telemetry acquisition list . ",
+        "The Remote Terminal Unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as defined in the telemetry acquisition list. "
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as they are defined in the telemetry acquisition list . ",
+        "The Remote Terminal Unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as are defined in the telemetry acquisition list."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as they are defined in the telemetry acquisition list . ",
+        "The remote terminal unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as they are defined in the telemetry acquisition list."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as they are defined in the telemetry acquisition list . ",
+        "The Remote Terminal Unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as defined in the telemetry acquisition list."
+    ],
+    [
+        "PARA",
+        "The case of occurrence of a Start Telemetry Acquisition event while an acquisition process is on-going shall be treated in a deterministic way, either by stopping the on-going process or by ignoring the new event. ",
+        "When an acquisition process is on-going a start telemetry acquisition event shall be treated in a deterministic way either by stopping the on-going process or by ignoring the new event. i"
+    ],
+    [
+        "PARA",
+        "The case of occurrence of a Start Telemetry Acquisition event while an acquisition process is on-going shall be treated in a deterministic way, either by stopping the on-going process or by ignoring the new event. ",
+        "When an acquisition process is on-going a start telemetry acquisition event shall be treated in a deterministic manner either by stopping the on-going process or by ignoring the new event."
+    ],
+    [
+        "PARA",
+        "The case of occurrence of a Start Telemetry Acquisition event while an acquisition process is on-going shall be treated in a deterministic way, either by stopping the on-going process or by ignoring the new event. ",
+        "When an acquisition process is on-going a start telemetry acquisition event shall be treated in a deterministic way either by stopping the on-going process or by ignoring the new event. b"
+    ],
+    [
+        "PARA",
+        "The case of occurrence of a Start Telemetry Acquisition event while an acquisition process is on-going shall be treated in a deterministic way, either by stopping the on-going process or by ignoring the new event. ",
+        "When an acquisition process is on-going a start telemetry acquisition event shall be treated in a deterministic way either by stopping the on-going process or ignoring the new event."
+    ],
+    [
+        "PARA",
+        "The case of occurrence of a Start Telemetry Acquisition event while an acquisition process is on-going shall be treated in a deterministic way, either by stopping the on-going process or by ignoring the new event. ",
+        "When an acquisition process is on-going a start telemetry acquisition event shall be treated in a deterministic manner either by stopping the on-going process or by ignoring the new event. "
+    ],
+    [
+        "PARA",
+        "The case of occurrence of a Start Telemetry Acquisition event while an acquisition process is on-going shall be treated in a deterministic way, either by stopping the on-going process or by ignoring the new event. ",
+        "When an acquisition process is on-going a start telemetry acquisition event shall be treated in a deterministic way either by stopping the on-going process or by ignoring the new event. -"
+    ],
+    [
+        "PARA",
+        "The case of occurrence of a Start Telemetry Acquisition event while an acquisition process is on-going shall be treated in a deterministic way, either by stopping the on-going process or by ignoring the new event. ",
+        "When an acquisition process is on-going a start telemetry acquisition event shall be treated in a deterministic way either by stopping the on-going process or by ignoring the new event"
+    ],
+    [
+        "PARA",
+        "The case of occurrence of a Start Telemetry Acquisition event while an acquisition process is on-going shall be treated in a deterministic way, either by stopping the on-going process or by ignoring the new event. ",
+        "When an acquisition process is on-going a start telemetry acquisition event shall be treated in a deterministic way by stopping the on-going process or by ignoring the new event."
+    ],
+    [
+        "PARA",
+        "The case of occurrence of a Start Telemetry Acquisition event while an acquisition process is on-going shall be treated in a deterministic way, either by stopping the on-going process or by ignoring the new event. ",
+        "When an acquisition process is on-going a start telemetry acquisition event shall be treated in a deterministic way either by stopping the on-going process or by ignoring the new event."
+    ],
+    [
+        "PARA",
+        "The case of occurrence of a Start Telemetry Acquisition event while an acquisition process is on-going shall be treated in a deterministic way, either by stopping the on-going process or by ignoring the new event. ",
+        "When an acquisition process is on-going a start telemetry acquisition event shall be treated in a deterministic way either by stopping the on-going process or by ignoring the new event. "
+    ],
+    [
+        "PARA",
+        "It shall be possible to control the acquisition frequency <TelAcqListFreq> for each telemetry acquisition list independently.",
+        "It shall be possible to control the acquisition frequency TelAcqListFreq> independently for each telemetry acquisition list."
+    ],
+    [
+        "PARA",
+        "It shall be possible to control the acquisition frequency <TelAcqListFreq> for each telemetry acquisition list independently.",
+        "It shall be possible to control the acquisition frequency TelAcqListFreq> for each telemetry acquisition list independently."
+    ],
+    [
+        "PARA",
+        "It shall be possible to control the acquisition frequency <TelAcqListFreq> for each telemetry acquisition list independently.",
+        "It shall be possible to control the acquisition frequency TelAcqListFreq> for each telemetry list independently."
+    ],
+    [
+        "PARA",
+        "It shall be possible to control the acquisition frequency <TelAcqListFreq> for each telemetry acquisition list independently.",
+        "It shall be possible to control the acquisition frequency for each telemetry acquisition list independently."
+    ],
+    [
+        "PARA",
+        "It shall be possible to control the acquisition frequency <TelAcqListFreq> for each telemetry acquisition list independently.",
+        "In addition it shall be possible to control the frequency of the acquisition for each telemetry list independently."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall stop the cyclic acquisition of each specific telemetry acquisition list after a corresponding “Stop Telemetry Acquisition” event has been detected.",
+        "It shall stop the cyclic acquisition of each specific telemetry acquisition list after a corresponding \"Stop Telemetry Acquisition\" event is detected."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall stop the cyclic acquisition of each specific telemetry acquisition list after a corresponding “Stop Telemetry Acquisition” event has been detected.",
+        "The Remote Terminal Unit shall stop the cyclic acquisition of each specific telemetry acquisition list after a corresponding “Stop Telemetry Acquisition” event is detected."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall stop the cyclic acquisition of each specific telemetry acquisition list after a corresponding “Stop Telemetry Acquisition” event has been detected.",
+        "It shall stop the cyclic acquisition of each specific telemetry acquisition list after a corresponding \"Stop Telemetry Acquisition\" event has been detected."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall stop the cyclic acquisition of each specific telemetry acquisition list after a corresponding “Stop Telemetry Acquisition” event has been detected.",
+        "The Remote Terminal Unit shall stop the cyclic acquisition of each specific telemetry acquisition list after a corresponding \"Stop Telemetry Acquisition\" event is detected."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall stop the cyclic acquisition of each specific telemetry acquisition list after a corresponding “Stop Telemetry Acquisition” event has been detected.",
+        "The Remote Terminal Unit shall stop the cyclic acquisition of each specific telemetry acquisition list after a corresponding \"Stop Telemetry Acquisition\" event has been detected."
+    ],
+    [
+        "PARA",
+        "It shall at all times be possible to determine the validity status of each acquired telemetry parameter.",
+        "At all times it shall be possible to determine the validity status of each acquired telemetry parameter."
+    ],
+    [
+        "PARA",
+        "It shall at all times be possible to determine the validity status of each acquired telemetry parameter.",
+        "It shall at all times be possible to determine the validity status of each acquired telemetry parameter. -"
+    ],
+    [
+        "PARA",
+        "It shall at all times be possible to determine the validity status of each acquired telemetry parameter.",
+        "Every time it shall be possible to determine the validity status of the acquired telemetry parameter."
+    ],
+    [
+        "PARA",
+        "It shall at all times be possible to determine the validity status of each acquired telemetry parameter.",
+        "It shall always be possible to determine the validity status of each acquired telemetry parameter."
+    ],
+    [
+        "PARA",
+        "It shall at all times be possible to determine the validity status of each acquired telemetry parameter.",
+        "It shall be at all times possible to determine the validity status of each acquired telemetry parameter."
+    ],
+    [
+        "PARA",
+        "It shall at all times be possible to determine the validity status of each acquired telemetry parameter.",
+        "Every time a telemetry parameter is acquired it shall be possible to determine the validity status of it."
+    ],
+    [
+        "PARA",
+        "It shall at all times be possible to determine the validity status of each acquired telemetry parameter.",
+        "Every time it shall be possible to determine the validity status of each acquired telemetry parameter."
+    ],
+    [
+        "PARA",
+        "It shall at all times be possible to determine the validity status of each acquired telemetry parameter.",
+        "It shall be possible to determine the validity status of each acquired telemetry parameter at all times."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide internal failure detection mechanisms and associated telemetry to allow distinguishing between Remote Terminal Unit internal failures and failures caused by a sensor external to the Remote Terminal Unit for critical acquisitions.",
+        "For critical acquisitions the Remote Terminal Unit shall provide internal failure detection mechanisms and associated telemetry to allow distinguishing between internal failures of the Remote Terminal Unit and failures caused by sensors external to the Remote Terminal Unit."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide internal failure detection mechanisms and associated telemetry to allow distinguishing between Remote Terminal Unit internal failures and failures caused by a sensor external to the Remote Terminal Unit for critical acquisitions.",
+        "The Remote Terminal Unit shall provide internal failure detection mechanisms and associated telemetry to allow distinguishing between internal failures of the Remote Terminal Unit and failures caused for critical acquisitions by a sensor external to the Remote Terminal Unit."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide internal failure detection mechanisms and associated telemetry to allow distinguishing between Remote Terminal Unit internal failures and failures caused by a sensor external to the Remote Terminal Unit for critical acquisitions.",
+        "The Remote Terminal Unit shall provide internal failure detection mechanisms and associated telemetry to allow distinguishing between internal failures of the Remote Terminal Unit and failures caused by a sensor external to the Remote Terminal Unit for critical acquisitions."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide internal failure detection mechanisms and associated telemetry to allow distinguishing between Remote Terminal Unit internal failures and failures caused by a sensor external to the Remote Terminal Unit for critical acquisitions.",
+        "The Remote Terminal Unit shall provide internal failure detection mechanisms and associated telemetry to enable distinguishing between internal failures of the Remote Terminal Unit and failures caused by a sensor external to the Remote Terminal Unit for critical acquisitions."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide internal failure detection mechanisms and associated telemetry to allow distinguishing between Remote Terminal Unit internal failures and failures caused by a sensor external to the Remote Terminal Unit for critical acquisitions.",
+        "The remote terminal unit shall provide internal failure detection mechanisms and associated telemetry to allow distinguishing between internal failures of the remote terminal unit and failures caused by a sensor external to the remote terminal unit for critical acquisitions."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide internal failure detection mechanisms and associated telemetry to allow distinguishing between Remote Terminal Unit internal failures and failures caused by a sensor external to the Remote Terminal Unit for critical acquisitions.",
+        "The Remote Terminal Unit shall provide internal failure detection mechanisms and associated telemetry to allow distinguishing between internal failures of the Remote Terminal Unit and failures caused by a sensor outside the Remote Terminal Unit for critical acquisitions."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide means to allow a unique correlation between the acquired telemetry data and the corresponding “Start Telemetry Acquisition” event.",
+        "The remote terminal unit shall provide means to allow a unique correlation between the acquired telemetry data and the corresponding “Start Telemetry Acquisition” event. "
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide means to allow a unique correlation between the acquired telemetry data and the corresponding “Start Telemetry Acquisition” event.",
+        "The Remote Terminal Unit shall provide means to allow a unique correlation between the acquired telemetry data and the corresponding \"Start Telemetry Acquisition\" event. "
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide means to allow a unique correlation between the acquired telemetry data and the corresponding “Start Telemetry Acquisition” event.",
+        "The Remote Terminal Unit shall provide means to allow a unique correlation between the acquired telemetry data and the corresponding “Start Telemetry Acquisition” events."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide means to allow a unique correlation between the acquired telemetry data and the corresponding “Start Telemetry Acquisition” event.",
+        "The Remote Terminal Unit shall provide means to allow a unique correlation between the acquired telemetry data and the corresponding start telemetry acquisition event."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide means to allow a unique correlation between the acquired telemetry data and the corresponding “Start Telemetry Acquisition” event.",
+        "The Remote Terminal Unit shall provide means to allow a unique correlation between the acquired telemetry data and the corresponding “Start Telemetry Acquisition” event. "
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide means to allow a unique correlation between the acquired telemetry data and the corresponding “Start Telemetry Acquisition” event.",
+        "The Remote Terminal Unit shall provide means to allow a unique correlation between the acquired telemetry data and the corresponding \"Start Telemetry Acquisition\" event."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide means to allow a unique correlation between the acquired telemetry data and the corresponding “Start Telemetry Acquisition” event.",
+        "The remote terminal unit shall provide means to allow a unique correlation between the acquired telemetry data and the corresponding start telemetry acquisition event."
+    ],
+    [
+        "PARA",
+        "Default telemetry acquisition lists should be configurable also in orbit.",
+        "The default telemetry acquisition lists should also be configurable in orbit."
+    ],
+    [
+        "PARA",
+        "Default telemetry acquisition lists should be configurable also in orbit.",
+        "Lists of telemetry acquired by default should be configurable in orbit."
+    ],
+    [
+        "PARA",
+        "During Initialization State, the Remote Terminal Unit shall initialize the telemetry acquisition lists to the corresponding default values.  ",
+        "In Initialization State the Remote Terminal Unit shall initialize the telemetry acquisition lists to the default values."
+    ],
+    [
+        "PARA",
+        "During Initialization State, the Remote Terminal Unit shall initialize the telemetry acquisition lists to the corresponding default values.  ",
+        "In Initialization State the Remote Terminal Unit shall initialize the telemetry acquisition lists to the corresponding default values."
+    ],
+    [
+        "PARA",
+        "During Initialization State, the Remote Terminal Unit shall initialize the telemetry acquisition lists to the corresponding default values.  ",
+        "In Initialization State the Remote Terminal Unit shall initialize the telemetry acquisition lists to the corresponding default values. "
+    ],
+    [
+        "PARA",
+        "During Initialization State, the Remote Terminal Unit shall initialize the telemetry acquisition lists to the corresponding default values.  ",
+        "During initialization state the Remote Terminal Unit shall initialize the telemetry acquisition lists to the corresponding default values."
+    ],
+    [
+        "PARA",
+        "During Initialization State, the Remote Terminal Unit shall initialize the telemetry acquisition lists to the corresponding default values.  ",
+        "During Initialization State the Remote Terminal Unit shall initialize the telemetry acquisition lists to the default values."
+    ],
+    [
+        "PARA",
+        "During Initialization State, the Remote Terminal Unit shall initialize the telemetry acquisition lists to the corresponding default values.  ",
+        "During Initialization State the Remote Terminal Unit shall initialize the telemetry acquisition lists to the corresponding default values."
+    ],
+    [
+        "PARA",
+        "It should be possible to change\/reprogram telemetry acquisition list by means of dedicated commands.",
+        "It should be possible to change\/reprogram the list of telemetry acquisition by means of dedicated commands."
+    ],
+    [
+        "PARA",
+        "It should be possible to change\/reprogram telemetry acquisition list by means of dedicated commands.",
+        "It should be possible to change\/reprogram telemetry list by means of dedicated commands."
+    ],
+    [
+        "PARA",
+        "It should be possible to change\/reprogram telemetry acquisition list by means of dedicated commands.",
+        "It should be possible to change\/reprogram the telemetry acquisition list by means of dedicated commands."
+    ],
+    [
+        "PARA",
+        "It should be possible to change\/reprogram telemetry acquisition list by means of dedicated commands.",
+        "It should be possible to change\/reprogram telemetry acquisition list through dedicated commands."
+    ],
+    [
+        "PARA",
+        "It should be possible to change\/reprogram telemetry acquisition list by means of dedicated commands.",
+        "With dedicated commands it should be possible to change\/reprogram the telemetry acquisition list."
+    ],
+    [
+        "PARA",
+        "It should be possible to change\/reprogram telemetry acquisition list by means of dedicated commands.",
+        "It should be possible to change\/reprogram the list of telemetry acquisition by means of special commands."
+    ],
+    [
+        "PARA",
+        "It should be possible to change\/reprogram telemetry acquisition list by means of dedicated commands.",
+        "It should be possible to change\/reprogram the telemetry acquisition list by means of special commands."
+    ],
+    [
+        "PARA",
+        "It should be possible to change\/reprogram telemetry acquisition list by means of dedicated commands.",
+        "It should be possible to change\/reprogram the list of telemetry acquisition by means of dedicated command."
+    ],
+    [
+        "PARA",
+        "Each list shall contain up to <TelemetryChannelNumber> telemetry channels.",
+        "TelemetryChannelNumber> Telemetry channels shall be included in each list."
+    ],
+    [
+        "PARA",
+        "Each list shall contain up to <TelemetryChannelNumber> telemetry channels.",
+        "Each list shall contain up to TelemetryChannelNumber> Telemetry channels."
+    ],
+    [
+        "PARA",
+        "Each list shall contain up to <TelemetryChannelNumber> telemetry channels.",
+        "Each list shall contain up to TelemetryChannelNumber> telemetry channels."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall decode, validate and process any received command immediately after the receipt of the command.",
+        "The Remote Terminal Unit shall decode, validate and process any received command immediately upon receipt of the command."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall decode, validate and process any received command immediately after the receipt of the command.",
+        "After receipt of the command the remote terminal unit shall decode, validate and process any received command."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall decode, validate and process any received command immediately after the receipt of the command.",
+        "After receiving the command the Remote Terminal Unit shall decode, validate and process any received command."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall decode, validate and process any received command immediately after the receipt of the command.",
+        "After receipt of the command the Remote Terminal Unit shall decode, validate and process any received command."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall decode, validate and process any received command immediately after the receipt of the command.",
+        "It shall decode, validate and process any received command immediately after receipt of the command."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall decode, validate and process any received command immediately after the receipt of the command.",
+        "The remote terminal unit shall decode, validate and process any received command immediately after receipt of the command."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall decode, validate and process any received command immediately after the receipt of the command.",
+        "The Remote Terminal Unit shall decode, validate and process any received command immediately after receiving the command."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall decode, validate and process any received command immediately after the receipt of the command.",
+        "The Remote Terminal Unit shall decode, validate and process any received command immediately after receipt of the command."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide sufficient means to be able to verify the command reception, acknowledgement and execution status for each received command.",
+        "The Remote Terminal Unit shall provide sufficient means to be able to verify the command reception acknowledgement and execution status for each received command."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide sufficient means to be able to verify the command reception, acknowledgement and execution status for each received command.",
+        "It shall provide sufficient means to be able to verify the command receipt acknowledgement and execution status for each received command."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide sufficient means to be able to verify the command reception, acknowledgement and execution status for each received command.",
+        "It shall provide sufficient means to be able to verify the command reception acknowledgement and execution status for each received command."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide sufficient means to be able to verify the command reception, acknowledgement and execution status for each received command.",
+        "It shall provide sufficient means to be able to verify the command reception, acknowledgement and execution status for each received command."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide sufficient means to be able to verify the command reception, acknowledgement and execution status for each received command.",
+        "The remote terminal unit shall provide sufficient means to be able to verify the command reception acknowledgement and execution status for each received command."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide sufficient means to be able to verify the command reception, acknowledgement and execution status for each received command.",
+        "The Remote Terminal Unit shall provide sufficient means to be able to verify the command reception acknowledgment and execution status for each received command."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide sufficient means to be able to verify the command reception, acknowledgement and execution status for each received command.",
+        "It shall provide sufficient means to be able to verify the command receipt, acknowledgement and execution status for each received command."
+    ],
+    [
+        "PARA",
+        "The command interface and telemetry interface addresses for accessing the Remote Terminal Unit internal modules shall be identical when accessing a module through nominal or redundant Remote Terminal Unit Core .  ",
+        "The command interface and the telemetry interface addresses for accessing the internal modules of the Remote Terminal Unit shall be identical when accessing a module through the nominal or redundant Remote Terminal Unit Core."
+    ],
+    [
+        "PARA",
+        "The command interface and telemetry interface addresses for accessing the Remote Terminal Unit internal modules shall be identical when accessing a module through nominal or redundant Remote Terminal Unit Core .  ",
+        "The command-interface and telemetry interface addresses for accessing the internal modules of the Remote Terminal Unit shall be the same when accessing a module through a nominal or redundant Remote Terminal Unit Core"
+    ],
+    [
+        "PARA",
+        "The command interface and telemetry interface addresses for accessing the Remote Terminal Unit internal modules shall be identical when accessing a module through nominal or redundant Remote Terminal Unit Core .  ",
+        "The command interface and the telemetry interface addresses for accessing the internal modules of the Remote Terminal Unit shall be identical when accessing a module through the nominal or redundant Remote Terminal Unit Core. "
+    ],
+    [
+        "PARA",
+        "The command interface and telemetry interface addresses for accessing the Remote Terminal Unit internal modules shall be identical when accessing a module through nominal or redundant Remote Terminal Unit Core .  ",
+        "The command-interface and telemetry interface addresses for accessing the internal modules of the Remote Terminal Unit shall be identical if accessing a module through a nominal or redundant Remote Terminal Unit Core"
+    ],
+    [
+        "PARA",
+        "The command interface and telemetry interface addresses for accessing the Remote Terminal Unit internal modules shall be identical when accessing a module through nominal or redundant Remote Terminal Unit Core .  ",
+        "The command interface and telemetry interface addresses for accessing the internal modules of the Remote Terminal Unit shall be identical when accessing a module through a nominal or redundant Remote Terminal Unit Core. "
+    ],
+    [
+        "PARA",
+        "The command interface and telemetry interface addresses for accessing the Remote Terminal Unit internal modules shall be identical when accessing a module through nominal or redundant Remote Terminal Unit Core .  ",
+        "The command interface and telemetry interface addresses for accessing the internal modules of the Remote Terminal Unit shall be identical when accessing a module through the nominal or redundant Remote Terminal Unit Core. "
+    ],
+    [
+        "PARA",
+        "The command interface and telemetry interface addresses for accessing the Remote Terminal Unit internal modules shall be identical when accessing a module through nominal or redundant Remote Terminal Unit Core .  ",
+        "The command interface and telemetry interface addresses for accessing the internal modules of the Remote Terminal Unit shall be identical when accessing a module through a nominal or redundant Remote Terminal Unit Core."
+    ],
+    [
+        "PARA",
+        "The command interface and telemetry interface addresses for accessing the Remote Terminal Unit internal modules shall be identical when accessing a module through nominal or redundant Remote Terminal Unit Core .  ",
+        "The command interface and telemetry interface addresses for accessing the internal modules of the Remote Terminal Unit shall be identical when accessing a module via the nominal or redundant Remote Terminal Unit Core."
+    ],
+    [
+        "PARA",
+        "The command interface and telemetry interface addresses for accessing the Remote Terminal Unit internal modules shall be identical when accessing a module through nominal or redundant Remote Terminal Unit Core .  ",
+        "The command interface and telemetry interface addresses for accessing the internal modules of the Remote Terminal Unit shall be identical when accessing a module through the nominal or redundant Remote Terminal Unit Core."
+    ],
+    [
+        "PARA",
+        "The command interface and telemetry interface addresses for accessing the Remote Terminal Unit internal modules shall be identical when accessing a module through nominal or redundant Remote Terminal Unit Core .  ",
+        "The command interface and the telemetry interface addresses for accessing the internal modules of the Remote Terminal Unit shall be identical when accessing a module through a nominal or redundant Remote Terminal Unit Core."
+    ],
+    [
+        "PARA",
+        "Commands shall be executed in the same sequence as they are provided to the Remote Terminal Unit.",
+        "In the same sequence as provided to the Remote Terminal Unit the commands shall be executed."
+    ],
+    [
+        "PARA",
+        "Commands shall be executed in the same sequence as they are provided to the Remote Terminal Unit.",
+        "Commands shall be executed in the same sequence as those provided to the Remote Terminal Unit."
+    ],
+    [
+        "PARA",
+        "Commands shall be executed in the same sequence as they are provided to the Remote Terminal Unit.",
+        "Commands shall be executed in the same sequence as they are provided to the remote terminal."
+    ],
+    [
+        "PARA",
+        "Commands shall be executed in the same sequence as they are provided to the Remote Terminal Unit.",
+        "In the same sequence as provided to the Remote Terminal Unit commands shall be executed."
+    ],
+    [
+        "PARA",
+        "Commands shall be executed in the same sequence as they are provided to the Remote Terminal Unit.",
+        "Commands shall be executed in the same sequence as provided to the remote terminal unit."
+    ],
+    [
+        "PARA",
+        "Commands shall be executed in the same sequence as they are provided to the Remote Terminal Unit.",
+        "Commands shall be executed in the same sequence as provided to the Remote Terminal Unit."
+    ],
+    [
+        "PARA",
+        "It shall be possible to pre-load a sequence of actuation commands in dedicated command actuation list s in the Remote Terminal Unit for later execution in re sponse to a corresponding “Start Telecommand Actuation” event.",
+        "A sequence of actuation commands shall be possible in dedicated command actuation lists in the Remote Terminal Unit for later execution as a response to a corresponding “Start Telecommand Actuation”."
+    ],
+    [
+        "PARA",
+        "It shall be possible to pre-load a sequence of actuation commands in dedicated command actuation list s in the Remote Terminal Unit for later execution in re sponse to a corresponding “Start Telecommand Actuation” event.",
+        "A sequence of actuation commands shall be possible in dedicated command actuation lists in the Remote Terminal Unit for later execution as a response to a corresponding “Start Telecommand Actu"
+    ],
+    [
+        "PARA",
+        "It shall be possible to pre-load a sequence of actuation commands in dedicated command actuation list s in the Remote Terminal Unit for later execution in re sponse to a corresponding “Start Telecommand Actuation” event.",
+        "A sequence of actuation commands shall be possible in dedicated command actuation lists in the Remote Terminal Unit for later execution as a response to a corresponding “Start Telecommand Actuation” event."
+    ],
+    [
+        "PARA",
+        "It shall be possible to pre-load a sequence of actuation commands in dedicated command actuation list s in the Remote Terminal Unit for later execution in re sponse to a corresponding “Start Telecommand Actuation” event.",
+        "A sequence of actuation commands shall be possible in the dedicated command actuation list in the Remote Terminal Unit for later execution as a response to a corresponding “Start Telecommand Actuation” event."
+    ],
+    [
+        "PARA",
+        "It shall be possible to pre-load a sequence of actuation commands in dedicated command actuation list s in the Remote Terminal Unit for later execution in re sponse to a corresponding “Start Telecommand Actuation” event.",
+        "A sequence of actuation commands shall be possible in dedicated command actuation lists in the remote terminal unit for later execution as a response to a corresponding “Start Telecommand Actuation” event."
+    ],
+    [
+        "PARA",
+        "It shall be possible to pre-load a sequence of actuation commands in dedicated command actuation list s in the Remote Terminal Unit for later execution in re sponse to a corresponding “Start Telecommand Actuation” event.",
+        "A sequence of actuation commands shall be possible in dedicated command actuation lists in the Remote Terminal Unit to be pre-loaded for later execution in response to a corresponding “Start Telecommand Actuation”."
+    ],
+    [
+        "PARA",
+        "It shall be possible to pre-load a sequence of actuation commands in dedicated command actuation list s in the Remote Terminal Unit for later execution in re sponse to a corresponding “Start Telecommand Actuation” event.",
+        "A sequence of actuation commands shall be possible in the dedicated command actuation list in the Remote Terminal Unit for later execution as a response to a corresponding “Start Telecommand Actuation”."
+    ],
+    [
+        "PARA",
+        "It shall be possible to pre-load a sequence of actuation commands in dedicated command actuation list s in the Remote Terminal Unit for later execution in re sponse to a corresponding “Start Telecommand Actuation” event.",
+        "A sequence of actuation commands shall be possible in dedicated command actuation lists in the Remote Terminal Unit to be pre-loaded for later execution in response to a corresponding “Start Telecommand Actuation”"
+    ],
+    [
+        "PARA",
+        "It shall be possible to pre-load a sequence of actuation commands in dedicated command actuation list s in the Remote Terminal Unit for later execution in re sponse to a corresponding “Start Telecommand Actuation” event.",
+        "A sequence of actuation commands shall be possible in dedicated command actuation lists in the Remote Terminal Unit to be pre-loaded for later execution in response to a corresponding “Start"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall start the actuation according to each specific command actuation list after a corresponding “Start Telecommand Actuation” event has been detected.",
+        "The Remote Terminal Unit shall start the actuation according to each specific command actuation list after a corresponding \"Start Telecommand Actuation\" event has been detected."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall actuate each commanded user interface in a given command actuation listin the same sequence as they are defined in the command actuation lists or in the sequence defined by any associated command parameters (delay, pulse length etc.). ",
+        "The Remote Terminal Unit is to actuate each commanded user interface in a given command actuation list in the same sequence as they are defined in the command actuation lists or in the sequence defined by any associated command parameters (delay"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall actuate each commanded user interface in a given command actuation listin the same sequence as they are defined in the command actuation lists or in the sequence defined by any associated command parameters (delay, pulse length etc.). ",
+        "The Remote Terminal Unit shall actuate each commanded user interface in a given command actuation list in the same sequence as they are defined in the command actuation lists or in the sequence defined by any associated command parameters (delay"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall actuate each commanded user interface in a given command actuation listin the same sequence as they are defined in the command actuation lists or in the sequence defined by any associated command parameters (delay, pulse length etc.). ",
+        "The Remote Terminal Unit shall actuate each commanded user interface in a given command list in the same sequence as they are defined in the command actuation lists or in the sequence defined by any associated command parameters (delay, pulse length etc."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall actuate each commanded user interface in a given command actuation listin the same sequence as they are defined in the command actuation lists or in the sequence defined by any associated command parameters (delay, pulse length etc.). ",
+        "The Remote Terminal Unit is to actuate each commanded user interface in a given command actuation list in the same sequence as defined in the command actuation lists or in the sequence defined by any associated command parameters"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall actuate each commanded user interface in a given command actuation listin the same sequence as they are defined in the command actuation lists or in the sequence defined by any associated command parameters (delay, pulse length etc.). ",
+        "The Remote Terminal Unit shall actuate each commanded user interface in a given command actuation list in the same sequence as they are defined in the command actuation lists or in the sequence defined by any associated command parameters"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall actuate each commanded user interface in a given command actuation listin the same sequence as they are defined in the command actuation lists or in the sequence defined by any associated command parameters (delay, pulse length etc.). ",
+        "The Remote Terminal Unit is to actuate each commanded user interface in a given command actuation list in the same sequence as defined in the command actuation lists or in the sequence defined by any associated command parameters (delay"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall actuate each commanded user interface in a given command actuation listin the same sequence as they are defined in the command actuation lists or in the sequence defined by any associated command parameters (delay, pulse length etc.). ",
+        "The remote terminal unit shall actuate each commanded user interface in a given command actuation list in the same sequence as they are defined in the command actuation lists or in the sequence defined by any associated command parameters"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall actuate each commanded user interface in a given command actuation listin the same sequence as they are defined in the command actuation lists or in the sequence defined by any associated command parameters (delay, pulse length etc.). ",
+        "The Remote Terminal Unit shall actuate each commanded user interface in a given command actuation list in the same sequence as defined in the command actuation lists or in the sequence defined by any associated command parameters"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall actuate each commanded user interface in a given command actuation listin the same sequence as they are defined in the command actuation lists or in the sequence defined by any associated command parameters (delay, pulse length etc.). ",
+        "The Remote Terminal Unit is to actuate each commanded user interface in a given command actuation list in the same sequence as they are defined in the command actuation lists or in the sequence defined by any associated command parameters"
+    ],
+    [
+        "PARA",
+        "It shall be possible to issue commands and telemetry requests and acquire associated telemetry responses to\/from any specific Remote Terminal Unit Standard User Interface without affecting the operation of other  interfaces",
+        "It shall be possible to issue commands and telemetry requests and acquire associated telemetry responses to\/from any specific Remote Terminal Unit standard user interface without affecting the operation of other interfaces."
+    ],
+    [
+        "PARA",
+        "It shall be possible to issue commands and telemetry requests and acquire associated telemetry responses to\/from any specific Remote Terminal Unit Standard User Interface without affecting the operation of other  interfaces",
+        "It shall be possible to issue commands and telemetry requests and acquire associated telemetry responses to\/from a specific Remote Terminal Unit Standard User Interface without affecting the operation of other interfaces"
+    ],
+    [
+        "PARA",
+        "It shall be possible to issue commands and telemetry requests and acquire associated telemetry responses to\/from any specific Remote Terminal Unit Standard User Interface without affecting the operation of other  interfaces",
+        "It shall be possible to issue commands and telemetry requests and acquire associated telemetry responses from any specific Remote Terminal Unit Standard User Interface without affecting the operation of other interfaces."
+    ],
+    [
+        "PARA",
+        "It shall be possible to issue commands and telemetry requests and acquire associated telemetry responses to\/from any specific Remote Terminal Unit Standard User Interface without affecting the operation of other  interfaces",
+        "It shall be possible to issue commands and telemetry requests and acquire associated telemetry responses to\/from any specific Remote Terminal Unit Standard User Interface without affecting the operation of other interfaces"
+    ],
+    [
+        "PARA",
+        "It shall be possible to issue commands and telemetry requests and acquire associated telemetry responses to\/from any specific Remote Terminal Unit Standard User Interface without affecting the operation of other  interfaces",
+        "It shall be possible to issue commands and telemetry requests and acquire associated telemetry responses to\/from any specific Remote Terminal Unit Standard User Interface without affecting the operation of other interfaces."
+    ],
+    [
+        "PARA",
+        "It shall be possible to issue commands and telemetry requests and acquire associated telemetry responses to\/from any specific Remote Terminal Unit Standard User Interface without affecting the operation of other  interfaces",
+        "It shall be possible to issue commands and telemetry requests and acquire associated telemetry responses to\/from any particular Remote Terminal Unit Standard User Interface without affecting the operation of other interfaces."
+    ],
+    [
+        "PARA",
+        "No single failure inside the Remote Terminal Unit shall cause inadvertent (continuous) activation  of  pulse commands.",
+        "No single failure in the Remote Terminal Unit shall cause inadvertent (continuous) activation of pulse commands."
+    ],
+    [
+        "PARA",
+        "No single failure inside the Remote Terminal Unit shall cause inadvertent (continuous) activation  of  pulse commands.",
+        "No single failure in the Remote Terminal Unit shall cause inadvertent (continuous) activation of pulse commands. ''"
+    ],
+    [
+        "PARA",
+        "No single failure inside the Remote Terminal Unit shall cause inadvertent (continuous) activation  of  pulse commands.",
+        "In a remote terminal unit no single failure shall cause inadvertent (continuous) activation of pulse commands."
+    ],
+    [
+        "PARA",
+        "No single failure inside the Remote Terminal Unit shall cause inadvertent (continuous) activation  of  pulse commands.",
+        "No single failure within the remote terminal unit shall cause inadvertent (continuous) activation of pulse commands."
+    ],
+    [
+        "PARA",
+        "No single failure inside the Remote Terminal Unit shall cause inadvertent (continuous) activation  of  pulse commands.",
+        "No single failure inside the Remote Terminal Unit shall cause inadvertent (continuous) activation of pulse commands."
+    ],
+    [
+        "PARA",
+        "No single failure inside the Remote Terminal Unit shall cause inadvertent (continuous) activation  of  pulse commands.",
+        "No single failure in the remote terminal unit shall cause inadvertent (continuous) activation of pulse commands."
+    ],
+    [
+        "PARA",
+        "No single failure inside the Remote Terminal Unit shall cause inadvertent (continuous) activation  of  pulse commands.",
+        "No single failure within the Remote Terminal Unit shall cause inadvertent (continuous) activation of pulse commands. ''"
+    ],
+    [
+        "PARA",
+        "No single failure inside the Remote Terminal Unit shall cause inadvertent (continuous) activation  of  pulse commands.",
+        "No single failure within the remote terminal unit shall cause inadvertent (continuous) activation of pulse commands. ''"
+    ],
+    [
+        "PARA",
+        "No single failure inside the Remote Terminal Unit shall cause inadvertent (continuous) activation  of  pulse commands.",
+        "No single failure inside the Remote Terminal Unit shall cause inadvertent (continuous) activation of pulse commands. ''"
+    ],
+    [
+        "PARA",
+        "No single failure inside the Remote Terminal Unit shall cause inadvertent (continuous) activation  of  pulse commands.",
+        "No single failure within the Remote Terminal Unit shall cause inadvertent (continuous) activation of pulse commands."
+    ],
+    [
+        "PARA",
+        "In case of loss of communication with the On-Board Computer, loss of the Remote Terminal Unit Controller functionality or the Remote Terminal Unit Controller is not powered anymore, commanding of critical attitude control actuators shall become inactive within a known and predefined time.",
+        "In case the remote terminal unit controller functionality is lost or the remote terminal unit controller is not powered up again the commanding of critical attitude control actuators shall become inactive within a known and predefined time and"
+    ],
+    [
+        "PARA",
+        "In case of loss of communication with the On-Board Computer, loss of the Remote Terminal Unit Controller functionality or the Remote Terminal Unit Controller is not powered anymore, commanding of critical attitude control actuators shall become inactive within a known and predefined time.",
+        "In case the remote terminal unit controller functionality is lost or the remote terminal unit controller is not powered up, commanding of critical attitude control actuators shall become inactive within a known and predefined time."
+    ],
+    [
+        "PARA",
+        "In case of loss of communication with the On-Board Computer, loss of the Remote Terminal Unit Controller functionality or the Remote Terminal Unit Controller is not powered anymore, commanding of critical attitude control actuators shall become inactive within a known and predefined time.",
+        "In case the remote terminal unit controller functionality is lost or the remote terminal unit controller is not powered up again the command of critical attitude control actuators shall become inactive within a known and predefined time."
+    ],
+    [
+        "PARA",
+        "In case of loss of communication with the On-Board Computer, loss of the Remote Terminal Unit Controller functionality or the Remote Terminal Unit Controller is not powered anymore, commanding of critical attitude control actuators shall become inactive within a known and predefined time.",
+        "In case the remote terminal unit controller functionality is lost or the remote terminal unit controller is not powered up again the commanding of critical attitude control actuators shall become inactive within a known and predefined period."
+    ],
+    [
+        "PARA",
+        "In case of loss of communication with the On-Board Computer, loss of the Remote Terminal Unit Controller functionality or the Remote Terminal Unit Controller is not powered anymore, commanding of critical attitude control actuators shall become inactive within a known and predefined time.",
+        "In case the remote terminal unit controller functionality is lost or the remote terminal unit controller is not powered up again the commanding of critical attitude control actuators shall become inactive within a known and predefined time."
+    ],
+    [
+        "PARA",
+        "In case of loss of communication with the On-Board Computer, loss of the Remote Terminal Unit Controller functionality or the Remote Terminal Unit Controller is not powered anymore, commanding of critical attitude control actuators shall become inactive within a known and predefined time.",
+        "In case the remote terminal unit controller functionality is lost or the remote terminal unit controller is not powered up, the command of critical attitude control actuators shall become inactive within a known and predefined time."
+    ],
+    [
+        "PARA",
+        "In case of loss of communication with the On-Board Computer, loss of the Remote Terminal Unit Controller functionality or the Remote Terminal Unit Controller is not powered anymore, commanding of critical attitude control actuators shall become inactive within a known and predefined time.",
+        "In case the remote terminal unit controller functionality is lost or the remote terminal unit controller is not powered up again the commanding of critical attitude control actuators shall become inactive within a known and predefined time period."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide error protection and\/or detection functions for the complete command chain from the Remote Terminal Unit Remote Control Interface up to the User Interface output ports in order to avoid:xsending of wrong serial data or discrete commands, xerroneous actuation or powe ring of connected units,",
+        "In order to prevent:xsending of wrong serial data or discrete commands, xerroneous actuation or powe ring of connected units the Remote Terminal Unit shall provide error protection and\/or detection functions for the complete command chain from the Remote Terminal Unit Remote Control Interface"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall provide error protection and\/or detection functions for the complete command chain from the Remote Terminal Unit Remote Control Interface up to the User Interface output ports in order to avoid:xsending of wrong serial data or discrete commands, xerroneous actuation or powe ring of connected units,",
+        "In order to avoid:xsending of wrong serial data or discrete commands, xerroneous actuation or powe ring of connected units the Remote Terminal Unit shall provide error protection and\/or detection functions for the complete command chain from the Remote Control Interface to the User Interface output ports"
+    ],
+    [
+        "PARA",
+        "The maximum execution time of each Remote Terminal Unit internal action taken in response to an external command shall be known and deterministic.",
+        "The maximum execution time of each internal action of the Remote Terminal Unit in response to an external command shall be known and deterministic."
+    ],
+    [
+        "PARA",
+        "The maximum execution time of each Remote Terminal Unit internal action taken in response to an external command shall be known and deterministic.",
+        "The maximum execution time of each internal action of a Remote Terminal Unit in response to an external command shall be known and deterministic."
+    ],
+    [
+        "PARA",
+        "The maximum execution time of each Remote Terminal Unit internal action taken in response to an external command shall be known and deterministic.",
+        "The maximum execution time of each remote terminal unit internal action in response to an external command shall be known and deterministic."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the redundancy requirements as defined in [European Cooperation for Space Standards-E-20], Section 4.2.1.  ",
+        "This unit shall comply with the redundancy requirements as defined in [European Cooperation for Space Standards-E-20], Section 4.2.1. ''"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the redundancy requirements as defined in [European Cooperation for Space Standards-E-20], Section 4.2.1.  ",
+        "The Remote Terminal Unit shall be compliant with the redundancy requirements as defined in [European Cooperation for Space Standards-E-20], Section 4.2.1."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the redundancy requirements as defined in [European Cooperation for Space Standards-E-20], Section 4.2.1.  ",
+        "This unit shall comply with the redundancy requirements as defined in [European Cooperation for Space Standards-E-20], section 4.2.1. ''"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the redundancy requirements as defined in [European Cooperation for Space Standards-E-20], Section 4.2.1.  ",
+        "The Remote Terminal Unit shall be compliant with the redundancy requirements as defined in [European Cooperation for Space Standards-E-20], section 4.2.1."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the redundancy requirements as defined in [European Cooperation for Space Standards-E-20], Section 4.2.1.  ",
+        "This unit shall comply with the redundancy requirements as defined in [European Cooperation for Space Standards-E-20], Section 4.2.1."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the redundancy requirements as defined in [European Cooperation for Space Standards-E-20], Section 4.2.1.  ",
+        "The Remote Terminal Unit shall be compliant with the redundancy requirements as defined in [European Cooperation for Space Standards-E-20], section 4.2.1. "
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the redundancy requirements as defined in [European Cooperation for Space Standards-E-20], Section 4.2.1.  ",
+        "The Remote Terminal Unit shall be compliant with the redundancy requirements as defined in [European Cooperation for Space Standards-E-20], Section 4.2.1. "
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the redundancy requirements as defined in [European Cooperation for Space Standards-E-20], Section 4.2.1.  ",
+        "The Remote Terminal Unit shall be compliant with redundancy requirements as defined in [European Cooperation for Space Standards-E-20], Section 4.2.1."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the redundancy requirements as defined in [European Cooperation for Space Standards-E-20], Section 4.2.1.  ",
+        "The Remote Terminal Unit shall comply with the redundancy requirements as defined in [European Cooperation for Space Standards-E-20], Section 4.2.1."
+    ],
+    [
+        "PARA",
+        "The size of each failure group shall be specified and justified for any Remote Terminal Unit function for which failure groups redundancy concept is adopted.",
+        "Size of each failure group shall be specified for any remote terminal unit function for which the concept of redundancy of failure groups has been adopted."
+    ],
+    [
+        "PARA",
+        "The size of each failure group shall be specified and justified for any Remote Terminal Unit function for which failure groups redundancy concept is adopted.",
+        "The size of each failure group shall be specified and justified for any Remote Terminal Unit function for which a redundancy concept for failure groups is adopted."
+    ],
+    [
+        "PARA",
+        "The size of each failure group shall be specified and justified for any Remote Terminal Unit function for which failure groups redundancy concept is adopted.",
+        "Size of each failure group shall be specified for any Remote Terminal Unit function for which a redundancy concept for failure groups has been adopted."
+    ],
+    [
+        "PARA",
+        "The size of each failure group shall be specified and justified for any Remote Terminal Unit function for which failure groups redundancy concept is adopted.",
+        "The size of each failure group shall be specified and justified for any Remote Terminal Unit function for which a redundancy concept is adopted for failure groups."
+    ],
+    [
+        "PARA",
+        "The size of each failure group shall be specified and justified for any Remote Terminal Unit function for which failure groups redundancy concept is adopted.",
+        "Size of each failure group shall be specified for any Remote Terminal Unit function for which the concept of redundancy is adopted."
+    ],
+    [
+        "PARA",
+        "The size of each failure group shall be specified and justified for any Remote Terminal Unit function for which failure groups redundancy concept is adopted.",
+        "Size of each failure group shall be specified for any remote terminal unit function for which the concept of redundancy is adopted."
+    ],
+    [
+        "PARA",
+        "If the concept of failure groups is adopted for a group of interface channels, the channels shall be grouped such that no single failure internal to a group will cause a loss or a misbehaviour of more than one group.",
+        "If the concept of failure groups is adopted for a group of interface channels the channels shall be grouped such that no single failure internal to a group will cause a loss or misbehaviour of more than one group."
+    ],
+    [
+        "PARA",
+        "If the concept of failure groups is adopted for a group of interface channels, the channels shall be grouped such that no single failure internal to a group will cause a loss or a misbehaviour of more than one group.",
+        "If for a group of interface channels a concept of failure groups is adopted, the channels shall be grouped such that no single failure internal to a group will cause a loss of more than one group."
+    ],
+    [
+        "PARA",
+        "If the concept of failure groups is adopted for a group of interface channels, the channels shall be grouped such that no single failure internal to a group will cause a loss or a misbehaviour of more than one group.",
+        "If for a group of interface channels a concept of failure groups is adopted, the channels shall be grouped so that no single failure internal to a group will cause a loss or a misbe"
+    ],
+    [
+        "PARA",
+        "If the concept of failure groups is adopted for a group of interface channels, the channels shall be grouped such that no single failure internal to a group will cause a loss or a misbehaviour of more than one group.",
+        "If for a group of interface channels a concept of failure groups is adopted, the channels shall be grouped such that no single failure internal to a group will cause a loss or a misbe"
+    ],
+    [
+        "PARA",
+        "If the concept of failure groups is adopted for a group of interface channels, the channels shall be grouped such that no single failure internal to a group will cause a loss or a misbehaviour of more than one group.",
+        "If the concept of failure groups is adopted for a group of interface channels the channels shall be grouped such that no single failure internal to a group will cause a loss or a misbehaviour of more than one"
+    ],
+    [
+        "PARA",
+        "If the concept of failure groups is adopted for a group of interface channels, the channels shall be grouped such that no single failure internal to a group will cause a loss or a misbehaviour of more than one group.",
+        "If for a group of interface channels a concept of failure groups is adopted, the channels shall be grouped such that no single failure internal to a group will cause a loss or a misbehaviour"
+    ],
+    [
+        "PARA",
+        "If the concept of failure groups is adopted for a group of interface channels, the channels shall be grouped such that no single failure internal to a group will cause a loss or a misbehaviour of more than one group.",
+        "If for a group of interface channels a concept of failure groups is adopted, the channels shall be grouped such that no single failure internal to a group will cause a loss or a misbehavi"
+    ],
+    [
+        "PARA",
+        "If the concept of failure groups is adopted for a group of interface channels, the channels shall be grouped such that no single failure internal to a group will cause a loss or a misbehaviour of more than one group.",
+        "In cases where a concept of failure groups is adopted for a group of interface channels the channels shall be grouped such that no single failure internal to a group will cause a loss or a misbe"
+    ],
+    [
+        "PARA",
+        "Interface selection Selection of the Remote Terminal Unit internal redundancies shall be static, deterministic and fully controlled via the Remote Terminal Unit Remote Control Interface .",
+        "Interface selection Selection of the Remote Terminal Unit internal redundancies shall be static deterministic and fully controlled via the Remote Terminal Unit Remote Control Interface."
+    ],
+    [
+        "PARA",
+        "Interface selection Selection of the Remote Terminal Unit internal redundancies shall be static, deterministic and fully controlled via the Remote Terminal Unit Remote Control Interface .",
+        "Interface selection Internal redundancies of the Remote Terminal Unit shall be static deterministic and fully controlled via the Remote Terminal Unit Remote Control Interface."
+    ],
+    [
+        "PARA",
+        "Interface selection Selection of the Remote Terminal Unit internal redundancies shall be static, deterministic and fully controlled via the Remote Terminal Unit Remote Control Interface .",
+        "Interface selection Internal redundancies in the Remote Terminal Unit shall be static deterministic and fully controlled via the Remote Terminal Unit Remote Control Interface. Selection"
+    ],
+    [
+        "PARA",
+        "Interface selection Selection of the Remote Terminal Unit internal redundancies shall be static, deterministic and fully controlled via the Remote Terminal Unit Remote Control Interface .",
+        "Interface selection Internal redundancies of the Remote Terminal Unit shall be static deterministic and fully controlled via the Remote Terminal Unit remote control interface."
+    ],
+    [
+        "PARA",
+        "Interface selection Selection of the Remote Terminal Unit internal redundancies shall be static, deterministic and fully controlled via the Remote Terminal Unit Remote Control Interface .",
+        "Interface selection Selection of the Remote Terminal Unit internal redundancies shall be static, deterministic and fully controlled via the Remote Terminal Unit Remote Control Interface."
+    ],
+    [
+        "PARA",
+        "Interface selection Selection of the Remote Terminal Unit internal redundancies shall be static, deterministic and fully controlled via the Remote Terminal Unit Remote Control Interface .",
+        "Interface selection Internal redundancies of the Remote Terminal Unit shall be static deterministic and fully controlled via the Remote Terminal Unit Remote Control Interface. Selection"
+    ],
+    [
+        "PARA",
+        "Interface selection Selection of the Remote Terminal Unit internal redundancies shall be static, deterministic and fully controlled via the Remote Terminal Unit Remote Control Interface .",
+        "Interface selection Internal redundancies in the Remote Terminal Unit shall be static deterministic and fully controlled via the Remote Terminal Unit Remote Control Interface."
+    ],
+    [
+        "PARA",
+        "Interface selection Selection of the Remote Terminal Unit internal redundancies shall be static, deterministic and fully controlled via the Remote Terminal Unit Remote Control Interface .",
+        "Interface selection Internal redundancies in the Remote Terminal Unit shall be static deterministic and fully controlled via the Remote Terminal Unit remote control interface."
+    ],
+    [
+        "PARA",
+        "Interface selection Selection of the Remote Terminal Unit internal redundancies shall be static, deterministic and fully controlled via the Remote Terminal Unit Remote Control Interface .",
+        "Interface selection Selection of the Remote Terminal Unit internal redundancies shall be static, deterministic and fully controlled by the Remote Terminal Unit Remote Control Interface."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit should  allow any On\/Off combination and operation of any redundant function. Any specific constraints to be explicitly declared by the Remote Terminal Unit supplier.",
+        "The Remote Terminal Unit should allow any On\/Off combination and operation of any redundant function. Any specific constraints must be explicitly declared by the Remote Terminal Unit supplier."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit should  allow any On\/Off combination and operation of any redundant function. Any specific constraints to be explicitly declared by the Remote Terminal Unit supplier.",
+        "It should allow any combination of On\/Off and operation of any redundant function. Specific constraints must be explicitly declared by the Remote Terminal Unit supplier."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit should  allow any On\/Off combination and operation of any redundant function. Any specific constraints to be explicitly declared by the Remote Terminal Unit supplier.",
+        "It should allow any combination of On\/Off and operation of any redundant function and any specific constraints to be explicitly declared by the Remote Terminal Unit supplier."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit should  allow any On\/Off combination and operation of any redundant function. Any specific constraints to be explicitly declared by the Remote Terminal Unit supplier.",
+        "The Remote Terminal Unit should allow any On\/Off combination and operation of any redundant function. Specific constraints must be explicitly declared by the Remote Terminal Unit supplier."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit should  allow any On\/Off combination and operation of any redundant function. Any specific constraints to be explicitly declared by the Remote Terminal Unit supplier.",
+        "It should allow any combination of On\/Off and operation of any redundant function. Any specific constraints must be explicitly declared by the Remote Terminal Unit supplier. "
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit should  allow any On\/Off combination and operation of any redundant function. Any specific constraints to be explicitly declared by the Remote Terminal Unit supplier.",
+        "It should allow any combination of On\/Off and operation of any redundant function. Any specific constraints should be explicitly declared by the Remote Terminal Unit supplier."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit should  allow any On\/Off combination and operation of any redundant function. Any specific constraints to be explicitly declared by the Remote Terminal Unit supplier.",
+        "It should allow any combination of On\/Off and operation of any redundant function. Any specific constraints must be explicitly declared by the Remote Terminal Unit supplier."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit should  allow any On\/Off combination and operation of any redundant function. Any specific constraints to be explicitly declared by the Remote Terminal Unit supplier.",
+        "The Remote Terminal Unit should allow any On\/Off combination and operation of any redundant function. Any specific constraints should be explicitly declared by the Remote Terminal Unit supplier."
+    ],
+    [
+        "PARA",
+        "Every Remote Terminal Unit reconfiguration change shall be triggered by external commands, received through the Remote Terminal Unit Remote Control Interface",
+        "Every Remote Terminal Unit reconfiguration change shall be triggered by external commands received via the Remote Terminal Unit Remote Control Interface."
+    ],
+    [
+        "PARA",
+        "Every Remote Terminal Unit reconfiguration change shall be triggered by external commands, received through the Remote Terminal Unit Remote Control Interface",
+        "Each Remote Terminal Unit reconfiguration change shall be triggered by external commands received via the Remote Terminal Unit Remote Control Interface."
+    ],
+    [
+        "PARA",
+        "Every Remote Terminal Unit reconfiguration change shall be triggered by external commands, received through the Remote Terminal Unit Remote Control Interface",
+        "All changes to the remote terminal unit configuration shall be triggered by external commands received through the Remote Terminal Unit Remote Control Interface"
+    ],
+    [
+        "PARA",
+        "Every Remote Terminal Unit reconfiguration change shall be triggered by external commands, received through the Remote Terminal Unit Remote Control Interface",
+        "Every remote terminal unit reconfiguration change shall be triggered by external commands received through the Remote Terminal Unit Remote Control Interface."
+    ],
+    [
+        "PARA",
+        "Every Remote Terminal Unit reconfiguration change shall be triggered by external commands, received through the Remote Terminal Unit Remote Control Interface",
+        "Each Remote Terminal Unit reconfiguration change shall be triggered by external commands received through the Remote Terminal Unit Remote Control Interface."
+    ],
+    [
+        "PARA",
+        "Every Remote Terminal Unit reconfiguration change shall be triggered by external commands, received through the Remote Terminal Unit Remote Control Interface",
+        "All changes to the remote terminal unit configuration shall be triggered by external commands received through the remote terminal unit remote control interface"
+    ],
+    [
+        "PARA",
+        "Every Remote Terminal Unit reconfiguration change shall be triggered by external commands, received through the Remote Terminal Unit Remote Control Interface",
+        "Every Remote Terminal Unit reconfiguration change shall be triggered by external commands received through the Remote Terminal Unit Remote Control Interface."
+    ],
+    [
+        "PARA",
+        "Remote Terminal Unit voltages and currents exceeding defined limits may cause an autonomous power off of a Remote Terminal Unit function",
+        "Remote Terminal Unit voltages and currents exceeding defined limits may cause an autonomous power off of a Remote Terminal Unit function."
+    ],
+    [
+        "PARA",
+        "Remote Terminal Unit voltages and currents exceeding defined limits may cause an autonomous power off of a Remote Terminal Unit function",
+        "Power and currents exceeding defined limits of Remote Terminal Units may cause an autonomous power off of a Remote Terminal Unit function"
+    ],
+    [
+        "PARA",
+        "Remote Terminal Unit voltages and currents exceeding defined limits may cause an autonomous power off of a Remote Terminal Unit function",
+        "Remote Terminal Unit voltages and currents exceeding defined limits may cause an autonomous power off of a Remote Terminal Unit function to fail"
+    ],
+    [
+        "PARA",
+        "Remote Terminal Unit voltages and currents exceeding defined limits may cause an autonomous power off of a Remote Terminal Unit function",
+        "Power out of a Remote Terminal Unit may cause an autonomous power off of a Remote Terminal Unit function exceeding defined limits"
+    ],
+    [
+        "PARA",
+        "Remote Terminal Unit voltages and currents exceeding defined limits may cause an autonomous power off of a Remote Terminal Unit function",
+        "Remote Terminal Unit voltages and currents exceeding defined limits may cause an autonomous power off of a remote terminal unit function."
+    ],
+    [
+        "PARA",
+        "Remote Terminal Unit voltages and currents exceeding defined limits may cause an autonomous power off of a Remote Terminal Unit function",
+        "Remote terminal unit voltages and currents exceeding defined limits may cause an autonomous power off of a Remote terminal unit function."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Core modules shall nominally be operating in cold redundancy.  ",
+        "The Remote Terminal Unit Core modules shall nominally operate in cold redundant mode. ''"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Core modules shall nominally be operating in cold redundancy.  ",
+        "The Remote Terminal Unit Core modules shall nominally operate in cold redundancy."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Core modules shall nominally be operating in cold redundancy.  ",
+        "The modules of the remote terminal unit core shall nominally operate in cold redundancy."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Core modules shall nominally be operating in cold redundancy.  ",
+        "The remote terminal unit core modules shall nominally operate in cold redundancy."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Core modules shall nominally be operating in cold redundancy.  ",
+        "The remote terminal unit core modules shall nominally be operating in cold redundancy."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Core modules shall nominally be operating in cold redundancy.  ",
+        "The modules of the Remote Terminal Unit Core shall nominally operate in cold redundant mode."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Core modules shall nominally be operating in cold redundancy.  ",
+        "The modules of the Remote Terminal Unit Core shall nominally operate in cold redundancy."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Core modules shall nominally be operating in cold redundancy.  ",
+        "The Remote Terminal Unit Core modules shall nominally be operating in cold redundancy."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Core modules shall nominally be operating in cold redundancy.  ",
+        "The modules of the Remote Terminal Unit core shall nominally operate in cold redundancy."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Core modules shall nominally be operating in cold redundancy.  ",
+        "The Remote Terminal Unit Core modules shall nominally operate in cold redundant mode."
+    ],
+    [
+        "PARA",
+        "When one Remote Terminal Unit Core module is working in standby, it shall be possible to retrieve from the standby Remote Terminal Unit Core module the power-on self-test results as defined in paragraph 7.2.2.",
+        "When one Remote Terminal Unit Core module is working in standby it shall be possible to retrieve from the standby Remote Terminal Unit Core module the power-on self-test results as defined in paragraph 7.2.2."
+    ],
+    [
+        "PARA",
+        "When one Remote Terminal Unit Core module is working in standby, it shall be possible to retrieve from the standby Remote Terminal Unit Core module the power-on self-test results as defined in paragraph 7.2.2.",
+        "It shall be possible to retrieve from the standby Remote Terminal Unit Core module the power-on self-test results as defined in paragraph 7.2.2 when a Remote Terminal Unit Core module is operating in standby"
+    ],
+    [
+        "PARA",
+        "When one Remote Terminal Unit Core module is working in standby, it shall be possible to retrieve from the standby Remote Terminal Unit Core module the power-on self-test results as defined in paragraph 7.2.2.",
+        "When one Remote Terminal Unit Core module is in standby it shall be possible to retrieve from the standby Remote Terminal Unit Core module the power-on self-test results as defined in paragraph 7.2.2."
+    ],
+    [
+        "PARA",
+        "When one Remote Terminal Unit Core module is working in standby, it shall be possible to retrieve from the standby Remote Terminal Unit Core module the power-on self-test results as defined in paragraph 7.2.2.",
+        "It shall be possible to retrieve from the standby Remote Terminal Unit Core module the power-on self-test results as defined in paragraph 7.2.2 when one Remote Terminal Unit Core module is working."
+    ],
+    [
+        "PARA",
+        "When one Remote Terminal Unit Core module is working in standby, it shall be possible to retrieve from the standby Remote Terminal Unit Core module the power-on self-test results as defined in paragraph 7.2.2.",
+        "It shall be possible to retrieve from the standby Remote Terminal Unit Core module the power-on self-test results as defined in paragraph 7.2.2 when a Remote Terminal Unit Core module is working in standby"
+    ],
+    [
+        "PARA",
+        "When one Remote Terminal Unit Core module is working in standby, it shall be possible to retrieve from the standby Remote Terminal Unit Core module the power-on self-test results as defined in paragraph 7.2.2.",
+        "It shall be possible to retrieve from the standby Remote Terminal Unit Core module the power-on self-test results as defined in paragraph 7.2.2 when a Remote Terminal Unit Core module is working."
+    ],
+    [
+        "PARA",
+        "When one Remote Terminal Unit Core module is working in standby, it shall be possible to retrieve from the standby Remote Terminal Unit Core module the power-on self-test results as defined in paragraph 7.2.2.",
+        "It shall be possible to retrieve from the standby Remote Terminal Unit Core module the power-on self-test results as defined in paragraph 7.2.2."
+    ],
+    [
+        "PARA",
+        "When one Remote Terminal Unit Core module is working in standby, it shall be possible to retrieve from the standby Remote Terminal Unit Core module the power-on self-test results as defined in paragraph 7.2.2.",
+        "It shall be possible to retrieve from the standby Remote Terminal Unit Core module the power-on self-test results as defined in paragraph 7.2.2 when one Remote Terminal Unit Core module is working"
+    ],
+    [
+        "PARA",
+        "When one Remote Terminal Unit Core module is working in standby, it shall be possible to retrieve from the standby Remote Terminal Unit Core module the power-on self-test results as defined in paragraph 7.2.2.",
+        "It shall be possible to retrieve from the standby Remote Terminal Unit Core module the power-on self-test results as defined in paragraph 7.2.2 when a Remote Terminal Unit Core module is working"
+    ],
+    [
+        "PARA",
+        "When one Remote Terminal Unit Core module is working in standby, it shall be possible to retrieve from the standby Remote Terminal Unit Core module the power-on self-test results as defined in paragraph 7.2.2.",
+        "When a Remote Terminal Unit Core module is in standby it shall be possible to retrieve from the standby Remote Terminal Unit Core module the power-on self-test results as defined in paragraph 7.2.2."
+    ],
+    [
+        "PARA",
+        "When one Remote Terminal Unit Core module is working in standby, it shall be possible to perform a commanded self-test of the standby Remote Terminal Unit Core module as defined in paragraph ",
+        "When a Remote Terminal Unit Core module is working in standby it shall be possible to perform a commanded self-test of the standby Remote Terminal Unit Core module as defined in paragraph"
+    ],
+    [
+        "PARA",
+        "When one Remote Terminal Unit Core module is working in standby, it shall be possible to perform a commanded self-test of the standby Remote Terminal Unit Core module as defined in paragraph ",
+        "When a Remote Terminal Unit Core module is working in standby it shall be possible to perform a commanded self-test of the standby Remote Terminal Unit Core module as defined in paragraph a."
+    ],
+    [
+        "PARA",
+        "When one Remote Terminal Unit Core module is working in standby, it shall be possible to perform a commanded self-test of the standby Remote Terminal Unit Core module as defined in paragraph ",
+        "When one Remote Terminal Unit Core module is working in standby it shall be possible to perform a commanded self-test of the standby Remote Terminal Unit Core module as defined in paragraph"
+    ],
+    [
+        "PARA",
+        "When one Remote Terminal Unit Core module is working in standby, it shall be possible to perform a commanded self-test of the standby Remote Terminal Unit Core module as defined in paragraph ",
+        "When a Remote Terminal Unit Core module is in standby it shall be possible to perform a commanded self-test of the standby Remote Terminal Unit Core module as defined in paragraph"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall provide at least one of the following interfaces: -Mil-Std-1553B (see paragraph 7.6.3.1) -Controller Area Network (see paragraph 7.6.3.2) -Spacewire (see paragraph 7.6.3.3)",
+        "Terminal Unit Remote Control Interface shall provide at least one of the following interfaces: -Mil-Std 1553B (see paragraph 7.6.3.1) -Controller Area Network (see paragraph 7.6.3.2) -Spacewire (see paragraph 7.6.3.3)"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall provide at least one of the following interfaces: -Mil-Std-1553B (see paragraph 7.6.3.1) -Controller Area Network (see paragraph 7.6.3.2) -Spacewire (see paragraph 7.6.3.3)",
+        "Terminal Unit Remote Control interface shall provide at least one of the following interfaces: -Mil-Std-1553B (see paragraph 7.6.3.1) -Controller Area Network (see paragraph 7.6.3.2) -Spacewire (see paragraph 7.6.3.3)"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall provide at least one of the following interfaces: -Mil-Std-1553B (see paragraph 7.6.3.1) -Controller Area Network (see paragraph 7.6.3.2) -Spacewire (see paragraph 7.6.3.3)",
+        "Terminal Unit Remote Control Interface shall provide at least one of the following interfaces: -Mil-Std-1553B (see paragraph 7.6.3.1) -Controller Area Network (see paragraph 7.6.3.2) -Spacewire (see paragraph 7.6.3.3)"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall provide at least one of the following interfaces: -Mil-Std-1553B (see paragraph 7.6.3.1) -Controller Area Network (see paragraph 7.6.3.2) -Spacewire (see paragraph 7.6.3.3)",
+        "Terminal Unit Remote Control Interface shall provide at least one of the following interfaces: -Mil-Std-1553B (see paragraph 7.6.3.1) -Controller Area Network (see paragraph 7.6.3.2) -Spacewire (see paragraph 7.6.3.3) "
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall provide at least one of the following interfaces: -Mil-Std-1553B (see paragraph 7.6.3.1) -Controller Area Network (see paragraph 7.6.3.2) -Spacewire (see paragraph 7.6.3.3)",
+        "Terminal Unit Remote Control Interface shall provide at least one of the following interfaces: -Mil-Std-1553B (see paragraph 7.6.3.1) -Controller Area Network (see paragraph 7.6.3.2) Spacewire (see paragraph 7.6.3.3)"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall provide at least one of the following interfaces: -Mil-Std-1553B (see paragraph 7.6.3.1) -Controller Area Network (see paragraph 7.6.3.2) -Spacewire (see paragraph 7.6.3.3)",
+        "Remote Terminal Unit Remote Control Interface shall provide at least one of the following interfaces: -Mil-Std-1553B (see paragraph 7.6.3.1) -Controller Area Network (see paragraph 7.6.3.2) -Spacewire (see paragraph 7.6.3.3)"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall provide at least one of the following interfaces: -Mil-Std-1553B (see paragraph 7.6.3.1) -Controller Area Network (see paragraph 7.6.3.2) -Spacewire (see paragraph 7.6.3.3)",
+        "Terminal Unit Remote Control Interface must provide at least one of the following interfaces: -Mil-Std-1553B (see paragraph 7.6.3.1) -Controller Area Network (see paragraph 7.6.3.2) -Spacewire (see paragraph 7.6.3.3)"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall provide at least one of the following interfaces: -Mil-Std-1553B (see paragraph 7.6.3.1) -Controller Area Network (see paragraph 7.6.3.2) -Spacewire (see paragraph 7.6.3.3)",
+        "The Remote Terminal Unit Remote Control Interface shall provide at least one of the following interfaces: -Mil-Std-1553B (see paragraph 7.6.3.1) -Controller Area Network (see paragraph 7.6.3.2) -Spacewire"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to the requirements defined in the corresponding paragraph (7.6.3.1, 7.6.3.2, or 7.6.3.3).",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to the requirements defined in the corresponding paragraph (7.6.3.1, 7.6.3.2 or 7.6.3.3)."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to the requirements defined in the corresponding paragraph (7.6.3.1, 7.6.3.2, or 7.6.3.3).",
+        "Remote control interface of the remote terminal unit shall be compliant with the requirements defined in the corresponding paragraph (7.6.3.1, 7.6.3.2 or 7.6.3"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to the requirements defined in the corresponding paragraph (7.6.3.1, 7.6.3.2, or 7.6.3.3).",
+        "Remote terminal unit remote control interface shall comply with the requirements defined in the corresponding paragraph (7.6.3.1, 7.6.3.2 or 7.6.3.3)."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to the requirements defined in the corresponding paragraph (7.6.3.1, 7.6.3.2, or 7.6.3.3).",
+        "The Remote Terminal Unit Remote Control Interface shall comply with the requirements defined in the corresponding paragraph (7.6.3.1, 7.6.3.2 or 7.6.3.3)."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to the requirements defined in the corresponding paragraph (7.6.3.1, 7.6.3.2, or 7.6.3.3).",
+        "Remote control interface for the remote terminal unit shall be compliant with the requirements defined in the corresponding paragraph (7.6.3.1, 7.6.3.2 or 7.6.3"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to the requirements defined in the corresponding paragraph (7.6.3.1, 7.6.3.2, or 7.6.3.3).",
+        "Remote terminal unit remote control interface shall comply with the requirements defined in the corresponding paragraph (7.6.3.1, 7.6.3.2, or 7.6.3.3)."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to the requirements defined in the corresponding paragraph (7.6.3.1, 7.6.3.2, or 7.6.3.3).",
+        "The remote terminal unit remote control interface shall be compliant with the requirements defined in the corresponding paragraph (7.6.3.1, 7.6.3.2 or 7.6.3.3)."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to the requirements defined in the corresponding paragraph (7.6.3.1, 7.6.3.2, or 7.6.3.3).",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant with the requirements defined in the corresponding paragraph (7.6.3.1, 7.6.3.2, or 7.6.3.3)."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to the requirements defined in the corresponding paragraph (7.6.3.1, 7.6.3.2, or 7.6.3.3).",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant with the requirements defined in the corresponding paragraph (7.6.3.1, 7.6.3.2 or 7.6.3.3)"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to the requirements defined in the corresponding paragraph (7.6.3.1, 7.6.3.2, or 7.6.3.3).",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant with the requirements defined in the corresponding paragraph (7.6.3.1, 7.6.3.2 or 7.6.3.3)."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [MIL].",
+        "The Remote Terminal Unit Remote Control Interface shall comply with [MIL]."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [MIL].",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant with [MIL]."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [MIL].",
+        "Remote control interface of the remote terminal unit shall be compliant with [MIL]."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [MIL].",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant with MIL."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [MIL].",
+        "The Remote Terminal Unit Remote Control Interface shall comply with MIL."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [MIL].",
+        "Remote control interface for the remote terminal unit shall be compliant with [MIL]."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [MIL].",
+        "Remote control interface of the remote terminal unit shall be compliant with the MIL."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [MIL].",
+        "The remote terminal unit remote control interface shall be compliant with MIL."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [MIL].",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant with [MIL]"
+    ],
+    [
+        "PARA",
+        "The compliance of the Remote Terminal Unit Remote Control Interface shall be demonstrated by test as defined in [MIL], paragraph 9.3.",
+        "The compliance of the Remote Terminal Unit Remote Control Interface shall be demonstrated by a test as defined in [MIL], paragraph 9.3"
+    ],
+    [
+        "PARA",
+        "The compliance of the Remote Terminal Unit Remote Control Interface shall be demonstrated by test as defined in [MIL], paragraph 9.3.",
+        "The compliance of the Remote Terminal Unit Remote Control Interface shall be demonstrated by a test as defined in [MIL] paragraph 9.3."
+    ],
+    [
+        "PARA",
+        "The compliance of the Remote Terminal Unit Remote Control Interface shall be demonstrated by test as defined in [MIL], paragraph 9.3.",
+        "As defined in [MIL] paragraph 9.3 the compliance of the Remote Terminal Unit Remote Control Interface shall be demonstrated by test."
+    ],
+    [
+        "PARA",
+        "The compliance of the Remote Terminal Unit Remote Control Interface shall be demonstrated by test as defined in [MIL], paragraph 9.3.",
+        "The compliance of the Remote Terminal Unit Remote Control Interface shall be demonstrated by test as defined in [MIL] paragraph 9.3."
+    ],
+    [
+        "PARA",
+        "The compliance of the Remote Terminal Unit Remote Control Interface shall be demonstrated by test as defined in [MIL], paragraph 9.3.",
+        "The compliance of the Remote Terminal Unit Remote Control Interface shall be demonstrated by a test as defined in [MIL], paragraph 9.3."
+    ],
+    [
+        "PARA",
+        "The compliance of the Remote Terminal Unit Remote Control Interface shall be demonstrated by test as defined in [MIL], paragraph 9.3.",
+        "As defined in [MIL], paragraph 9.3 the compliance of the Remote Terminal Unit Remote Control Interface shall be demonstrated by test."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [Controller Area Network].",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant with [Controller Area Network]"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [Controller Area Network].",
+        "Remote control interface of the remote terminal unit shall be compliant with the controller area network."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [Controller Area Network].",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant with the Controller Area Network."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [Controller Area Network].",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant with [Controller Area Network]."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [Controller Area Network].",
+        "The remote terminal unit remote control interface shall be compliant with [Controller Area Network]."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [Controller Area Network].",
+        "Remote control interface for the remote terminal unit shall be compliant with the controller area network."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [SPW]",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant with [SPW]"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [SPW]",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant with the [SPW]"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [SPW]",
+        "The Remote Control Interface for the Remote Terminal Unit shall be compliant with [SPW]"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [SPW]",
+        "The Remote Control Interface of the Remote Terminal Unit shall be compliant with [SPW]."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [SPW]",
+        "The Remote Control Interface of the Remote Terminal Unit shall be compliant with [SPW]"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [SPW]",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant with [SPW]."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface shall be compliant to [SPW]",
+        "The remote terminal unit remote control interface shall be compliant with [SPW]"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface should be compliant to [SPW_Reconfiguration Moduleultiplex Access Point].",
+        "The Remote Terminal Unit Remote Control Interface should comply with [SPW_Reconfiguration Moduleultiplex Access Point]."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface should be compliant to [SPW_Reconfiguration Moduleultiplex Access Point].",
+        "The Remote Terminal Unit Remote Control Interface should be compliant with [SPW_Reconfiguration Moduleultiplex Access Point."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface should be compliant to [SPW_Reconfiguration Moduleultiplex Access Point].",
+        "The Remote Terminal Unit Remote Control Interface should be compliant with [SPW_Reconfiguration Moduleultiplex Access Point]"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit Remote Control Interface should be compliant to [SPW_Reconfiguration Moduleultiplex Access Point].",
+        "The Remote Terminal Unit Remote Control Interface should be compliant with [SPW_Reconfiguration Moduleultiplex Access Point]."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the Interface requirements as defined in Section 4 of [European Cooperation for Space Standards-E-20].  ",
+        "The Remote Terminal Unit shall be compliant with interface requirements as defined in Section 4 of the European Cooperation for Space Standards-E-20."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the Interface requirements as defined in Section 4 of [European Cooperation for Space Standards-E-20].  ",
+        "This unit shall comply with the interface requirements as defined in Section 4 of the European Cooperation for Space Standards - E-20."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the Interface requirements as defined in Section 4 of [European Cooperation for Space Standards-E-20].  ",
+        "This unit shall comply with the interface requirements as defined in Section 4 of the European Cooperation for Space Standards E-20."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the Interface requirements as defined in Section 4 of [European Cooperation for Space Standards-E-20].  ",
+        "This unit shall comply with the interface requirements as defined in Section 4 of [European Cooperation for Space Standards-E-20]."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the Interface requirements as defined in Section 4 of [European Cooperation for Space Standards-E-20].  ",
+        "The Remote Terminal Unit shall comply with the interface requirements as defined in Section 4 of [European Cooperation for Space Standards-E-20]."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the Interface requirements as defined in Section 4 of [European Cooperation for Space Standards-E-20].  ",
+        "The Remote Terminal Unit shall be compliant with the interface requirements as defined in Section 4 of the European Cooperation for Space Standards-E-20."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the Interface requirements as defined in Section 4 of [European Cooperation for Space Standards-E-20].  ",
+        "This unit shall comply with the interface requirements as defined in Section 4 of the European Cooperation for Space Standards-E-20."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the Interface requirements as defined in Section 4 of [European Cooperation for Space Standards-E-20].  ",
+        "This unit shall comply with the interface requirements as defined in Section 4 of [European Cooperation for Space Standards-E-20]. "
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the Interface requirements as defined in Section 4 of [European Cooperation for Space Standards-E-20].  ",
+        "The Remote Terminal Unit shall comply with the interface requirements as defined in Section 4 of the European Cooperation for Space Standards-E-20."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall be compliant to the Interface requirements as defined in Section 4 of [European Cooperation for Space Standards-E-20].  ",
+        "This unit shall comply with the interface requirements as defined in Section 4 of the European Cooperation for Space Standards-E-20. ''"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall include at least one or several of the following standard user interfaces and associated interface functionalities as specified further in the referenced paragraph:1. Analogue signal (par 7.6.4.1)2. Bi-Level Discrete Input (par 7.6.4.2)3. Pulse Command Interface (par 7.6.4.3)4. Serial Digital Inte rfaces (par 7.6.4.4)5. Synchronization Signal (In\/Out) 4",
+        "The remote terminal unit shall include at least one or several of the following standard user interfaces and associated interface functionalities as specified further in the referenced paragraph:1. Analogue signal (par 7.6.4.1)2. Bi-Level Discrete Input (par 7.6.4.2)3. Pulse Command Interface (par 7.6.4.3)4. Serial Digital Interfaces (par 7.6.4.4)5."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall include at least one or several of the following standard user interfaces and associated interface functionalities as specified further in the referenced paragraph:1. Analogue signal (par 7.6.4.1)2. Bi-Level Discrete Input (par 7.6.4.2)3. Pulse Command Interface (par 7.6.4.3)4. Serial Digital Inte rfaces (par 7.6.4.4)5. Synchronization Signal (In\/Out) 4",
+        "It shall include at least one or several of the following standard user interfaces and associated interface functionalities as specified in the referenced paragraph:1. Analogue signal (par 7.6.4.1)2. Bi-Level Discrete Input (par 7.6.4.2)3. Pulse Command Interface (par 7.6.4.3)4. Serial Digital Interfaces (par 7.6.4.4)5."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall include at least one or several of the following standard user interfaces and associated interface functionalities as specified further in the referenced paragraph:1. Analogue signal (par 7.6.4.1)2. Bi-Level Discrete Input (par 7.6.4.2)3. Pulse Command Interface (par 7.6.4.3)4. Serial Digital Inte rfaces (par 7.6.4.4)5. Synchronization Signal (In\/Out) 4",
+        "The Remote Terminal Unit shall include at least one or several of the following standard user interfaces and associated interface functions as specified further in the referenced paragraph:1. Analogue signal (par 7.6.4.1)2. Bi-Level Discrete Input (par 7.6.4.2)3. Pulse Command Interface (par 7.6.4.3)4. Serial Digital Interfaces (par 7.6.4.4)5."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall include at least one or several of the following standard user interfaces and associated interface functionalities as specified further in the referenced paragraph:1. Analogue signal (par 7.6.4.1)2. Bi-Level Discrete Input (par 7.6.4.2)3. Pulse Command Interface (par 7.6.4.3)4. Serial Digital Inte rfaces (par 7.6.4.4)5. Synchronization Signal (In\/Out) 4",
+        "The Remote Terminal Unit shall include at least one or several of the following standard user interfaces and associated interface functionalities as specified further in the referenced paragraph:1. Analogue signal (par 7.6.4.1)2. Bi-Level Discrete Input (par 7.6.4.2)3. Pulse Command Interface (par 7.6.4.3)4. Serial Digital Inte"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall include at least one or several of the following standard user interfaces and associated interface functionalities as specified further in the referenced paragraph:1. Analogue signal (par 7.6.4.1)2. Bi-Level Discrete Input (par 7.6.4.2)3. Pulse Command Interface (par 7.6.4.3)4. Serial Digital Inte rfaces (par 7.6.4.4)5. Synchronization Signal (In\/Out) 4",
+        "It shall include at least one or several of the following standard user interfaces and associated interface functionalities as specified further in the referenced paragraph:1. Analogue signal (par 7.6.4.1)2. Bi-Level Discrete Input (par 7.6.4.2)3. Pulse Command Interface (par 7.6.4.3)4. Serial Digital Interfaces (par 7.6.4.4)5."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall include at least one or several of the following standard user interfaces and associated interface functionalities as specified further in the referenced paragraph:1. Analogue signal (par 7.6.4.1)2. Bi-Level Discrete Input (par 7.6.4.2)3. Pulse Command Interface (par 7.6.4.3)4. Serial Digital Inte rfaces (par 7.6.4.4)5. Synchronization Signal (In\/Out) 4",
+        "The Remote Terminal Unit shall include at least one or several of the following standard user interfaces and associated interface functionalities as specified further in the referenced paragraph:1. Analog signal (par 7.6.4.1)2. Bi-Level Discrete Input (par 7.6.4.2)3. Pulse Command Interface (par 7.6.4.3)4. Serial Digital Interfaces (par 7.6.4.4)5."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall include at least one or several of the following standard user interfaces and associated interface functionalities as specified further in the referenced paragraph:1. Analogue signal (par 7.6.4.1)2. Bi-Level Discrete Input (par 7.6.4.2)3. Pulse Command Interface (par 7.6.4.3)4. Serial Digital Inte rfaces (par 7.6.4.4)5. Synchronization Signal (In\/Out) 4",
+        "The Remote Terminal Unit shall include at least one or several of the following standard user interfaces and associated interface functionalities as specified further in the referenced paragraph:1. Analogue signal (par 7.6.4.1)2. Bi-Level Discrete Input (par 7.6.4.2)3. Pulse Command Interface (par 7.6.4.3)4. Serial Digital Interfaces (par 7.6.4.4)5."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall include at least one or several of the following standard user interfaces and associated interface functionalities as specified further in the referenced paragraph:1. Analogue signal (par 7.6.4.1)2. Bi-Level Discrete Input (par 7.6.4.2)3. Pulse Command Interface (par 7.6.4.3)4. Serial Digital Inte rfaces (par 7.6.4.4)5. Synchronization Signal (In\/Out) 4",
+        "It shall include at least one or several of the following standard user interfaces and associated interface functionalities as specified further in the referenced paragraph:1. Analogue signal (par 7.6.4.1)2. Bi-Level Discrete Input (par 7.6.4.2)3. Pulse Command Interface (par 7.6.4.3)4. Serial Digital Interface (par 7.6.4.4)5."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall include at least one or several of the following standard user interfaces and associated interface functionalities as specified further in the referenced paragraph:1. Analogue signal (par 7.6.4.1)2. Bi-Level Discrete Input (par 7.6.4.2)3. Pulse Command Interface (par 7.6.4.3)4. Serial Digital Inte rfaces (par 7.6.4.4)5. Synchronization Signal (In\/Out) 4",
+        "It shall include at least one or several of the following standard user interfaces and associated interface functionalities as specified further in the referenced paragraph:1. Analogue signal (par 7.6.4.1)2. Bi-Level Discrete Input (par 7.6.4.2)3. Pulse Command Interface (par 7.6.4.3)4. Serial Digital Inte"
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall include at least one or several of the following standard user interfaces and associated interface functionalities as specified further in the referenced paragraph:1. Analogue signal (par 7.6.4.1)2. Bi-Level Discrete Input (par 7.6.4.2)3. Pulse Command Interface (par 7.6.4.3)4. Serial Digital Inte rfaces (par 7.6.4.4)5. Synchronization Signal (In\/Out) 4",
+        "It shall include at least one or several of the following standard user interfaces and associated interface functions as specified further in the referenced paragraph:1. Analogue signal (par 7.6.4.1)2. Bi-Level Discrete Input (par 7.6.4.2)3. Pulse Command Interface (par 7.6.4.3)4. Serial Digital Interfaces (par 7.6.4.4)5."
+    ],
+    [
+        "PARA",
+        "For each signal acquisition chain\/failure group, complementary telemetry shall be acquired to allow confirming the validity of the acquired data.",
+        "For each signal acquisition chain\/failure group complementary telemetry shall be acquired to allow confirmation of the validity of the acquired data."
+    ],
+    [
+        "PARA",
+        "For each signal acquisition chain\/failure group, complementary telemetry shall be acquired to allow confirming the validity of the acquired data.",
+        "To confirm the validity of the acquired data for each signal acquisition chain\/failure group complementary telemetry shall be acquired."
+    ],
+    [
+        "PARA",
+        "For each signal acquisition chain\/failure group, complementary telemetry shall be acquired to allow confirming the validity of the acquired data.",
+        "To confirm the validity of the acquired data for each signal acquisition chain\/failure group complementary telemetry must be acquired."
+    ],
+    [
+        "PARA",
+        "For each signal acquisition chain\/failure group, complementary telemetry shall be acquired to allow confirming the validity of the acquired data.",
+        "For each signal acquisition chain\/failure group complementary telemetry shall be acquired to confirm the validity of acquired data."
+    ],
+    [
+        "PARA",
+        "For each signal acquisition chain\/failure group, complementary telemetry shall be acquired to allow confirming the validity of the acquired data.",
+        "To confirm the validity of acquired data complementary telemetry shall be acquired for each signal acquisition chain\/failure group."
+    ],
+    [
+        "PARA",
+        "For each signal acquisition chain\/failure group, complementary telemetry shall be acquired to allow confirming the validity of the acquired data.",
+        "For each signal acquisition chain\/failure group complementary telemetry shall be acquired to allow confirmation of the validity of the acquired information."
+    ],
+    [
+        "PARA",
+        "For each signal acquisition chain\/failure group, complementary telemetry shall be acquired to allow confirming the validity of the acquired data.",
+        "For each signal acquisition chain\/failure group complementary telemetry shall be acquired to allow confirming the validity of the acquired data."
+    ],
+    [
+        "PARA",
+        "For each signal acquisition chain\/failure group, complementary telemetry shall be acquired to allow confirming the validity of the acquired data.",
+        "For each signal acquisition chain\/failure group complementary telemetry shall be acquired to allow confirming the validity of the acquired information."
+    ],
+    [
+        "PARA",
+        "For each signal acquisition chain\/failure group, complementary telemetry shall be acquired to allow confirming the validity of the acquired data.",
+        "For each signal acquisition chain\/failure group complementary telemetry shall be acquired to confirm the validity of the acquired data."
+    ],
+    [
+        "PARA",
+        "Each signal chain used for analogue signal interface acquisitions shall provide mechanisms that allow detecting errors in A\/D Converter path functionality (including A\/D conversion curve changes or drift).",
+        "Each signal chain used for analogue signal interface acquisitions shall provide mechanisms that allow detection of errors in A\/D converter path functionality (including A\/D conversion curve changes or drift)."
+    ],
+    [
+        "PARA",
+        "Each signal chain used for analogue signal interface acquisitions shall provide mechanisms that allow detecting errors in A\/D Converter path functionality (including A\/D conversion curve changes or drift).",
+        "Each signal chain used for analogue signal interface acquisitions shall provide mechanisms that allow detection of errors in the A\/D converter path functionality (including A\/D conversion curve changes or drifts)."
+    ],
+    [
+        "PARA",
+        "Each signal chain used for analogue signal interface acquisitions shall provide mechanisms that allow detecting errors in A\/D Converter path functionality (including A\/D conversion curve changes or drift).",
+        "Each signal chain used for analogue signal interface acquisitions shall provide mechanisms that allow detection of errors in A\/D converter path functionality (including A\/D conversion curve changes or drifts)."
+    ],
+    [
+        "PARA",
+        "Each signal chain used for analogue signal interface acquisitions shall provide mechanisms that allow detecting errors in A\/D Converter path functionality (including A\/D conversion curve changes or drift).",
+        "Each signal chain used for analog signal interface acquisitions shall provide mechanisms that allow detecting errors in A\/D converter path functionality (including A\/D conversion curve changes or drift)."
+    ],
+    [
+        "PARA",
+        "Each signal chain used for analogue signal interface acquisitions shall provide mechanisms that allow detecting errors in A\/D Converter path functionality (including A\/D conversion curve changes or drift).",
+        "Each signal chain used for analogue signal interface acquisitions shall provide mechanisms that allow detection of errors in the A\/D converter path functionality (including A\/D conversion curve changes or drift."
+    ],
+    [
+        "PARA",
+        "Each signal chain used for analogue signal interface acquisitions shall provide mechanisms that allow detecting errors in A\/D Converter path functionality (including A\/D conversion curve changes or drift).",
+        "Each signal chain used for analogue signal interface acquisitions shall provide mechanisms that allow detection of errors in the A\/D converter path functionality (including A\/D conversion curve changes or drift)"
+    ],
+    [
+        "PARA",
+        "Each signal chain used for analogue signal interface acquisitions shall provide mechanisms that allow detecting errors in A\/D Converter path functionality (including A\/D conversion curve changes or drift).",
+        "Each signal chain used for analog signal interface acquisitions shall provide mechanisms that allow detection of errors in A\/D converter path functionality (including A\/D conversion curve changes or drift)."
+    ],
+    [
+        "PARA",
+        "Each signal chain used for analogue signal interface acquisitions shall provide mechanisms that allow detecting errors in A\/D Converter path functionality (including A\/D conversion curve changes or drift).",
+        "Each signal chain used for analogue signal interface acquisitions shall provide mechanisms that allow detection of errors in the A\/D converter path functionality (including A\/D conversion curve changes or drift)."
+    ],
+    [
+        "PARA",
+        "Each signal chain used for analogue signal interface acquisitions shall provide mechanisms that allow detecting errors in A\/D Converter path functionality (including A\/D conversion curve changes or drift).",
+        "Each signal chain used for analogue signal interface acquisitions shall provide mechanisms that allow detection of errors in A\/D converter path functionality (including A\/D conversion curve changes or drift)"
+    ],
+    [
+        "PARA",
+        "The analogue signal monitor (ASM) interfaces shall be as per [DISC], paragraph 5.2.7.6.4.1.2",
+        "As per [DISC], paragraph 5.2.7.6.4.1.2 the analog signal monitor interfaces shall be as follows:"
+    ],
+    [
+        "PARA",
+        "The Bi-Level Discrete (Bi-level Discrete Monitor\/Bilevel Switch Monitor) interfac es shall be as per [DISC], paragraph 6.",
+        "The interface of the bi-level Discrete (Bi-level Discrete Monitor\/Bi-level Switch Monitor) shall be as per [DISC] paragraph 6."
+    ],
+    [
+        "PARA",
+        "The Pulse Command Interface  Function sha ll provide one or several of the following standard pulse co mmand interfaces:xHigh Voltage High Power (HV-High-Power Command) Command interfacexLow Voltage High Power (LV-High-Power Command) Command interfacexHigh Current High Power (H C-High-Power Command) Command interfacexLow Power (LPC) Command interface",
+        "It provides one or several of the following standard pulse command interfaces:xHigh Voltage High Power (HV-High Power Command) Command interfacexLow Voltage High Power (LV-High Power Command) Command interfacexHigh Current High Power (H C-High Power Command)"
+    ],
+    [
+        "PARA",
+        "The Pulse Command Interface  Function sha ll provide one or several of the following standard pulse co mmand interfaces:xHigh Voltage High Power (HV-High-Power Command) Command interfacexLow Voltage High Power (LV-High-Power Command) Command interfacexHigh Current High Power (H C-High-Power Command) Command interfacexLow Power (LPC) Command interface",
+        "It provides one or several of the following standard pulse command interfaces:xHigh Voltage High Power (HV-High Power Command) Command interfacexLow Voltage High Power (LV-High Power Command) Command interfacexHigh Current High Power (H C-High Power Command"
+    ],
+    [
+        "PARA",
+        "The Pulse Command Interface  Function sha ll provide one or several of the following standard pulse co mmand interfaces:xHigh Voltage High Power (HV-High-Power Command) Command interfacexLow Voltage High Power (LV-High-Power Command) Command interfacexHigh Current High Power (H C-High-Power Command) Command interfacexLow Power (LPC) Command interface",
+        "It provides one or several of the following standard pulse command interfaces:xHigh Voltage High Power (HV-High Power Command) Command interfacexLow Voltage High Power (LV-High Power Command) Command interfacexHigh Current High Power (H C-High Power Command) Command"
+    ],
+    [
+        "PARA",
+        "The Pulse Command Interface  Function sha ll provide one or several of the following standard pulse co mmand interfaces:xHigh Voltage High Power (HV-High-Power Command) Command interfacexLow Voltage High Power (LV-High-Power Command) Command interfacexHigh Current High Power (H C-High-Power Command) Command interfacexLow Power (LPC) Command interface",
+        "It provides one or several of the following standard pulse co mmand interfaces:xHigh Voltage High Power (HV-High-Power Command) Command interfacexLow Voltage High Power (LV-High-Power Command) Command interfacexHigh Current High Power (H C-High Power"
+    ],
+    [
+        "PARA",
+        "The Pulse Command Interface  Function sha ll provide one or several of the following standard pulse co mmand interfaces:xHigh Voltage High Power (HV-High-Power Command) Command interfacexLow Voltage High Power (LV-High-Power Command) Command interfacexHigh Current High Power (H C-High-Power Command) Command interfacexLow Power (LPC) Command interface",
+        "It provides one or several of the following standard pulse co mmand interfaces:xHigh Voltage High Power (HV-High-Power Command) Command interfacexLow Voltage High Power (LV-High-Power Command) Command interfacexHigh Current High Power (H"
+    ],
+    [
+        "PARA",
+        "The Pulse Command Interface  Function sha ll provide one or several of the following standard pulse co mmand interfaces:xHigh Voltage High Power (HV-High-Power Command) Command interfacexLow Voltage High Power (LV-High-Power Command) Command interfacexHigh Current High Power (H C-High-Power Command) Command interfacexLow Power (LPC) Command interface",
+        "It provides one or several of the following standard pulse command interfaces:xHigh Voltage High Power (HV-High-Power Command) Command interfacexLow Voltage High Power (LV-High-Power Command) Command interfacexHigh Current High Power (H C-H"
+    ],
+    [
+        "PARA",
+        "The Pulse Command Interface  Function sha ll provide one or several of the following standard pulse co mmand interfaces:xHigh Voltage High Power (HV-High-Power Command) Command interfacexLow Voltage High Power (LV-High-Power Command) Command interfacexHigh Current High Power (H C-High-Power Command) Command interfacexLow Power (LPC) Command interface",
+        "It provides one or several of the following standard pulse command interfaces:xHigh Voltage High Power (HV-High Power Command) Command interfacexLow Voltage High Power (LV-High Power Command) Command interfacexHigh Current High Power (H C-High Power Command) Command interface"
+    ],
+    [
+        "PARA",
+        "The Pulse Command Interface  Function sha ll provide one or several of the following standard pulse co mmand interfaces:xHigh Voltage High Power (HV-High-Power Command) Command interfacexLow Voltage High Power (LV-High-Power Command) Command interfacexHigh Current High Power (H C-High-Power Command) Command interfacexLow Power (LPC) Command interface",
+        "It provides one or several of the following standard pulse command interfaces:xHigh Voltage High Power (HV-High Power Command) Command interfacexLow Voltage High Power (LV-High Power Command) Command interfacexHigh Current High Power (H C-High Power"
+    ],
+    [
+        "PARA",
+        "The Pulse Command Interface  Function sha ll provide one or several of the following standard pulse co mmand interfaces:xHigh Voltage High Power (HV-High-Power Command) Command interfacexLow Voltage High Power (LV-High-Power Command) Command interfacexHigh Current High Power (H C-High-Power Command) Command interfacexLow Power (LPC) Command interface",
+        "It provides one or several of the following standard pulse co mmand interfaces:xHigh Voltage High Power (HV-High-Power Command) Command interfacexLow Voltage High Power (LV-High-Power Command) Command interfacexHigh Current High Power (H C-High"
+    ],
+    [
+        "PARA",
+        "A single command to the Remote Terminal Unit shall initiate only one Pulse Command",
+        "A single command to the remote terminal unit shall initiate only one Pulse Command."
+    ],
+    [
+        "PARA",
+        "A single command to the Remote Terminal Unit shall initiate only one Pulse Command",
+        "A single command to the Remote Terminal Unit shall initiate only one Pulse command."
+    ],
+    [
+        "PARA",
+        "A single command to the Remote Terminal Unit shall initiate only one Pulse Command",
+        "A single command to the Remote Terminal Unit shall initiate only one pulse command."
+    ],
+    [
+        "PARA",
+        "A single command to the Remote Terminal Unit shall initiate only one Pulse Command",
+        "A single command to the Remote Terminal Unit shall initiate only one Pulse Command."
+    ],
+    [
+        "PARA",
+        "A single command to the Remote Terminal Unit shall initiate only one Pulse Command",
+        "A single command to the Remote Terminal unit shall initiate only one Pulse Command."
+    ],
+    [
+        "PARA",
+        "A single command to the Remote Terminal Unit shall initiate only one Pulse Command",
+        "A single command to the remote terminal unit shall initiate only one pulse command."
+    ],
+    [
+        "PARA",
+        "A single command to the Remote Terminal Unit shall initiate only one Pulse Command",
+        "A single command to the remote terminal unit shall initiate only one Pulse command."
+    ],
+    [
+        "PARA",
+        "For (pulse) command interfaces, no failure within a failure group shall cause more than <SpurPulse>  additional (pulse) command to be generated in addition to the one commanded.",
+        "There shall be no failure within a failure group that causes more than one additional (pulse) command to be generated in addition to the one commanded."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall optionally include one or several UART interfaces as per [RS422].",
+        "It shall optionally include one or several UART interfaces as per [RS422]."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall optionally include one or several UART interfaces as per [RS422].",
+        "It shall optionally include one or several UART interfaces as per RS422."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall optionally include one or several UART interfaces as per [RS422].",
+        "It shall optionally include one or several UART interfaces as specified in [RS422]."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall optionally include one or several UART interfaces as per [RS422].",
+        "It shall optionally include one or several UART interfaces according to [RS422]."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall optionally include one or several UART interfaces as per [RS422].",
+        "The Remote Terminal Unit shall optionally include one or several UART interfaces according to [RS422]."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall optionally include one or several UART interfaces as per [RS422].",
+        "It shall optionally have one or several UART interfaces as per [RS422]."
+    ],
+    [
+        "PARA",
+        "The Remote Terminal Unit shall optionally include one or several UART interfaces as per [RS422].",
+        "Remote Terminal Unit shall optionally include one or several UART interfaces as per [RS422]."
+    ]
+]
