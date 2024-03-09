@@ -19,10 +19,9 @@ def read_raw_data(files: list):
     if files != list:
         print("|ERROR| read_raw_data() - input should be in list type!")
 
-    if TRAINING_DIR in d:
-        print("Success?")
-
     for d in files: 
+        if TRAINING_DIR in d:
+            print("Success?")
         if TRAINING_DIR in d:
             try:
                 data_file = io.open(d, mode="r", encoding="utf-8")
@@ -44,6 +43,8 @@ def read_raw_data(files: list):
                             txt = re.sub("\[SEP\].*?\[END\]", "", line.replace("\n", ""))
                         data.append(txt)
                 data_file.close()
+    print(d)
+    print(TRAINING_DIR)
     return data
 """        else:
             try:
