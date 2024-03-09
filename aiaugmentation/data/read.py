@@ -15,6 +15,13 @@ RESULT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),"output")
 def read_raw_data(files: list):
 #   files is a list containing string names of files, without dir-prefix  
     data = []   
+
+    if files != list:
+        print("|ERROR| read_raw_data() - input should be in list type!")
+
+    if TRAINING_DIR in d:
+        print("Success?")
+
     for d in files: 
         if TRAINING_DIR in d:
             try:
@@ -37,7 +44,8 @@ def read_raw_data(files: list):
                             txt = re.sub("\[SEP\].*?\[END\]", "", line.replace("\n", ""))
                         data.append(txt)
                 data_file.close()
-        else:
+    return data
+"""        else:
             try:
                 data_file = io.open(d, mode="r", encoding="utf-8")
                 for line in data_file:
@@ -56,17 +64,16 @@ def read_raw_data(files: list):
                         else:
                             txt = re.sub("\[SEP\].*?\[END\]", "", line.replace("\n", ""))
                         data.append(txt)
-                data_file.close()
-    return data
+                data_file.close()"""
 
-def read_txt_data(files: list):
+"""def read_txt_data(files: list):
     data = []
     for d in files:
         with io.open(os.path.join(TRAINING_DIR, d), mode="r", encoding="utf-8") as data_file:
             for line in data_file:
                 txt = re.sub("\n", "", line)
                 data.append(txt)
-    return data
+    return data"""
 
 #------ Functions to read from Output directory ------
 
