@@ -16,8 +16,8 @@ def read_raw_data(files: list):
 #   files is a list containing string names of files, without dir-prefix  
     data = []   
 
-    if files != list:
-        print("|ERROR| read_raw_data() - input should be in list type!")
+    if files != type(list):
+        print("|ERROR| read_raw_data() - input should be list type!")
 
     for d in files: 
         if TRAINING_DIR in d:
@@ -43,8 +43,6 @@ def read_raw_data(files: list):
                             txt = re.sub("\[SEP\].*?\[END\]", "", line.replace("\n", ""))
                         data.append(txt)
                 data_file.close()
-    print(d)
-    print(TRAINING_DIR)
     return data
 """        else:
             try:
