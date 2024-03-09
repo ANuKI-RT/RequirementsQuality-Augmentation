@@ -24,25 +24,28 @@ def read_raw_data(files: list):
             print("Success?")
         if TRAINING_DIR in d:
             try:
-                data_file = io.open(d, mode="r", encoding="utf-8")
-                for line in data_file:
-                    if line.strip():
-                        if re.search("\[SEP\]", line) is None:
-                            txt = re.sub("\[END\]", "", line.replace("\n", ""))
-                        else:
-                            txt = re.sub("\[SEP\].*?\[END\]", "", line.replace("\n", ""))
-                        data.append(txt)
-                data_file.close()
+                with open(d, mode="r", encoding="utf-8") as data_file:
+                    lines = data_file.readlines()
+                    for line in lines:
+                        if line.strip():
+                            if re.search("\[SEP\]", line) is None:
+                                txt = re.sub("\[END\]", "", line.replace("\n", ""))
+                            else:
+                                txt = re.sub("\[SEP\].*?\[END\]", "", line.replace("\n", ""))
+                            data.append(txt)
+                    data_file.close()
             except UnicodeDecodeError:
-                data_file = io.open(d, mode="r", encoding="cp1252")
-                for line in data_file:
-                    if line.strip():
-                        if re.search("\[SEP\]", line) is None:
-                            txt = re.sub("\[END\]", "", line.replace("\n", ""))
-                        else:
-                            txt = re.sub("\[SEP\].*?\[END\]", "", line.replace("\n", ""))
-                        data.append(txt)
-                data_file.close()
+                with open(d, mode="r", encoding="cp1252") as data_file:
+                    lines = data_file.readlines()
+                    for line in lines:
+                        if line.strip():
+                            if re.search("\[SEP\]", line) is None:
+                                txt = re.sub("\[END\]", "", line.replace("\n", ""))
+                            else:
+                                txt = re.sub("\[SEP\].*?\[END\]", "", line.replace("\n", ""))
+                            data.append(txt)
+                    data_file.close()
+    print("Data: ", data)
     return data
 """        else:
             try:
