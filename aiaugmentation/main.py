@@ -6,7 +6,7 @@ import data.write as write
 import data.read as read
 import eda.eda as eda
 # import rtt.rttru as rttru
-# import rtt.rttde as rttde
+import rtt.rttde as rttde
 import para.paraphrase as pa
 # import experiment as ex
 import evaluate
@@ -18,12 +18,10 @@ TRAINING_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),"data","i
 RESULT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),"output")
 
 # write.write_file(data.delete_duplicates_txt(rttru.execute_rtt(read.read_raw_data(DATA), False)), "RTTen2ru")
-"""write.write_json(data.delete_duplicates_json(rttde.execute_rtt(read.read_raw_data(["demo.txt"]), True)), "RTTen2de")
+write.write_json(data.delete_duplicates_json(rttde.execute_rtt(read.read_raw_data(["demo.txt"]), True)), "RTTen2de")
 write.write_json(data.delete_duplicates_json(pa.execute_para(read.read_raw_data(["demo.txt"]), True)), "PARA") 
 write.write_json(data.delete_duplicates_json(rttde.execute_rtt(read.read_raw_data(["demo.txt"]), True)), "EDA")
-write.write_file(data.delete_duplicates_json(pa.execute_para(read.read_raw_data(["demo.txt"]), True)), "GPT") """
-
-read.read_raw_data(["demo.txt"])
+write.write_file(data.delete_duplicates_json(pa.execute_para(read.read_raw_data(["demo.txt"]), True)), "GPT")
 
 """i = 0
 for r in RESULTS:
