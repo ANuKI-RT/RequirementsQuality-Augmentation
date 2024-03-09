@@ -12,16 +12,16 @@ import para.paraphrase as pa
 import evaluate
 
 EXAMPLE_PROMPT=["MicroPython", "The system shall", "The system shall process the function as follows"]
-
 DATA = ["0000 - cctns.txt", "0000 - gamma j.txt", "1998 - themas.txt", "2007-eirene_fun_7-2.txt", "2007-ertms.txt", "2008 - keepass.txt", "NEW - 2008 - peering.txt"]  # name of textfiles, which are used for training # "E1356-GTD-SRS-01_I1_R4.txt", "E1356-GTD-TR-01_I2_R1.txt", "RTEMS_ICD.txt", "RTEMS_SRS.txt"
 RESULTS = ["resultPARA2023-09-23_15-03-33.json", "resultPARA2023-09-23_15-06-49.json", "resultPARA2023-09-23_15-12-15.json", "resultPARA2023-09-23_15-59-14.json", "resultPARA2023-09-23_16-14-09.json", "resultPARA2023-09-23_16-16-02.json", "resultPARA2023-09-23_16-17-05.json"]
 TRAINING_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),"data","input","ESA_data")
 RESULT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),"output")
 
 # write.write_file(data.delete_duplicates_txt(rttru.execute_rtt(read.read_raw_data(DATA), False)), "RTTen2ru")
-for d in DATA:
-    write.write_json(data.delete_duplicates_json(rttde.execute_rtt(read.read_raw_data(data.get_input_filenames(TRAINING_DIR)), True)), "RTTen2de")
-    write.write_json(data.delete_duplicates_json(pa.execute_para(read.read_raw_data(data.get_input_filenames(TRAINING_DIR)), True)), "PARA") 
+write.write_json(data.delete_duplicates_json(rttde.execute_rtt(read.read_raw_data("demo.txt"), True)), "RTTen2de")
+write.write_json(data.delete_duplicates_json(pa.execute_para(read.read_raw_data("demo.txt"), True)), "PARA") 
+write.write_json(data.delete_duplicates_json(rttde.execute_rtt(read.read_raw_data("demo.txt"), True)), "EDA")
+write.write_file(data.delete_duplicates_json(pa.execute_para(read.read_raw_data("demo.txt"), True)), "GPT") 
 
 """i = 0
 for r in RESULTS:
