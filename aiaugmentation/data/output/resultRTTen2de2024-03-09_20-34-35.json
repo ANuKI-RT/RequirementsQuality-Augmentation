@@ -1,0 +1,652 @@
+[
+    [
+        "RTT",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython Virtual Machine must meet the requirements of ECSS CAT-B according to [AD02] and [AD03]."
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython virtual machine must be qualified in accordance with the requirements of ECSS CAT-B as defined in [AD02] and [AD03]."
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython Virtual Machine must be qualified according to the requirements of ECSS CAT-B, as defined in [AD02] and [AD03]"
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython virtual machine must be qualified with the requirements of ECSS CAT-B as defined in [AD02] and [AD03]."
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython Virtual Machine must be qualified according to the requirements of the ECSS CAT-B as defined in [AD02] and [AD03]"
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython Virtual Machine must be qualified with the requirements of ECSS CAT-B according to [AD02] and [AD03]."
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython Virtual Machine must be qualified with the ECSS CAT-B requirements according to [AD02] and [AD03]."
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython Virtual Machine must be qualified according to the requirements of the ECSS CAT-B as defined in [AD02] and [AD03]."
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython Virtual Machine must be qualified according to the requirements of ECSS CAT-B as defined in [AD02] and [AD03]."
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython Virtual Machine must be qualified with the requirements of ECSS CAT-B as defined in [AD02] and [AD03]"
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython Virtual Machine must be qualified with the requirements of ECSS CAT-B as per [AD02] and [AD03]."
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython Virtual Machine must meet the requirements of ECSS CAT-B as defined in [AD02] and [AD03]."
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython virtual machine must be qualified according to the requirements of ECSS CAT-B as defined in [AD02] and [AD03]."
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython Virtual Machine must be qualified according to the requirements of ECSS CAT-B as defined in [AD02] and [AD03]"
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython Virtual Machine must be qualified with the ECSS CAT-B requirements as defined in [AD02] and [AD03]."
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython Virtual Machine must be qualified with the requirements of ECSS CAT-B according to [AD02] and [AD03]"
+    ],
+    [
+        "RTT",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython Virtual Machine must be qualified with the requirements of ECSS CAT-B as defined in [AD02] and [AD03]."
+    ],
+    [
+        "RTT",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf determine the maximum numerical value of the argument x and y."
+    ],
+    [
+        "RTT",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf determine the maximum numeric value of the argument x and y."
+    ],
+    [
+        "RTT",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf are to determine the maximum numerical value of the arguments x and y."
+    ],
+    [
+        "RTT",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf determine the maximum numeric value of the arguments x and y."
+    ],
+    [
+        "RTT",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The methods fmax and fmaxf determine the maximum numeric value of the arguments x and y."
+    ],
+    [
+        "RTT",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf determine the maximum numerical value of the arguments x and y."
+    ],
+    [
+        "RTT",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The methods fmax and fmaxf determine the maximum numerical value of the arguments x and y."
+    ],
+    [
+        "RTT",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The fmax and fmaxf methods determine the maximum numerical value of the arguments x and y."
+    ],
+    [
+        "RTT",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf are to determine the maximum numeric value of the arguments x and y."
+    ],
+    [
+        "RTT",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf are to determine the maximum numerical value of the arguments x and y"
+    ],
+    [
+        "RTT",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf specify the maximum numerical value of the argument x and y."
+    ],
+    [
+        "RTT",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf specify the maximum numerical value of the arguments x and y."
+    ],
+    [
+        "RTT",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf should determine the maximum numeric value of the arguments x and y."
+    ],
+    [
+        "RTT",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf are intended to determine the maximum numeric value of the arguments x and y."
+    ],
+    [
+        "RTT",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log- and logf procedures do not return a number if the argument x is not a number."
+    ],
+    [
+        "RTT",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log- and logf-procedures do not return a number if the argument x is not number."
+    ],
+    [
+        "RTT",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The logf and logf procedures do not return a number if the argument x is not a number."
+    ],
+    [
+        "RTT",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log and logf procedures do not return a number if the argument x is not a number."
+    ],
+    [
+        "RTT",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The protocol and logf procedures do not return a number if the argument x is not a number."
+    ],
+    [
+        "RTT",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log- and logf-procedures do not return a number if the argument x is no number."
+    ],
+    [
+        "RTT",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log and log procedures will not return a number if the argument x is not a number."
+    ],
+    [
+        "RTT",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The protocol and log procedures do not return a number if the argument x is not a figure."
+    ],
+    [
+        "RTT",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log- and logf-procedures do not return a number if the argument x is not a number."
+    ],
+    [
+        "RTT",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log and logf procedures will not return a number if the argument x is not a number."
+    ],
+    [
+        "RTT",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log and log procedures do not return a number if argument x is not a number."
+    ],
+    [
+        "RTT",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log and logf procedures return no number if the argument x is not a number."
+    ],
+    [
+        "RTT",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log and logf procedures do not return a number if argument x is not a number."
+    ],
+    [
+        "RTT",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log and log procedures do not return a number if the argument x is not a number."
+    ],
+    [
+        "RTT",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The Log and Logf procedures do not return a number if the argument x is no number."
+    ],
+    [
+        "RTT",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The protocol and log procedures do not return a number if the argument x is not a number."
+    ],
+    [
+        "RTT",
+        "The system shall have a procedure to terminate the system.",
+        "The system has a procedure to stop the system."
+    ],
+    [
+        "RTT",
+        "The system shall have a procedure to terminate the system.",
+        "The system must have a procedure for terminating the system."
+    ],
+    [
+        "RTT",
+        "The system shall have a procedure to terminate the system.",
+        "The system has a procedure to end the system."
+    ],
+    [
+        "RTT",
+        "The system shall have a procedure to terminate the system.",
+        "The system must have a procedure for ending the system."
+    ],
+    [
+        "RTT",
+        "The system shall have a procedure to terminate the system.",
+        "The system has a process to terminate the system."
+    ],
+    [
+        "RTT",
+        "The system shall have a procedure to terminate the system.",
+        "The system has a procedure for ending the system."
+    ],
+    [
+        "RTT",
+        "The system shall have a procedure to terminate the system.",
+        "The system has a method to terminate the system."
+    ],
+    [
+        "RTT",
+        "The system shall have a procedure to terminate the system.",
+        "The system must have a procedure for terminating it."
+    ],
+    [
+        "RTT",
+        "The system shall have a procedure to terminate the system.",
+        "The system has a procedure for terminating the system."
+    ],
+    [
+        "RTT",
+        "The system shall have a procedure to terminate the system.",
+        "The system has a procedure to terminate the system."
+    ],
+    [
+        "RTT",
+        "The system shall have a procedure to terminate the system.",
+        "The system has a process for terminating the system."
+    ],
+    [
+        "RTT",
+        "The system shall have a procedure to terminate the system.",
+        "The system has a procedure for terminating it."
+    ],
+    [
+        "RTT",
+        "The system shall have a procedure to terminate the system.",
+        "The system has a termination procedure."
+    ],
+    [
+        "RTT",
+        "The system shall have a procedure to terminate the system.",
+        "The system must have a process for terminating the system."
+    ],
+    [
+        "RTT",
+        "The system shall have a procedure to terminate the system.",
+        "The system must have a process for ending the system."
+    ],
+    [
+        "RTT",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The procedures exp and expf calculate the base exponential of their argument x."
+    ],
+    [
+        "RTT",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The exp and expf procedures calculate the base exponential value of their argument x."
+    ],
+    [
+        "RTT",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The procedures exp and expf calculate the basic eexponential value of their argument x."
+    ],
+    [
+        "RTT",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The exp and expf procedures calculate the base exponential of their argument x."
+    ],
+    [
+        "RTT",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The procedures exp and expf compute the eexponential base value of their argument x."
+    ],
+    [
+        "RTT",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The procedures exp and expf compute the base eexponential value of their argument x."
+    ],
+    [
+        "RTT",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The exp and expf procedures compute the base exponential value of their argument x."
+    ],
+    [
+        "RTT",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The procedures exp and expf calculate the base eexponential value of their argument x."
+    ],
+    [
+        "RTT",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The procedures exp and expf calculate the eexponential baseline value of their argument x."
+    ],
+    [
+        "RTT",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The procedures exp and expf calculate the base exponential value of their argument x."
+    ],
+    [
+        "RTT",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The procedures exp and expf calculate the eexponential underlying value of their argument x."
+    ],
+    [
+        "RTT",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The procedures exp and expf compute the base exponential value of their argument x."
+    ],
+    [
+        "RTT",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The procedures exp and expf calculate the eexponential base value of their argument x."
+    ],
+    [
+        "RTT",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "The cross-compiler of MicroPython should be designed to generate a byte code with a minimum size."
+    ],
+    [
+        "RTT",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "The MicroPython cross-compiler is designed to generate a bytecode with minimal size."
+    ],
+    [
+        "RTT",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "The MicroPython cross-compiler is designed to generate a byte code with minimal size."
+    ],
+    [
+        "RTT",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "The MicroPython cross-compiler should be designed to generate a bytecode with a minimum size."
+    ],
+    [
+        "RTT",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "The cross-compiler of MicroPython should be designed in such a way that it generates a byte code with minimum size."
+    ],
+    [
+        "RTT",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "The MicroPython Cross-Compiler is designed to generate a byte code with minimal size."
+    ],
+    [
+        "RTT",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "The MicroPython cross-compiler should be designed to generate a bytecode with minimal size."
+    ],
+    [
+        "RTT",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "The MicroPython cross-compiler is designed to generate a byte code with a minimum size."
+    ],
+    [
+        "RTT",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "The MicroPython cross-compiler should be designed to generate a byte code with minimum size."
+    ],
+    [
+        "RTT",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "The MicroPython cross-compiler should be designed to generate a byte code with minimal size."
+    ],
+    [
+        "RTT",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "The MicroPython cross-compiler should be designed to generate a byte code with a minimum size."
+    ],
+    [
+        "RTT",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "The cross-compiler of MicroPython should be designed to generate a byte code with minimum size."
+    ],
+    [
+        "RTT",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "The MicroPython cross-compiler is designed to generate a byte code with minimum size."
+    ],
+    [
+        "RTT",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "The cross-compiler of MicroPython should be designed to generate a byte code with minimal size."
+    ],
+    [
+        "RTT",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "The MicroPython cross compiler should be designed to generate a byte code with minimal size."
+    ],
+    [
+        "RTT",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The ceiling and veil methods calculate the smallest integral value no less than argument x."
+    ],
+    [
+        "RTT",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The procedures ceil and ceilf compute the smallest integral value no less than argument x."
+    ],
+    [
+        "RTT",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The ceiling and veil procedures calculate the smallest integral value not less than argument x."
+    ],
+    [
+        "RTT",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The procedures ceil and ceilf calculate the smallest integral value no less than argument x."
+    ],
+    [
+        "RTT",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The veil and ceiling procedures calculate the smallest integral value no less than argument x."
+    ],
+    [
+        "RTT",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The methods ceil and ceilf calculate the smallest integral value no less than argument x."
+    ],
+    [
+        "RTT",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The veil and ceiling procedures calculate the smallest integral value not less than argument x."
+    ],
+    [
+        "RTT",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The ceiling and veil procedures calculate the smallest integral value no less than argument x."
+    ],
+    [
+        "RTT",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The ceiling and veil methods calculate the smallest integral value not less than argument x."
+    ],
+    [
+        "RTT",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The procedures ceil and ceilf calculate the smallest integral value not less than argument x."
+    ],
+    [
+        "RTT",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The methods ceil and ceilf calculate the smallest integral value not less than argument x."
+    ],
+    [
+        "RTT",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The veil and ceiling methods calculate the smallest integral value no less than argument x."
+    ],
+    [
+        "RTT",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The ceil and ceilf methods calculate the smallest integral value no less than argument x."
+    ],
+    [
+        "RTT",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The veil and ceiling methods calculate the smallest integral value not less than argument x."
+    ],
+    [
+        "RTT",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "The MicroPython language is designed to support object orientation as defined in Python 3.4"
+    ],
+    [
+        "RTT",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "The MicroPython language should support object orientation as defined in Python 3.4"
+    ],
+    [
+        "RTT",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "The MicroPython language should support object orientation, as defined in Python 3.4."
+    ],
+    [
+        "RTT",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "The language MicroPython should support object orientation, as defined in Python 3.4"
+    ],
+    [
+        "RTT",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "The language MicroPython should support object orientation as defined in Python 3.4"
+    ],
+    [
+        "RTT",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "The MicroPython language should support object orientation, as defined in Python 3.4"
+    ],
+    [
+        "RTT",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "The MicroPython language is intended to support object orientation as defined in Python 3.4"
+    ],
+    [
+        "RTT",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "The language MicroPython should support object orientation as defined in Python 3.4."
+    ],
+    [
+        "RTT",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "The MicroPython language should support object orientation as defined in Python 3.4."
+    ],
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "Basic Mathematical Library Test Suite checks communication with the target (through GDB) by using checksums on transmitted packets and implements repetition management."
+    ],
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "Basic Mathematical Library Test Suite checks the communication with the target (through GDB) by using checksums on transmitted packets and implements repeat management."
+    ],
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "Basic Mathematical Library Test Suite checks the communication with the target (through GDB) by using checksums on transferred packets and implements a repeat management."
+    ],
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "Basic Mathematical Library Test Suite checks communication with the target (through GDB) by using checksums on transmitted packets and implements repeat management."
+    ],
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "Basic Mathematical Library Test Suite checks the communication with the target (by GDB) by using checksums on transferred packets and implements a repeat management."
+    ],
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "Basic Mathematical Library Test Suite checks communication with the target (through GDB) by using checksums on transferred packets and implements repetition management."
+    ],
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "Basic Mathematical Library Test Suite checks communication with the target (by GDB) by using checksums on transferred packets and implements repeat management."
+    ],
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "Basic Mathematical Library Test Suite checks the communication with the target (through GDB) by using checksums on transmitted packets and implements a repeat management."
+    ],
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "Basic Mathematical Library Test Suite checks communication with the target (through GDB) by using checksums on transmitted packets and implements repetition management"
+    ],
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "Basic Mathematical Library Test Suite checks the communication with the target (through GDB) by using checksums on transferred packets and implements repeat management."
+    ],
+    [
+        "RTT",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "Basic Mathematical Library Test Suite checks communication with the target (through GDB) by using checksums on transferred packets and implements repeat management."
+    ],
+    [
+        "RTT",
+        "After being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
+        "After loading in memory, the byte code generated by the MicroPython cross-compiler is executed by the MicroPython Virtual Machine, with semantics specified by the MicroPython source script."
+    ],
+    [
+        "RTT",
+        "After being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
+        "After loading into memory, the byte code generated by the MicroPython cross-compiler is executed by the MicroPython Virtual Machine, with semantics specified by the MicroPython source script."
+    ],
+    [
+        "RTT",
+        "After being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
+        "After loading into memory, the byte code generated by the MicroPython cross-compiler is executed by the MicroPython Virtual Machine, specifying the semantics by the MicroPython source script."
+    ],
+    [
+        "RTT",
+        "After being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
+        "After loading into memory, the byte code generated by the MicroPython cross-compiler is executed by the MicroPython Virtual Machine, with semantics specified by the MicroPython source code."
+    ],
+    [
+        "RTT",
+        "After being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
+        "After loading into memory, the byte code generated by the MicroPython cross-compiler is executed by the MicroPython Virtual Machine, with the semantics specified by the MicroPython source script."
+    ],
+    [
+        "RTT",
+        "After being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
+        "After loading into memory, the byte code generated by the MicroPython cross-compiler is executed by the MicroPython virtual machine, with semantics specified by the MicroPython source script."
+    ]
+]
