@@ -1,0 +1,24 @@
+[
+    [
+        [
+            "RTT",
+            "The Basic mathematical Library shall be tested on a LEON2, a LEON4, and a x86-64 platformfor its reproducibility.",
+            "The basic mathematical library will be tested for its reproducibility on a LEON2, LEON4 and x86-64 platform."
+        ],
+        [
+            "RTT",
+            "The Basic mathematical Library shall be tested on a LEON2, a LEON4, and a x86-64 platformfor its reproducibility.",
+            "The basic mathematical library is to be tested for its reproducibility on a LEON2, LEON4 and x86-64 platform."
+        ],
+        [
+            "RTT",
+            "The Basic mathematical Library shall be tested on a LEON2, a LEON4, and a x86-64 platformfor its reproducibility.",
+            "The basic mathematical library will be tested for its reproducibility on a LEON2, a LEON4 and an x86-64 platform."
+        ],
+        [
+            "RTT",
+            "The Basic mathematical Library shall be tested on a LEON2, a LEON4, and a x86-64 platformfor its reproducibility.",
+            "The basic mathematical library is to be tested for its reproducibility on a LEON2, a LEON4 and an x86-64 platform."
+        ]
+    ]
+]

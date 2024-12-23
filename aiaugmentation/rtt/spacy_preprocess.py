@@ -90,8 +90,8 @@ def preprocess_text_file(input_file_path):
 
     write_output_file(output_file_path, processed_data)
 
-input_file_path = os.path.join("E1356-CS-SRS-01_I1_R3_processed.txt")
-preprocess_text_file(input_file_path)
+# input_file_path = os.path.join("E1356-CS-SRS-01_I1_R3_processed.txt")
+# preprocess_text_file(input_file_path)
 
 """
 doc = nlp("Receipt of the ENABLE_Block Allocable Unit.request primitive shall cause the Block Access Systemprovider to enable all the Block Allocable Units identified in the Block Allocable Unit list provided as parameter.")
