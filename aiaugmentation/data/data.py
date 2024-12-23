@@ -13,6 +13,8 @@ import data.write as write
 
 import matplotlib.pyplot as plt
 
+import random
+
 import nltk
 nltk.download('punkt')
 '''NB. If you publish work that uses NLTK, please cite the NLTK book as follows:
@@ -167,65 +169,3 @@ def delete_duplicates_experiment(data: list, classifier:str, number:int):
 
     write.write_file(document, "".join(("DUPLICATEREMOVAL_", str(classifier))))
     return results
-
-
-'''def delete_duplicates(files: list):
-    data_list = read_json_files(files)
-    data_set = set(data_list)
-
-    print(len(data_list))
-    print(len(data_set))
-    print("Total duplicates removed: ",len(data_list)-len(data_set))
-
-    return list(data_set)'''
-
-        
-
-# This function is used, to get a random selection of each of the given Trainingdata documents:
-'''def get_random_selection(files: list, div: int):
-    ex = []
-    data = []
-    for d in files:
-        with io.open(d, mode="r", encoding="utf-8") as data_file:
-            for line in data_file:
-                ex.append(line)
-    amount = len(ex) / div
-    print(amount)
-    i = 0
-    while i < amount:
-        x = np.random.randint(0, len(ex))
-        print(x)
-        data.append(ex[x])
-        i += 1
-    return data'''
-
-# To augment for experiment, take a random subset made of samples from different given files and return it for further processing.
-'''def get_random_trainingdata(files: list, total_amount: int = 100): CAN BE REMOVED IF OTHER GET_RANDOM_TRAINING_DATA IS BETTER
-    results = []
-    data = read.read_raw_data(files)
-    i = 0
-    while i < total_amount:
-        sample = random.choice(data)
-        if len(data) > total_amount:
-            if sample not in results:
-                sample = sample.strip()
-                results.append(sample)
-                i+=1
-        else:
-            results = data
-            break
-    return results'''
-
-#   This function is used to check for the token distribution and their corresponding length. 
-'''def get_training_data(DATA: list):
-    doc_lengths=[]
-
-    for d in DATA:
-        tokens = nltk.word_tokenize(d)
-        doc_lengths.append(len(tokens))
-
-    doc_lengths = np.array(doc_lengths)
-    sns.displot(doc_lengths)
-    plt.show()
-    print(np.average(doc_lengths))
-    print(doc_lengths)'''
