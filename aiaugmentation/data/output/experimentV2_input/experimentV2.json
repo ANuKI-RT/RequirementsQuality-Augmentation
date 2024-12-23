@@ -1,0 +1,58 @@
+[
+    {
+        "line": "Each non-default directive option constant shall be a power of two representable as an integerof type rtems_option.[END]",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "When the code is compiled wit h a C compiler and the __STDC_VERSION__ symbol is de-\ufb01ned with version 201112L or higher or the code is compiled with a C++ compiler and the__cplusplus symbol is de\ufb01ned with version 201103L or higher, the macro Real-Time Executive for Multiprocessor Systems_ALIGNOFshall not evaluate its argument _type_name .[END]",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "The LOCK_FILE.request primitive shall be passed to the File Management System provider to request the specified file to be locked (i.e. application of restrictions depending on User Entity for file opening and deletion).[END]",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "The (On-board Communication System) shall support synchronous and asynchronous Service Data Unit transmission.[END]",
+        "file": "SAVOIR-GS-OBCSRD-008.txt"
+    },
+    {
+        "line": "The Import Expander shall detect when an im port statement refers to a module already imported, whether directly or through cascaded imports; in such situation, it shall apply the following rules: 1. If import m is found in scope S2 while import m has already been encountered in scope S1, then x if S2 = S1, then the latest import statement shall be skipped,             x if S2 \u2260 S1, then the import statement in S2 shall be replaced by an assignment that creates an alias so that the objects of m can be referred also using S2 scope. 2. If from m import \u2026 is found in scope S2 while from m import \u2026 has already been encountered in scope S1, then x if S2 = S1, then the latest import statement shall be skipped, x if S2 \u2260 S1, then the new tool shall report an error telling that it cannot handle such case. 3. If import m  and from m import \u2026  flavours are mixed at different places for the same given module m (whatever their scopes), then the tool shall report an error telling that it cannot handle such case.[SEP]These rules are meant to mimic as close ly as possible the native  import mechanism of Python, so to avoid side effects due to static expansion.  In particular, a given module should not be expanded twice, wherever it is imported ; therefore, an object that is im ported at different places cannot be created twice  (this is particularly important for mutabl e object). The most complex cases, which usually reveal bad programming  practices, are not suppor ted and reported as such.[END]",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "The Import Expander shall be able to do \"smart expansion\": for a given list of modules, it shall analyse the importing MicroPython procedure and only copy the subset of assignments of variables that are actually used in this procedure.[SEP]The rationale is to have a MicroPython module containi ng all symbols defined in a databaseas a set of MicroPython assignments  (this should be automated by a dedicated tool). For example, the following script could be produced from the engineering data repository:   # sdb.py   camera_1_id =  camera_2_id =  \u2026 MicroPython procedure can then import this file and use the required subset of variables. Since this imported module is arbitrarily large, it is sensible to requ ire that the Import Expander copies only t he required subset of assignments.  This solution assumes that there are no interdependencies between variables in the imported file . For example, the assignment    # sdb.py   \u2026   camera_1_controller_id = camera_1_id * 100 +would fail if camera_1_id   is not referred in the importing module.his is why such mechanism is not required by default for all imported modules: only  the modules declared by the user are assumed to be simple assignments and can then be expanded without mistakes.[END]",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "The Execution Platform shall support the modification, addition and deletion of parameter report definitions by external systems.[END]",
+        "file": "SAVOIR-GS-EPFS-005.txt"
+    },
+    {
+        "line": "The On-Board Time function shall be based on an On-Board Time module containing a time counter that uses the CCSDS Unsegmented Time Code (CUC) format, as is required by European Cooperation for Space Standards-E-70-41A ClauseC.2. [END]",
+        "file": "SAVOIR-GS-001.txt"
+    },
+    {
+        "line": "Thedeg2rad and deg2radf procedures shall return the value of the argument if the argument is \u00b10or\u00b1Inf.[END]",
+        "file": "E1356-GTD-SRS-01_I1_R4.txt"
+    },
+    {
+        "line": "The fmod and fmodf procedures shall return Not a Number, if the argument x is \u00b1Inf. [END]",
+        "file": "E1356-GTD-SRS-01_I1_R4.txt"
+    },
+    {
+        "line": "When the rtems_interrupt_is_pending() (  ) directive iscalled.[END]",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "When the rtems_interrupt_local_disable directive is called, the status of the maskable inter-rupts before maskable interrupts are disabled by the directive shall be assigned to the variablespeci\ufb01ed by the _isr_cookie parameter.[END]",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "The Remote Terminal Unit Core modules shall nominally be operating in cold redundancy.  [END]",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "A single command to the Remote Terminal Unit shall initiate only one Pulse Command[END]",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    }
+]
