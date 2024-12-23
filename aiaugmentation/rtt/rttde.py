@@ -178,8 +178,11 @@ def execute_rtt_experimentv2(data:list, gen_json:bool = False):
                         res = re.sub(pattern, replacement, b)
                     i+=1
             
+            d["model"] = "RTT"
+            d["augmented"] = res
+
             if gen_json == True:
-                res_rtt.append("RTT",d,res)
+                res_rtt.append(d)
 
             '''for b in back_translated_output:
                 if gen_json == True:

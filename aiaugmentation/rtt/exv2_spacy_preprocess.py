@@ -111,8 +111,5 @@ def preprocess_json_file(input_file_path):
             results.append(result)
     else:
         print("No")
-        
-    print(results)
 
     write_output_file(output_file_path, results)
-    
