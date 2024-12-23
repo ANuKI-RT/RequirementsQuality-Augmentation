@@ -169,4 +169,4 @@ dependencies:
       - sentencepiece==0.1.99
       - torchaudio==2.0.2
       - torchvision==0.15.2
-prefix: /Users/user/anaconda3/envs/placeholder
+prefix: /Users/robin/miniconda3/envs/

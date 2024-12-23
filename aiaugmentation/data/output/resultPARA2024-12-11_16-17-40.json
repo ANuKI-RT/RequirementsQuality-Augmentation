@@ -1,0 +1,472 @@
+[
+    [
+        "PARA",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython virtual machine shall be qualified with requirements of ECSS CAT-B as defined in [AD02] and [AD03]."
+    ],
+    [
+        "PARA",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "It shall comply with the requirements of ECSS CAT-B defined in [AD02] and [AD03]."
+    ],
+    [
+        "PARA",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython Virtual Machine shall be qualified with the requirements of ECSS CAT-B as defined in [AD02] and [AD03]."
+    ],
+    [
+        "PARA",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "It shall comply with requirements of ECSS CAT-B as defined in [AD02] and [AD03]."
+    ],
+    [
+        "PARA",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython virtual machine shall be qualified with the requirements of ECSS CAT-B as defined in [AD02] and [AD03]."
+    ],
+    [
+        "PARA",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B as defined in [AD02] and [AD03]."
+    ],
+    [
+        "PARA",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "It shall be qualified with the requirements of ECSS CAT-B as defined in [AD02] and [AD03."
+    ],
+    [
+        "PARA",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "It shall comply with the requirements of ECSS CAT-B as defined in [AD02] and [AD03]."
+    ],
+    [
+        "PARA",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "The MicroPython virtual machine shall be qualified with requirements of ECSS CAT-B as defined in [AD02] and [AD03."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf determine the maximum numeric value of argument x and y."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures for fmax and fmaxf shall determine the maximum numeric value of the arguments x and y."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The fmax and fmaxf procedures determine the maximum numeric value of the arguments x and y."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures of fmax and fmaxf shall determine the maximum numeric value of arguments x and y."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures of fmax and fmaxf shall determine the maximal numeric value of the arguments x and y."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf determine the maximum numeric value of arguments x and y."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf determine the maximum numeric value of the argument x and y."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures fmax and fmaxf determine the maximum numeric value of the arguments x and y."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures for fmax and fmaxf shall determine the maximal numeric value of the arguments x and y."
+    ],
+    [
+        "PARA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "The procedures of fmax and fmaxf shall determine the maximum numeric value of the arguments x and y."
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log and logf procedures shall return Not a Number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log and logf procedures shall return Not a number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log and logf procedures return Not a number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log and logf procedures shall return not a number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "The log and logf procedures return not a number if the argument x is not a number."
+    ],
+    [
+        "PARA",
+        "The system shall have a procedure to terminate the system.",
+        "In order to terminate the system the system shall have a procedure."
+    ],
+    [
+        "PARA",
+        "The system shall have a procedure to terminate the system.",
+        "The system shall have a procedure to end the system."
+    ],
+    [
+        "PARA",
+        "The system shall have a procedure to terminate the system.",
+        "In order to terminate the system the system shall have a procedure to terminate the system."
+    ],
+    [
+        "PARA",
+        "The system shall have a procedure to terminate the system.",
+        "To terminate the system the system shall have a procedure for terminating the system."
+    ],
+    [
+        "PARA",
+        "The system shall have a procedure to terminate the system.",
+        "The system shall have a procedure to terminate it."
+    ],
+    [
+        "PARA",
+        "The system shall have a procedure to terminate the system.",
+        "In order to terminate the system the system shall have a procedure for termination."
+    ],
+    [
+        "PARA",
+        "The system shall have a procedure to terminate the system.",
+        "The system shall have a procedure for terminating the system."
+    ],
+    [
+        "PARA",
+        "The system shall have a procedure to terminate the system.",
+        "In order to terminate the system the system shall have a procedure for terminating it."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The exp and expf procedures are to calculate the base eexponential value of their argument x respectively."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The exp and expf procedures calculate the eexponential base value of their argument x."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The exp and expf procedures are to calculate the base eexponential value of the argument x."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The exp and expf procedures are to calculate the base eexponential value of their argument x"
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The procedures exp and expf calculate the base eexponential value of their argument x."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The exp and expf procedures shall calculate the eexponential base value of their argument x."
+    ],
+    [
+        "PARA",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "The exp and expf procedures are to calculate the base eexponential value of their argument x."
+    ],
+    [
+        "PARA",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "MicroPython cross compiler shall be designed to produce a minimum size of bytecode."
+    ],
+    [
+        "PARA",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size"
+    ],
+    [
+        "PARA",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "MicroPython cross compiler shall be designed to produce a bytecode with minimal size."
+    ],
+    [
+        "PARA",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "The cross compiler for MicroPython shall be designed to produce a bytecode with a minimal size."
+    ],
+    [
+        "PARA",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "The MicroPython cross compiler shall be designed to produce a bytecode with a minimum size."
+    ],
+    [
+        "PARA",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "The MicroPython cross-compiler shall be designed to produce bytecode with a minimal size."
+    ],
+    [
+        "PARA",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "The MicroPython cross compiler shall be designed to produce a bytecode with a minimal size."
+    ],
+    [
+        "PARA",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "MicroPython cross compiler shall be designed to produce a minimal size of bytecode."
+    ],
+    [
+        "PARA",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "MicroPython cross compiler shall be designed to produce bytecode with minimal size."
+    ],
+    [
+        "PARA",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "MicroPython cross compiler shall be designed to produce bytecode of minimal size."
+    ],
+    [
+        "PARA",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The methods of ceil and ceilf shall compute the smallest integral value not less than argument x"
+    ],
+    [
+        "PARA",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The procedures of ceil and ceilf shall compute the smallest integral value not less than argument x."
+    ],
+    [
+        "PARA",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The methods of ceil and ceilf must compute the smallest integral value not less than argument x."
+    ],
+    [
+        "PARA",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The procedures cil and cilf compute the smallest integral value not less than argument x."
+    ],
+    [
+        "PARA",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The methods of ceil and ceilf shall compute the smallest integral value not less than argument x."
+    ],
+    [
+        "PARA",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "The procedures ceil and ceilf compute the smallest integral value not less than argument x."
+    ],
+    [
+        "PARA",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "MicroPython shall support object-oriented programming as defined in Python 3.4."
+    ],
+    [
+        "PARA",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "Python 3.4 supports object-oriented programming as defined in Python 3.4."
+    ],
+    [
+        "PARA",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "The micro Python language shall support object-oriented programming as defined in Python 3.4."
+    ],
+    [
+        "PARA",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "The Micro Python language shall support object-oriented programming as defined in Python 3.4."
+    ],
+    [
+        "PARA",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "The Micro Python language shall support object-orientation as defined in Python 3.4."
+    ],
+    [
+        "PARA",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "The MicroPython language shall support object-orientation as defined in Python 3.4."
+    ],
+    [
+        "PARA",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "The MicroPython language shall support object orientation as defined in Python 3.4."
+    ],
+    [
+        "PARA",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "The MicroPython language shall support object-oriented programming as defined in Python 3.4."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "The Basic Mathematics Library Test Suite shall verify the communication with the target (through GDB) by using checksums on transferred packets and implement retry management."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "The Basic Mathematics Library Test Suite must check the communication with the target (through GDB) by using checksums on transferred packets and implement retry management."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "The Basic Mathematics Library Test Suite shall test the communication with the target (through GDB) by using checksums on transferred packets and implement retry management."
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "The Basic Mathematics Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and implement retry management"
+    ],
+    [
+        "PARA",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "The Basic Mathematics Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and implement retry management."
+    ],
+    [
+        "PARA",
+        "After being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
+        "Upon being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython virtual machine with the semantic specified by the MicroPy"
+    ],
+    [
+        "PARA",
+        "After being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
+        "In memory the byte code generated by the MicroPython cross compiler shall be executable by the MicroPython virtual machine with the semantic specified by the MicroPython source script."
+    ],
+    [
+        "PARA",
+        "After being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
+        "Upon being loaded in memory, the byte code generated by the MicroPython cross compiler shall be executable by the MicroPython Virtual Machine with the semantic specified by the MicroPython source script."
+    ],
+    [
+        "PARA",
+        "After being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
+        "Upon being loaded in memory, the byte code generated by the MicroPython cross compiler shall be executable by the MicroPython virtual machine with the semantic specified by the MicroPython source script."
+    ],
+    [
+        "PARA",
+        "After being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
+        "After being loaded in memory the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython virtual machine with the semantic specified by the MicroPython source script"
+    ],
+    [
+        "PARA",
+        "After being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
+        "Upon being loaded in memory, the byte code generated by the MicroPython cross compiler shall be executable by the MicroPython virtual machine with the semantic specified by the MicroPython source script"
+    ],
+    [
+        "PARA",
+        "After being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
+        "After being loaded in memory the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine with the semantic specified by the MicroPython source script"
+    ],
+    [
+        "PARA",
+        "An internet connection and a browser are required in order to download new language translations.",
+        "An Internet connection and a browser are required to download new language translations."
+    ],
+    [
+        "PARA",
+        "An internet connection and a browser are required in order to download new language translations.",
+        "For new language translations an internet connection and a browser are required."
+    ],
+    [
+        "PARA",
+        "An internet connection and a browser are required in order to download new language translations.",
+        "It is necessary to have an internet connection and a browser to download the new translations."
+    ],
+    [
+        "PARA",
+        "An internet connection and a browser are required in order to download new language translations.",
+        "An internet connection and a browser are required in order to download new language translation."
+    ],
+    [
+        "PARA",
+        "An internet connection and a browser are required in order to download new language translations.",
+        "It is necessary to have an internet connection and a browser to download new language translations."
+    ],
+    [
+        "PARA",
+        "An internet connection and a browser are required in order to download new language translations.",
+        "An internet connection and a browser are required to download new language translations."
+    ],
+    [
+        "PARA",
+        "An internet connection and a browser are required in order to download new language translations.",
+        "An internet connection and a browser are required in order to download new translations."
+    ],
+    [
+        "PARA",
+        "An internet connection and a browser are required in order to download new language translations.",
+        "It is necessary to have an internet connection and a browser in order to download new translations."
+    ],
+    [
+        "PARA",
+        "An internet connection and a browser are required in order to download new language translations.",
+        "An internet connection and a browser are required to download new translations."
+    ],
+    [
+        "PARA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.",
+        "When a request for a heating unit or cooling unit to be turned is denied an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports."
+    ],
+    [
+        "PARA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.",
+        "When a request for a heating unit or cooling to be turned is denied an event shall be generated and the energy management system system shall record that event. The information in these events will be used for creating statistical reports."
+    ],
+    [
+        "PARA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.",
+        "In case a request for a heating unit or cooling unit to be turned is denied an event shall be generated and the Energy Management System system shall record the event. The information in these events will be used for creating statistical reports."
+    ],
+    [
+        "PARA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.",
+        "When a request for a heating unit or cooling to be turned is denied an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports."
+    ],
+    [
+        "PARA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.",
+        "When a request for a heating unit or cooling to be turned is denied an event shall be generated and the Energy Management System system shall record the event. The information in these events will be used for creating statistical reports."
+    ],
+    [
+        "PARA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.",
+        "When a request for a heating unit or cooling to be turned is denied an event shall be generated and the Energy Management System system shall record this event. The information in these events will be used for creating statistical reports."
+    ],
+    [
+        "PARA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.",
+        "In case a request for a heating unit or cooling unit to be turned is denied an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports."
+    ],
+    [
+        "PARA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.",
+        "In case a request for a heating unit or cooling unit to be turned is denied an event shall be generated and the Energy Management System system shall record the event. The information in these events will be used for creating statistical reports"
+    ],
+    [
+        "PARA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.",
+        "In case a request for a heating unit or cooling unit to be turned is denied an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports"
+    ],
+    [
+        "PARA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.",
+        "In case a request for a heating unit or cooling unit to be turned is denied an event shall be generated and the Energy Management System system shall record this event. The information in these events will be used for creating statistical reports."
+    ]
+]
