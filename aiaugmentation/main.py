@@ -18,7 +18,7 @@ EXAMPLE_PROMPT=["MicroPython", "The system shall", "The system shall process the
 DATA = ["demo.txt"]
 RESULTS = ["resultPARA2023-09-23_15-03-33.json", "resultPARA2023-09-23_15-06-49.json", "resultPARA2023-09-23_15-12-15.json", "resultPARA2023-09-23_15-59-14.json", "resultPARA2023-09-23_16-14-09.json", "resultPARA2023-09-23_16-16-02.json", "resultPARA2023-09-23_16-17-05.json"]
 TRAINING_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),"data","input","ESA_data")
-RESULT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),"output")
+RESULT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),"data","output")
 
 # write.write_file(data.delete_duplicates_txt(rttru.execute_rtt(read.read_raw_data(DATA), False)), "RTTen2ru")
 # write.write_json(data.delete_duplicates_json(rttde.execute_rtt(read.read_raw_data(["demo.txt"]), True)), "RTTen2de")
