@@ -1,0 +1,362 @@
+[
+    [
+        "EDA",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "the micropython virtual machine shall be qualified with requirements of ecss cat b as defined in ad and ad"
+    ],
+    [
+        "EDA",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "the micropython virtual machine shall be qualified with requirements of ecss cat european economic community b as defined in ad and ad"
+    ],
+    [
+        "EDA",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "the micropython virtual machine shall be qualified with requirements of ecss cat b as defined in ad and ad "
+    ],
+    [
+        "EDA",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "the micropython virtual machine shall be qualified with requirements of european union cat b as defined in ad and ad"
+    ],
+    [
+        "EDA",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "the micropython virtual machine shall be qualified with requirements of ecss ad b as defined in cat and ad"
+    ],
+    [
+        "EDA",
+        "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "the micropython virtual machine shall be qualified with requirements of ecss cat b demand as defined in ad and ad"
+    ],
+    [
+        "EDA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "the fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y "
+    ],
+    [
+        "EDA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "the fmax and fmaxf procedures determine the maximum value of the x and y"
+    ],
+    [
+        "EDA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "of fmax and fmaxf procedures shall determine the maximum numeric value the the argument x and y"
+    ],
+    [
+        "EDA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "the fmax and fmaxf procedures shall determine statement the maximum numeric value of the argument x and y"
+    ],
+    [
+        "EDA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "the fmax and fmaxf procedures shall determine the upper limit numeric value of the argument x and y"
+    ],
+    [
+        "EDA",
+        "The fmax and fmaxf procedures shall determine the maximum numeric value of the argument x and y.",
+        "the fmax and fmaxf procedures shall ascertain the maximum numeric value of the argument x and y"
+    ],
+    [
+        "EDA",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "the log and logf procedures shall return not a number if the argument tenner is not a number"
+    ],
+    [
+        "EDA",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "the lumber and logf procedures shall return not a number if the argument x is not a number"
+    ],
+    [
+        "EDA",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "the log and logf number shall return not a procedures if the argument x is not a number"
+    ],
+    [
+        "EDA",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "the log and logf procedures shall return not a number if the argument logarithm x is not a number"
+    ],
+    [
+        "EDA",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "the log and logf procedures shall return not a number if the argument x is not a number "
+    ],
+    [
+        "EDA",
+        "The log and logf procedures shall return Not a Number, if the argument x is Not a Number.",
+        "the log and logf shall return not number if the argument is not a number"
+    ],
+    [
+        "EDA",
+        "The system shall have a procedure to terminate the system.",
+        "the shall system have a procedure to terminate the system"
+    ],
+    [
+        "EDA",
+        "The system shall have a procedure to terminate the system.",
+        "the system shall finish have a procedure to terminate the system"
+    ],
+    [
+        "EDA",
+        "The system shall have a procedure to terminate the system.",
+        "the system shall have a procedure to terminate the system "
+    ],
+    [
+        "EDA",
+        "The system shall have a procedure to terminate the system.",
+        "the system of rules shall have a procedure to terminate the system of rules"
+    ],
+    [
+        "EDA",
+        "The system shall have a procedure to terminate the system.",
+        "the system shall have a procedure to can the system"
+    ],
+    [
+        "EDA",
+        "The system shall have a procedure to terminate the system.",
+        "the system shall have procedure a to terminate the system"
+    ],
+    [
+        "EDA",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "the exp and expf procedures shall calculate the base eexponential value foundation of their argument x"
+    ],
+    [
+        "EDA",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "the exp and expf procedures shall calculate the statement base eexponential value of their argument x"
+    ],
+    [
+        "EDA",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "the exp and expf procedures shall calculate the base eexponential treasure of their argument x"
+    ],
+    [
+        "EDA",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "the and expf procedures shall the base eexponential of their argument x"
+    ],
+    [
+        "EDA",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "the exp and expf procedures shall calculate the foundation eexponential value of their argument x"
+    ],
+    [
+        "EDA",
+        "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "the exp and expf procedures shall calculate the base eexponential value of their argument x "
+    ],
+    [
+        "EDA",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "the micropython cross compiler shall be designed to produce a bytecode with a minimal size "
+    ],
+    [
+        "EDA",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "the micropython cross compiler shall be designed to produce a bytecode amp with a minimal size"
+    ],
+    [
+        "EDA",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "the micropython cross amp compiler shall be designed to produce a bytecode with a minimal size"
+    ],
+    [
+        "EDA",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "the micropython shall compiler cross be designed to produce a bytecode with a minimal size"
+    ],
+    [
+        "EDA",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "a micropython cross compiler shall be designed to produce the bytecode with a minimal size"
+    ],
+    [
+        "EDA",
+        "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "the cross compiler shall designed to produce a bytecode with a minimal size"
+    ],
+    [
+        "EDA",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "the ceil and ceilf procedures shall compute the smallest integral esteem not less than argument x"
+    ],
+    [
+        "EDA",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "the ceil and ceilf procedures shall compute the smallest integral value not less than argument x"
+    ],
+    [
+        "EDA",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "the ceil procedures ceilf and shall compute the smallest integral value not less than argument x"
+    ],
+    [
+        "EDA",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "the ceil and ceilf procedures shall non compute the smallest integral value not less than argument x"
+    ],
+    [
+        "EDA",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "the ceil and ceilf procedures shall compute the smallest integral value not less than argument x "
+    ],
+    [
+        "EDA",
+        "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "the ceil and ceilf procedures shall compute the humble integral value not less than argument x"
+    ],
+    [
+        "EDA",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "the micropython language shall support object orientation as defined in python "
+    ],
+    [
+        "EDA",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "the micropython language shall support object orientation as defined in voice communication python"
+    ],
+    [
+        "EDA",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "the micropython language shall support object orientation as set in python"
+    ],
+    [
+        "EDA",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "the micropython language shall support object orientation as defined in python"
+    ],
+    [
+        "EDA",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "the micropython as shall support object orientation language defined in python"
+    ],
+    [
+        "EDA",
+        "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "the living micropython language shall support object orientation as defined in python"
+    ],
+    [
+        "EDA",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "basic mathematical library test suite shall jibe the communication with the target through gdb by using checksums on transferred packets and it shall follow up retry management"
+    ],
+    [
+        "EDA",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "basic management library through suite shall check the communication with the target test gdb by using checksums on transferred packets and it shall implement retry mathematical"
+    ],
+    [
+        "EDA",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "basic mathematical library test suite shall check the communication with the target through gdb by using checksums on transferred packets and it shall implement retry management "
+    ],
+    [
+        "EDA",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "basic mathematical transferred test suite shall check the communication with the target through gdb by using checksums implement library packets and it shall on retry management"
+    ],
+    [
+        "EDA",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "basic mathematical library examine suite shall check the communication with the target through gdb by using checksums on transferred packets and it shall implement rehear management"
+    ],
+    [
+        "EDA",
+        "Basic mathematical Library Test Suite shall check the communication with the target (through GDB) by using checksums on transferred packets and it shall implement retry management.",
+        "basic mathematical library test suite shall check the communication with the target through gdb by using checksums transferred and it shall implement retry management"
+    ],
+    [
+        "EDA",
+        "After being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
+        "after being loaded in memory the byte code generated by the micropython cross compiler shall be executable by the micropython practical machine with the semantic designate by the micropython beginning script"
+    ],
+    [
+        "EDA",
+        "After being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
+        "after being loaded in memory the byte code generated by the micropython cross compiler shall be executable by the micropython virtual machine with the semantic specified by the micropython source script "
+    ],
+    [
+        "EDA",
+        "After being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
+        "after specified loaded in memory the byte code generated by the micropython cross compiler be shall executable by the micropython virtual machine with micropython semantic being by the the source script"
+    ],
+    [
+        "EDA",
+        "After being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
+        "after being loaded in memory the byte computer code generated by the micropython cross compiler shall be executable by the micropython virtual machine with the semantic intend by the micropython root script"
+    ],
+    [
+        "EDA",
+        "After being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
+        "after being loaded in memory by virtual code generated by the micropython cross be shall compiler executable the the micropython byte machine with the semantic specified by the micropython source script"
+    ],
+    [
+        "EDA",
+        "After being loaded in memory, the byte code generated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
+        "after being loaded in memory the byte code generated by the micropython cross compiler shall executable by the micropython virtual machine with the semantic specified by the micropython source script"
+    ],
+    [
+        "EDA",
+        "An internet connection and a browser are required in order to download new language translations.",
+        "an connection and a browser are required in order to download new language translations"
+    ],
+    [
+        "EDA",
+        "An internet connection and a browser are required in order to download new language translations.",
+        "an internet connection and a browser are required in order to download new language"
+    ],
+    [
+        "EDA",
+        "An internet connection and a browser are required in order to download new language translations.",
+        "an internet connection and a browser are required in order to download new language translations "
+    ],
+    [
+        "EDA",
+        "An internet connection and a browser are required in order to download new language translations.",
+        "an internet connection and a browser are required in order to download new language associate in nursing translations"
+    ],
+    [
+        "EDA",
+        "An internet connection and a browser are required in order to download new language translations.",
+        "an internet required and a browser are connection in order to download new language translations"
+    ],
+    [
+        "EDA",
+        "An internet connection and a browser are required in order to download new language translations.",
+        "an internet link and a browser are required in order to download new language translations"
+    ],
+    [
+        "EDA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.",
+        "when a request for a heating unit or cooling to be turned is denied an event shall be generated and the memorialise energy management system system case petition shall record that event the information produce in these events will be used for creating statistical reports"
+    ],
+    [
+        "EDA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.",
+        "events a request for system heating unit or cooling to be turned a denied an event shall be generated and the energy management is system shall record that event the information in for when will be used these creating statistical reports"
+    ],
+    [
+        "EDA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.",
+        "when a request for a system information or cooling to unit turned is denied an event shall used generated and the energy management heating system shall record that event the be in these events will be be for creating statistical reports"
+    ],
+    [
+        "EDA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.",
+        "when heat up equal a request for a heating info unit or cooling to be turned is denied an event shall be generated and the energy management system system shall record that event the direction information in these events will be used for creating statistical reports"
+    ],
+    [
+        "EDA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.",
+        "when a request for a heating unit or cooling to be turned is denied an event shall be generated and the energy management system system shall record that event the information in these events will be used for creating statistical reports "
+    ],
+    [
+        "EDA",
+        "When a request for a heating unit or cooling to be turned is denied, an event shall be generated and the Energy Management System system shall record that event. The information in these events will be used for creating statistical reports.",
+        "when a request for a heating unit or cooling to be turned is denied an event shall generated and energy management system system record that event the information in events will be for creating statistical reports"
+    ]
+]

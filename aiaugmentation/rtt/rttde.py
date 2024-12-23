@@ -37,14 +37,14 @@ def execute_rtt(data:list, gen_json:bool = False):
     
     for d in data: 
         tokens = en2de.encode(d)
-        output = en2de.generate(tokens, beam=5, nbest=5, skip_invalid_size_inputs=True)
+        output = en2de.generate(tokens, beam=2, nbest=2, skip_invalid_size_inputs=True)
         rus_samples = [en2de.decode(x["tokens"])for x in output]
         res_rtt =[]
 
         for r in rus_samples:
 
             tokens = de2en.encode(r)
-            output = de2en.generate(tokens, beam=5, nbest=5, skip_invalid_size_inputs=True)
+            output = de2en.generate(tokens, beam=2, nbest=2, skip_invalid_size_inputs=True)
             back_translated_output = [de2en.decode(x["tokens"])for x in output]
 
             for b in back_translated_output:
