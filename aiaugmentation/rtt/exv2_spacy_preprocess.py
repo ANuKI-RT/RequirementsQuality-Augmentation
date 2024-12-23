@@ -86,22 +86,15 @@ def write_output_file(output_file_path, processed_data):
     print(f"Processed file saved to: {output_file_path}")
 
 def preprocess_json_file(input_file_path):
-    
-    output_dir = "spacy_preprocessed"
-    input_dir = "processed_files"
     modality_verbs = {"shall", "should", "must", "may"}
-    output_suffix = "_preprocessed.json"
     
     nlp = load_spacy_model()
     
-    os.makedirs(output_dir, exist_ok=True)
-
-    base_name = os.path.basename(os.path.join(input_dir, input_file_path))
+    base_name = os.path.basename(input_file_path)
     name, ext = os.path.splitext(base_name)
-    output_file_path = os.path.join(output_dir, f"{name}{output_suffix}")
     
-    input_file_path = os.path.join(input_dir, input_file_path)
-    
+    print(input_file_path)
+
     if os.path.isfile(input_file_path):
         lines = read_json_file(input_file_path)
         results = []
@@ -112,4 +105,4 @@ def preprocess_json_file(input_file_path):
     else:
         print("No")
 
-    write_output_file(output_file_path, results)
+    return results

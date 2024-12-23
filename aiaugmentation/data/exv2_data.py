@@ -41,7 +41,7 @@ def read_all_lines_from_group(group):
                 all_lines.append({"line": line.strip(), "file": os.path.basename(file)})
     return all_lines
 
-def process_directory(file, directory=TRAINING_DIR, num_lines=20):
+def process_directory(file, directory=TRAINING_DIR, num_lines=200):
     """Extract and process all .txt files in a directory."""
     files = extract_txt_files(directory)
     file_groups = group_files_by_similarity(files)
