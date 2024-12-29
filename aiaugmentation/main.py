@@ -8,6 +8,7 @@ import data.exv2_data as readv2
 import eda.eda as eda
 # import rtt.rttru as rttru
 import rtt.rttde as rttde
+import rtt.rttdeExpv2 as rttdeV2
 import rtt.exv2_spacy_preprocess as pre
 import rtt.exv2_spacy_postprocess as post
 import para.paraphrase as pa
@@ -26,7 +27,8 @@ RESULT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),"data","out
 # write.write_json(data.delete_duplicates_json(eda.execute_eda(read.read_raw_data(["demo.txt"]), True)), "EDA")
 # write.write_file(data.delete_duplicates_json(gen.execute_gpt(read.read_raw_data(["demo.txt"]), True)), "GPT")
 readv2.process_directory("experimentV2.json")
-write.write_json(rttde.execute_rtt_experimentv2(pre.preprocess_json_file(os.path.join(RESULT_DIR,"experimentV2_input","experimentV2.json"))), "PARA")
+# write.write_json(rttde.execute_rtt_experimentv2(pre.preprocess_json_file(os.path.join(RESULT_DIR,"experimentV2_input","experimentV2.json"))), "RTTen2de")
+write.write_json(rttdeV2.rtt_augmentation(os.path.join(RESULT_DIR,"experimentV2_input","experimentV2.json")), "RTTen2de")
 
 # write.write_json(rttde.execute_rtt(read.read_raw_data(["demo2.txt"]), True), "RTTen2de")
 
