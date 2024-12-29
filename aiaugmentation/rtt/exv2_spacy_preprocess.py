@@ -21,9 +21,10 @@ def read_json_file(input_file_path):
     else:
         raise ValueError("The JSON file does not contain a valid list of dictionaries.")
 
-def check_oov_and_entities(doc):
+def check_special_words(doc, modality_verbs):
     modified_tokens = []
     entities_and_oov = []
+    modality_details = []
     i = 0
     for token in doc:
         if token.is_oov or token.ent_type_:
@@ -35,28 +36,23 @@ def check_oov_and_entities(doc):
                 "end": token.idx + len(token.text)
             })
             i+=1
-        else:
-            modified_tokens.append(token.text)
-
-    return modified_tokens, entities_and_oov
-
-def check_modality_verbs(doc, modality_verbs):
-    modality_details = []
-
-    for token in doc:
-        if token.text.lower() in modality_verbs:
+        elif token.text.lower() in modality_verbs:
+            modified_tokens.append(f"<{i}>")
             modality_details.append({
                 "token": token.text,
+                "position": i,
                 "start": token.idx,
                 "end": token.idx + len(token.text)
             })
+            i+=1
+        else:
+            modified_tokens.append(token.text)
 
-    return modality_details
+    return modified_tokens, entities_and_oov, modality_details
 
 def process_line(line, nlp, modality_verbs):
     doc = nlp(line['line'])
-    modified_tokens, entities_and_oov = check_oov_and_entities(doc)
-    modality_details = check_modality_verbs(doc, modality_verbs)
+    modified_tokens, entities_and_oov, modality_details = check_special_words(doc, modality_verbs)
     
     modified_sentence = " ".join(modified_tokens)
 
@@ -67,17 +63,6 @@ def process_line(line, nlp, modality_verbs):
         "entities_and_oov": entities_and_oov,
         "modality_verbs": modality_details
     }
-    
-'''def process_text_file(lines, nlp, modality_verbs):
-    processed_data = []
-
-    for line in lines:
-        line = line.strip()  # Remove leading/trailing whitespaces
-        if not line:
-            continue  # Skip empty lines
-        processed_data.append(process_line(line, nlp, modality_verbs))
-
-    return processed_data'''
 
 def write_output_file(output_file_path, processed_data):
     with open(output_file_path, "w", encoding="utf-8") as output_file:

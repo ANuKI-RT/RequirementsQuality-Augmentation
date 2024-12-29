@@ -67,6 +67,7 @@ def process_directory(file, directory=TRAINING_DIR, num_lines=20):
     results = []
     
     rnum = int(num_lines/len(file_groups))
+    
     print(rnum)
     
     for group in file_groups:
