@@ -3,6 +3,7 @@ import random
 from collections import defaultdict
 from difflib import SequenceMatcher
 import json
+import re
 
 TRAINING_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),"input","ESA_data")
 RESULT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),"output", "experimentV2_input")
@@ -35,10 +36,27 @@ def read_all_lines_from_group(group):
     """Read all lines from all files in the group."""
     all_lines = []
     for file in group:
-        with open(file, "r", encoding="utf-8") as f:
-            lines = f.readlines()
-            for line in lines:
-                all_lines.append({"line": line.strip(), "file": os.path.basename(file)})
+        try:
+            with open(file, "r", encoding="utf-8") as f:
+                lines = f.readlines()
+                for line in lines:
+                    if line.strip():
+                        if re.search("\[SEP\]", line) is None:
+                            txt = re.sub("\[END\]", "", line.replace("\n", ""))
+                        else:
+                            txt = re.sub("\[SEP\].*?\[END\]", "", line.replace("\n", ""))
+                    all_lines.append({"line": txt.strip(), "file": os.path.basename(file)})
+                f.close()
+        except UnicodeDecodeError:
+            with open(file, "r", encoding="cp1252") as f:
+                for line in lines:
+                    if line.strip():
+                        if re.search("\[SEP\]", line) is None:
+                            txt = re.sub("\[END\]", "", line.replace("\n", ""))
+                        else:
+                            txt = re.sub("\[SEP\].*?\[END\]", "", line.replace("\n", ""))
+                    all_lines.append({"line": txt.strip(), "file": os.path.basename(file)})
+                f.close()
     return all_lines
 
 def process_directory(file, directory=TRAINING_DIR, num_lines=20):
