@@ -126,7 +126,7 @@ def execute_rtt_experiment(data:list, combined: bool = False):
 
     return results
 
-def execute_rtt_experimentv2(data:list, gen_json:bool = False):
+def execute_rtt_experimentv2(data:list, gen_json:bool = True):
     results = []
     '''
     Underlying transformer model is also from: Transformer model from `"Attention Is All You Need" (Vaswani, et al, 2017)
@@ -155,28 +155,32 @@ def execute_rtt_experimentv2(data:list, gen_json:bool = False):
         entities_and_oov_scope= len(d["entities_and_oov"])
         
         tokens = en2de.encode(d["modified"])
-        output = en2de.generate(tokens, beam=5, nbest=5, skip_invalid_size_inputs=True)
+        output = en2de.generate(tokens, beam=3, nbest=3, skip_invalid_size_inputs=True)
         ger_samples = [en2de.decode(x["tokens"])for x in output]
         res_rtt =[]
 
         for r in ger_samples:
             res = []
             tokens = de2en.encode(r)
-            output = de2en.generate(tokens, beam=5, nbest=5, skip_invalid_size_inputs=True)
+            output = de2en.generate(tokens, beam=3, nbest=3, skip_invalid_size_inputs=True)
             back_translated_output = [de2en.decode(x["tokens"])for x in output]
             
             for b in back_translated_output:
                 i = 0
                 while i < entities_and_oov_scope:
-                    print(b)
-                    pattern = rf"^\[\[\[\[{re.escape(str(i))}\]\]\]\]$"
-                    if re.fullmatch(pattern, b):
+                    pattern = rf"<\s*{re.escape(str(i))}\s*>"
+                    print(pattern)
+                    if re.search(pattern, b):
+                        print("HERE", i)
                         replacement = ""
                         for r in d["entities_and_oov"]:
                             if r["position"] == i:
+                                print("HERE 2", i)
                                 replacement = r["token"]
-                        res = re.sub(pattern, replacement, b)
+                                print(replacement)
+                        re.sub(pattern, replacement, b)
                     i+=1
+                res.append(b)
             
             d["model"] = "RTT"
             d["augmented"] = res

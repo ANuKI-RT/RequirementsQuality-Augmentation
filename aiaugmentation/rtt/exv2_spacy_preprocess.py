@@ -27,7 +27,7 @@ def check_oov_and_entities(doc):
     i = 0
     for token in doc:
         if token.is_oov or token.ent_type_:
-            modified_tokens.append(f"[[[[[{i}]]]]]")
+            modified_tokens.append(f"<{i}>")
             entities_and_oov.append({
                 "token": token.text,
                 "position": i,
