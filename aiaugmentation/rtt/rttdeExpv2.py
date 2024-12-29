@@ -68,7 +68,7 @@ def rtt_augmentation(input_file_path):
         # Validate the structure
         if isinstance(data, list) and all(isinstance(item, dict) for item in data):
             for line in data:
-                processed_data = process_line(line, nlp, MODALITY_VERBS)
+                processed_data = process_line(line, nlp)
                 result = execute_rtt_experimentv2(processed_data)
                 results.append(result)
         else:
@@ -120,6 +120,7 @@ def execute_rtt_experimentv2(d, gen_json:bool = True):
         back_translated_output = [de2en.decode(x["tokens"])for x in output]
         
         for b in back_translated_output:
+            b = re.sub(r"<preserve>(.*?)</preserve>", r"\\1", b)
             i = 0
             while i < entities_and_oov_scope:
                 pattern = rf"<\s*{re.escape(str(i))}\s*>"
@@ -134,7 +135,7 @@ def execute_rtt_experimentv2(d, gen_json:bool = True):
             res.append(b)
         
         d["model"] = "RTT"
-        d["augmented"] = re.sub(r"<preserve>(.*?)</preserve>", r"\\1", res)
+        d["augmented"] = res
         if gen_json == True:
             res_rtt.append(d)
         '''for b in back_translated_output:

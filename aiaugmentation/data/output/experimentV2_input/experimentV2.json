@@ -1,58 +1,58 @@
 [
     {
-        "line": "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_PREDICT_FALSE macrois used as a conditional in if-expressions and loop expressions, and _exp after undergoingall possible C pre-processor substitutions is an integral expression, the macro shall cause thecompiler to assume that by the percentage of cases de\ufb01ned by builtin-expect-probabilitythe expression evaluates to 0.",
+        "line": "The macro Real-Time Executive for Multiprocessor Systems_XSTRING shall apply all possible C pre-processor substitutions to its ar-gument values before the result of this substitution is converted t o a a string formed by the Cpre-processor #operator and the macro results in this string.",
         "file": "RTEMS_ICD.txt"
     },
     {
-        "line": "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_PREDICT_TRUE macrois used as a conditional in if-expressions and loop expressions, and _exp after undergoingall possible C pre-processor substitutions is an integral expression, the macro shall cause thecompiler to assume that by the percentage of cases de\ufb01ned by builtin-expect-probabilitythe expression evaluates to 1.",
+        "line": "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_SECTION macro isattached to a global variable de\ufb01nition, and the \ufb01le format used supports arbitrary sections,the macro shall cause the compiler to store the variable in a section where its value is notinitialized during initial start up.",
         "file": "RTEMS_ICD.txt"
     },
     {
-        "line": "The READ_FROM_FILE.request primitive shall be passed to the FS provider to request data segment to be read in-order from an opened  file at the File Descriptor\u2019s current position.",
+        "line": "The returned File Closed parameter shall indicate if the file (identified by the File Descriptor provided in the request) was closed or not in the frame of the write operation.",
         "file": "SAVOIR-GS-DSSnIRD-006.txt"
     },
     {
-        "line": "The FIND_FILES.request primitive shall be passed to the FS provider to request all the files matching the File Selection Pattern to be found from the base directory.",
+        "line": "The Resulting File Offset parameter shall indicate the byte offset from the beginning of file (i.e. new value of File Descriptor\u2019s current  position). It can be either positive or null.",
         "file": "SAVOIR-GS-DSSnIRD-006.txt"
     },
     {
-        "line": "The MicroPython Virtual Machine and compile chain shall allow building MicroPython Virtual Machine without support of memtime  and rtems  modules/submodules",
+        "line": "After being loaded in memory, the byte code ge nerated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
         "file": "MPY-SPB-SRS-001.txt"
     },
     {
-        "line": "The MicroPython Virtual Machine source code and/or compile chain shall contain configuration parameters to account for constraints of specific hardware target (e.g. ROM / RAM size) or for selecting a specific trade-off for a given target.",
+        "line": "If the Software Development Environment is configured to do so, the Import Expander shall be called automatically before calling the cross-compiler (preprocessing of source code). The messages output by the Import Expander shall be visible in the Software Development Environment.",
         "file": "MPY-SPB-SRS-001.txt"
     },
     {
-        "line": "The Execution Platform shall be capable of requ esting the value of parameters provided by the Execution Platform in response to requests from within the Execution Platform, external systems or other applications.",
-        "file": "SAVOIR-GS-EPFS-005.txt"
-    },
-    {
-        "line": "The Active Processor Module shall be able to read the current On-Board Time Time from the On-Board Time function.",
+        "line": "The On-Board Computer shall allow the Application Software to restart the communication with the specified Essential Telecommand Function.",
         "file": "SAVOIR-GS-001.txt"
     },
     {
-        "line": "The Basic mathematical Library shall provide a procedure to convert angles in degrees to radians.",
-        "file": "E1356-GTD-TR-01_I2_R1.txt"
+        "line": "The Active Platform Telemetry Encoder shall have one output interface for the Telemetry Time Strobe pulse.",
+        "file": "SAVOIR-GS-001.txt"
     },
     {
-        "line": "The Basic mathematical Library shall be compatible with the Real-Time Executive for Multiprocessor Systems Operating System.",
-        "file": "E1356-GTD-TR-01_I2_R1.txt"
+        "line": "Test Suite Executable shall run under Real-Time Executive for Multiprocessor Systems versions 4.8 \u2013 4.11, on the target SPARC V8 Hardware (Hardware) , with LEON 4 using GR-CPConfiguration Item-LEON4-N2X platform.",
+        "file": "E1356-CS-SRS-01_I1_R3.txt"
     },
     {
-        "line": "When the rtems_scheduler_add_processor() (  )directive is called.",
+        "line": "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "file": "E1356-GTD-SRS-01_I1_R4.txt"
+    },
+    {
+        "line": "When the Real-Time Executive for Multiprocessor Systems_INTERRUPT_LOCK_INITIALIZER is used to statically initialize an objectof type rtems_interrupt_lock, the lock contained in the object shall be initialized so that it isavailable.",
         "file": "RTEMS_SRS.txt"
     },
     {
-        "line": "While a thread is registered for help in its home scheduler, while the thread is scheduled byanother scheduler, while the thread is not sticky , when the home scheduler tries to schedulethe thread, the thread shall be blocked with respect to the home scheduler.",
+        "line": "The runtime of @ref Real-Time Executive for Multiprocessor SystemsApplication Programming InterfaceClassicSem directives shall be measured.",
         "file": "RTEMS_SRS.txt"
     },
     {
-        "line": "The time of an Remote Terminal Unit external interface actuation relative to the time of the associated \u201cStart Telecommand Actuation\u201d event shall be deterministic within a range <ActExecTimeAcc> Ps.",
+        "line": "The Remote Terminal Unit Remote Control Interface shall be compliant to [Controller Area Network].",
         "file": "SAVOIR-GS-RTUFuOR-003.txt"
     },
     {
-        "line": "The Remote Terminal Unit shall provide the capability to perform cyclic acquisition of telemetry from Remote Terminal Unit internal housekeeping parameters and from the Standard and Specific User Interfaces",
+        "line": "The size of each failure group shall be specified and justified for any Remote Terminal Unit function for which failure groups redundancy concept is adopted.",
         "file": "SAVOIR-GS-RTUFuOR-003.txt"
     }
 ]
