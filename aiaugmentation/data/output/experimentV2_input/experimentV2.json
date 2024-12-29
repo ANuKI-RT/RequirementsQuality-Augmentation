@@ -1,58 +1,58 @@
 [
     {
-        "line": "The rtems_clock_get_ticks_since_boot function shall return the number of clock ticks since apoint in time during the system initialization or the last over\ufb02ow of the clock tick counter.",
+        "line": "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_PREDICT_FALSE macrois used as a conditional in if-expressions and loop expressions, and _exp after undergoingall possible C pre-processor substitutions is an integral expression, the macro shall cause thecompiler to assume that by the percentage of cases de\ufb01ned by builtin-expect-probabilitythe expression evaluates to 0.",
         "file": "RTEMS_ICD.txt"
     },
     {
-        "line": "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_SECTION macro isattached to a function declaration or de\ufb01nition or a global variable de\ufb01nition, and the argu-ment_section after applying all possible C pre-processor substitutions to its value is a C stingcontaining valid linker section name, and the \ufb01le format used supports arbitary sections, themacro shall cause the compiler to store the function or variable in a section named like theresult of the pre-processor substitutions on its argument _section .",
+        "line": "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_PREDICT_TRUE macrois used as a conditional in if-expressions and loop expressions, and _exp after undergoingall possible C pre-processor substitutions is an integral expression, the macro shall cause thecompiler to assume that by the percentage of cases de\ufb01ned by builtin-expect-probabilitythe expression evaluates to 1.",
         "file": "RTEMS_ICD.txt"
     },
     {
-        "line": "As a minimum, the summary shall include the fast boot path se lection (enabled/not enabled), the Application Software image selection, and any type  of error detected during Processor Module self-tests.",
-        "file": "SAVOIR-GS-FCIS-002.txt"
-    },
-    {
-        "line": "Receipt of the DELETE_DIR.request primitive shall cause the File Management System provider to delete the specified directory.",
+        "line": "The READ_FROM_FILE.request primitive shall be passed to the FS provider to request data segment to be read in-order from an opened  file at the File Descriptor\u2019s current position.",
         "file": "SAVOIR-GS-DSSnIRD-006.txt"
     },
     {
-        "line": "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "line": "The FIND_FILES.request primitive shall be passed to the FS provider to request all the files matching the File Selection Pattern to be found from the base directory.",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "The MicroPython Virtual Machine and compile chain shall allow building MicroPython Virtual Machine without support of memtime  and rtems  modules/submodules",
         "file": "MPY-SPB-SRS-001.txt"
     },
     {
-        "line": "MicroPython shall support the following functions from the module structas defined in Python 3.4: calcsize(fmt)  pack(fmt, ...)  pack_into(fmt, buf, offset, ...)  unpack(fmt, buf)  unpack_from(fmt, buf, offset)",
+        "line": "The MicroPython Virtual Machine source code and/or compile chain shall contain configuration parameters to account for constraints of specific hardware target (e.g. ROM / RAM size) or for selecting a specific trade-off for a given target.",
         "file": "MPY-SPB-SRS-001.txt"
     },
     {
-        "line": "The link connecting the Active and the Inactive Processor Module shall be capable of transferring data at rates up to 100 kbps.",
+        "line": "The Execution Platform shall be capable of requ esting the value of parameters provided by the Execution Platform in response to requests from within the Execution Platform, external systems or other applications.",
+        "file": "SAVOIR-GS-EPFS-005.txt"
+    },
+    {
+        "line": "The Active Processor Module shall be able to read the current On-Board Time Time from the On-Board Time function.",
         "file": "SAVOIR-GS-001.txt"
     },
     {
-        "line": "No single fault shall result in both Processor Modules becoming Active.",
-        "file": "SAVOIR-GS-001.txt"
+        "line": "The Basic mathematical Library shall provide a procedure to convert angles in degrees to radians.",
+        "file": "E1356-GTD-TR-01_I2_R1.txt"
     },
     {
-        "line": "Basic mathematical Library Test Suite shall be designed to work as a stand-alone application.",
-        "file": "E1356-CS-SRS-01_I1_R3.txt"
+        "line": "The Basic mathematical Library shall be compatible with the Real-Time Executive for Multiprocessor Systems Operating System.",
+        "file": "E1356-GTD-TR-01_I2_R1.txt"
     },
     {
-        "line": "The Basic Library shall be compatible with code auto-generated with Matlab R2016a SimulinkCoder.",
-        "file": "E1356-GTD-SRS-01_I1_R4.txt"
-    },
-    {
-        "line": "While an iteration over all tasks was started by calling rtems_task_iterate, while a task existswhich was not visited, the task shall be visited by calling the function speci\ufb01ed by the visitorparameter of the rtems_task_iterate with the TCB of the task as the \ufb01rst parameter and thesecond parameter speci\ufb01ed by the visitor parameter of the rtems_task_iterate call.",
+        "line": "When the rtems_scheduler_add_processor() (  )directive is called.",
         "file": "RTEMS_SRS.txt"
     },
     {
-        "line": "When the directive is called, the lock contained in the object referenced by the _lock param-eter shall be released.",
+        "line": "While a thread is registered for help in its home scheduler, while the thread is scheduled byanother scheduler, while the thread is not sticky , when the home scheduler tries to schedulethe thread, the thread shall be blocked with respect to the home scheduler.",
         "file": "RTEMS_SRS.txt"
     },
     {
-        "line": "The Remote Terminal Unit shall provide error protection and/or detection functions for the complete command chain from the Remote Terminal Unit Remote Control Interface up to the User Interface output ports in order to avoid:xsending of wrong serial data or discrete commands, xerroneous actuation or powe ring of connected units,",
+        "line": "The time of an Remote Terminal Unit external interface actuation relative to the time of the associated \u201cStart Telecommand Actuation\u201d event shall be deterministic within a range <ActExecTimeAcc> Ps.",
         "file": "SAVOIR-GS-RTUFuOR-003.txt"
     },
     {
-        "line": "The Remote Terminal Unit Core modules shall nominally be operating in cold redundancy.",
+        "line": "The Remote Terminal Unit shall provide the capability to perform cyclic acquisition of telemetry from Remote Terminal Unit internal housekeeping parameters and from the Standard and Specific User Interfaces",
         "file": "SAVOIR-GS-RTUFuOR-003.txt"
     }
 ]
