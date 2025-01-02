@@ -1,46 +1,650 @@
 [
     {
-        "line": "The macro Real-Time Executive for Multiprocessor Systems_XSTRING shall apply all possible C pre-processor substitutions to its ar-gument values before the result of this substitution is converted t o a a string formed by the Cpre-processor #operator and the macro results in this string.",
+        "line": "The Real-Time Executive for Multiprocessor Systems_STRING macro shall result in a string formed by the C pre-processor #operatorplaced before the formal parameter.",
         "file": "RTEMS_ICD.txt"
     },
     {
-        "line": "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_SECTION macro isattached to a global variable de\ufb01nition, and the \ufb01le format used supports arbitrary sections,the macro shall cause the compiler to store the variable in a section where its value is notinitialized during initial start up.",
+        "line": "Each non-default directive attribute constant shall be a power of two representable as aninteger of type rtems_attribute.",
         "file": "RTEMS_ICD.txt"
     },
     {
-        "line": "The returned File Closed parameter shall indicate if the file (identified by the File Descriptor provided in the request) was closed or not in the frame of the write operation.",
+        "line": "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_MALLOCLIKE macrois used as last part of a function declaration or is attached to a function de\ufb01nition, andthe function returns a pointer to memory , and this pointer cannot be an alias of any otherpointer valid when the function returns, and no pointers to valid objects occur in any storageaddressed by that pointer, and the function returns non-NULL in more than 50% of the cases,the macro shall cause the compiler to use this information for optimization.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "When argument _target is a name of a function, and the macro Real-Time Executive for Multiprocessor Systems_ALIAS call isin the same compilation unit as the function, and the macro is not used in block scope,and the macro is used in this form: <return-type> newname([argument-type-list])Real-Time Executive for Multiprocessor Systems_ALIAS(oldname) ;, and the <return-type> andargument-type-list match the sig-nature of the function oldname , and the code is compiled with the GNU C compiler, theReal-Time Executive for Multiprocessor Systems_ALIAS macro shall cause the compiler to create an additional name ( newname in thesyntax) for the function given as argument _target .",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "The rtems_clock_get_ticks_since_boot function shall return the number of clock ticks since apoint in time during the system initialization or the last over\ufb02ow of the clock tick counter.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "When the argument _cond after applying all possible C pre-processor substitutions to its valueresults in a valid C expression of integral type, and this expression can be evaluated at compiletime, and the argument _msg which may or may not undergo C pre-processor substitutionsresults into a valid C identi\ufb01er, the Real-Time Executive for Multiprocessor Systems_STATIC_ASSERT macro shall cause the compilerto produce a compilation error if the expression resulting from _cond evaluates to 0.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "When the argument _alignment is a positive power of two integer, and argument _value isa positive or 0 integer, the macro Real-Time Executive for Multiprocessor Systems_ALIGN_UP shall result in a side-effect free formulacalculating an integer which is the smallest whole-number multiple of_alignment which isgreater or equal _value .",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "The task mode mask constants and 0xff shall have unique values.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "When the argument value of _ptr_level consists of a sequence of i*and the types of bothother arguments both have inested pointers (for example *for a pointer to int,**for apointer to a pointer of int,*** for a pointer to a pointer to a pointer to int), and_typeis a pointer type with different (compared to the type of _var ) quali\ufb01ers (such as const orvolatile ) or the same quali\ufb01ers or without any quali\ufb01ers, and the types of _type and_varare compatible in the sense of C, the macro Real-Time Executive for Multiprocessor Systems_DEQUALIFY_DEPTHX shall result in anexpression which returns a pointer of type _type pointing to the same address as _var .",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "The software product shall provide an Application Programming Interface.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "The macro FALSE shall result in the text 0.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "The macro Real-Time Executive for Multiprocessor Systems_COMPILER_NO_RETURN_ATTRIBUTE shall have exactly the same effectas the macro Real-Time Executive for Multiprocessor Systems_NO_RETURN.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_PRINTFLIKE macro isused as last part of a function declaration or pre\ufb01xes a function de\ufb01nition, and _format_posis a constant number referring to an argument of that function, and the function argumentnumber_format_pos is aprintf -format string, and the function argument _ap_pos is 0, themacro shall cause the compiler to use this information for checking the format string.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "The macro Real-Time Executive for Multiprocessor Systems_CONCAT shall result in only those characters which also appear in itsargument values.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "When the code is compiled wit h a C compiler and the __STDC_VERSION__ symbol is de-\ufb01ned with version 201112L or higher or the code is compiled with a C++ compiler and the__cplusplus symbol is de\ufb01ned with version 201103L or higher, the macro Real-Time Executive for Multiprocessor Systems_ALIGNOFshall not evaluate its argument _type_name .",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_UNUSED macro isattached to a function de\ufb01nition, the Real-Time Executive for Multiprocessor Systems_UNUSED macro shall prevent the compilerfrom emitting a warning if this function is not used.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "The value of macro Real-Time Executive for Multiprocessor Systems_DEFAULT_OPTIONS shall be equal to the value of expressionReal-Time Executive for Multiprocessor Systems_WAIT .",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "The macro Real-Time Executive for Multiprocessor Systems_DEFINE_GLOBAL_SYMBOL shall de\ufb01ne a global symbol of void pointertype with the value being an address.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "When the code is compiled with the GNU C compiler, and theReal-Time Executive for Multiprocessor Systems_ZERO_LENGTH_ARRAY macro is used as element count of an array declara-tion, and that array declaration is the last member of a struct that is otherwise non-empty ,and that structure is never used as member of another structure or array , the macro shallcause the compiler to layout the structure as if the array had an element count of one but toreduce the total size of the structure by the size of that one array element.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "Each task mode mask constant except Real-Time Executive for Multiprocessor Systems_INTERRUPT_MASK shall be a power of tworepresentable as an integer of type rtems_mode.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall apply all possible C pre-processor substitutions to its ar-gument values before it concatenates the resulting values.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "When_type is a non-const pointer type, and _var is a pointer to a value of const type, and thetypes of_type and_var are compatible in the sense of C, the macro Real-Time Executive for Multiprocessor Systems_DECONST shallresult in an expression which returns a pointer of type _type pointing to the same address as_var .",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "When argument _maximum_message_size is the size of the largest possible message in bytes(the same value as member maximum_message_size of type rtems_message_queue_con\ufb01g),andMAXIMUM_PENDING_MESSAGES is the maximum number of messages which can bestored in the message queue (the same value as member maximum_pending_messages oftype rtems_message_queue_con\ufb01g), and storage_area is a variable or structure member,the expression Real-Time Executive for Multiprocessor Systems_MESSAGE_QUEUE_BUFFER( ``_maximum_message_size )``storage_area[MAXIMUM_PENDING_MESSAGES ] shall declare an object of such a size that a pointer to it isusable as value for member storage_area of type rtems_message_queue_con\ufb01g.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_PACKED macro isattached to a enum type de\ufb01nition, the Real-Time Executive for Multiprocessor Systems_PACKED macro shall cause the use of thesmallest integral type to represent the values of the enum.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "When neither argument is a call of the macro Real-Time Executive for Multiprocessor Systems_CONCAT itself, the macro shall resultin both argument values concatenated textually unaltered in the order they are provided.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_UNUSED macro isappended to a label in this form: <label>: Real-Time Executive for Multiprocessor Systems_UNUSED; , the Real-Time Executive for Multiprocessor Systems_UNUSED macroshall prevent the compiler from emitting a warning if this label is not used.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "When the code is compiled with the GNU C compiler, and the produced target \ufb01le format isELF or a.out, and the Real-Time Executive for Multiprocessor Systems_WEAK macro is part of a function de\ufb01nition at global scopeor variable de\ufb01nition at global scope, and there is another symbol at global scope with thesame name as the above mentioned function or variable, and this other symbol is not de\ufb01nedwith the Real-Time Executive for Multiprocessor Systems_WEAK macro or otherwise de\ufb01ned or declared weak , and both functions orvariables have the same type, and in case of variables both variables have the same alignmentand storage size, the macro shall cause the code to behave as if the function or variablede\ufb01ned with the Real-Time Executive for Multiprocessor Systems_WEAK macro does not exist.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "When the code is compiled with the GNU C compiler, theReal-Time Executive for Multiprocessor Systems_COMPILER_MEMORY_BARRIER macro shall realize a Full Software MemoryBarrier at the place in the code where it occurs.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_NO_INLINE macrois used as last part of a function declaration or is attached to a function de\ufb01nition, and thefunction has side-effects, the macro shall prevent the compiler from inlining this function.",
+        "file": "RTEMS_ICD.txt"
+    },
+    {
+        "line": "The DELETE_FILE.indication primitive shall use the following semantics:DELETE_FILE.indication(Transaction Identifier, Result Metadata)",
         "file": "SAVOIR-GS-DSSnIRD-006.txt"
     },
     {
-        "line": "The Resulting File Offset parameter shall indicate the byte offset from the beginning of file (i.e. new value of File Descriptor\u2019s current  position). It can be either positive or null.",
+        "line": "The Boot Software shall be independent of an Operating System or run-time system.",
+        "file": "SAVOIR-GS-FCIS-002.txt"
+    },
+    {
+        "line": "The Base Directory Full Path parameter shall be the Directory Full Path identifying the directory from which the search operation is to be performed.",
         "file": "SAVOIR-GS-DSSnIRD-006.txt"
     },
     {
-        "line": "After being loaded in memory, the byte code ge nerated by the MicroPython cross-compiler shall be executable by the MicroPython Virtual Machine, with the semantic specified by the MicroPython source script.",
+        "line": "When implementing a communication protocol  with \u201cQuality of Service 1 \u2013 At least once\u201d, if the transaction is neither in failed state nor in timeout state and the receiver did not acknowledge the reception of the Service Data Unit, then the transaction is considered as unsuccessful.",
+        "file": "SAVOIR-GS-OBCSRD-008.txt"
+    },
+    {
+        "line": "The GET_USER_ENTITY_IDENTIFIER.indication primitive shall be passed by the MMSprovider to the receiving User Entity in response to a GET_USER_ENTITY_IDENTIFIER.request with MMS Result Metadata indicating if the request was executed successfully or not.",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "If the file was opened for appending and the Full File Action parameter was set to \u201cClose File& Create Next File\u201d, data not appended to the file shall be written to the next file (without any data loss).",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "The File Management System shall comply with the file access and file management services required by the on-board software for supporting implementations of Consultative Committee for Space Data Systems File Delivery Protocol.",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "The class of communication 2-a shall support at least one among: -\u201cQuality of Service 1 \u2013 At least once\u201d-and \u201cQuality of Service 2 \u2013 Exactly once\u201d.",
+        "file": "SAVOIR-GS-OBCSRD-008.txt"
+    },
+    {
+        "line": "The New Directory Name parame ter shall be the resulting Di rectory Name once renamed.",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "The CREATE_FILE.request primitive shall cause the FS provider to create the specified file.",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "The LIST_LOCKED_FILES.request primitive shall be passed to the File Management System provider to request the listing of all locked files within all the File Stores managed/accessed by the File Management System.",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "The class of communication 4 shall support communication cycle corresponding to a frequency within a 0,1 Hz \u2013 1Hz scale.",
+        "file": "SAVOIR-GS-OBCSRD-008.txt"
+    },
+    {
+        "line": "The File Management System shall provide a User Entity the ability to read data from an opened File.",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "When implementing a communica tion protocol with \u201cQuality of Service 2 \u2013 Exactly once\u201d, the (On-board Communication System) shall ensure that every transaction is monitored and it is carried on until successful completion or raising of a flag for the failed state.",
+        "file": "SAVOIR-GS-OBCSRD-008.txt"
+    },
+    {
+        "line": "The Block Allocable Unit Erase Pattern parameter shall define the pattern to be used when erasing a Block Allocable Unit.",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "The Single-Event Transient_DIR_ATTRIBUTE.indication File Result Metadata shall report a failure if the requested Directory Full Path refers to an inexistent directory.",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "When GET_FILE_CHECKSUM.indication primitive is unsuccessful, the File Result Metadata shall provide the reason of the failure..",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "A Block Access System shall support read access to all Block Allocable Units.",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "The Boot Software shall initialise In teger Unit processor registers.",
+        "file": "SAVOIR-GS-FCIS-002.txt"
+    },
+    {
+        "line": "The Single-Event Transient_DIR_ATTRIBUTE.request primitive shall be passed to the FS provider to request an attribute to be associated (created or updated) to the specified file.",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "A specific Directory Name identified as Root Directory Name shall identify the top-level directory of a File Store.",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "The (On-board Communication System) shall support Communication Class 7.",
+        "file": "SAVOIR-GS-OBCSRD-008.txt"
+    },
+    {
+        "line": "The OPEN_FILE.indication File Result Metadata shall report a failure if file creation is requested (\u201cCreate\u201d parameter is set while file to be opened does not exist) but the Maximum File Size applicable by default to the considered File Store is greater than the current space available in this File Store.",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "The GET_Block Allocable Unit_LIST.request primitive shall be passed to the FS provider to request the list of Block Allocable Units that are allocated to store the data of the file identified by File Full Path.",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "The SEEK_FILE.indication File Result Metadata shall report a failure if the requested File Descriptor does not corresp ond to a currently opened file.",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "The class of communication 4 shall ensure communication with \u201cGuaranteed bounded latency\u201d.",
+        "file": "SAVOIR-GS-OBCSRD-008.txt"
+    },
+    {
+        "line": "The File Management System operations (closing file and opening file) shall be performed by the File Management System provider on behalf of the user\u2019s entity at the origin of the initialMAP_FILE_SPLIT.request.",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "The READ_Block Allocable Unit.indication primitive shall use the following semantics:READ_Block Allocable Unit.indication(Block Allocable Unit Transaction Identifier, Block Allocable Unit List Content, Block Allocable Unit Result Metadata).",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "The UNLOCK_FILE.indication File Result Metadata shall report a failure if the file is locked by another User Entity in any mode.",
+        "file": "SAVOIR-GS-DSSnIRD-006.txt"
+    },
+    {
+        "line": "Software Development Environment shall be provided for developing MicroPython procedure.  This Software Development Environment shall provide functions for edit ion, syntax checking, code completion, execution and debugging. For these functions,  the MicroPython script under development shall be assimilated to a Python 3.4 script.",
         "file": "MPY-SPB-SRS-001.txt"
     },
     {
-        "line": "If the Software Development Environment is configured to do so, the Import Expander shall be called automatically before calling the cross-compiler (preprocessing of source code). The messages output by the Import Expander shall be visible in the Software Development Environment.",
+        "line": "The Software Development Environment shall provide a static analysis tool to display violation to coding standard for a given MicroPython procedure and possibly detect some errors.",
         "file": "MPY-SPB-SRS-001.txt"
     },
     {
-        "line": "The On-Board Computer shall allow the Application Software to restart the communication with the specified Essential Telecommand Function.",
+        "line": "MicroPython shall support the following classes, as defined in Python 3.4: classmethod  staticmethod",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "MicroPython shall support the following built-in functions, as defined in Python 3.4: abs(x) -- absolute value  all(iterable) -- True if all values in iterable are True  any(iterable) -- True if any values in iterable are True  bin(x) -- format number in binary representation  chr(x) -- character corresponding to value x dir([obj]) -- list of attributes in object divmod(x, y) -- a tuple with division and modulus  globals() -- dictionary of global objects  hasattr(obj, attr) -- check for an attribute  hash(obj) -- hash value of an object  hex(x) -- format number in hexadecimal representation  id(obj) -- unique number corresponding to object  isinstance(obj, cls) -- True if obj is instance of cls  iter(obj) -- create an iterator from the given object  len(iterable) -- number of elements in iterable max(x, ...) -- maximum of all arguments  min(x, ...) -- minimum of all arguments  next(iterator) -- get next item from iterator  oct(x) -- format number in octal representation  pow(x, y[, mod]) -- power of argument print(...) -- print all arguments  round(x[, digits]) -- round a float  sorted(iterable[, key][, reverse]) -- sort an iterable             sum(iterable[, start]) -- sum all values in an iterable",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "The MicroPython Software Development Environment, including the Import Expander, shall run on a Unix system compatible with Python 3.4",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "The MicroPython Virtual Machine shall provide a C function to  start execution of MicroPython bytecode at a given address in memory. When the bytecode ex ecution ends, the function shall return the return code (0 if no error code is specified) . The MicroPython Virtual Machine shall not modify or remove the bytecode.",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "The MicroPython cross-compiler shall be designed to produce a bytecode with a minimal size.",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "MicroPython shall support the following functions from the module gc, as defined in Python 3.4: gc.collect()  gc.disable()  gc.enable()  gc.isenabled()  gc.mem_free()  gc.mem_alloc()",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "The Software Development Environment shall provide a simple means to call the ISO checksum tool in order to produce the .bin  file for a given .mpy  file.",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "The MicroPython Virtual Machine executable code shall be designed to have a minimal size, which shall not exceed 200 kbytes.",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "MicroPython shall support the following built-in types, as defined in Python 3.4: bytearray bytes tuple dict list",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "The MicroPython Software Development Environment shall provide a preprocessing tool called \"Import Expander\". The Import Expander shall take a given Micr oPython script in input and it shall generate a semantically equivalent MicroPython script by replacing import statements by the content of the corresponding MicroPython source files, provided  that these modules are not C extensions. This process shall be recursive, in case the imported  modules themselves contain import statements.",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "MicroPython shall support the following functions from the module binasciias defined in Python 3.4: hexlify(data)  unhexlify(hexstr)  a_base64(string) b_base64(data)",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "The Software Development Environment shall provide a tool to calculate for a given bytecode, the ISO checksum, as defined in Annex A.2 of [RD03]. The tool shall take a .mpy  file as input and produce a .bin  file with the content of the .mpy  file appended with the ISO checksum (2 bytes).",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "The MicroPython Virtual Machine and compile chain shall allow building MicroPython Virtual Machine without support of memtime  and rtems  modules/submodules",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "The MicroPython Virtual Machine shall raise an exception in case  it is no more possible to allocate memory on the heap.",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "If the MicroPython Virtual Machine catches an exception du ring execution (uncaught by the MicroPython bytecode itself), it shall stopreturn a specific error code  and provide a means to retrieve the line number in the MicroPython source code where the exception was raised.",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "The MicroPython cross-compiler source code an d/or compile chain shall contain configuration parameters to account for constraints of specif ic hardware target (e.g. ROM / RAM size) or for selecting a specific trade-off for a given target.",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "The Import Expander shall be able to treat both flavours of MicroPython import:   from m1 import \u2026 or   import m2, m3 If the as keyword is found, in any of these two flavours, then the tool shall report an error telling that it cannot handle such case.  For the first flavour, in order to limit comple xity, it shall be accepted to treat    from m1 import a, b  like   from m1 import *",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "In the C source code of MicroPython cross-compiler and Virtual Machine, any language feature out of scope of the requirements defined in the present document shall be disabled by C preprocessor directives.",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "The MicroPython language shall support object-orientation, as defined in Python 3.4",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "MicroPython shall support the following functions from the module ucollectionsas defined in Python 3.4 under the name collections : ucollections.namedtuple",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "MicroPython shall support the following function from the module sysas defined in Python 3.4: sys.exit([code])  If code  argument is missing, then the default valueshall be taken . Upon completion with sys.exita SystemExit exception shall be raised an d the C function starting the Virtual Machine execution shall return the given code  value bitwise ORed with 128.",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "If the MicroPython Virtual Machine cannot allocate required memory during execution, it shall stop and it shall raise  a specific exception.",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "The Software Development Environment shall provide a static analysis tool to display the call tree of a given MicroPython procedure.",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "Each function provided by the rtems  module and its sub-modules (see above) shall check the returned status code of the underlying RTEM S C functions. If this return code is not Real-Time Executive for Multiprocessor Systems_SUCCESSFULthen the function shall raise a Python OSError  exception with a single argument, which is the string corresponding to the rtems_status_code.",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "The MicroPython Virtual Machine shall be qualified with requirements of ECSS CAT-B, as defined in [AD02] and [AD03].",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "MicroPython shall support the following functions from the module structas defined in Python 3.4: calcsize(fmt)  pack(fmt, ...)  pack_into(fmt, buf, offset, ...)  unpack(fmt, buf)  unpack_from(fmt, buf, offset)",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "MicroPython shall provide the module micropythonwith the following functions: micropython.stack_use()  Return the current amount of C stack that is used.  micropython.pystack_use()  Return the current amount of Python stack that is used. This function is available only if the Virtual Machine has been compiled in a configurat ion which uses a separate stack for Python function calls.  micropython.heap_lock()  Lock the heap so that memor y cannot be allocated. Any allocation that is attempted after calling this function will  raise a MemoryError exception.  micropython.heap_unlock()  Unlock the heap.",
+        "file": "MPY-SPB-SRS-001.txt"
+    },
+    {
+        "line": "The implementation of a File Management System shall be part of the Execution Platform.",
+        "file": "SAVOIR-GS-EPFS-005.txt"
+    },
+    {
+        "line": "The Execution Platform shall provide the capability to deactivating onboard storage. This capability shall be restricted to applications having appropriate security privileges, if this notion is implemented on board.",
+        "file": "SAVOIR-GS-EPFS-005.txt"
+    },
+    {
+        "line": "Guard MemoryThe On-Board Computer shall allow the Application Software to access both SafeGuard Memorys simultaneously, each SafeGuard Memory by its dedicated access.",
         "file": "SAVOIR-GS-001.txt"
     },
     {
-        "line": "The Active Platform Telemetry Encoder shall have one output interface for the Telemetry Time Strobe pulse.",
+        "line": "The Execution Platform shall provide a mechanism for a partition to communicate with other partitions using queuing ports associated with communication channel  such that the partition with the destination queuing port may read messages, the partition with the source queuing port may send messages and either partition may query the port status.",
+        "file": "SAVOIR-GS-EPFS-005.txt"
+    },
+    {
+        "line": "Each Processor Module function shall have at least <CPUNVM> MiBytes of non-volatile memory for storing independent software images.",
         "file": "SAVOIR-GS-001.txt"
     },
     {
-        "line": "Test Suite Executable shall run under Real-Time Executive for Multiprocessor Systems versions 4.8 \u2013 4.11, on the target SPARC V8 Hardware (Hardware) , with LEON 4 using GR-CPConfiguration Item-LEON4-N2X platform.",
-        "file": "E1356-CS-SRS-01_I1_R3.txt"
+        "line": "The Time Reference function shall provide at least the following accuracy, using only GPS or only Galileo:x\u0003 Time: 30ns",
+        "file": "SAVOIR-GS-001.txt"
     },
     {
-        "line": "The ceil and ceilf procedures shall compute the smallest integral value not less than argument x.",
+        "line": "The Execution Platform shall provide the capability to activating onboard logging. This capability shall be restricted to applications having appropriate security privileges, if this notion is implemented on board.",
+        "file": "SAVOIR-GS-EPFS-005.txt"
+    },
+    {
+        "line": "The Processor Module power on/off status of both Processor Modules and the Active/Inactive status shall be available to the Essential Telemetry.",
+        "file": "SAVOIR-GS-001.txt"
+    },
+    {
+        "line": "The Active Essential Telemetry may have an input synchronization event from the active Platform Telemetry Encoder.",
+        "file": "SAVOIR-GS-001.txt"
+    },
+    {
+        "line": "The Processor Module shall allow the Application Software to access to all Processor Module memory and registers, except writing to the write-protected areas.",
+        "file": "SAVOIR-GS-001.txt"
+    },
+    {
+        "line": "Form Data Storage Application Software self-testThe On-Board Computer shall allow the Application Software to start and configure an autonomous self-test.",
+        "file": "SAVOIR-GS-001.txt"
+    },
+    {
+        "line": "The Execution Platform shall make available to applications the ability to enable and disable types of Monitoring and Control communication with external systems as specified in Section 5.2.5.1.",
+        "file": "SAVOIR-GS-EPFS-005.txt"
+    },
+    {
+        "line": "The Execution Platform shall make available to applications the ability to enable anddisable event-command pairs and sets as specified in Section 5.2.4.3.",
+        "file": "SAVOIR-GS-EPFS-005.txt"
+    },
+    {
+        "line": "The Platform Telemetry Encoder output interfaces shall be * Non-Return to Zero Level encoded I, Q channels and Clock (If IQ-modulation is used) * Non-Return to Zero Level encoded Data and clock (I f any other modulation is used)",
+        "file": "SAVOIR-GS-001.txt"
+    },
+    {
+        "line": "Guard Memory Processor Module InterfaceEach SafeGuard Memory shall have a communication path to the currently active Processor Module.",
+        "file": "SAVOIR-GS-001.txt"
+    },
+    {
+        "line": "The Execution Platform shall permit the concurrent specification of multiple sets of event-command pairs.",
+        "file": "SAVOIR-GS-EPFS-005.txt"
+    },
+    {
+        "line": "The On-Board Computer shall allow the Application Software to switch between the nominal and redundant external synchronization Pulse Per Second inputs.",
+        "file": "SAVOIR-GS-001.txt"
+    },
+    {
+        "line": "The Active Discrete Parallel Input Output function shall have at least <PInput Output_Processor ModuleINPUTS> external inputs of type Serial Digital Interface.",
+        "file": "SAVOIR-GS-001.txt"
+    },
+    {
+        "line": "The Execution Platform shall support the asynchronous emission of events by the Execution Platform.",
+        "file": "SAVOIR-GS-EPFS-005.txt"
+    },
+    {
+        "line": "Where Central Processing Unit execution time partitioning is required, the Execution Platform shall be responsible for providing this function, using the underlying hardware if necessary.",
+        "file": "SAVOIR-GS-EPFS-005.txt"
+    },
+    {
+        "line": "The Active Processor Module shall be able to read from and write to the software storage memory of the Inactive Processor Module via the inter-Processor Module path.",
+        "file": "SAVOIR-GS-001.txt"
+    },
+    {
+        "line": "The Execution Platform shall support the removal of absolute time command sequences (schedules).",
+        "file": "SAVOIR-GS-EPFS-005.txt"
+    },
+    {
+        "line": "The Execution Platform shall make available to applications the ability to report non-fatal errors and receive non-fatal error indica tions as specified in Section 5.2.1.4.",
+        "file": "SAVOIR-GS-EPFS-005.txt"
+    },
+    {
+        "line": "The Execution Platform shall permit each command in the position operation schedule to be marked as either one-shot or persistent.",
+        "file": "SAVOIR-GS-EPFS-005.txt"
+    },
+    {
+        "line": "All synchronization output pulses shall be generated synchronously with the 1Hz signal (i.e. all active synchronization pulses have a leading edge when a potential 1Hz signal has its leading edge).",
+        "file": "SAVOIR-GS-001.txt"
+    },
+    {
+        "line": "The Execution Platform shall permit each step in the position command sequence to additionally specify a relative, negative time, indicating that the command should be initiated at the specified time prior to the time at which the physical position is reached.",
+        "file": "SAVOIR-GS-EPFS-005.txt"
+    },
+    {
+        "line": "The Active Platform Telemetry Encoder shall have one communication path from the Active Processor Module.",
+        "file": "SAVOIR-GS-001.txt"
+    },
+    {
+        "line": "The Execution Platform shall be capable of invoking commands provided by the Execution Platform in response to requests from within the Execution Platform, external systems or other applications.",
+        "file": "SAVOIR-GS-EPFS-005.txt"
+    },
+    {
+        "line": "Form Data Storage accessThe On-Board Computer shall allow access to all areas of both PlatForm Data Storage functions in hot redundancy",
+        "file": "SAVOIR-GS-001.txt"
+    },
+    {
+        "line": "The Basic mathematical Library shall have a configurable modus to handle denormal arguments as zero.",
+        "file": "E1356-GTD-TR-01_I2_R1.txt"
+    },
+    {
+        "line": "The log10 and log10f procedures shall calculate the base 10 logarithm of their argument x.",
         "file": "E1356-GTD-SRS-01_I1_R4.txt"
     },
     {
-        "line": "When the Real-Time Executive for Multiprocessor Systems_INTERRUPT_LOCK_INITIALIZER is used to statically initialize an objectof type rtems_interrupt_lock, the lock contained in the object shall be initialized so that it isavailable.",
+        "line": "The fmin and fminf procedures shall return the one argument if only the other argument is Not a Number.",
+        "file": "E1356-GTD-SRS-01_I1_R4.txt"
+    },
+    {
+        "line": "The Basic mathematical Library Test Suite shall run in batch and manual modus.",
+        "file": "E1356-GTD-TR-01_I2_R1.txt"
+    },
+    {
+        "line": "The pow and powf procedures shall return +Inf, if the argument x is+ Inf and the argument y>0.",
+        "file": "E1356-GTD-SRS-01_I1_R4.txt"
+    },
+    {
+        "line": "Basic mathematical Library Test Suite shall allow the user to select one of the configured targets before a test run.",
+        "file": "E1356-CS-SRS-01_I1_R3.txt"
+    },
+    {
+        "line": "The atan2 and atan2f procedures shall return \u00b13\u03c04, if the argument y is \u00b1 Infand the argument x is -Inf.",
+        "file": "E1356-GTD-SRS-01_I1_R4.txt"
+    },
+    {
+        "line": "The atan and atanf procedures shall return \u00b1\u03c02if the argument is \u00b1Inf.",
+        "file": "E1356-GTD-SRS-01_I1_R4.txt"
+    },
+    {
+        "line": "The fmin and fminf procedures shall return the y argument if both arguments are zero.",
+        "file": "E1356-GTD-SRS-01_I1_R4.txt"
+    },
+    {
+        "line": "The Basic mathematical Library procedures shall behave as defined by the POIX standard for special cases i.e. regarding arguments and outputs involving Not a Number, infinities, and \u00b10.",
+        "file": "E1356-GTD-TR-01_I2_R1.txt"
+    },
+    {
+        "line": "Basic mathematical Library Test Suite application shall run on a standard x86_64 PC with Windows / Linux operating system, with a minimum of 4 GB RAM and at least an Intel i3 (or equivalent) processor.",
+        "file": "E1356-CS-SRS-01_I1_R3.txt"
+    },
+    {
+        "line": "The Basic Library shall be implemented in ISO C99.",
+        "file": "E1356-GTD-SRS-01_I1_R4.txt"
+    },
+    {
+        "line": "The Basic mathematical Library shall be European Cooperation for Space Standardization category B compliant.",
+        "file": "E1356-GTD-TR-01_I2_R1.txt"
+    },
+    {
+        "line": "The Basic mathematical Library shall provide a procedure to convert an angle to an equivalentone in the range [0,2\u03c0].",
+        "file": "E1356-GTD-TR-01_I2_R1.txt"
+    },
+    {
+        "line": "The rem2pi and rem2pif procedures shall return Not a Numberif the argument is Not a Number.",
+        "file": "E1356-GTD-SRS-01_I1_R4.txt"
+    },
+    {
+        "line": "The Basic Library shall provide a justification for not respected required rules in MISRA C:2012[RD06].",
+        "file": "E1356-GTD-SRS-01_I1_R4.txt"
+    },
+    {
+        "line": "The exp and expf procedures shall return the argument if the argument x is +Inf.",
+        "file": "E1356-GTD-SRS-01_I1_R4.txt"
+    },
+    {
+        "line": "The Basic mathematical Library procedures shall have a well defined Worst Case Execution Time over the completeargument domain.",
+        "file": "E1356-GTD-TR-01_I2_R1.txt"
+    },
+    {
+        "line": "The ceil and ceilf procedures shall return the argument, if the argument x is \u00b10 or \u00b1Inf.",
+        "file": "E1356-GTD-SRS-01_I1_R4.txt"
+    },
+    {
+        "line": "The log10 and log10f procedures shall return -Inf if the argument x is \u00b10.",
+        "file": "E1356-GTD-SRS-01_I1_R4.txt"
+    },
+    {
+        "line": "The atan2 and atan2f procedures shall use atan and atanf procedures.",
+        "file": "E1356-GTD-SRS-01_I1_R4.txt"
+    },
+    {
+        "line": "Basic mathematical Library Test Suite development shall be compliant to the software standard European Cooperation for Space Standardization -EST-40C [AD 2] criticality category D and the necessary documentation shall be produced.",
+        "file": "E1356-CS-SRS-01_I1_R3.txt"
+    },
+    {
+        "line": "The isfinite procedure shall return a non-zero value if the argument x has a finite value and is neither Not a Number nor \u00b1Inf.",
+        "file": "E1356-GTD-SRS-01_I1_R4.txt"
+    },
+    {
+        "line": "The Basic Library shall not rely on the presence of the Fused Multiply-Add (Fused Multiply-Add) operation foralgorithm optimization.",
+        "file": "E1356-GTD-SRS-01_I1_R4.txt"
+    },
+    {
+        "line": "The exp and expf procedures shall calculate the base eexponential value of their argument x.",
+        "file": "E1356-GTD-SRS-01_I1_R4.txt"
+    },
+    {
+        "line": "The atan2 and atan2f procedures shall return \u00b10, if the argument y is \u00b10 and the argument x is +0.",
+        "file": "E1356-GTD-SRS-01_I1_R4.txt"
+    },
+    {
+        "line": "Basic mathematical Library Test Suite development shall respect software metrics target values defined in European Cooperation for Space Standardization-Q-HB- 04A quality model for category D, excepting following metrics defined not applicable for Basic mathematical Library Test Suite: x Modular span of control x Modular coupling x Modular cohesion x Process reliability adequacy x Statement Coverage (Object Code) x Decision Coverage (Source Code) x Modified Condition & Decision Coverage (Source Code) x Safety activities adequacy x Security checklist x User documentation clarity x Process assessment [European Cooperation for Space Standardization-HB-Q-02]",
+        "file": "E1356-CS-SRS-01_I1_R3.txt"
+    },
+    {
+        "line": "Basic mathematical Library Test Suite shall allow comparison of tests to help assessing numerical reproducibility of the results produced by the mathematical library, from one run to the next, either on the same or different machines for the same input data set.",
+        "file": "E1356-CS-SRS-01_I1_R3.txt"
+    },
+    {
+        "line": "The atan2 and atan2f procedures shall return \u00b1 \u03c0, if the argument y is \u00b10 and the argument x is -0.",
+        "file": "E1356-GTD-SRS-01_I1_R4.txt"
+    },
+    {
+        "line": "The Real-Time Executive for Multiprocessor Systems_MINIMUM_STACK_SIZE constant shall expand to a constant expression whichevaluates to the value of STACK_MINIMUM_SIZE.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "Let U and V be two tasks with the same home scheduler. Let Bbe a time point measured byU right before a call to rtems_message_queue_receive which blocks on the message queue withno timeout. Let Ebe a time point measured by V right after the \ufb01rst context switch after B.While the execution environment is below environments, while a message queue is empty , whilethe measurement sample is E\u2212B, when exactly 100 samples are collected, the below limit kindsshall be below limit conditions.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "Where the target has a data cache, where the data cache can be \ufb02ushed, when thertems_cache_\ufb02ush_entire_data directive is called, the data cache shall be \ufb02ushed.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "When the calling thread surrenders the mutex.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "A partition shall maintain free buffers in FIFO order.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "When the thread queue enqueue operation timed out.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "When the speci\ufb01ed object identi\ufb01cation directive is called.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "When a semaphore obtain timeout happens.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "When the rtems_scheduler_remove_processor() ( processor ) directive is called.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "When the Real-Time Executive for Multiprocessor Systems_INTERRUPT_LOCK_REFERENCE is used, it shall expand to an object refer-ence de\ufb01nition which is initialized to the object reference speci\ufb01ed by the _target parameter.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "The system shall provide a benchmark program to show the static memory usage of a ba-sic application con\ufb01guration with CONFIGURE_MAXIMUM_PARTITIONS de\ufb01ned to one andcalls to rtems_partition_create, rtems_partition_get_buffer, rtems_partition_return_buffer,and rtems_partition_delete.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "The software product shall be compiled using the -mfix-gr712rc compiler option.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "The rtems_event_send directive shall send events to the application event set of a task asspeci\ufb01ed by /rtems/event/req/send-receive.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "When the priority thread queue with support for priority inheritance is \ufb02ushed.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "While the user extensions are iterated to invoke the thread terminate extensions, when anextension set is removed, the removed extension set shall not be a next extension set for anyiteration in progress after the removal.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "While the mutex is not available, while the timeout parameter does not specify a valid ab-solute CLOCK_REALTIME time point, if an attempt to acquire the mutex is made, then thedirective shall immediately return with a status code of EINVAL.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "The software product shall take the errata 3 (GRSPW2: interrupt can be lost) into account.",
         "file": "RTEMS_SRS.txt"
     },
     {
@@ -48,11 +652,163 @@
         "file": "RTEMS_SRS.txt"
     },
     {
+        "line": "The TN0018_FIX macro shall provide an instruction sequence for Workaround #1 to be placedimmediatly before a jumpl followed by rett pair.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "The system shall provide a benchmark program to show the static memory usage of a basicapplication con\ufb01guration with a call to rtems_timer_initiate_server.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "While no timecounter is installed, the CLOCK_MONOTONIC shall remain at the initial value.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "Let B be a time point measured by a task right before a call to rtems_task_restart which restartsthe caller. Let Ebe a time point measured by V right after the \ufb01rst context switch after B.While the execution environment is below environments, while the measurement sample isE\u2212B, the below limit kinds shall be below limit conditions.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "When the directive is called, the lock contained in the object referenced by the _lock param-eter shall be released.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "The thread create user extensions shall be invoked in extension forward order.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "Where the con\ufb01gured scheduler does support exactly one processor, where the sys-tem has not exactly one processor, if the system is initialized, then the sys-tem shall terminate with the Real-Time Executive for Multiprocessor Systems_FATAL_SOURCE_Symmetric Multiprocessing fatal source and theSymmetric Multiprocessing_FATAL_SCHEDULER_REQUIRES_EXACTLY_ONE_PROCESSOR fatal code.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "The application con\ufb01guration option shall enable that exactly one Classic Application Programming Interface initializationtask is con\ufb01gured.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "The thread switch user extensions shall be invoked in extension forward order.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "The software product shall take the errata 18 (Don\u2019t break into debug mode on RETT instruc-tions) into account.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "When the Real-Time Executive for Multiprocessor Systems_INTERRUPT_LOCK_REFERENCE is used, it shall expand to an object ref-erence de\ufb01nition with a type of a pointer to rtems_interrupt_lock.",
+        "file": "RTEMS_SRS.txt"
+    },
+    {
+        "line": "The Remote Terminal Unit shall provide error protection and/or detection functions for the complete command chain from the Remote Terminal Unit Remote Control Interface up to the User Interface output ports in order to avoid:xsending of wrong serial data or discrete commands, xerroneous actuation or powe ring of connected units,",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "The Serial Digital interfaces (ISD/OSD/BSD) shall be as per [DISC], paragraph 8.",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "Commands shall be executed in the same sequence as they are provided to the Remote Terminal Unit.",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "The Remote Terminal Unit shall implement at least the following operating states: -Off State -Initialization State -Operational StatexTest sub-state (a sub-st ate of Operational State) -Optional States (optional, Option OptionalStates)",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "Each signal chain used for analogue signal interface acquisitions shall provide mechanisms that allow detecting errors in A/D Converter path functionality (including A/D conversion curve changes or drift).",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "The compliance of the Remote Terminal Unit Remote Control Interface shall be demonstrated by test as defined in [MIL], paragraph 9.3.",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "For a given Remote Terminal Unit implementation, the maximum actuation rate <ActRate> , and maximum number of simultaneously commandable channels <SimActChannel> for each type of interface shall be defined.",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "It shall be possible to issue commands and telemetry requests and acquire associated telemetry responses to/from any specific Remote Terminal Unit Standard User Interface without affecting the operation of other  interfaces",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "The command interface and telemetry interface addresses for accessing the Remote Terminal Unit internal modules shall be identical when accessing a module through nominal or redundant Remote Terminal Unit Core .",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "Default telemetry acquisition lists should be configurable also in orbit.",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "The Remote Terminal Unit shall provide means to allow a unique correlation between the acquired telemetry data and the corresponding \u201cStart Telemetry Acquisition\u201d event.",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "When one Remote Terminal Unit Core module is working in standby, it shall be possible to perform a commanded self-test of the standby Remote Terminal Unit Core module as defined in paragraph",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "It shall at all times be possible to determine the validity status of each acquired telemetry parameter.",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "The Remote Terminal Unit shall be compliant to the Telemetry requirements as defined in Section 4.1.4 of [European Cooperation for Space Standards-E-20].",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "The Pulse Command Interface  Function sha ll provide one or several of the following standard pulse co mmand interfaces:xHigh Voltage High Power (HV-High-Power Command) Command interfacexLow Voltage High Power (LV-High-Power Command) Command interfacexHigh Current High Power (H C-High-Power Command) Command interfacexLow Power (LPC) Command interface",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
         "line": "The Remote Terminal Unit Remote Control Interface shall be compliant to [Controller Area Network].",
         "file": "SAVOIR-GS-RTUFuOR-003.txt"
     },
     {
-        "line": "The size of each failure group shall be specified and justified for any Remote Terminal Unit function for which failure groups redundancy concept is adopted.",
+        "line": "When one Remote Terminal Unit Core is working in nominal conditions, it shall be possible to power on the redundant Remote Terminal Unit Core for standby operation w/o affecting the operations of the nominal Remote Terminal Unit core.",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "The Remote Terminal Unit shall optionally include one or several UART interfaces as per [RS422].",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "The Remote Terminal Unit shall be able to receive messages via the Remote Terminal Unit Remote Control Interface which each can contain up to <StartTelemetryAcqNumber >\u201cStart Telemetry Acquisition\u201d events.",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "Power-On Self-Test shall not block the transition to Operational State",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "The maximum execution time of each Remote Terminal Unit internal action taken in response to an external command shall be known and deterministic.",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "The Remote Terminal Unit Remote Control Interface shall provide at least one of the following interfaces: -Mil-Std-1553B (see paragraph 7.6.3.1) -Controller Area Network (see paragraph 7.6.3.2) -Spacewire (see paragraph 7.6.3.3)",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "The acquisition time of each telemetry parameter shall be deterministic with a maximum inaccuracy of <TelemetryParamAcqTimeAcc> ms.",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "The Remote Terminal Unit shall support a two stage commanding capability (\u201cArm and Fire\u201d) for critical functions.Requirement Rationale :The definition of critical functions is mission specific. Nevertheless, functions as Propulsion drive Electronics usually require a two stage commanding scheme. The requirements related to two stage commanding below are generic and only defines the basic principles. The physical implementation of the logic can be specific for each User Interface module. Any further details are specified in the associated paragraphs (",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "No spurious commands or spikes shall be generated on any output interfaces under the transient conditions of power-on, power-off or  by application or removal of primary power as well as during any state transitions.",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "If the concept of failure groups is adopted for a group of interface channels, the channels shall be grouped such that no single failure internal to a group will cause a loss or a misbehaviour of more than one group.",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "All interfaces to inductive loads shall provide protective measures (e.g. freewheeling diodes, transzorb diodes) to avoid any damage to the driver interface or connected units due to (self-)induced voltagesxduring nominal operationxdue to coupling between operational and inactive componentsxdue to unexpected trigger of a switch-off protection functionxduring inadvertent switch-off of the primary power supply",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "Every Remote Terminal Unit reconfiguration change shall be triggered by external commands, received through the Remote Terminal Unit Remote Control Interface",
+        "file": "SAVOIR-GS-RTUFuOR-003.txt"
+    },
+    {
+        "line": "The data resulting from the acquisition of a telemetry acquisition list shall be buffered in the Remote Terminal Unit and made available via the Remote Terminal Unit Remote Control Interface in a contiguous sequence.",
         "file": "SAVOIR-GS-RTUFuOR-003.txt"
     }
 ]

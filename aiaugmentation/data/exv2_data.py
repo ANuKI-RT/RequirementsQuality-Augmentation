@@ -59,9 +59,9 @@ def read_all_lines_from_group(group):
                 f.close()
     return all_lines
 
-def process_directory(file, directory=TRAINING_DIR, num_lines=20):
+def process_directory(file, num_lines=20, input=TRAINING_DIR, output=RESULT_DIR):
     """Extract and process all .txt files in a directory."""
-    files = extract_txt_files(directory)
+    files = extract_txt_files(input)
     file_groups = group_files_by_similarity(files)
     
     results = []
@@ -74,9 +74,10 @@ def process_directory(file, directory=TRAINING_DIR, num_lines=20):
         all_lines = read_all_lines_from_group(group)
         random.shuffle(all_lines)
         results.extend(all_lines[:int(rnum)])
-        
-    with open(os.path.join(RESULT_DIR,file), "w", encoding="utf-8") as f:
+    
+    print(len(results))
+    with open(os.path.join(output,file), "w", encoding="utf-8") as f:
         json.dump(results, f, indent=4)
 
-    print(f"Results saved to {os.path.join(RESULT_DIR,file)}")
+    print(f"Results saved to {os.path.join(output,file)}")
     

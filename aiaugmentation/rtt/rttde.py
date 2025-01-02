@@ -152,17 +152,24 @@ def execute_rtt_experimentv2(data:list, gen_json:bool = True):
     )
     
     for d in data: 
+        print(d["modified"])
         entities_and_oov_scope= len(d["entities_and_oov"])
         
         tokens = en2de.encode(d["modified"])
-        output = en2de.generate(tokens, beam=3, nbest=3, skip_invalid_size_inputs=True)
+        try:
+            output = en2de.generate(tokens, beam=3, nbest=3, skip_invalid_size_inputs=True)
+        except Exception:
+            pass
         ger_samples = [en2de.decode(x["tokens"])for x in output]
         res_rtt =[]
 
         for r in ger_samples:
             res = []
             tokens = de2en.encode(r)
-            output = de2en.generate(tokens, beam=3, nbest=3, skip_invalid_size_inputs=True)
+            try:
+                output = de2en.generate(tokens, beam=3, nbest=3, skip_invalid_size_inputs=True)
+            except Exception:
+                pass
             back_translated_output = [de2en.decode(x["tokens"])for x in output]
             
             for b in back_translated_output:
