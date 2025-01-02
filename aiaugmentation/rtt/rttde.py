@@ -153,7 +153,6 @@ def execute_rtt_experimentv2(data:list, gen_json:bool = True):
     
     for d in data: 
         print(d["modified"])
-        entities_and_oov_scope= len(d["entities_and_oov"])
         
         tokens = en2de.encode(d["modified"])
         try:
@@ -172,38 +171,27 @@ def execute_rtt_experimentv2(data:list, gen_json:bool = True):
                 pass
             back_translated_output = [de2en.decode(x["tokens"])for x in output]
             
-            for b in back_translated_output:
-                i = 0
-                while i < entities_and_oov_scope:
-                    pattern = rf"<\s*{re.escape(str(i))}\s*>"
-                    print(pattern)
-                    if re.search(pattern, b):
-                        print("HERE", i)
-                        replacement = ""
-                        for r in d["entities_and_oov"]:
-                            if r["position"] == i:
-                                print("HERE 2", i)
-                                replacement = r["token"]
-                                print(replacement)
-                        re.sub(pattern, replacement, b)
-                    i+=1
-                res.append(b)
+            '''position_to_token = {
+                    item['position']: item['token'] for item in d["entities_and_oov"]
+                }
+            processed_augmented = []
             
-            d["model"] = "RTT"
-            d["augmented"] = res
+            for sentence in back_translated_output:
+                # Replace tokens of the form < n >
+                def replace_token(match):
+                    # Extract the number, ignoring whitespace inside the brackets
+                    position = int(match.group(1))
+                    return position_to_token.get(position, match.group(0))
 
-            if gen_json == True:
-                res_rtt.append(d)
+                processed_sentence = re.sub(r"<\s*(\d+)\s*>", replace_token, sentence)'''
+            
+            res.append(back_translated_output)
+            
+        d["model"] = "RTT"
+        d["augmented"] = res
 
-            '''for b in back_translated_output:
-                if gen_json == True:
-                    res_rtt.append(["RTT",d, b])
-                else:
-                    if type(b) is list:
-                        for bb in b:
-                            res_rtt.append(bb)
-                    else:
-                        res_rtt.append(b)    '''
+        if gen_json == True:
+            res_rtt.append(d)
 
         results.append(res_rtt)
 
