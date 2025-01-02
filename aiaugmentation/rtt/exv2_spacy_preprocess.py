@@ -38,7 +38,6 @@ def check_special_words(doc, modality_verbs):
             })
             i+=1
         elif token.text.lower() in modality_verbs:
-            modified_tokens.append(f"<{i}>")
             modality_details.append({
                 "token": token.text,
                 "position": i,

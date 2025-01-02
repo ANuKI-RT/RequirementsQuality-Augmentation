@@ -120,7 +120,7 @@ def execute_rtt_experimentv2(d, gen_json:bool = True):
         back_translated_output = [de2en.decode(x["tokens"])for x in output]
         
         for b in back_translated_output:
-            b = re.sub(r"<preserve>(.*?)</preserve>", r"\\1", b)
+            b = re.sub(r"<\s*preserve\s*>(.*?)<\s*/preserve\s*>", r"\\1", b)
             i = 0
             while i < entities_and_oov_scope:
                 pattern = rf"<\s*{re.escape(str(i))}\s*>"
