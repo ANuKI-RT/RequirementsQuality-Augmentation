@@ -51,14 +51,14 @@ def check_special_words(doc, modality_verbs):
     return modified_tokens, entities_and_oov, modality_details
 
 def process_line(line, nlp, modality_verbs):
-    doc = nlp(line['line'])
+    doc = nlp(line['original'])
     modified_tokens, entities_and_oov, modality_details = check_special_words(doc, modality_verbs)
     
     modified_sentence = " ".join(modified_tokens)
 
     return {
         "file": line['file'],
-        "original": line['line'],
+        "original": line['original'],
         "modified": modified_sentence,
         "entities_and_oov": entities_and_oov,
         "modality_verbs": modality_details

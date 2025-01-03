@@ -45,7 +45,7 @@ def read_all_lines_from_group(group):
                             txt = re.sub("\[END\]", "", line.replace("\n", ""))
                         else:
                             txt = re.sub("\[SEP\].*?\[END\]", "", line.replace("\n", ""))
-                    all_lines.append({"line": txt.strip(), "file": os.path.basename(file)})
+                    all_lines.append({"original": txt.strip(), "file": os.path.basename(file)})
                 f.close()
         except UnicodeDecodeError:
             with open(file, "r", encoding="cp1252") as f:
@@ -55,7 +55,7 @@ def read_all_lines_from_group(group):
                             txt = re.sub("\[END\]", "", line.replace("\n", ""))
                         else:
                             txt = re.sub("\[SEP\].*?\[END\]", "", line.replace("\n", ""))
-                    all_lines.append({"line": txt.strip(), "file": os.path.basename(file)})
+                    all_lines.append({"original": txt.strip(), "file": os.path.basename(file)})
                 f.close()
     return all_lines
 
