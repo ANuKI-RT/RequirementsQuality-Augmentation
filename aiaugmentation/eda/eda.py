@@ -252,4 +252,10 @@ def execute_eda_experiment(data: list, combined:bool = False, alpha_sr=0.1, alph
 
 	return results
 
+
+def execute_eda_experimentv2(data, combined:bool = False, alpha_sr=0.1, alpha_ri=0.1, alpha_rs=0.1, alpha_rd=0.1, num_aug=1):
+    for d in data:
+        aug = eda(d["original"], alpha_sr=alpha_sr, alpha_ri=alpha_ri, alpha_rs=alpha_rs, p_rd=alpha_rd, num_aug=num_aug)
+        d["augmented"] = aug
+    return data
 # https://github.com/jasonwei20/eda_nlp/tree/mastery
