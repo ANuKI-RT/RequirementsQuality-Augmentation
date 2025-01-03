@@ -44,7 +44,7 @@ def check_special_words(doc, modality_verbs):
                 "start": token.idx,
                 "end": token.idx + len(token.text)
             })
-            i+=1
+            modified_tokens.append(token.text)
         else:
             modified_tokens.append(token.text)
 

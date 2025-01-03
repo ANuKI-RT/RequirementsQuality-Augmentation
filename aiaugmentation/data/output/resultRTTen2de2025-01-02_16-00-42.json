@@ -1,0 +1,440 @@
+[
+    [
+        {
+            "file":"RTEMS_ICD.txt",
+            "original":"When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_UNUSED macro isattached to a variable deﬁnition, the Real-Time Executive for Multiprocessor Systems_UNUSED macro shall prevent the compiler fromemitting a warning if this variable is not used.",
+            "modified":"When the code is compiled with the GNU C compiler , and <0> <1> <2> <3> <4> for Multiprocessor <5> macro <6> to a variable deﬁnition , <7> <8> <9> <10> <11> for Multiprocessor <12> macro shall prevent the compiler <13> a warning if this variable is not used .",
+            "entities_and_oov":[
+                {
+                    "token":"the",
+                    "position":0,
+                    "start":55,
+                    "end":58
+                },
+                {
+                    "token":"Real",
+                    "position":1,
+                    "start":59,
+                    "end":63
+                },
+                {
+                    "token":"-",
+                    "position":2,
+                    "start":63,
+                    "end":64
+                },
+                {
+                    "token":"Time",
+                    "position":3,
+                    "start":64,
+                    "end":68
+                },
+                {
+                    "token":"Executive",
+                    "position":4,
+                    "start":69,
+                    "end":78
+                },
+                {
+                    "token":"Systems_UNUSED",
+                    "position":5,
+                    "start":98,
+                    "end":112
+                },
+                {
+                    "token":"isattached",
+                    "position":6,
+                    "start":119,
+                    "end":129
+                },
+                {
+                    "token":"the",
+                    "position":7,
+                    "start":155,
+                    "end":158
+                },
+                {
+                    "token":"Real",
+                    "position":8,
+                    "start":159,
+                    "end":163
+                },
+                {
+                    "token":"-",
+                    "position":9,
+                    "start":163,
+                    "end":164
+                },
+                {
+                    "token":"Time",
+                    "position":10,
+                    "start":164,
+                    "end":168
+                },
+                {
+                    "token":"Executive",
+                    "position":11,
+                    "start":169,
+                    "end":178
+                },
+                {
+                    "token":"Systems_UNUSED",
+                    "position":12,
+                    "start":198,
+                    "end":212
+                },
+                {
+                    "token":"fromemitting",
+                    "position":13,
+                    "start":246,
+                    "end":258
+                }
+            ],
+            "modality_verbs":[
+                {
+                    "token":"shall",
+                    "position":13,
+                    "start":219,
+                    "end":224
+                }
+            ],
+            "model":"RTT",
+            "augmented":[
+                "If the code is compiled with the GNU C compiler and < 0 > < 1 > < 2 > < 3 > < 4 > for multiprocessor < 5 > macro < 6 > to a variable definition, < 7 > < 8 > < 9 > < 10 > < 11 > for multiprocessor < 12 > macro prevents the compiler < 13 > a warning if this variable is not used.",
+                "If the code is compiled with the GNU C compiler and < 0 > < 1 > < 2 > < 3 > < 4 > for multiprocessor < 5 > macro < 6 > to a variable definition, < 7 > < 8 > < 9 > < 10 > < 11 > for multiprocessor < 12 > macro prevents the compiler < 13 > from warning if this variable is not used.",
+                "If the code is compiled with the GNU C compiler and < 0 > < 1 > < 2 > < 3 > < 4 > for multiprocessor < 5 > macro < 6 > to a variable definition, < 7 > < 8 > < 9 > < 10 > < 11 > for multiprocessor < 12 > macro prevents the compiler < 13 > a warning when this variable is not used.",
+                "If the code is compiled with the GNU C compiler and < 0 > < 1 > < 2 > < 3 > < 4 > for multiprocessor < 5 > macro < 6 > to a variable definition, < 7 > < 8 > < 9 > < 10 > < 11 > for multiprocessor < 12 > macro prevents the compiler < 13 > from receiving a warning if this variable is not used.",
+                "If the code is compiled with the GNU C compiler and < 0 > < 1 > < 2 > < 3 > < 4 > for multiprocessor < 5 > macro < 6 > to a variable definition, < 7 > < 8 > < 9 > < 10 > < 11 > for multiprocessor < 12 > macro prevents the compiler < 13 > from getting a warning if this variable is not used.",
+                "When the code is compiled with the GNU C compiler and < 0 > < 1 > < 2 > < 3 > < 4 > for multiprocessor < 5 > macro < 6 > to a variable definition, < 7 > < 8 > < 9 > < 10 > < 11 > for multiprocessor < 12 > macro prevents the compiler < 13 > from receiving a warning if this variable is not used.",
+                "If the code is compiled with the GNU C compiler and < 0 > < 1 > < 2 > < 3 > < 4 > for multiprocessor < 5 > macro < 6 > to a variable definition, < 7 > < 8 > < 9 > < 10 > < 11 > for multiprocessor < 12 > macro prevents the compiler < 13 > from receiving a warning if this variable is not used.",
+                "If the code is compiled with the GNU C compiler and < 0 > < 1 > < 2 > < 3 > < 4 > for multiprocessor < 5 > macro < 6 > to a variable definition, < 7 > < 8 > < 9 > < 10 > < 11 > for multiprocessor < 12 > macro prevents the compiler < 13 > from getting a warning if this variable is not used.",
+                "If the code is compiled with the GNU C compiler and < 0 > < 1 > < 2 > < 3 > < 4 > for multiprocessor < 5 > macro < 6 > to a variable definition, < 7 > < 8 > < 9 > < 10 > < 11 > for multiprocessor < 12 > macro prevents the compiler < 13 > from receiving a warning when this variable is not used."
+            ]
+        }
+    ],
+    [
+        {
+            "file":"SAVOIR-GS-DSSnIRD-006.txt",
+            "original":"The FIND_FILES.indication primitive shall return an empty list if no file matches the specified File Selection Pattern within at least the specified Base Directory Full Path and optionally recursively in all subdirectories (depending on the request’s parameters).",
+            "modified":"The <0> primitive shall return an empty list if no file matches the specified <1> <2> <3> within at least the specified <4> <5> <6> <7> and optionally recursively in all subdirectories ( depending on the request ’s parameters ) .",
+            "entities_and_oov":[
+                {
+                    "token":"FIND_FILES.indication",
+                    "position":0,
+                    "start":4,
+                    "end":25
+                },
+                {
+                    "token":"File",
+                    "position":1,
+                    "start":96,
+                    "end":100
+                },
+                {
+                    "token":"Selection",
+                    "position":2,
+                    "start":101,
+                    "end":110
+                },
+                {
+                    "token":"Pattern",
+                    "position":3,
+                    "start":111,
+                    "end":118
+                },
+                {
+                    "token":"Base",
+                    "position":4,
+                    "start":149,
+                    "end":153
+                },
+                {
+                    "token":"Directory",
+                    "position":5,
+                    "start":154,
+                    "end":163
+                },
+                {
+                    "token":"Full",
+                    "position":6,
+                    "start":164,
+                    "end":168
+                },
+                {
+                    "token":"Path",
+                    "position":7,
+                    "start":169,
+                    "end":173
+                }
+            ],
+            "modality_verbs":[
+                {
+                    "token":"shall",
+                    "position":1,
+                    "start":36,
+                    "end":41
+                }
+            ],
+            "model":"RTT",
+            "augmented":[
+                "The < 0 > Primitive returns an empty list if no file matches the specified < 1 > < 2 > < 3 > at least within the specified < 4 > < 5 > < 6 > < 7 > and optionally recursively in all subdirectories (depending on the request parameter).",
+                "The < 0 > primitive returns an empty list if no file matches the specified < 1 > < 2 > < 3 > at least within the specified < 4 > < 5 > < 6 > < 7 > and optionally recursively in all subdirectories (depending on the request parameter).",
+                "The < 0 > Primitive returns an empty list if no file matches the specified < 1 > < 2 > < 3 > at least within the specified < 4 > < 5 > < 6 > < 7 > and optionally recursively in all subdirectories (depending on request parameters).",
+                "The < 0 > primitive returns an empty list if no file matches the specified < 1 > < 2 > < 3 > at least within the specified < 4 > < 5 > < 6 > < 7 > and optionally recursively in all subdirectories (depending on the parameters of the request).",
+                "The < 0 > Primitive returns an empty list if no file matches the specified < 1 > < 2 > < 3 > at least within the specified < 4 > < 5 > < 6 > < 7 > and optionally recursively in all subdirectories (depending on the parameters of the request).",
+                "The < 0 > primitive returns an empty list if no file matches the specified < 1 > < 2 > < 3 > at least within the specified < 4 > < 5 > < 6 > < 7 >, and optionally recursively in all subdirectories (depending on the parameters of the request).",
+                "The < 0 > primitive returns an empty list if no file matches the specified < 1 > < 2 > < 3 > at least within the specified < 4 > < 5 > < 6 > < 7 > and optionally recursively in all subdirectories (depending on the request parameter).",
+                "The < 0 > Primitive returns an empty list if no file matches the specified < 1 > < 2 > < 3 > at least within the specified < 4 > < 5 > < 6 > < 7 > and optionally recursively in all subdirectories (depending on the request parameter).",
+                "The < 0 > Primitive returns an empty list if no file matches the specified < 1 > < 2 > < 3 > at least within the specified < 4 > < 5 > < 6 > < 7 >, and optionally recursively in all subdirectories (depending on the request parameter)."
+            ]
+        }
+    ],
+    [
+        {
+            "file":"MPY-SPB-SRS-001.txt",
+            "original":"The Virtual Machine test suite shall be automated.",
+            "modified":"The Virtual Machine test suite shall be automated .",
+            "entities_and_oov":[
+
+            ],
+            "modality_verbs":[
+                {
+                    "token":"shall",
+                    "position":0,
+                    "start":31,
+                    "end":36
+                }
+            ],
+            "model":"RTT",
+            "augmented":[
+                "The test suite Virtual Machine is to be automated.",
+                "The Virtual Machine test suite is to be automated.",
+                "The test suite Virtual Machine will be automated.",
+                "The Virtual Machine Test Suite is to be automated.",
+                "The Virtual Machine Testsuite is to be automated.",
+                "The Virtual Machine Testsuite will be automated.",
+                "The Virtual Machine Test Suite is to be automated.",
+                "The Virtual Machine Test Suite will be automated.",
+                "The Virtual Machine Test Suite should be automated."
+            ]
+        }
+    ],
+    [
+        {
+            "file":"SAVOIR-GS-001.txt",
+            "original":"Guard Memory Telecommand InputEach SafeGuard Memory shall have a communication path to one Telecommand Decoder",
+            "modified":"Guard Memory <0> <1> <2> Memory shall have a communication path to <3> <4> <5>",
+            "entities_and_oov":[
+                {
+                    "token":"Telecommand",
+                    "position":0,
+                    "start":13,
+                    "end":24
+                },
+                {
+                    "token":"InputEach",
+                    "position":1,
+                    "start":25,
+                    "end":34
+                },
+                {
+                    "token":"SafeGuard",
+                    "position":2,
+                    "start":35,
+                    "end":44
+                },
+                {
+                    "token":"one",
+                    "position":3,
+                    "start":87,
+                    "end":90
+                },
+                {
+                    "token":"Telecommand",
+                    "position":4,
+                    "start":91,
+                    "end":102
+                },
+                {
+                    "token":"Decoder",
+                    "position":5,
+                    "start":103,
+                    "end":110
+                }
+            ],
+            "modality_verbs":[
+                {
+                    "token":"shall",
+                    "position":3,
+                    "start":52,
+                    "end":57
+                }
+            ],
+            "model":"RTT",
+            "augmented":[
+                "Protect Storage < 0 > < 1 > < 2 > Storage should have a communication channel to < 3 > < 4 > < 5 >",
+                "Protect Storage < 0 > < 1 > < 2 > Storage is supposed to have a communication channel to < 3 > < 4 > < 5 >",
+                "Protect Storage < 0 > < 1 > < 2 > Storage should have a communication channel to < 3 > < 4 > < 5 >.",
+                "Storage Protect < 0 > < 1 > < 2 > Storage is supposed to provide a communication path to < 3 > < 4 > < 5 >",
+                "Storage Protect < 0 > < 1 > < 2 > Storage is intended to provide a communication path to < 3 > < 4 > < 5 >",
+                "Protect Storage < 0 > < 1 > < 2 > Storage is supposed to provide a communication path to < 3 > < 4 > < 5 >",
+                "Protect Storage < 0 > < 1 > < 2 > Storage should have a communication channel to < 3 > < 4 > < 5 >.",
+                "Protect Storage < 0 > < 1 > < 2 > Storage is supposed to have a communication channel to < 3 > < 4 > < 5 >.",
+                "Protect Storage < 0 > < 1 > < 2 > Storage is supposed to have a communication channel to < 3 > < 4 > < 5 >"
+            ]
+        }
+    ],
+    [
+        {
+            "file":"E1356-GTD-SRS-01_I1_R4.txt",
+            "original":"The pow and powf procedures shall return ±0 respectively, if the argument x is ±0 and the argument y is an odd integer > 0.",
+            "modified":"The pow and <0> procedures shall return <1> respectively , if the argument x is <2> and the argument y is an odd integer > 0 .",
+            "entities_and_oov":[
+                {
+                    "token":"powf",
+                    "position":0,
+                    "start":12,
+                    "end":16
+                },
+                {
+                    "token":"±0",
+                    "position":1,
+                    "start":41,
+                    "end":43
+                },
+                {
+                    "token":"±0",
+                    "position":2,
+                    "start":79,
+                    "end":81
+                }
+            ],
+            "modality_verbs":[
+                {
+                    "token":"shall",
+                    "position":1,
+                    "start":28,
+                    "end":33
+                }
+            ],
+            "model":"RTT",
+            "augmented":[
+                "The procedures pow and < 0 > return < 1 > if the argument x < 2 > and the argument y is an odd integer > 0.",
+                "Procedures pow and < 0 > return < 1 > if the argument x < 2 > and the argument y is an odd integer > 0.",
+                "The procedures pow and < 0 > return < 1 > if the argument x < 2 > and the argument y are an odd integer > 0.",
+                "The procedures pow and < 0 > return < 1 > if the argument x < 2 > and the argument y is an odd integer > 0.",
+                "Procedures pow and < 0 > return < 1 > if the argument x < 2 > and the argument y is an odd integer > 0.",
+                "The procedures pow and < 0 > return < 1 > if the argument x < 2 > and the argument y are an odd integer > 0.",
+                "The procedures pow and < 0 > return < 1 > if the argument is x < 2 > and the argument y is an odd integer > 0.",
+                "The procedures pow and < 0 > return < 1 > if the argument is x < 2 > and the argument y an odd integer > 0.",
+                "Procedures pow and < 0 > return < 1 > if the argument is x < 2 > and the argument y is an odd integer > 0"
+            ]
+        }
+    ],
+    [
+        {
+            "file":"RTEMS_SRS.txt",
+            "original":"The software architecture shall have a component containing the Rate Monotonic Managerimplementation.",
+            "modified":"The software architecture shall have a component containing the Rate <0> <1> .",
+            "entities_and_oov":[
+                {
+                    "token":"Monotonic",
+                    "position":0,
+                    "start":69,
+                    "end":78
+                },
+                {
+                    "token":"Managerimplementation",
+                    "position":1,
+                    "start":79,
+                    "end":100
+                }
+            ],
+            "modality_verbs":[
+                {
+                    "token":"shall",
+                    "position":0,
+                    "start":26,
+                    "end":31
+                }
+            ],
+            "model":"RTT",
+            "augmented":[
+                "The software architecture must contain a component that contains the rate < 0 > < 1 >.",
+                "The software architecture must contain a component containing the rate < 0 > < 1 >.",
+                "The software architecture must include a component that contains the rate < 0 > < 1 >.",
+                "The software architecture must contain a component containing the rate < 0 > < 1 >.",
+                "The software architecture must contain a component that contains the rate < 0 > < 1 >.",
+                "The software architecture must include a component that contains the rate < 0 > < 1 >.",
+                "The software architecture should contain a component containing the rate < 0 > < 1 >.",
+                "The software architecture should contain a component that contains the rate < 0 > < 1 >.",
+                "The software architecture should include a component that contains the rate < 0 > < 1 >."
+            ]
+        }
+    ],
+    [
+        {
+            "file":"SAVOIR-GS-RTUFuOR-003.txt",
+            "original":"Remote Terminal Unit voltages and currents exceeding defined limits may cause an autonomous power off of a Remote Terminal Unit function",
+            "modified":"<0> <1> <2> voltages and currents exceeding defined limits may cause an autonomous power off of a <3> <4> <5> function",
+            "entities_and_oov":[
+                {
+                    "token":"Remote",
+                    "position":0,
+                    "start":0,
+                    "end":6
+                },
+                {
+                    "token":"Terminal",
+                    "position":1,
+                    "start":7,
+                    "end":15
+                },
+                {
+                    "token":"Unit",
+                    "position":2,
+                    "start":16,
+                    "end":20
+                },
+                {
+                    "token":"Remote",
+                    "position":3,
+                    "start":107,
+                    "end":113
+                },
+                {
+                    "token":"Terminal",
+                    "position":4,
+                    "start":114,
+                    "end":122
+                },
+                {
+                    "token":"Unit",
+                    "position":5,
+                    "start":123,
+                    "end":127
+                }
+            ],
+            "modality_verbs":[
+                {
+                    "token":"may",
+                    "position":3,
+                    "start":68,
+                    "end":71
+                }
+            ],
+            "model":"RTT",
+            "augmented":[
+                "< 0 > < 1 > < 2 > Voltages and currents that exceed defined limits can lead to an autonomous shutdown of a < 3 > < 4 > < 5 > function.",
+                "< 0 > < 1 > < 2 > Voltages and currents exceeding defined limits can lead to an autonomous shutdown of a < 3 > < 4 > < 5 > function.",
+                "< 0 > < 1 > < 2 > Voltages and currents that exceed defined limits can cause an autonomous shutdown of a < 3 > < 4 > < 5 > function.",
+                "< 0 > < 1 > < 2 > Voltages and currents that exceed defined limits can cause an autonomous shutdown of a < 3 > < 4 > < 5 > function.",
+                "< 0 > < 1 > < 2 > Voltages and currents exceeding defined limits can cause an autonomous shutdown of a < 3 > < 4 > < 5 > function.",
+                "< 0 > < 1 > < 2 > Voltages and currents that exceed defined limits may cause an autonomous shutdown of a < 3 > < 4 > < 5 > function.",
+                "< 0 > < 1 > < 2 > Voltages and currents that exceed defined limits can lead to an autonomous shutdown of a < 3 > < 4 > < 5 > function",
+                "< 0 > < 1 > < 2 > Voltages and currents exceeding defined limits can lead to an autonomous shutdown of a < 3 > < 4 > < 5 > function",
+                "< 0 > < 1 > < 2 > Voltages and currents that exceed defined limits can cause an autonomous shutdown of a < 3 > < 4 > < 5 > function"
+            ]
+        }
+    ]
+]

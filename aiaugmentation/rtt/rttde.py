@@ -160,16 +160,15 @@ def execute_rtt_experimentv2(data:list, gen_json:bool = True):
         except Exception:
             pass
         ger_samples = [en2de.decode(x["tokens"])for x in output]
+        back_translated_output = []
         res_rtt =[]
-
         for r in ger_samples:
-            res = []
             tokens = de2en.encode(r)
             try:
                 output = de2en.generate(tokens, beam=3, nbest=3, skip_invalid_size_inputs=True)
             except Exception:
                 pass
-            back_translated_output = [de2en.decode(x["tokens"])for x in output]
+            back_translated_output += [de2en.decode(x["tokens"])for x in output]
             
             '''position_to_token = {
                     item['position']: item['token'] for item in d["entities_and_oov"]
@@ -185,10 +184,8 @@ def execute_rtt_experimentv2(data:list, gen_json:bool = True):
 
                 processed_sentence = re.sub(r"<\s*(\d+)\s*>", replace_token, sentence)'''
             
-            res.append(back_translated_output)
-            
         d["model"] = "RTT"
-        d["augmented"] = res
+        d["augmented"] = back_translated_output
 
         if gen_json == True:
             res_rtt.append(d)
