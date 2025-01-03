@@ -26,7 +26,7 @@ RESULT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),"data","out
 # write.write_json(data.delete_duplicates_json(pa.execute_para(read.read_raw_data(["demo.txt"]), True)), "PARA") 
 # write.write_json(data.delete_duplicates_json(eda.execute_eda(read.read_raw_data(["demo.txt"]), True)), "EDA")
 # write.write_file(data.delete_duplicates_json(gen.execute_gpt(read.read_raw_data(["demo.txt"]), True)), "GPT")
-readv2.process_directory("experimentV2.json", 50)
+readv2.process_directory("experimentV2.json", 10)
 # write.write_json(rttde.execute_rtt_experimentv2(pre.preprocess_json_file(os.path.join(RESULT_DIR,"experimentV2_input","experimentV2.json"))), "RTTen2de")
 write.write_json(eda.execute_eda_experimentv2(read.read_json_data(os.path.join(RESULT_DIR,"experimentV2_input","experimentV2.json"))),"EDA")
 # write.write_json(rttdeV2.rtt_augmentation(os.path.join(RESULT_DIR,"experimentV2_input","experimentV2.json")), "RTTen2de")

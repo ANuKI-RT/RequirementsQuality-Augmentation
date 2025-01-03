@@ -1,198 +1,30 @@
 [
     {
-        "original": "The macro Real-Time Executive for Multiprocessor Systems_XCONCAT shall apply all possible C pre-processor substitutions to its ar-gument values before it concatenates the resulting values.",
-        "file": "RTEMS_ICD.txt"
-    },
-    {
-        "original": "When argument _target is a name of a function, and the macro Real-Time Executive for Multiprocessor Systems_ALIAS call isin the same compilation unit as the function, and the macro is not used in block scope,and the macro is used in this form: <return-type> newname([argument-type-list])Real-Time Executive for Multiprocessor Systems_ALIAS(oldname) ;, and the <return-type> andargument-type-list match the sig-nature of the function oldname , and the code is compiled with the GNU C compiler, theReal-Time Executive for Multiprocessor Systems_ALIAS macro shall cause the compiler to create an additional name ( newname in thesyntax) for the function given as argument _target .",
-        "file": "RTEMS_ICD.txt"
-    },
-    {
         "original": "Each default task mode constant shall have a value of zero.",
         "file": "RTEMS_ICD.txt"
     },
     {
-        "original": "The macro Real-Time Executive for Multiprocessor Systems_CONCAT shall make its result subject to C pre-processor operations.",
-        "file": "RTEMS_ICD.txt"
+        "original": "The class of communication 5-b shall ensure communication with \u201cGuaranteed bounded latency\u201d.",
+        "file": "SAVOIR-GS-OBCSRD-008.txt"
     },
     {
-        "original": "When the code is compiled with the GNU C compiler, and the Real-Time Executive for Multiprocessor Systems_DEPRECATED macrois used as last part of a function declaration or type declaration or variable declaration orvariable de\ufb01nition, the macro shall cause the compiler to issue a warning message when itencounters a use of the function, type or variable.",
-        "file": "RTEMS_ICD.txt"
-    },
-    {
-        "original": "When the code is compiled with the GNU C compiler, and the produced target \ufb01le format isELF or a.out, and the Real-Time Executive for Multiprocessor Systems_WEAK macro is part of a function de\ufb01nition at global scopeor variable de\ufb01nition at global scope, and there is no other symbol at global scope with thesame name as the one of the above mentioned function or variable, the macro shall have noobservable effect.",
-        "file": "RTEMS_ICD.txt"
-    },
-    {
-        "original": "Each default directive option constant shall have a value of zero.",
-        "file": "RTEMS_ICD.txt"
-    },
-    {
-        "original": "The Boot Software shall host an housek eeping reporting subservice provider.",
-        "file": "SAVOIR-GS-FCIS-002.txt"
-    },
-    {
-        "original": "The GET_USER_ENTITY_IDENTIFIER.indication primitive shall be used to return the User Entity Identifier.",
-        "file": "SAVOIR-GS-DSSnIRD-006.txt"
-    },
-    {
-        "original": "Truncation shall be supported only fo r files opened for reading and writing.",
-        "file": "SAVOIR-GS-DSSnIRD-006.txt"
-    },
-    {
-        "original": "A list of Block Allocable Units shall identify all the Block Allocable Units that are part of the list.",
-        "file": "SAVOIR-GS-DSSnIRD-006.txt"
-    },
-    {
-        "original": "The File Management System shall provide a User Entity the ability to register to File Management System Events.",
-        "file": "SAVOIR-GS-DSSnIRD-006.txt"
-    },
-    {
-        "original": "The RESUME_FILE_COPY.indication primitive shall be used to pass the outcome of resuming a file copy to the User Entity.",
-        "file": "SAVOIR-GS-DSSnIRD-006.txt"
-    },
-    {
-        "original": "Receipt of the GET_FILE_ATTRIBUTES.request primitive shall cause the FS provider to get all the attributes currently associated to the file identified by File Full Path.",
-        "file": "SAVOIR-GS-DSSnIRD-006.txt"
-    },
-    {
-        "original": "The MicroPython Virtual Machine and compile chain shall allow building MicroPython Virtual Machine without support of memtime  and rtems  modules/submodules",
+        "original": "If the Software Development Environment is configured to do so, the Import Expander shall be called automatically before calling the cross-compiler (preprocessing of source code). The messages output by the Import Expander shall be visible in the Software Development Environment.",
         "file": "MPY-SPB-SRS-001.txt"
     },
     {
-        "original": "If the MicroPython Virtual Machine catches an exception du ring execution (uncaught by the MicroPython bytecode itself), it shall stopreturn a specific error code  and provide a means to retrieve the line number in the MicroPython source code where the exception was raised.",
-        "file": "MPY-SPB-SRS-001.txt"
-    },
-    {
-        "original": "The MicroPython Virtual Machine shall raise an exception in case  it is no more possible to allocate memory on the stack.",
-        "file": "MPY-SPB-SRS-001.txt"
-    },
-    {
-        "original": "MicroPython shall support the following function from the module arrayas defined in Python 3.4: array.array(typecode[, initialiser])",
-        "file": "MPY-SPB-SRS-001.txt"
-    },
-    {
-        "original": "The MicroPython Virtual Machine executable code shall be designed to have a minimal size, which shall not exceed 200 kbytes.",
-        "file": "MPY-SPB-SRS-001.txt"
-    },
-    {
-        "original": "MicroPython shall support the following functions from the module ucollectionsas defined in Python 3.4 under the name collections : ucollections.namedtuple",
-        "file": "MPY-SPB-SRS-001.txt"
-    },
-    {
-        "original": "The Software Development Environment shall provide a static analysis tool to display violation to coding standard for a given MicroPython procedure and possibly detect some errors.",
-        "file": "MPY-SPB-SRS-001.txt"
-    },
-    {
-        "original": "The Telemetry Time Strobe generation rate shall be selectable to occur at the intervals of Virtual Channel 0 frames according to European Cooperation for Space Standards-E-70-41A Clause C.4",
+        "original": "The Active Processor Module shall have a communication path to the Active Discrete Parallel Input Output function.",
         "file": "SAVOIR-GS-001.txt"
     },
     {
-        "original": "The Active Processor Module shall have a communication path to the Active Platform Telemetry Encoder.",
-        "file": "SAVOIR-GS-001.txt"
-    },
-    {
-        "original": "The Active Essential Telemetry may have an input synchronization event from the active Platform Telemetry Encoder.",
-        "file": "SAVOIR-GS-001.txt"
-    },
-    {
-        "original": "The Platform Telemetry Encoder Outputs, Platform Telemetry Encoder Electrical Ground Support Equipment Output, Telemetry Time Strobe Output and Time Strobe test point shall be of type Serial Digital Interface.",
-        "file": "SAVOIR-GS-001.txt"
-    },
-    {
-        "original": "Each Essential Telecommand shall have one communication path to each Reconfiguration Module function.",
-        "file": "SAVOIR-GS-001.txt"
-    },
-    {
-        "original": "Each Telecommand Decoder shall be able to x\u0003 send incoming Telecommand segments to the Security Function for authentication or decryption andx\u0003 receive the authenticated / decrypted Telecommand segments from the Security Function for routing",
-        "file": "SAVOIR-GS-001.txt"
-    },
-    {
-        "original": "There shall be one synchronization path between the Master On-Board Time and the Active Platform Telemetry Encoder.",
-        "file": "SAVOIR-GS-001.txt"
-    },
-    {
-        "original": "High level test report documents in html/xml format contains:  - Target information - Basic mathematical Library information - Basic mathematical Library Test Suite and toolchain information - Name of the function tested - Description of the test type selected - Summarisation section containing information interpreting the results of the suite of tests. - Depending of type of the test, for each function may be provided several types of graphs, e.g. ULP, absolute and relative error vs argument value.",
-        "file": "E1356-CS-SRS-01_I1_R3.txt"
-    },
-    {
-        "original": "The pow and powf procedures shall return +Inf, if |x|>1 and the argument y is +Inf.",
+        "original": "The logand logf procedures shall return +Inf, if the argument x is +Inf.",
         "file": "E1356-GTD-SRS-01_I1_R4.txt"
     },
     {
-        "original": "The Basic mathematical Library shall have a memory footprint at most 30% bigger than the libm in Newlib.",
-        "file": "E1356-GTD-TR-01_I2_R1.txt"
-    },
-    {
-        "original": "The hypot and hypotf procedures shall compute the length of the hypotenuse of a right angled triangle with sides of length x and y.",
-        "file": "E1356-GTD-SRS-01_I1_R4.txt"
-    },
-    {
-        "original": "The fminand fminf procedures shall return Not a Number, if the arguments x and y are Not a Number.",
-        "file": "E1356-GTD-SRS-01_I1_R4.txt"
-    },
-    {
-        "original": "Basic mathematical Library Test Suite shall allow running the tests manually.",
-        "file": "E1356-CS-SRS-01_I1_R3.txt"
-    },
-    {
-        "original": "The pow and powf procedures shall return +Inf, if the argument x is+ Inf and the argument y>0.",
-        "file": "E1356-GTD-SRS-01_I1_R4.txt"
-    },
-    {
-        "original": "The application con\ufb01guration option shall de\ufb01ne the initial scheduler to processor assign-ments.",
+        "original": "The thread start user extensions shall be invoked in extension forward order.",
         "file": "RTEMS_SRS.txt"
     },
     {
-        "original": "The system shall provide a benchmark program to show the static memory usage of a basicapplication con\ufb01guration with CONFIGURE_MAXIMUM_PROCESSORS de\ufb01ned to four usingthe global Symmetric Multiprocessing Earliest Deadline First scheduler (CONFIGURE_SCHEDULER_Earliest Deadline First_Symmetric Multiprocessing).",
-        "file": "RTEMS_SRS.txt"
-    },
-    {
-        "original": "When rtems_fatal is called, the system shall terminate with a fatal source speci\ufb01ed by thefatal_source parameter and a fatal code speci\ufb01ed by the fatal_code parameter.",
-        "file": "RTEMS_SRS.txt"
-    },
-    {
-        "original": "The rtems_con\ufb01guration_get_maximum_barriers directive shall return the maximum numberof objects managed by the @ref Real-Time Executive for Multiprocessor SystemsApplication Programming InterfaceClassicBarrier that can be concurrently active.",
-        "file": "RTEMS_SRS.txt"
-    },
-    {
-        "original": "The super core shall have a component containing the Symmetric Multiprocessing /glossary/scheduler implementa-tions.",
-        "file": "RTEMS_SRS.txt"
-    },
-    {
-        "original": "The application con\ufb01guration option shall de\ufb01ne the IDLE task body .",
-        "file": "RTEMS_SRS.txt"
-    },
-    {
-        "original": "The thread restart user extensions shall be invoked in extension forward order.",
-        "file": "RTEMS_SRS.txt"
-    },
-    {
-        "original": "The Remote Terminal Unit shall provide error protection and/or detection functions for the complete command chain from the Remote Terminal Unit Remote Control Interface up to the User Interface output ports in order to avoid:xsending of wrong serial data or discrete commands, xerroneous actuation or powe ring of connected units,",
-        "file": "SAVOIR-GS-RTUFuOR-003.txt"
-    },
-    {
-        "original": "The telemetry acquisition lists shall be triggered in the same sequence as defined by the sequence of the corresponding \u201cStart Telemetry Acquisition\u201d events.",
-        "file": "SAVOIR-GS-RTUFuOR-003.txt"
-    },
-    {
-        "original": "The Remote Terminal Unit shall acquire each telemetry channel in a given telemetry acquisition list in the same sequence as they are defined in the telemetry acquisition list .",
-        "file": "SAVOIR-GS-RTUFuOR-003.txt"
-    },
-    {
-        "original": "It shall at all times be possible to determine the validity status of each acquired telemetry parameter.",
-        "file": "SAVOIR-GS-RTUFuOR-003.txt"
-    },
-    {
-        "original": "The Telemetry acquisition rate <TelemetryAcqRate> shall be defined  and verified",
-        "file": "SAVOIR-GS-RTUFuOR-003.txt"
-    },
-    {
-        "original": "The Remote Terminal Unit shall be compliant to the Telemetry requirements as defined in Section 4.1.4 of [European Cooperation for Space Standards-E-20].",
-        "file": "SAVOIR-GS-RTUFuOR-003.txt"
-    },
-    {
-        "original": "Commands shall be executed in the same sequence as they are provided to the Remote Terminal Unit.",
+        "original": "The data resulting from the acquisition of a telemetry acquisition list shall be buffered in the Remote Terminal Unit and made available via the Remote Terminal Unit Remote Control Interface in a contiguous sequence.",
         "file": "SAVOIR-GS-RTUFuOR-003.txt"
     }
 ]

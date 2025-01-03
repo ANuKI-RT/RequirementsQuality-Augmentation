@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "original":"Each default task mode constant shall have a value of zero.",
+            "file":"RTEMS_ICD.txt",
+            "augmented":[
+                "each default task mood constant shall have a value of zero",
+                "each default task mode constant shall have a value of zero "
+            ],
+            "model":"RTT"
+        }
+    ],
+    [
+        {
+            "original":"The class of communication 5-b shall ensure communication with “Guaranteed bounded latency”.",
+            "file":"SAVOIR-GS-OBCSRD-008.txt",
+            "augmented":[
+                "the class of communication b shall ensure communication with guaranteed bounded rotational latency",
+                "the class of communication b shall ensure communication with guaranteed bounded latency "
+            ],
+            "model":"RTT"
+        }
+    ],
+    [
+        {
+            "original":"If the Software Development Environment is configured to do so, the Import Expander shall be called automatically before calling the cross-compiler (preprocessing of source code). The messages output by the Import Expander shall be visible in the Software Development Environment.",
+            "file":"MPY-SPB-SRS-001.txt",
+            "augmented":[
+                "if the software package development surroundings is configured to do so the import expander shall be telephone automatically before calling the cross compiling program preprocessing of source code the messages output by the import expander shall be visible in the software package development surroundings",
+                "if the software development environment is configured to do so the import expander shall be called automatically before calling the cross compiler preprocessing of source code the messages output by the import expander shall be visible in the software development environment "
+            ],
+            "model":"RTT"
+        }
+    ],
+    [
+        {
+            "original":"The Active Processor Module shall have a communication path to the Active Discrete Parallel Input Output function.",
+            "file":"SAVOIR-GS-001.txt",
+            "augmented":[
+                "the active processor module vitamin a shall have a communication path to the active discrete parallel input output function",
+                "the active processor module shall have a communication path to the active discrete parallel input output function "
+            ],
+            "model":"RTT"
+        }
+    ],
+    [
+        {
+            "original":"The logand logf procedures shall return +Inf, if the argument x is +Inf.",
+            "file":"E1356-GTD-SRS-01_I1_R4.txt",
+            "augmented":[
+                "the logand logf procedures shall return inf if the arguing x is inf",
+                "the logand logf procedures shall return inf if the argument x is inf "
+            ],
+            "model":"RTT"
+        }
+    ],
+    [
+        {
+            "original":"The thread start user extensions shall be invoked in extension forward order.",
+            "file":"RTEMS_SRS.txt",
+            "augmented":[
+                "the thread start user extension service shall be invoked in extension forward order",
+                "the thread start user extensions shall be invoked in extension forward order "
+            ],
+            "model":"RTT"
+        }
+    ],
+    [
+        {
+            "original":"The data resulting from the acquisition of a telemetry acquisition list shall be buffered in the Remote Terminal Unit and made available via the Remote Terminal Unit Remote Control Interface in a contiguous sequence.",
+            "file":"SAVOIR-GS-RTUFuOR-003.txt",
+            "augmented":[
+                "the data resulting from the acquisition of a telemetry lead acquisition list shall be buffered in the remote terminal unit and made available via the remote terminal unit vitamin a remote control outside interface in a contiguous sequence",
+                "the data resulting from the acquisition of a telemetry acquisition list shall be buffered in the remote terminal unit and made available via the remote terminal unit remote control interface in a contiguous sequence "
+            ],
+            "model":"RTT"
+        }
+    ]
+]
