@@ -24,8 +24,6 @@ def main():
     elif args.method == "calc_evaluate_experiment" and args.input == None:
         print("Please add a evaluated experiment file on which you want to conduct the calculation.")
     
-    else:
-        print("A Error has occured.")
 
 if __name__ == "__main__":
     # calling the main function
