@@ -22,23 +22,13 @@ TRAINING_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),"data","i
 RESULT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),"data","output")
 
 # write.write_file(data.delete_duplicates_txt(rttru.execute_rtt(read.read_raw_data(DATA), False)), "RTTen2ru")
-# write.write_json(data.delete_duplicates_json(rttde.execute_rtt(read.read_raw_data(["demo.txt"]), True)), "RTTen2de")
-# write.write_json(data.delete_duplicates_json(pa.execute_para(read.read_raw_data(["demo.txt"]), True)), "PARA") 
-# write.write_json(data.delete_duplicates_json(eda.execute_eda(read.read_raw_data(["demo.txt"]), True)), "EDA")
-# write.write_file(data.delete_duplicates_json(gen.execute_gpt(read.read_raw_data(["demo.txt"]), True)), "GPT")
-readv2.process_directory("experimentV2.json", 10)
+# write.write_json(data.delete_duplicates_json(rttde.execute_rtt(read.read_raw_data(DATA), True)), "RTTen2de")
+# write.write_json(data.delete_duplicates_json(pa.execute_para(read.read_raw_data(DATA), True)), "PARA") 
+# write.write_json(data.delete_duplicates_json(eda.execute_eda(read.read_raw_data(DATA), True)), "EDA")
+# write.write_file(data.delete_duplicates_json(gen.execute_gpt(read.read_raw_data(DATA), True)), "GPT")
 # write.write_json(rttde.execute_rtt_experimentv2(pre.preprocess_json_file(os.path.join(RESULT_DIR,"experimentV2_input","experimentV2.json"))), "RTTen2de")
-write.write_json(eda.execute_eda_experimentv2(read.read_json_data(os.path.join(RESULT_DIR,"experimentV2_input","experimentV2.json"))),"EDA")
+# write.write_json(eda.execute_eda_experimentv2(read.read_json_data(os.path.join(RESULT_DIR,"experimentV2_input","experimentV2.json"))),"EDA")
 # write.write_json(rttdeV2.rtt_augmentation(os.path.join(RESULT_DIR,"experimentV2_input","experimentV2.json")), "RTTen2de")
-
-# write.write_json(rttde.execute_rtt(read.read_raw_data(["demo2.txt"]), True), "RTTen2de")
-
-"""i = 0
-for r in RESULTS:
-    write.write_json(data.delete_duplicates_json2(read.read_json_files([r])), "".join(["0000 - cctns PARA augmented.json",str(i)]))
-    i += 1"""
-
-# data.test(read.read_json_files(["resultPARA2023-09-23_15-03-33.json"]))
 
 # write.write_file(data.delete_duplicates_txt(gen.execute_gpt(EXAMPLE_PROMPT, 20, False)), "GPT")
 # write.write_json(data.delete_duplicates_json(gen.execute_gpt(EXAMPLE_PROMPT, 20, True)), "GPT")

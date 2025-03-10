@@ -162,11 +162,11 @@ dependencies:
       - hydra-core==1.0.7
       - levenshtein==0.21.1
       - omegaconf==2.0.6
-      - parrot==1.0
       - python-levenshtein==0.21.1
       - rapidfuzz==3.2.0
       - sentence-transformers==2.2.2
       - sentencepiece==0.1.99
       - torchaudio==2.0.2
       - torchvision==0.15.2
+      - git+https://github.com/PrithivirajDamodaran/Parrot_Paraphraser.git
 prefix: /Users/robin/miniconda3/envs/

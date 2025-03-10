@@ -1,1 +1,0 @@
-The Basic mathematical Library shall be tested on a LEON2, a LEON4, and a x86-64 platformfor its reproducibility.[END]
