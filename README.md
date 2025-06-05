@@ -21,6 +21,7 @@ Warning! Fairseq is incompatible on windows OS. It is required to use OS systems
 ## References
 This repository contains source code used for augmentation in the following papers:
 Korfmann, R., Beyersdorffer, P., Gerlich, R., Münch, J., & Kuhrmann, M. (2025). Overcoming Data Shortage in Critical Domains With Data Augmentation for Natural Language Software Requirements. Journal of Software: Evolution and Process, 37(5), [10.1002/smr.70027](https://onlinelibrary.wiley.com/doi/10.1002/smr.70027).
+
 Korfmann, R., Beyersdorffer, P., Münch, J., & Kuhrmann, M. (2024, September). Using data augmentation to support AI-based requirements evaluation in large-scale projects. In European Conference on Software Process Improvement (pp. 97-111). Cham: Springer Nature Switzerland [10.1007/978-3-031-71139-8_7](https://link.springer.com/chapter/10.1007/978-3-031-71139-8_7).
 
 The code was originally developed in scope of the Bachelor Thesis  "Anwendung von Verfahren zur Erweiterung eines bestehenden Datensatzes an Anforderungsdokumenten für Software-Projekte der Raumfahrtdomäne" that was submitted on August 30th.
