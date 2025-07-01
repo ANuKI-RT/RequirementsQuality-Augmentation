@@ -1,5 +1,7 @@
-# Easy data augmentation techniques for text classification
-# Jason Wei and Kai Zou
+# Code is taken from the works of Jason Wei and Kai Zou
+# EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks
+# https://arxiv.org/pdf/1901.11196
+# DOI: 10.18653/V1/D19-1670
 
 import random
 from random import shuffle
