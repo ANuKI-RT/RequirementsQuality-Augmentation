@@ -8,6 +8,9 @@ import random
 import data.write as wr
 import nltk
 
+# experiment.py contains functions for controlled and semi-controlled experiments. Augment_data_random provides data augmentation based on the provided models, the total amount
+# the provided input data and the ratio of positive results. A ratio of 0.7 means 70% of the data is supposed to be correct, while 30% is supposed to be incorrect.  
+
 def augment_data_random(raw_data: list, total_amount: int = 100, pos_ratio: float = 0.7, models: list = ["EDA","PARA","GPT","RTT"], gen_json: bool = True):
     results = []
 
@@ -27,6 +30,8 @@ def augment_data_random(raw_data: list, total_amount: int = 100, pos_ratio: floa
 
     random.shuffle(results)
     return results[0:total_amount-1]
+
+# function to only generate positive data
 
 def augment_pos_data(raw_data: list, models: list, gen_json: bool):
     results = []
@@ -58,6 +63,8 @@ def augment_pos_data(raw_data: list, models: list, gen_json: bool):
     
     return results
 
+# function to only generate negative data
+
 def augment_neg_data(raw_data: list, models: list, gen_json: bool):
     results = []
 
@@ -87,6 +94,7 @@ def augment_neg_data(raw_data: list, models: list, gen_json: bool):
     
     return results
 
+# Function covers augmentation according to specified model as well as model combinations. In this case, with duplicate detection and deletion.
 
 def augment_data_predefined(raw_data: list, total_amount: int = 100, pos_ratio: int = 70, models: list = ["EDA","PARA","GPT","RTT"], experiment_no: int = 1, filename:str = "EXPERIMENT"):
     results = []
@@ -124,6 +132,7 @@ def augment_data_predefined(raw_data: list, total_amount: int = 100, pos_ratio: 
     print("COMPLETED ONE RUN, ", filename)
     print("--"*100)
 
+# Function covers augmentation according to specified model as well as model combinations. In this case, without duplicate detection and deletion.
 
 def augment_data_predefined_with_duplicates(raw_data: list, total_amount: int = 100, pos_ratio: int = 70, models: list = ["EDA","PARA","GPT","RTT"], filename:str = "EXPERIMENT"):
     results = []

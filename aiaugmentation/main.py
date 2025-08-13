@@ -21,6 +21,9 @@ RESULTS = ["resultPARA2023-09-23_15-03-33.json", "resultPARA2023-09-23_15-06-49.
 TRAINING_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),"data","input","ESA_data")
 RESULT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),"data","output")
 
+# Contains multiple different pre-defined configurations for running hte augmentation. 
+# Input data is provided in the folder "data"
+
 # write.write_file(data.delete_duplicates_txt(rttru.execute_rtt(read.read_raw_data(DATA), False)), "RTTen2ru")
 # write.write_json(data.delete_duplicates_json(rttde.execute_rtt(read.read_raw_data(DATA), True)), "RTTen2de")
 # write.write_json(data.delete_duplicates_json(pa.execute_para(read.read_raw_data(DATA), True)), "PARA") 

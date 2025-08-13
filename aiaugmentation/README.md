@@ -1,4 +1,4 @@
-# BachelorThesis_RobinKorfmann_ReqAugmentation
+# Requirements Augmentation
 
 This project contains the implementation of the different model interfaces used to augment the given requirements.
 4 approaches have been used to augment requirements:

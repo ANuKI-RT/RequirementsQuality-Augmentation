@@ -4,6 +4,8 @@ import os
 from rtt.fairseq import fairseq as fairseq
 # import fairseq.fairseq.logging.meters
 
+# contains the model configuration for russian as intermediate language
+
 def execute_rtt(data:list, gen_json:bool = False):
     EN_RU_PATH = os.path.join("rtt","wmt19.en-ru.ensemble")
     RU_EN_PATH = os.path.join("rtt","wmt19.ru-en.ensemble")

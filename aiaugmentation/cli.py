@@ -1,6 +1,8 @@
 import argparse
 from cli_functions import *
 
+# provides support for command-line interface
+
 args = argparse.ArgumentParser(description='Use Ai Augmentation Techniques')
 args.add_argument("-m", "--method", required=True, type=str, help="Select method to execute")
 args.add_argument("-i","--input", nargs='+', required=False, type=str, help="input file")

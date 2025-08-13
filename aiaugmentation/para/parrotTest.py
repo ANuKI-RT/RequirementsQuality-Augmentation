@@ -145,4 +145,4 @@ class Parrot():
 
 # This code is a modified version of the locally implemented parrot.py file from the parrot package. 
 # The parrot package is implemented from https://github.com/PrithivirajDamodaran/Parrot_Paraphraser
-
+# it is licensed under Apache-2.0 license

@@ -9,6 +9,8 @@ import para.paraphrase as pa
 import gpt.gen as gpt
 import gpt.gpt as train_gpt
 
+# helper functions for cli-operations
+
 def get_input_files():
     return data.get_input_filenames()
 

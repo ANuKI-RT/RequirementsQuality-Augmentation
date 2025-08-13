@@ -7,6 +7,8 @@ import os
 
 MODEL_DIR=os.path.join("gptV1","model_save")
 
+# Contains the prototyping for executing gpt to generate data
+
 def execute_gpt(prompt : list, num_return_sequences : int, gen_json: bool = False):
 	model = GPT2LMHeadModel.from_pretrained(MODEL_DIR)
 	tokenizer = GPT2Tokenizer.from_pretrained(MODEL_DIR)

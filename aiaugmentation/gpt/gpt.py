@@ -14,7 +14,13 @@ import matplotlib.pyplot as plt
 
 import torch
 from torch.utils.data import Dataset, DataLoader, random_split, RandomSampler, SequentialSampler
-# torch.manual_seed(42) # preserving reproducibility by setting seed manually
+# predefine seed value for reproducibility
+'''seed_val = 42
+random.seed(seed_val)
+np.random.seed(seed_val)
+torch.manual_seed(seed_val)
+if torch.cuda.is_available():
+    torch.cuda.manual_seed_all(seed_val)'''
 
 from transformers import GPT2LMHeadModel,  GPT2Tokenizer, GPT2Config, GPT2LMHeadModel
 from transformers import AdamW, get_linear_schedule_with_warmup
@@ -86,16 +92,6 @@ def gpt(data):
     if torch.cuda.is_available():
         device = torch.device("cuda")
         model.cuda()
-
-    # predefine seed value for reproducibility
-    '''seed_val = 42
-
-    random.seed(seed_val)
-    np.random.seed(seed_val)
-    torch.manual_seed(seed_val)
-
-    if torch.cuda.is_available():
-        torch.cuda.manual_seed_all(seed_val)'''
     
     epochs = 5
     learning_rate = 5e-4
@@ -127,9 +123,7 @@ def gpt(data):
     if torch.cuda.is_available():
         model = model.to(device)
 
-    # ========================================
-    #               Training
-    # ========================================
+    # --- Training ---
 
     for epoch_i in range(0, epochs):
         print("")
@@ -198,19 +192,15 @@ def gpt(data):
 
             scheduler.step()
 
-        # Calculate the average loss over all of the batches.
         avg_train_loss = total_train_loss / len(train_dataloader)       
-        
-        # Measure how long this epoch took.
+
         training_time = format_time(time.time() - t0)
 
         print("")
         print("  Average training loss: {0:.2f}".format(avg_train_loss))
         print("  Training epoch took: {:}".format(training_time))
             
-        # ========================================
-        #               Validation
-        # ========================================
+        # --- Validation ---
 
         print("")
         print("Running Validation...")
@@ -254,7 +244,6 @@ def gpt(data):
         print("  Validation Loss: {0:.2f}".format(avg_val_loss))
         print("  Validation took: {:}".format(validation_time))
 
-        # Record all statistics from this epoch.
         training_stats.append(
             {
                 'epoch': epoch_i + 1,
@@ -276,16 +265,15 @@ def gpt(data):
 
     print("Saving model to %s" % MODEL_DIR)
 
-    model_to_save = model.module if hasattr(model, 'module') else model  # Taking care of distributed/parallel training
+    model_to_save = model.module if hasattr(model, 'module') else model 
     model_to_save.save_pretrained(MODEL_DIR)
     tokenizer.save_pretrained(MODEL_DIR)
 
-    # Good practice: save your training arguments together with the trained model
+    # Save training parameters
     # torch.save(args, os.path.join(MODEL_DIR, 'training_args.bin'))
 
-    # Create a DataFrame from our training statistics.
+    # Create a DataFrame from training statistics.
     df_stats = pd.DataFrame(data=training_stats)
-    # 'epoch' as the row index.
     df_stats = df_stats.set_index('epoch')
     # Display table.
     df_stats
@@ -293,7 +281,6 @@ def gpt(data):
     sns.set(style='darkgrid')
     sns.set(font_scale=1.5)
     plt.rcParams["figure.figsize"] = (12,6)
-    # Learning curve
     plt.plot(df_stats['Training Loss'], 'b-o', label="Training")
     plt.plot(df_stats['Valid. Loss'], 'g-o', label="Validation")
     plt.title("Training & Validation Loss")
@@ -316,15 +303,3 @@ def gpt(data):
     print('\n==== Output Layer ====\n')
     for p in params[-2:]:
         print("{:<55} {:>12}".format(p[0], str(tuple(p[1].size()))))
-
-def testMacPath():
-    data_file=os.path.join("gptV1","model_save", "test")
-    data_file2=os.path.join(MODEL_DIR, "teeest")
-
-    with io.open(data_file2, mode="w", encoding="utf-8") as wow:
-        wow.write("success!")
-
-    with io.open(data_file, mode="w", encoding="utf-8") as outfile:
-        outfile.write("success!")
-
-# https://colab.research.google.com/drive/13dZVYEOMhXhkXWfvSMVM1TTtUDrT6Aeh?usp=sharing#scrollTo=89Z7aYUgpWrd

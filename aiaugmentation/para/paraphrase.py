@@ -80,3 +80,4 @@ def execute_para_experiment(data:list, combined:bool = False):
   return results
 
 # The parrot package is implemented from https://github.com/PrithivirajDamodaran/Parrot_Paraphraser
+# it is licensed under Apache-2.0 license
