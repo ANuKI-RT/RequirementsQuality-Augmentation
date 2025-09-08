@@ -26,3 +26,5 @@ Korfmann, R., Beyersdorffer, P., Gerlich, R., Münch, J., & Kuhrmann, M. (2025).
 Korfmann, R., Beyersdorffer, P., Münch, J., & Kuhrmann, M. (2024, September). Using data augmentation to support AI-based requirements evaluation in large-scale projects. In European Conference on Software Process Improvement (pp. 97-111). Cham: Springer Nature Switzerland [10.1007/978-3-031-71139-8_7](https://link.springer.com/chapter/10.1007/978-3-031-71139-8_7).
 
 The code was originally developed in scope of the Bachelor Thesis  "Anwendung von Verfahren zur Erweiterung eines bestehenden Datensatzes an Anforderungsdokumenten für Software-Projekte der Raumfahrtdomäne" that was submitted on August 30th.
+
+ This Repository is part of the ANuKI project. Further information can be found in the Github [overview page](https://anuki-rt.github.io/) or the on the [HHZ](https://www.hhz.de/forschung/forschungsprojekte/anuki) website.
